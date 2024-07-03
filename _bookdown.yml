@@ -3,7 +3,7 @@ language:
   ui:
     chapter_name: ''
 delete_merged_file: yes
-output_dir: _docs
+output_dir: docs
 rmd_files:
 - index.Rmd
 - KievS.md
