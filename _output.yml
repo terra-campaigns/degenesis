@@ -1,0 +1,18 @@
+bookdown::gitbook:
+  css: "_assets/style.css"
+  config:
+    toc:
+      before: |
+        <li class="toc-logo"><a href="./"><img src="_imgs/TerraCampaignsCover.png"></a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: 
+      link: https://github.com/efsalvarenga/terraCampaigns_published/edit/main/%s
+      text: "Suggest an edit"
+    sharing:
+      github: yes
+      facebook: no
+      twitter: yes
+      all: no
+    fontsettings:
+      theme: night

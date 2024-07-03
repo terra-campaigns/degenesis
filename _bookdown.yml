@@ -1,0 +1,13 @@
+book_filename: degenesis
+language:
+  ui:
+    chapter_name: ''
+delete_merged_file: yes
+output_dir: _docs
+rmd_files:
+- index.Rmd
+- KievS.md
+- people.md
+- npcs/kargan.md
+- npcs/rurik.md
+

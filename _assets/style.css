@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Noto+Sans:ital,wdth,wght@0,91,100..900;1,91,100..900&family=Metamorphous&display=swap');
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+
+/* The next two rules make the horizontal line go straight across in top navbar */
+
+.summary > li:first-child {
+    height: 50px;
+    padding-top: 10px;
+    border-bottom: 1px solid rgba(0,0,0,.07);
+}
+
+.book .book-summary ul.summary li.divider {
+    height: 0px;
+}
+
+ /*------------- Body and header text---------------- */
+
+.book.font-family-1 {
+    font-family: "Averia Serif Libre", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+ }
+ 
+ h1, h2, h3, h4 {
+  font-family: "Metamorphous";
+  font-weight: 700;
+  font-style: normal;
+}
+
+.title {
+  font-family: "Metamorphous";
+  font-weight: 700;
+  font-style: normal;
+  font-size: 3em !important;
+ }
+
+.subtitle {
+  font-family: "Metamorphous";
+  font-weight: 700;
+  font-style: normal;
+}
+
+/*--- LOGO ---*/
+
+.toc-logo {
+  width: 300px !important;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+}
+
+.toc-logo img {
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+.summary > li:first-child {
+  height: auto !important; 
+}

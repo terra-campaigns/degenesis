@@ -1,0 +1,20 @@
+---
+title: "Degenesis"
+# author: "Estevao Alvarenga"
+# date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [book.bib]
+description: "These are Degenesis materials."
+link-citations: yes
+github-repo: efsalvarenga/terraCampaigns_published
+url: https://efsalvarenga.github.io/terraSystemsssssss/
+favicon: "_imgs/favicon.ico"
+cover-image: "_imgs/TerraCampaignsCover-noBG.png"
+---
+
+# Degenesis {-}
+
+![](_imgs/TerraCampaignsCover-noBg.png)
+
+Write some text about the Degenesis
