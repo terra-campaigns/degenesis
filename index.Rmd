@@ -17,4 +17,8 @@ cover-image: "imgs/TerraCampaignsCover-noBG.png"
 
 ![](imgs/TerraCampaignsCover-noBg.png)
 
-Write some text about the Degenesis
+The following links can be used as an introduction of the **Degenesis** setting:
+
+- **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)
+- [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
+- [**Degenesis** Official](https://degenesis.com) website
