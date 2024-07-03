@@ -9,12 +9,12 @@ description: "These are Degenesis materials."
 link-citations: yes
 github-repo: efsalvarenga/terraCampaigns_published
 url: https://efsalvarenga.github.io/terraSystemsssssss/
-favicon: "_imgs/favicon.ico"
-cover-image: "_imgs/TerraCampaignsCover-noBG.png"
+favicon: "imgs/favicon.ico"
+cover-image: "imgs/TerraCampaignsCover-noBG.png"
 ---
 
 # Degenesis {-}
 
-![](_imgs/TerraCampaignsCover-noBg.png)
+![](imgs/TerraCampaignsCover-noBg.png)
 
 Write some text about the Degenesis
