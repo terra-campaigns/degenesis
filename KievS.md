@@ -1,6 +1,12 @@
-# To Kiev's South
+# (PART) East Pollen, 2793 AD {-}
 
-You are members of the hunter-gatherer clan known as the Vostok Kin, deeply connected to your land and traditions. Over the past decade, the relentless advance of the spore fields from the east of Pollen has placed your ancestral homeland in grave danger. The once plentiful taiga and tundra have become battlegrounds, threatened not only by the deadly spores but also by the encroaching Ironclaw Horde, led by the fearsome warlord Kargan the Bloodthirsty.
+# To Kiev's south
+
+The hunter-gatherer clan known as the Vostok Kin is deeply connected to your land and traditions. Over the past decade, the relentless advance of the spore fields from the east of [Pollen](https://degenesis.com/world/cultures/pollen) has placed their ancestral homeland in grave danger. 
+
+![](https://i.imgur.com/aCOHfMq.jpeg)
+
+The once plentiful taiga and tundra have become battlegrounds, threatened not only by the deadly spores but also by the encroaching Ironclaw Horde, led by the fearsome warlord [Kargan, the Bloodthirsty](#kargan).
 
 ![](https://i.imgur.com/ASdDRAT.png)
 
@@ -8,33 +14,34 @@ The Lesnje, the whispering guardians of the woods, have grown increasingly aggre
 
 ![](https://i.imgur.com/2CzntVF.png)
 
-Following a brutal Ironclaw raid that resulted in the abduction of five Vostok women, Elder Mirova calls for a council. The clan’s shamans, led by Yelena the Seer, have had disturbing visions of a cataclysmic future. The council places its hope in a perilous journey to find a new homeland. Rumours speak of a valley South of the ruins of Kiev where the Taiga is strong and rivers are clean. You have been chosen to be scouts on this endeavour, tasked with mapping the path to this promised land, seeking alliances with other clans and tribes along the way.
+Following a brutal Ironclaw raid that resulted in the abduction of five Vostok women, [Elder Mirova](#mirova) calls for a council. The clan’s shamans, led by [Yelena, the Seer](#yelena), have had disturbing visions of a cataclysmic future. The council places its hope in a perilous journey to find a new homeland. Rumours speak of a valley south of the ruins of Kiev where the taiga is strong and rivers are clean. Scouts have been chosen for this endeavour, tasked with mapping the path to this promised land, seeking alliances with other clans and tribes along the way.
 
-![](https://i.imgur.com/DOYCtS7.png)
+## In the spore wall
 
-But before the scouts departure, the tribe needs to make sure the Ironclaw does not pose significant threat to the remaining clanners. The first mission is to identify the Ironclaw's hiding place, and gather with the other scouts 4 days later.
+A small detachment of scouts departs to discover the fate and location of the abducted women. Their number includes [Jacob](#jacob), [Yuri](#yuri), [Skittle](#skittle), [Luna](#luna) and [Dr. Sofia Markov](#sofiaMarkov). Skittle and Yuri are cousins, and Yuri's beloved, Julia, is among the missing. Luna, a young spiritual adherent, is also deeply affected by the abductions, as her mother, Emenem, was taken. Jacob, a decisive man of action, assumes the role of the group’s protector, while Dr. Sofia, a self-proclaimed PhD, brings a semblance of reason to the eclectic assembly. The third missing woman is Valissa.
 
-![](https://i.imgur.com/dKoSOmv.png)
+Following a ceremonial ritual, in which spores are cooked and prepared into small pouches for future use, the scout detachment steels itself for the journey ahead. Opting for an unexpected route, they venture through the perilous Spore Wall, a daring decision intended to evade the Ironclaw raiders who likely guard the more obvious southern approach to their lair.
 
-**The Vostok Kin**
+Once inside the wall, they navigate softer paths and uncover hidden openings, their progress both cautious and swift. One night, they find themselves beneath a magnificent aurora borealis, a rare and wondrous sight that fills them with a renewed sense of purpose. The next day, Jacob discovers a new path, but a sudden torrent of rain threatens to drench them. They seek refuge by climbing the mycelium-covered matter, avoiding the worst of the downpour.
 
-|                     |                                                                                                                                                                                                                                                                                                                      |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Location            | Approximately 600 km east of the ruins of Kiev.                                                                                                                                                                                                                                                                      |
-| Environment         | Tundra (and Taiga in the south), now increasingly encroached upon by spore fields from the east                                                                                                                                                                                                                      |
-| History             | The Vostok Kin trace their lineage back to survivors who fled eastward during the early days of the Eschaton. Initially, they found refuge in the dense forests and open steppes, where they developed a semi-nomadic lifestyle centred around hunting, foraging, and small-scale agriculture.                       |
-| Culture             | The Vostok Kin are a deeply spiritual people with a rich oral tradition. They believe their ancestors were guided by the spirits of the land to their current home, and they have a strong connection to nature. Their society is organised around extended family units, with elders holding significant influence. |
-| Spirituality        | They worship a pantheon of nature spirits, each associated with different aspects of their environment, such as whispers, weather and animals.                                                                                                                                                                       |
-| Rites of Passage    | Important milestones in a Vostok Kin's life are marked by elaborate ceremonies that often involve tests of skill and endurance. Includes the Rite of the Transcend Spore, when **Primer** Spores are consumed ritualistically.                                                                                       |
-| Conflict Resolution | Disputes are settled through council meetings where elders mediate and seek the wisdom of the spirits.                                                                                                                                                                                                               |
+Upon reaching the ruins of Kramatorsk, Dr. Sofia uncovers books, remnants of knowledge from a bygone era. Yuri, exploring a basement, encounters a child and his father, scrape traders who deal in ancient artefacts, selling them to Chroniclers for a currency known as Drafts. These traders reveal they hail from a place called Shard.
 
-## Scouts departure
+![](https://i.imgur.com/5SbDe72.png)
 
-Summary to be added after first session.
 
-## Current map {-}
+The group then moves southwest, traversing old metro and sewage tunnels, a testament to the world that once was. In the tunnels, they come across two inebriated Ironclaw raiders. Seizing the opportunity, they easily subdue them. Under mounting stress, a disagreement arises regarding the fate of the raiders. The argument escalates, culminating in the violent deaths of both captives.
 
-![](https://api2.inkarnate.com/api/embedScenes/pgzAev/previewImage)
+![](https://i.imgur.com/nm24klo.png)
+
+
+
+
+
+
+
+
+
+
 
 
 

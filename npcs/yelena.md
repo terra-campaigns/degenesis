@@ -41,3 +41,5 @@ notes:
 ### Yelena, the Seer {#yelena}
 
 ![](https://i.imgur.com/J9KPAaO.png)
+
+Yelena, the Seer, is the Vostok Kin's shaman who follows the ancient ways of the Lesnje. Her wisdom and insight make her a valued advisor, often offering guidance that helps her clan navigate through difficult times. Her unique presence and enigmatic nature make her an essential yet mysterious figure within the Vostok Kin.

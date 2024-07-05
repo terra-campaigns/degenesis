@@ -41,3 +41,5 @@ notes:
 ### Elder Mirova {#mirova}
 
 ![](https://i.imgur.com/GjAvGPx.png)
+
+Elder Mirova is the Vostok Kin's revered guardian of traditions. She possesses deep knowledge of her clan's history and customs, making her an indispensable repository of cultural wisdom. Known for her compassion and fairness, Mirova always seeks the best for her people, ensuring their well-being and harmony. However, her strong adherence to tradition makes her resistant to change and often skeptical of new ideas. Her presence embodies the clan's continuity and resilience amidst the changing and often hostile world.

@@ -41,3 +41,5 @@ notes:
 ### Rurik, the Swift {#rurik}
 
 ![](https://i.imgur.com/U1XyNfX.png)
+
+Rurik, the Swift, is a fierce warrior from the Vostok Kin, renowned for his exceptional combat skills and survival tactics. He stands as a formidable protector of his clan, always ready to risk his life for their safety. His loyalty is unquestionable, and his dedication to his people is matched only by his intense, sometimes hot-headed nature. Rurik's quick temper often flares, especially when his clan is threatened, making him both a feared and respected figure among his kin.

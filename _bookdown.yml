@@ -7,11 +7,21 @@ output_dir: docs
 rmd_files:
 - index.Rmd
 - KievS.md
+- directory.md
 - people.md
+- pcs/jacob.md
+- pcs/luna.md
+- pcs/skittle.md
+- pcs/sofia.md
+- pcs/yuri.md
 - npcs/kargan.md
 - npcs/mirova.md
 - npcs/rurik.md
 - npcs/yelena.md
 - npcs/zorah.md
-- terranEngine.md
+- factions.md
+- factions/ironclaw.md
+- factions/vostok.md
+- locations.md
+- terraSystemDeg.md
 
