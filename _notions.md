@@ -12,6 +12,8 @@ kanban-plugin: basic
 - [ ] Chernobyl
 - [ ] https://en.m.wikipedia.org/wiki/Kievan_Chronicle
 - [ ] Rus land
+- [ ] +1 attr and gain advancement and xp
+- [ ] Cossack clan in Kiev S
 
 
 ## foreshadowing

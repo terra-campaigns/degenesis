@@ -15,7 +15,7 @@ cover-image: "imgs/TerraCampaignsCover-noBG.png"
 
 # Degenesis {-}
 
-![](imgs/TerraCampaignsCover-noBg.png)
+![](imgs/degenesisBG.png)
 
 The following links can be used as an introduction of the **Degenesis** setting:
 
