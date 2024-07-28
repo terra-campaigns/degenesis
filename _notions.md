@@ -14,6 +14,11 @@ kanban-plugin: basic
 - [ ] Rus land
 - [ ] +1 attr and gain advancement and xp
 - [ ] Cossack clan in Kiev S
+- [ ] Corridor of 100km is poisoned by spitalians (destruction forest). Going beneath is better. Or with the Garganti
+- [ ] Ironclaw is also dying, but they are brutes. They come from the wall, where pandorians now reign.
+- [ ] Eternal oasis exists. Where are they?
+- [ ] Lesnje are only in the south now.
+- [ ] Be watchful for insect swarms. Spore beasts kill everything on sight. Biokinetics are worse
 
 
 ## foreshadowing
