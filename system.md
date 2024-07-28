@@ -1,7 +1,7 @@
-# Terra System's Degenesis
+# Terra System's Degenesis {#system}
 
 This section details how to play **Degenesis** using a forked version of the **Terran Engine v0.5.3a**.
-The **Terran Engine** is self contained in this section, and will not require reading the [SRD](https://efsalvarenga.github.io/terraSystem/) separately.
+The **Terran Engine** is self contained in this section, and will not require reading the [SRD](https://terra-campaigns.github.io/terraSystem/) separately.
 
 #### Taxonomy {-}
 
