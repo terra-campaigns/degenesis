@@ -38,6 +38,6 @@ notes:
 - [Kargan, the Bloodthirsty](https://terra-campaigns.github.io/degenesis/people/kargan), from people
 - [Zorah, the Twisted](https://terra-campaigns.github.io/degenesis/people/zorah), from people
 - [In the spore wall](https://terra-campaigns.github.io/degenesis/chapters/100.01), from chapters
-- [To Kiev South](https://terra-campaigns.github.io/degenesis/chapters/100_ToKievSouth), from chapters
+- [To Kiev South](https://terra-campaigns.github.io/degenesis/100_ToKievSouth), from degenesis
 <!-- SerializedQuery END -->
 
