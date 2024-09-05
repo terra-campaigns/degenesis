@@ -3,6 +3,8 @@ layout: default
 title: Example
 parent: Locations
 
+nav_exclude: true
+
 ---
 # Example location
 
