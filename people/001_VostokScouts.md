@@ -20,6 +20,6 @@ Use the link on the bottom of your character page.
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
 - [Vostok Kin](https://terra-campaigns.github.io/degenesis/factions/Vorstok), from factions
-- [To Kiev South](https://terra-campaigns.github.io/degenesis/chapters/100_ToKievSouth), from chapters
 - [In the spore wall](https://terra-campaigns.github.io/degenesis/chapters/100.01), from chapters
+- [To Kiev South](https://terra-campaigns.github.io/degenesis/chapters/100_ToKievSouth), from chapters
 <!-- SerializedQuery END -->

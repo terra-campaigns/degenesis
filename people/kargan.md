@@ -40,5 +40,7 @@ notes:
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 - [Zorah, the Twisted](https://terra-campaigns.github.io/degenesis/people/zorah), from people
 - [Ironclaw Horde](https://terra-campaigns.github.io/degenesis/factions/Ironclaw), from factions
+- [Vostok Kin](https://terra-campaigns.github.io/degenesis/factions/Vorstok), from factions
+- [To Kiev South](https://terra-campaigns.github.io/degenesis/chapters/100_ToKievSouth), from chapters
 <!-- SerializedQuery END -->
 
