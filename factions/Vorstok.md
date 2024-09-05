@@ -1,5 +1,8 @@
 ---
-name: Vostok Kin
+layout: default
+title: Vostok Kin
+parent: Factions
+
 status:
 
 meta:
@@ -13,7 +16,7 @@ e: 1
 r: 2
 
 ---
-### Vorstok's Kin {#vorstok}
+# Vorstok's Kin
 
 |                     |                                                                                                                                                                                                                                                                                                                      |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,3 +28,9 @@ r: 2
 | Spirituality        | They worship a pantheon of nature spirits, each associated with different aspects of their environment, such as whispers, weather and animals.                                                                                                                                                                       |
 | Rites of Passage    | Important milestones in a Vostok Kin's life are marked by elaborate ceremonies that often involve tests of skill and endurance. Includes the Rite of the Transcend Spore, when **Primer** Spores are consumed ritualistically.                                                                                       |
 | Conflict Resolution | Disputes are settled through council meetings where elders mediate and seek the wisdom of the spirits.                                                                                                                                                                                                               |
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+
