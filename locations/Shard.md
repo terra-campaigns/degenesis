@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Example
+title: Shard
 parent: Locations
 
-nav_exclude: true
-
 ---
-# Example location
+# Kramatorsk
 
-Text
+Traders nexus?
 
 ---
 #### Connected to
