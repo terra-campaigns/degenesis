@@ -1,16 +1,24 @@
-# Terra System's Degenesis {#system}
+---
+layout: default
+title: "> TerraSystem"
+parent: To Kiev South
+nav_order: 999
+
+---
+
+# Terra System's Degenesis
 
 This section details how to play **Degenesis** using a forked version of the **Terran Engine v0.5.3a**.
 The **Terran Engine** is self contained in this section, and will not require reading the [SRD](https://terra-campaigns.github.io/terraSystem/) separately.
 
-#### Taxonomy {-}
+#### Taxonomy
 
 - "You" and "Your" are used interchangeably to refer to players and their characters. For disambiguation "Player(s)" is used when referring to the player outside the context of their character.
 - "Challenge" is used to represent anything that is antagonistic to you, be that an NPC, the environment, etc.
 - Meta game concepts, stats and currencies are marked as *italic*.
 - Book references are marked in `code`, they might be accompanied by page ranges.
 
-#### Requirements {-}
+#### Requirements
 
 - **Degenesis Rebirth**, which can be obtained at no cost from the [Degenesis website](https://degenesis.com/downloads/books/degenesis-rebirth-edition):
 	- **Primal Punk** `DR1`
@@ -37,7 +45,7 @@ It should offer an immediate grasp of your identity and behaviours.
 It is expected you will evolve beyond your initial *Archetype*, towards unique narratives.
 `DR2 34-41`
 
-#### Example: Who is Scuff {-}
+#### Example: Who is Scuff
 
 ![](https://i.imgur.com/736ZRi8.png)
 
@@ -69,7 +77,7 @@ On the character sheet, their ratings are read horizontally.
 *Saves* also have ratings (from $0$ to $2$) that determine how many dice to roll in a *Reaction* situation.
 On the character sheet, their ratings are read vertically.
 
-#### Determine ratings  {-}
+#### Determine ratings
 
 For each *Save* grouping (**Insight**, **Prowess**, and **Resolve**) roll $1d$ and consult the table below to determine how many rating points you have to distribute for each.
 
@@ -79,7 +87,7 @@ For each *Save* grouping (**Insight**, **Prowess**, and **Resolve**) roll $1d$ a
 
 In certain conditions, you might permanently lose ratings, this is discussed in other sections.
 
-#### Example: Scuff's ratings {-}
+#### Example: Scuff's ratings
 
 ![](https://i.imgur.com/bnKfumi.png)
 
@@ -98,7 +106,7 @@ While *Grit* represents your disposition, *Ego* represents your resilience to ke
 Roll $1d$ to determine your *Grit* and *Ego.*
 Advancements and conditions may change the number of dice you roll.
 
-#### Wounds {-}
+#### Wounds
 
 You lose *Grit* when you are harmed.
 When your *Grit* reaches $0$ you start marking *Wound* tracks.
@@ -125,7 +133,7 @@ If you did not rest well you have $-1d$ to roll for *Grit*.
 Each *Wound* track recovers through appropriate care and a week of rest.
 A *Malaise* never recovers.
 
-#### Pushing yourself {-}
+#### Pushing yourself
 
 You spend *Ego* when you push beyond yourself in *Risky Actions* or use some character *Advancements.*
 When your *Ego* reaches $0$ you are lost somehow.
@@ -143,7 +151,7 @@ Consult the highest value of your roll on the table below.
 These are the **Primer** slowly developing you into a [Homo Degenesis](https://degenesis.com/world/stories/essential-reads/homo-degenesis).
 With the GM, determine the mechanical effects and how to introduce your mutation into the narrative.
 
-#### Example: Scuff's scuffs {-}
+#### Example: Scuff's scuffs
 
 ![](https://i.imgur.com/IYdZoZh.png)
 
@@ -172,7 +180,7 @@ Roll your dice and keep the maximum between the current and the new *Grit*.
 
 Until you have $5$ *Advancements*, you can only choose from your own **Cult** or from the common list.
 
-#### Common {-}
+#### Common
 
 |                 |                                                                                                                                                                                                |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -195,7 +203,7 @@ Until you have $5$ *Advancements*, you can only choose from your own **Cult** or
 | Unyielding      | When **Weary** you do not take the penalty of $-1d$. `DR2 99`                                                                                                                                  |
 | Whirlwind       | In combat, when you are successful, select an additional die as a second hit.                                                                                                                  |
 
-#### Chroniclers {-}
+#### Chroniclers
 
 |                |                                                                                                                                                                   |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -260,7 +268,7 @@ Roll the dice and choose one die to be your *Precision* (generally the highest, 
 
 Evaluate *Effects* as appropriate, if the *Risky Action* is part of a *Challenge*.
 
-#### Effects {-}
+#### Effects
 
 *Effects* determines the quantitative result of your *Risky Actions* towards overcoming *Challenges*.
 Examples of *Effects* are:
@@ -283,7 +291,7 @@ Your *Effect* is subtracted from the *Challenge* *Disposition*.
 | $4e$<br>**Increased**  | Expert grade tool;<br>Strong rationale;<br>Autofire pistol, SMG, shotgun, long sword |
 | $5e$<br>**Extreme**    | Tech augmented expert grade tool;<br>Rifle, axe, halberd                             |
 
-#### Challenges {-}
+#### Challenges
 
 Sometimes, multiple actions are required to overcome *Challenges*.
 Examples of *Challenges* are
@@ -343,7 +351,7 @@ Define a social contract on the first session, and review it anytime a new playe
 
 ![](https://bladesinthedark.com/sites/default/files/inline-images/forged_in_the_dark_logo2_0.png)
 
-### Credit Due {-}
+### Credit Due
 
 This work is also inspired in several other games for it's sub-systems. Namely:
 
