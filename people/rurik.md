@@ -1,6 +1,10 @@
 ---
+layout: default
+title: Rurik, the Swift
+parent: People
+
 statblock: 'yes'
-layout: Terra Campaigns Leiaute v04d
+deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Degenesis (triBlock-v0.2)
 
@@ -38,8 +42,14 @@ roleplay:
 
 notes:
 ---
-### Rurik, the Swift {#rurik}
+# Rurik, the Swift
 
 ![](https://i.imgur.com/U1XyNfX.png)
 
 Rurik, the Swift, is a fierce warrior from the Vostok Kin, renowned for his exceptional combat skills and survival tactics. He stands as a formidable protector of his clan, always ready to risk his life for their safety. His loyalty is unquestionable, and his dedication to his people is matched only by his intense, sometimes hot-headed nature. Rurik's quick temper often flares, especially when his clan is threatened, making him both a feared and respected figure among his kin.
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
+

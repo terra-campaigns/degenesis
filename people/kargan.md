@@ -1,6 +1,10 @@
 ---
+layout: default
+title: Kargan, the Bloodthirsty
+parent: People
+
 statblock: 'yes'
-layout: Terra Campaigns Leiaute v04d
+deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Degenesis (triBlock-v0.2)
 
@@ -36,6 +40,12 @@ roleplay:
 
 notes: 
 ---
-### Kargan, the Bloodthirsty {#kargan}
+# Kargan, the Bloodthirsty
 
 ![](https://i.imgur.com/ifqWi0Y.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
+

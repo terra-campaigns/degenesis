@@ -1,6 +1,10 @@
 ---
+layout: default
+title: Yelena, the Seer
+parent: People
+
 statblock: 'yes'
-layout: Terra Campaigns Leiaute v04d
+deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Degenesis (triBlock-v0.2)
 
@@ -38,8 +42,14 @@ roleplay:
 
 notes: 
 ---
-### Yelena, the Seer {#yelena}
+# Yelena, the Seer
 
 ![](https://i.imgur.com/J9KPAaO.png)
 
 Yelena, the Seer, is the Vostok Kin's shaman who follows the ancient ways of the Lesnje. Her wisdom and insight make her a valued advisor, often offering guidance that helps her clan navigate through difficult times. Her unique presence and enigmatic nature make her an essential yet mysterious figure within the Vostok Kin.
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
+

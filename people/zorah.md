@@ -1,6 +1,10 @@
 ---
+layout: default
+title: Zorah, the Twisted
+parent: People
+
 statblock: 'yes'
-layout: Terra Campaigns Leiaute v04d
+deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Degenesis (triBlock-v0.2)
 
@@ -37,6 +41,12 @@ roleplay:
 
 notes: 
 ---
-### Zorah, the Twisted {#zorah}
+# Zorah, the Twisted
 
 ![](https://i.imgur.com/LMF5lPI.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
+

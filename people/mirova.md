@@ -1,6 +1,10 @@
 ---
+layout: default
+title: Elder Mirova
+parent: People
+
 statblock: 'yes'
-layout: Terra Campaigns Leiaute v04d
+deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Degenesis (triBlock-v0.2)
 
@@ -38,8 +42,14 @@ roleplay:
 
 notes: 
 ---
-### Elder Mirova {#mirova}
+# Elder Mirova
 
 ![](https://i.imgur.com/GjAvGPx.png)
 
 Elder Mirova is the Vostok Kin's revered guardian of traditions. She possesses deep knowledge of her clan's history and customs, making her an indispensable repository of cultural wisdom. Known for her compassion and fairness, Mirova always seeks the best for her people, ensuring their well-being and harmony. However, her strong adherence to tradition makes her resistant to change and often skeptical of new ideas. Her presence embodies the clan's continuity and resilience amidst the changing and often hostile world.
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
+
