@@ -49,6 +49,6 @@ notes:
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
-- [Zorah, the Twisted](https://terra-campaigns.github.io/degenesis/people/Zorah), from people
+- [Zorah, the Twisted](https://terra-campaigns.github.io/degenesis/people/zorah), from people
 <!-- SerializedQuery END -->
 
