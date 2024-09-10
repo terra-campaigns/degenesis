@@ -1,4 +1,4 @@
-title: Degenesis
+title: DEGENESIS
 description: These are Degenesis Materials
 theme: just-the-docs
 
@@ -7,9 +7,17 @@ url: https://terra-campaigns.github.io/degenesis/
 permalink: pretty
 plugins:
   - jekyll-relative-links
+  - jekyll-redirect-from
 
 # aux_links:
 #   Repository: https://github.com/terra-campaigns/degenesis
+
+# External navigation links
+#nav_external_links:
+#  - title: Terra Odd SRD
+#    url: https://terra-campaigns.github.io/terraOdd/cairn-srd/
+#    hide_icon: false # set to true to hide the external link icon - defaults to false
+#    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
 color_scheme: degenesis
 
