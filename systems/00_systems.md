@@ -7,17 +7,21 @@ nav_order: 90
 
 ---
 
-# Systems
-
 ![](../imgs/DG-moto_logo.png)
 
-#### <a href="https://terra-campaigns.github.io/terraOdd/character-creation/" target="_blank">Character Creation</a>
+# Systems
 
-#### <a href="https://terra-campaigns.github.io/terraOdd/core-rules/" target="_blank">Core Rules</a>
+### <a href="https://terra-campaigns.github.io/terraOdd/core-rules/" target="_blank">Core Rules</a>
 
-#### [Backgrounds](backgrounds/00_backgrounds.md)
+### <a href="https://terra-campaigns.github.io/terraOdd/character-creation/" target="_blank">Character Creation</a>
+
+### [Backgrounds](backgrounds/00_backgrounds.md)
+
+### [Bonds](bonds.md)
+
+### [Ruin](ruin.md)
 
 
 # Legacy
 
-#### [Terra System](terraSystem.md)
+### [Terra System](terraSystem.md)
