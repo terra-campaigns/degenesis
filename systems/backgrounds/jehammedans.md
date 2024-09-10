@@ -2,7 +2,7 @@
 title: Jehammedans
 layout: default
 parent: Backgrounds
-grand_parent: Character Creation
+grand_parent: Systems
 
 footer_content: Images & adapted text from <a href="https://degenesis.com/">degenesis.com</a> for private use only. Copyright &copy; 2021 by SIXMOREVODKA.
 ---
