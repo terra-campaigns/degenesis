@@ -8,4 +8,4 @@ nav_order: 70
 
 # Locations
 
-![](https://api2.inkarnate.com/api/embedScenes/pgzAev/previewImage)
+<iframe style="border: 0; width:100%; height: 800px; overflow: auto;" src="https://degenesis.com/world/map/"></iframe>
