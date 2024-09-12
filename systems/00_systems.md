@@ -7,13 +7,13 @@ nav_order: 90
 
 ---
 
-![](../imgs/DG-moto_logo.png)
-
 # Systems
 
-### <a href="https://terra-campaigns.github.io/terraOdd/core-rules/" target="_blank">Core Rules</a>
+### [Terra System's Degenesis](terraSystem.md)
 
-### <a href="https://terra-campaigns.github.io/terraOdd/character-creation/" target="_blank">Character Creation</a>
+---
+
+### Odd Approaches
 
 ### [Backgrounds](backgrounds/00_backgrounds.md)
 
@@ -22,6 +22,4 @@ nav_order: 90
 ### [Ruin](ruin.md)
 
 
-# Legacy
-
-### [Terra System](terraSystem.md)
+![](../imgs/DG-moto_logo.png)
