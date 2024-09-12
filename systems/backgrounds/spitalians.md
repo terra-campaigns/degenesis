@@ -89,3 +89,12 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 *Gain a Fatigue. Your attacks are enhanced until someone rejoins the fight.*
 
 ![](https://img2.storyblok.com/3420x2162/filters:quality(90)/f/72501/4570x2887/fdff41381a/opener-spitalian.jpg)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/00_backgrounds), from systems/backgrounds
+- [Return Geteli](https://terra-campaigns.github.io/degenesis/chapters/950.20), from chapters
+<!-- SerializedQuery END -->
