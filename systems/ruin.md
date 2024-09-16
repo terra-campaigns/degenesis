@@ -1,14 +1,4 @@
----
-layout: default
-title: Ruin
-parent: Systems
-nav_exclude: true
-
-footer_content: Mutation tables are copied from <a href="https://www.drivethrurpg.com/en/product/115703/the-metamorphica-classic-edition">The Metamorphica (Classic Edition)</a> for private use only. The PDF can be acquired as PWYW for descriptions on each mutation.
-
----
-
-# Ruin
+# Sepsis Infestation
 
 If you are exposed to the primer, or take **Burn**, you suffer Primer infection.
 
@@ -43,3 +33,5 @@ The effect lasts until the end of the scene.
 
 ![](https://i.imgur.com/3kiIhIz.png)
 
+> Sepsis Infestation mechanics are based on [Oddular Mechanics](https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1) by Chris McDowall and Fallout from [Liminal Horror](https://liminalhorrorrpg.com/). Mutation tables are copied from <a href="https://www.drivethrurpg.com/en/product/115703/the-metamorphica-classic-edition">The Metamorphica (Classic Edition)</a> for private use only. The PDF can be acquired as PWYW for descriptions on each mutation.
+> {: .fs-2 }

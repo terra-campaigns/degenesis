@@ -10,8 +10,8 @@ region: East Pollen
 ---
 # Return Geteli
 
-You have been tasked by the [Spitalians](../systems/backgrounds/spitalians.md) Registrar to return the Hygienist Geteli.
-Geteli has disappeared three weeks ago after being dispatched with two other Spitalians to investigate reports of [Migrants](../creatures/Migrants.md) ([Biokinetics](https://www.youtube.com/watch?v=0Tw3KaMr8wk)) activity in Pollen.
+You have been tasked by the [Spitalians](../../systems/backgrounds/spitalians.md) Registrar to return the Hygienist Geteli.
+Geteli has disappeared three weeks ago after being dispatched with two other Spitalians to investigate reports of [Migrants](../../creatures/Migrants.md) ([Biokinetics](https://www.youtube.com/watch?v=0Tw3KaMr8wk)) activity in Pollen.
 
 ---
 #### Connected to

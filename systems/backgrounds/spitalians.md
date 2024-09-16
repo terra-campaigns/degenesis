@@ -2,9 +2,7 @@
 title: Spitalians
 layout: default
 parent: Backgrounds
-grand_parent: Systems
 
-footer_content: Images & adapted text from <a href="https://degenesis.com/">degenesis.com</a> for private use only. Copyright &copy; 2021 by SIXMOREVODKA.
 ---
 
 # Spitalians
@@ -95,6 +93,6 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
-- [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/00_backgrounds), from systems/backgrounds
+- [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds), from systems
 - [Return Geteli](https://terra-campaigns.github.io/degenesis/chapters/950.20), from chapters
 <!-- SerializedQuery END -->
