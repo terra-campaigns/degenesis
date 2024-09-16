@@ -17,15 +17,14 @@ The following links can be used as an introduction of the **Degenesis** setting:
 - [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
 - [**Degenesis** Official](https://degenesis.com) website
 
-
 ## Themes
 
 Define themes.
 
 ## Timeline
 
-<!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/chapters" SORT timestamp, nav_order asc -->
-<!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/chapters" SORT timestamp, nav_order asc -->
-- East Pollen, March 23, 2592: [Return Geteli](https://terra-campaigns.github.io/degenesis/chapters/950.20) (Anthology)
-- East Pollen, October 02, 2593: [In the spore wall](https://terra-campaigns.github.io/degenesis/chapters/100.01) (To Kiev South)
+<!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
+<!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
+- East Pollen, March 23, 2592: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/Anthology/ReturnGeteli) (Anthology)
+- East Pollen, October 02, 2593: [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/chap1) (To Kiev South)
 <!-- SerializedQuery END -->

@@ -94,5 +94,5 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 - [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds), from systems
-- [Return Geteli](https://terra-campaigns.github.io/degenesis/chapters/950.20), from chapters
+- [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/Anthology/ReturnGeteli), from campaigns/Anthology
 <!-- SerializedQuery END -->
