@@ -10,25 +10,14 @@ region: East Pollen
 ---
 # Return Geteli
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Tw3KaMr8wk?si=BgercDYOSvkx_9Js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Game Card
+
 You have been tasked by the [Spitalians](../../systems/backgrounds/spitalians.md) Registrar to return the Hygienist Geteli.
-Geteli has disappeared three weeks ago after being dispatched with two other Spitalians to investigate reports of [Migrants](../../creatures/Migrants.md) ([Biokinetics](https://www.youtube.com/watch?v=0Tw3KaMr8wk)) activity in Pollen.
+Geteli has disappeared three weeks ago after being dispatched with two other Spitalians to investigate reports of [Migrants](../../creatures/Migrants.md) activity in [Pollen](https://degenesis.com/world/cultures/pollen).
 
----
-#### Connected to
-
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
-- [Spitalians](https://terra-campaigns.github.io/degenesis/systems/backgrounds/spitalians), from systems/backgrounds
-- [Migrants](https://terra-campaigns.github.io/degenesis/creatures/Migrants), from creatures
-<!-- SerializedQuery END -->
-
----
-### Game Card
-
-You have been tasked by the [Spitalian](https://degenesis.com/world/cults/spitalians) Registrar to return the Hygienist Geteli.
-Geteli has disappeared three weeks ago after being dispatched with two other Spitalians to investigate reports of [Biokinetics](https://www.youtube.com/watch?v=0Tw3KaMr8wk) activity in Pollen.
-
-- **Date and time:** tbd
+- **Date and time:** 28th September 2024 2030 CEST
 - **Frequency:** One shot
 - **TTRPG system:** [Cairn](https://cairnrpg.com/) hack with homebrew Backgrounds, Bonds and Fallout (see below)
 - **Module:** [Rise of the Blood Olms](https://yochaigal.itch.io/rise-of-the-blood-olms) (Cairn, reskinned)
@@ -39,7 +28,15 @@ Geteli has disappeared three weeks ago after being dispatched with two other Spi
 - **Desired theme:** Horror, adult themes
 - **Desired style:** OSR, dungeon crawl
 - **Communication:** Discord voice. Video optional.
-- **Further information:** 
-	- <a href="https://terra-campaigns.github.io/degenesis/systems/backgrounds/00_backgrounds/" target="_blank">Backgrounds</a>
-	- <a href="https://terra-campaigns.github.io/degenesis/systems/bonds/" target="_blank">Bonds</a>
-	- <a href="https://terra-campaigns.github.io/degenesis/systems/ruin/" target="_blank">Ruin/Fallout</a>
+- **Further information:** [System Reference](../../systems/index.md)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
+- [Spitalians](https://terra-campaigns.github.io/degenesis/systems/backgrounds/spitalians), from systems/backgrounds
+- [Migrants](https://terra-campaigns.github.io/degenesis/creatures/Migrants), from creatures
+<!-- SerializedQuery END -->
+
+---
