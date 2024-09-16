@@ -2,6 +2,7 @@
 
 body{
   font-family: 'Mulish', serif;
+  font-weight: 500;  
 }
 
 h1, h2, h3, h4 {
@@ -34,12 +35,6 @@ thead{
 
 tbody tr:last-of-type td{
   padding-bottom: .35rem;
-}
-
-h4, .text-delta{
-font-size: 12px !important;
-font-weight: 600;
-text-transform: uppercase;
 }
 
 .nav-list .nav-list-item .nav-list-link {
