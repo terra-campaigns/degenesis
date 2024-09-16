@@ -2,13 +2,12 @@
 layout: default
 title: Backgrounds
 nav_order: 5
-nav_exclude: true
 parent: Systems
 has_children: true
 
 ---
 
-# Backgrounds
+![](https://www.degenesis-cluster.com/dist/thumbnails/backgrounds.jpg)
 
 Roll on each of the included tables from your background.
 
@@ -18,4 +17,5 @@ Roll on each of the included tables from your background.
 | **2:4** | [Spitalians](spitalians.md)   |
 | **5:6** | [Anabaptists](anabaptists.md) |
 
-<iframe style="border: 0; width:100%; height: 800px; overflow: auto;" src="https://degenesis.com/world/cults/"></iframe>
+Backgrounds are based on [Degenesis Cults & Clans](https://degenesis.com/world/cults/).
+{: .fs-3 }

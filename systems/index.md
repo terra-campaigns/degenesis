@@ -5,9 +5,11 @@ has_children: true
 has_toc: false
 nav_order: 99
 
-footer_content: System mechanics licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0</a>. Mutation tables are copied from <a href="https://www.drivethrurpg.com/en/product/115703/the-metamorphica-classic-edition">The Metamorphica (Classic Edition)</a> for private use only. The PDF can be acquired as PWYW for descriptions on each mutation.
+footer_content: System mechanics licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0</a>.
 
 ---
+
+![](../imgs/DG-moto_logo.png)
 
 {% include srd_modules/srd_version.md %}
 
@@ -48,7 +50,7 @@ footer_content: System mechanics licensed under <a href=\"https://creativecommon
 
 {% include srd_modules/combat.md %}
 
-{% include srd_modules/ruin.md %}
+{% include_relative ruin.md %}
 
 {% include srd_modules/scars.md %}
 
