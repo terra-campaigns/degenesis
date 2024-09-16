@@ -9,7 +9,7 @@ nav_order: 1
 
 # Vostok's Scouts
 
-Scouts of the [Vorstok](../factions/Vorstok.md) Kin.
+Scouts of the [Vorstok](../../factions/Vorstok.md) Kin.
 
 Players are welcome to edit their own characters.
 Use the link on the bottom of your character page.
