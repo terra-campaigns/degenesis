@@ -7,9 +7,9 @@ parent: Backgrounds
 
 # Anabaptists
 
-|                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![12-CULT-ANABAPTISTS-WHITE-ON-BLACK-320x320](../../../imgs/icons/12-CULT-ANABAPTISTS-WHITE-ON-BLACK-320x320.webp) | You only need to walk the world with eyes open to see the truth of the Neognostic teachings! The land was once beautiful and full of trees. The sun shone down with a friendly face upon fields and happy people. But today, Paradise is rotten. The Spawn of the Demiurge, Psychonauts in all their carnality carry no divine soul. The root of all evil is clear to see and must be hacked to pieces and cut out by the [Anabaptists](https://degenesis.com/world/cults/anabaptists). |
+|                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![12-CULT-ANABAPTISTS-WHITE-ON-BLACK-320x320](../../../imgs/icons/12-CULT-ANABAPTISTS-WHITE-ON-BLACK-320x320.webp) | The land was once beautiful and full of trees. The sun shone down with a friendly face upon fields and happy people. But today, Paradise is rotten. The Spawn of the Demiurge, Psychonauts in all their carnality carry no divine soul. The root of all evil is clear to see and must be hacked to pieces and cut out by the [Anabaptists](https://degenesis.com/world/cults/anabaptists). |
 
 ![](https://a.storyblok.com/f/72501/2715x3840/efb5d38082/012-anabaptist-archetype.jpg)
 
@@ -35,7 +35,7 @@ parent: Backgrounds
 - Oil vial *(petty)*
 - Heavy leathers (1 Armour)
 
-## What is your starting skill? Roll 1d6.
+## What is your starting skill? Roll 1d4.
 
 |       |          |
 | ----- | -------- |

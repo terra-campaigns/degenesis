@@ -36,7 +36,7 @@ parent: Backgrounds
 - Sterile Gloves
 - UV Light
 
-## What is your starting skill? Roll 1d6.
+## What is your starting skill? Roll 1d4.
 
 |       |           |
 | ----- | --------- |

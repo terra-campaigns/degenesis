@@ -35,7 +35,7 @@ parent: Backgrounds
 - Salvaged battery pack
 - Rations
 
-## What is your starting skill? Roll 1d6.
+## What is your starting skill? Roll 1d4.
 
 |       |               |
 | ----- | ------------- |
