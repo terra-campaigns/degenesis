@@ -9,8 +9,8 @@ plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
 
-# aux_links:
-#   Repository: https://github.com/terra-campaigns/degenesis
+aux_links:
+  Repository: https://github.com/terra-campaigns/degenesis
 
 # External navigation links
 #nav_external_links:
