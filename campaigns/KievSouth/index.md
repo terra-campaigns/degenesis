@@ -16,7 +16,7 @@ The hunter-gatherer clan known as the [Vorstok](factions/Vorstok.md) Kin is deep
 
 ![](https://i.imgur.com/aCOHfMq.jpeg)
 
-The once plentiful taiga and tundra have become battlegrounds, threatened not only by the deadly spores but also by the encroaching [Ironclaw](../../factions/Ironclaw.md) Horde, led by the fearsome warlord [Kargan](../../people/kargan.md), the Bloodthirsty.
+The once plentiful taiga and tundra have become battlegrounds, threatened not only by the deadly spores but also by the encroaching [ironclaw](../../factions/ironclaw.md) Horde, led by the fearsome warlord [Kargan](../../people/kargan.md), the Bloodthirsty.
 
 ![](https://i.imgur.com/ASdDRAT.png)
 
@@ -35,6 +35,6 @@ Following a brutal Ironclaw raid that resulted in the abduction of five Vostok w
 - [Elder Mirova](https://terra-campaigns.github.io/degenesis/people/mirova), from people
 - [Yelena, the Seer](https://terra-campaigns.github.io/degenesis/people/yelena), from people
 - [Vostok Kin](https://terra-campaigns.github.io/degenesis/factions/Vorstok), from factions
-- [Ironclaw Horde](https://terra-campaigns.github.io/degenesis/factions/Ironclaw), from factions
+- [Ironclaw Horde](https://terra-campaigns.github.io/degenesis/factions/ironclaw), from factions
 <!-- SerializedQuery END -->
 

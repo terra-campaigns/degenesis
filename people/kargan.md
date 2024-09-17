@@ -23,7 +23,7 @@ notes:
 ---
 # Kargan, the Bloodthirsty
 
-> [Ironclaw](../factions/Ironclaw.md) leader, brutal and ruthless
+> [ironclaw](../factions/ironclaw.md) leader, brutal and ruthless
 
 ![](https://i.imgur.com/ifqWi0Y.png)
 
@@ -39,7 +39,7 @@ notes:
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 - [Zorah, the Twisted](https://terra-campaigns.github.io/degenesis/people/zorah), from people
-- [Ironclaw Horde](https://terra-campaigns.github.io/degenesis/factions/Ironclaw), from factions
+- [Ironclaw Horde](https://terra-campaigns.github.io/degenesis/factions/ironclaw), from factions
 - [Vostok Kin](https://terra-campaigns.github.io/degenesis/factions/Vorstok), from factions
 - [To Kiev South](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/index), from campaigns/KievSouth
 <!-- SerializedQuery END -->
