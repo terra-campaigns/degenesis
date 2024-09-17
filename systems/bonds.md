@@ -37,3 +37,12 @@ Roll a ***d4*** and a ***d6***.
 
 > Bonds are based on Degenesis Archetypes (Apocalyptic Tarot).
 {: .fs-2 }
+
+# Culture
+
+Where you are from inform what you know.
+Roll or choose a skill.
+
+|            |                                                                                                          |                                                                   |
+| ---------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **POLLEN** | ![03-CULTURE-POLLEN-WHITE-ON-BLACK-320x320](../imgs/icons/03-CULTURE-POLLEN-WHITE-ON-BLACK-320x320.webp) | **1** Stamina<br>**2** Legends<br>**3** Survival<br>**4** Empathy |
