@@ -50,8 +50,6 @@ footer_content: System mechanics licensed under <a href=\"https://creativecommon
 
 {% include srd_modules/combat.md %}
 
-{% include_relative ruin.md %}
-
 {% include srd_modules/scars.md %}
 
 {% include_relative ruin.md %}
