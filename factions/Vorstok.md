@@ -34,7 +34,6 @@ r: 2
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
-- [Vostok Scouts](https://terra-campaigns.github.io/degenesis/people/001_VostokScouts), from people
 - [Kargan, the Bloodthirsty](https://terra-campaigns.github.io/degenesis/people/kargan), from people
 - [Elder Mirova](https://terra-campaigns.github.io/degenesis/people/mirova), from people
 - [Rurik, the Swift](https://terra-campaigns.github.io/degenesis/people/rurik), from people
