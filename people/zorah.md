@@ -25,7 +25,7 @@ notes:
 ---
 # Zorah, the Twisted
 
-> Shaman of the [Ironclaw](../factions/Ironclaw.md) Horde.
+> Shaman of the [Ironclaw](../factions/ironclaw.md) Horde.
 
 ![](https://i.imgur.com/LMF5lPI.png)
 
@@ -42,6 +42,6 @@ notes:
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 - [Kargan, the Bloodthirsty](https://terra-campaigns.github.io/degenesis/people/kargan), from people
-- [Ironclaw Horde](https://terra-campaigns.github.io/degenesis/factions/Ironclaw), from factions
+- [Ironclaw Horde](https://terra-campaigns.github.io/degenesis/factions/ironclaw), from factions
 <!-- SerializedQuery END -->
 
