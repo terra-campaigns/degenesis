@@ -7,7 +7,9 @@ parent: Backgrounds
 
 # Scrapers
 
-> Drawn towards the ruins, away from the humming, raucous cities, [Scrappers](https://degenesis.com/world/cults/scrappers) dig in the dust and dirt. Every cut of the spade brings them closer to the era of the ancient people. They work tirelessly, digging all the way down until they can drag technical wonders caked with soot into the light of day.
+|                                                                                                                |                                                                                                                                                                                                                                                                                                                                                            |     |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ![06-CULT-SCRAPPERS-WHITE-ON-BLACK-320x320](../../../imgs/icons/06-CULT-SCRAPPERS-WHITE-ON-BLACK-320x320.webp) | Drawn towards the ruins, away from the humming, raucous cities, [Scrappers](https://degenesis.com/world/cults/scrappers) dig in the dust and dirt. Every cut of the spade brings them closer to the era of the ancient people. They work tirelessly, digging all the way down until they can drag technical wonders caked with soot into the light of day. |     |
 
 ![](https://a.storyblok.com/f/72501/2715x3840/59d5c5c899/006-scrappers-archetype.jpg)
 
@@ -32,6 +34,15 @@ parent: Backgrounds
 - Periscope
 - Salvaged battery pack
 - Rations
+
+## What is your starting skill? Roll 1d6.
+
+|       |               |
+| ----- | ------------- |
+| **1** | Survival      |
+| **2** | Toughness     |
+| **3** | Artifact Lore |
+| **4** | Crafting      |
 
 ## What is your rank? Roll 1d6.
 

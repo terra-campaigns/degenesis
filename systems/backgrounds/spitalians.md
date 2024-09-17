@@ -7,7 +7,10 @@ parent: Backgrounds
 
 # Spitalians
 
-> Mankind’s last line of defense against the Primer and its spawn. [Spitalians](https://degenesis.com/world/cults/spitalians) explore the spore fields, dissect dead Psychonauts, and develop poisons and weapons. With their fungicides they cut swathes into the Sepsis, and carry spore covered muscles in glass tubes to lead them to the Aberrants’ breeding grounds.
+|                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![01-CULT-SPITALIANS-WHITE-ON-BLACK-320x320](../../../imgs/icons/01-CULT-SPITALIANS-WHITE-ON-BLACK-320x320.webp) | Mankind’s last line of defense against the Primer and its spawn. [Spitalians](https://degenesis.com/world/cults/spitalians) explore the spore fields, dissect dead Psychonauts, and develop poisons and weapons. With their fungicides they cut swathes into the Sepsis, and carry spore covered muscles in glass tubes to lead them to the Aberrants’ breeding grounds. |
+
 
 ![](https://a.storyblok.com/f/72501/2715x3840/8900dcd07d/001-spitalians-archetype.jpg)
 
@@ -32,6 +35,15 @@ parent: Backgrounds
 - Field Journal
 - Sterile Gloves
 - UV Light
+
+## What is your starting skill? Roll 1d6.
+
+|       |           |
+| ----- | --------- |
+| **1** | Toughness |
+| **2** | Medicine  |
+| **3** | Faith     |
+| **4** | Science   |
 
 ## What is your rank? Roll 1d6.
 
