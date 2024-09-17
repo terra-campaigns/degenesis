@@ -1,4 +1,4 @@
-# Sepsis Infestation
+# Sepsis
 
 If you are exposed to the primer, or take **Burn**, you suffer Primer infection.
 
