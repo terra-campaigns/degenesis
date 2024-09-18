@@ -6,8 +6,6 @@ Once resolved, you may roll a new Bond.
 
 Roll a ***d4*** and a ***d6***.
 
-![](https://www.degenesis-cluster.com/dist/thumbnails/tarot-apocalyptic.jpg)
-
 |         |                                                                                                                                                                                        |                           |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | **1,1** | **AMNESIAC**: You must protect a stranger who claims to know your past.                                                                                                                |                           |
@@ -33,12 +31,12 @@ Roll a ***d4*** and a ***d6***.
 | **4,3** | **DISCIPLE**: You have outgrown your master, and now seek to challenge them or surpass their teachings. You carry a **worn manuscript** of your master’s teachings.                    | Empathy<br>Perception     |
 | **4,4** | **RIGHTEOUS**: You have judged someone close to you as wicked, but others don’t see it that way. You wield a **judgmental scale** symbolizing your moral stance.                       | Cunning<br>Negotiation    |
 | **4,5** | **TRAVELER**: You promised to deliver a message to a distant land, but the journey is more dangerous than expected. You carry a **sealed letter** with the critical message.           | Legends<br>Orienteering   |
-| **4,6** | Roll twice and combine the bonds and choose one of the equipment items.                                                                                                                |                           |
+| **4,6** | Roll twice and combine the bonds and choose one of the equipment items.                                                                                                                | Choose 2 skills           |
 
 > Bonds are based on Degenesis Archetypes (Apocalyptic Tarot).
 {: .fs-2 }
 
-# Culture
+## Culture
 
 Where you are from inform what you know.
 Roll or choose a skill.
