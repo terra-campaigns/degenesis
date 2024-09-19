@@ -16,7 +16,7 @@ The hunter-gatherer clan known as the [Vorstok](factions/Vorstok.md) Kin is deep
 
 ![](https://i.imgur.com/aCOHfMq.jpeg)
 
-The once plentiful taiga and tundra have become battlegrounds, threatened not only by the deadly spores but also by the encroaching [ironclaw](../../factions/ironclaw.md) Horde, led by the fearsome warlord [Kargan](../../people/kargan.md), the Bloodthirsty.
+The once plentiful taiga and tundra have become battlegrounds, threatened not only by the deadly spores but also by the encroaching [Ironclaw](../../factions/ironclaw.md) Horde, led by the fearsome warlord [Kargan](../../people/kargan.md), the Bloodthirsty.
 
 ![](https://i.imgur.com/ASdDRAT.png)
 

@@ -1,8 +1,9 @@
 # Bonds
 
-Bonds tie you to someone else and the world.
-You may resolve your Bond, and will be awarded Growth.
-Once resolved, you may roll a new Bond.
+**Bonds** tie you to someone else and the world.
+You get the two skills from your **Bond**.
+You may resolve your **Bond**, and will be awarded Growth.
+Once resolved, you may roll a new **Bond** (but won't get new skills).
 
 Roll a ***d4*** and a ***d6***.
 
@@ -37,6 +38,8 @@ Roll a ***d4*** and a ***d6***.
 {: .fs-2 }
 
 ## Culture
+{: .no_toc }
+
 
 Where you are from inform what you know.
 Roll or choose a skill.

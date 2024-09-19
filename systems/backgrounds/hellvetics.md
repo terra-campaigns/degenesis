@@ -2,6 +2,8 @@
 title: Hellvetics
 layout: default
 parent: Backgrounds
+nav_exclude: true
+search_exclude: true
 
 ---
 

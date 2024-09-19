@@ -28,8 +28,6 @@ footer_content: System mechanics licensed under <a href=\"https://creativecommon
 
 {% include_relative bonds.md %}
 
-# Rules
-
 {% include srd_modules/attributes.md %}
 
 {% include srd_modules/hp.md %}

@@ -1,4 +1,4 @@
-## Attributes
+# Attributes
 
 Each of the three **Attributes** are used in different circumstances. (See **Saves**, below).
 

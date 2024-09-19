@@ -2,6 +2,8 @@
 title: Apocalyptics
 layout: default
 parent: Backgrounds
+nav_exclude: true
+search_exclude: true
 
 ---
 
