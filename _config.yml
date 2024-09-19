@@ -12,6 +12,8 @@ plugins:
 aux_links:
   Repository: https://github.com/terra-campaigns/degenesis.test
 
+favicon_ico: "/imgs/favicon.ico"
+
 # External navigation links
 #nav_external_links:
 #  - title: Terra Odd SRD
