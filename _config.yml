@@ -10,7 +10,7 @@ plugins:
   - jekyll-redirect-from
 
 aux_links:
-  Repository: https://github.com/terra-campaigns/degenesis.test
+  Repository: https://github.com/terra-campaigns/degenesis
 
 favicon_ico: "/imgs/favicon.ico"
 
