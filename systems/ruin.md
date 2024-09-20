@@ -1,15 +1,18 @@
 # Sepsis
 
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06529978-05ab-4cb2-8ea3-dc97b9163a96/d88s81e-efbad273-840f-4c94-8b05-52b0061ff338.png/v1/fit/w_828,h_1172,q_70,strp/leperos_by_marko_djurdjevic_d88s81e-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzA2NTI5OTc4LTA1YWItNGNiMi04ZWEzLWRjOTdiOTE2M2E5NlwvZDg4czgxZS1lZmJhZDI3My04NDBmLTRjOTQtOGIwNS01MmIwMDYxZmYzMzgucG5nIiwid2lkdGgiOiI8PTExMzEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.B9VCzJ8xYfuYUrvNgIKjjb0umNpHSojl7lwzVsFW828)
+
 When you are exposed to the primer, or take [Burn](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn), you suffer [Spore Infestation](https://degenesis.com/world/stories/pollen/sepsis).
 Environment suits and masks reduce the impact of Spore Infestation.
 Spore Infestation reduces **HP**.
 
-If reduced to exactly **0 HP**, a culture stigma blooms.
-This stigma changes slowly over time, and goes away in a month.
+If reduced to exactly **0 HP**, you develop a Sepsis Mutation, which takes a **Burden** slot.
+Roll on the Sepsis Mutation tables.
 
 If Spore Infestation goes beyond **0 HP**, you lose WIL and must pass a WIL save.
-If you fail, you take Sepsis which takes a **Burden** slot.
-With Sepsis, you develop a random mutation (roll on the table below).
+If you fail, a culture stigma blooms.
+This stigma changes slowly over time, and goes away when your WIL is fully recovered.
+If you reach **0 WIL** you become a Leperos.
 
 ## Sporination
 {: .no_toc }
