@@ -32,8 +32,6 @@ parent: Backgrounds
 - Rope & grappling hook (d4)
 - Compass
 - Periscope
-- Salvaged battery pack
-- Rations
 
 ## What is your starting skill? Roll 1d4.
 

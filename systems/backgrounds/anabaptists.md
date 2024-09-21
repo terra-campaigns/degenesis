@@ -30,9 +30,7 @@ parent: Backgrounds
 
 - 1d6 x 50 Chronicler Drafts *(petty)*
 - Purifier's dagger (d6)
-- Book of Scripture
 - Ceremonial water flask
-- Oil vial *(petty)*
 - Heavy leathers (1 Armour)
 
 ## What is your starting skill? Roll 1d4.
