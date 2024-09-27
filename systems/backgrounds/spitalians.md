@@ -30,11 +30,9 @@ parent: Backgrounds
 ## Starting Gear
 
 - 2d6 x 50 Chronicler Drafts
-- Spore Mask
 - Scalpel (d6)
 - Field Journal
 - Sterile Gloves
-- UV Light
 
 ## What is your starting skill? Roll 1d4.
 
