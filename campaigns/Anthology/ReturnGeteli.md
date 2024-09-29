@@ -12,23 +12,31 @@ region: East Pollen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Tw3KaMr8wk?si=BgercDYOSvkx_9Js" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Game Card
 
-You have been tasked by the [Spitalians](../../systems/backgrounds/spitalians.md) Registrar to return the Hygienist Geteli.
-Geteli has disappeared three weeks ago after being dispatched with two other Spitalians to investigate reports of [Migrants](../../creatures/Migrants.md) activity in [Pollen](https://degenesis.com/world/cultures/pollen).
+In the oppressive silence of [Pollen](https://degenesis.com/world/cultures/pollen)'s tainted wilds, the air felt thick with more than spores. Three [Spitalians](../../systems/backgrounds/spitalians.md) Recruits, sent by the Registrar to retrieve Hygienist Geteli, trudged through the desolation. Their target had disappeared three weeks ago. He was last seen with two others, dispatched to investigate rumours of [Migrant](../../creatures/Migrants.md) infestations. His mission failed. Theirs could not.
 
-- **Date and time:** 28th September 2024 2030 CEST
-- **Frequency:** One shot
-- **TTRPG system:** [Cairn](https://cairnrpg.com/) hack with homebrew Backgrounds, Bonds and Fallout (see below)
-- **Module:** [Rise of the Blood Olms](https://yochaigal.itch.io/rise-of-the-blood-olms) (Cairn, reskinned)
-- **VTT:** Theatre of the mind, Owlbear Rodeo if needed.
-- **Expected campaign length:** One shot
-- **Number of players:** 2-6
-- **Language:** English
-- **Desired theme:** Horror, adult themes
-- **Desired style:** OSR, dungeon crawl
-- **Communication:** Discord voice. Video optional.
-- **Further information:** [System Reference](../../systems/index.md)
+Inquisitor Thorne, Plague Hunter Joran Falk, and Kyra Valen, each hard-eyed and silent, made their way to the abandoned camp where Geteli's final report originated. Four blankets lay arranged, one smaller than the others. A child? Perhaps. More disturbing was the crate they uncovered—pale fruit, unrecognisable and alien. They took a sample without a word, their Spitalian instincts commanding caution. The camp sat atop a cave system.
+
+With the stealth born of necessity, they descended a rope ladder into the cavern, the air growing heavier, laced with moisture and something unspoken. Soon enough, eyes—if they were even eyes—watched them. The Migrant, its body a grotesque amalgamation of bone plates and sinewy flesh, loomed in the shadows, eyeless but aware. It struck without warning, its claws a blur. Joran was quicker. His pickaxe found purchase, smashing through the creature's chest, splitting bone and muscle as though the Migrant were made of little more than damp earth. The beast fell silent, a pool of dark ichor spreading beneath its twisted body.
+
+The deeper tunnels closed in, tight and suffocating. Then came another ambush—but this one from a Spitalian. At least, it looked like one. A ragged figure loosed a stalagmite from the ceiling and scurried away like vermin. Inquisitor Thorne led the pursuit, surging ahead into the darkness as Joran raised a torch to light their way. The air here was toxic. Explosive. The fire ignited it in a brief but brilliant flash, hurling their senses into overdrive. In that instant, in the light, Thorne saw the room. It was filled with flesh—not corpses, but grotesque growths: eyes, fingers, and hands bursting from the cavern floor, [a grotesque garden of twisted humanity](https://degenesis.com/world/stories/pollen/czar).
+
+They withdrew, shaken. Exploration in the northwest revealed another Migrant, but this time they set the trap. Yet, intelligence lurked beneath the Migrant's bone-plated face. It evaded them, calling out with a scream that echoed in the cavern like the wail of a dying god. The sound summoned more. A behemoth, towering and plated in bone, lumbered from the eastern tunnel.
+
+Kyra reached for the rope ladder, ready to climb, while Thorne scrambled upward. Joran, crouched in hiding, tightened his grip on his pickaxe, waiting for the opportune moment. The Migrant lunged, bone claws raking through the air. Thorne was safe, but Kyra screamed as its claws sank deep into her leg, severing flesh from bone. Joran struck true, his pickaxe burying deep in the Migrant's skull. The creature crumbled, lifeless.
+
+But their victory was short-lived. The larger Migrant, its grotesque body heaving with unnatural life, swelled at the neck. The bubble ruptured, spraying spores into the air. Kyra stumbled, choking on the poisonous cloud.
+
+In the deepest part of the cave, they found him—Geteli, or what was left of him. His body twisted, his skin marked by Stigmata, his eyes hollow with Sepsis. Two dead Spitalians lay at one side, their faces slack in death. And behind him? A tree. No, not a tree—a mockery of one, in the darkness of a cavern.
+
+Joran moved to strike, but Geteli was quick, driving a knife beneath his chin. The Plague Hunter gurgled once and fell. Kyra, with a scream, swung her cane, catching Geteli in the temple. He collapsed, unconscious. Thorne finished him. There was no ceremony. Only surgical precision as they removed Geteli’s head to bring back to the Spitalians.
+
+But the journey home was tainted. The spores had done their work. Kyra’s skin had begun to change, the stigmata spreading. Her eyes met Thorne's. There would be no return for her.
+
+Without a word, she ended her own life.
+
+Pollen claimed her body, as it claimed so many others.
+
 
 ---
 #### Connected to
