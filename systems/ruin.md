@@ -6,8 +6,15 @@ When you are exposed to the primer, or take [Burn](https://degenesis.com/world/s
 Environment suits and masks reduce the impact of Spore Infestation.
 Spore Infestation reduces **HP**.
 
-If reduced to exactly **0 HP**, you develop a Sepsis Mutation, which takes a **Burden** slot.
-Roll on the Sepsis Mutation tables.
+If reduced to exactly **0 HP** you develop a [Sepsis Mutation](#sepsis-mutations).
+Look up the result on the table below, based on the *amount of HP lost*.
+
+|        |                                                 |
+| ------ | ----------------------------------------------- |
+| **1**  | Roll on the beneficial mental mutation table    |
+| **2**  | Roll on the beneficial physical mutation table  |
+| **3**  | Roll on the detrimental mental mutation table   |
+| **4+** | Roll on the detrimental physical mutation table |
 
 If Spore Infestation goes beyond **0 HP**, you lose WIL and must pass a WIL save.
 If you fail, a culture stigma blooms.
