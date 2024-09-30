@@ -10,7 +10,7 @@ footer_content: Images & adapted text from <a href="https://degenesis.com/">dege
 
 # Migrants
 
-8 HP, 14 STR, 11 DEX, 4 WIL, weapon and claws (d8+d8)
+8 HP, 2 Armour, 14 STR, 11 DEX, 4 WIL, weapon and claws (d8+d8)
 
 - Shape-shifting abilities and physical prowess, blurs the line with the supernatural
 - Avoid areas with methane gas and open flames
