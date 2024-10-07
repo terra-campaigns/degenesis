@@ -18,13 +18,15 @@ footer_content: System mechanics licensed under <a href=\"https://creativecommon
     Table of contents
   </summary>
   {: .text-delta }
-- TOC
+1. TOC
 {:toc}
 </details>
 
 # Character Creation
 
 {% include srd_modules/character-creation.md %}
+
+{% include_relative culture.md %}
 
 {% include_relative bonds.md %}
 
@@ -33,8 +35,6 @@ footer_content: System mechanics licensed under <a href=\"https://creativecommon
 {% include srd_modules/hp.md %}
 
 {% include srd_modules/saves.md %}
-
-{% include srd_modules/burdens.md %}
 
 {% include srd_modules/healing.md %}
 

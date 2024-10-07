@@ -33,7 +33,7 @@ Weapons also may have tags.
 
 |            |                                                           |
 | ---------- | --------------------------------------------------------- |
-| *Bulky*    | Takes 2 burdens and needs 2 hands                         |
+| *Bulky*    | Needs 2 hands                                             |
 | *Advanced* | Ignore non-advanced Armour                                |
 | *Blast*    | Harms multiple opponents (roll damage die for the number) |
 
