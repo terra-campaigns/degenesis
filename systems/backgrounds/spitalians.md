@@ -72,13 +72,13 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > The Spitalian's knowledge of his enemy runs deep—flesh torn, bones exposed, even the most hidden vulnerabilities laid bare. He knows precisely where to strike and how to inflict maximum pain. When facing Psychonauts, this intimate understanding grants him an edge, allowing him to strike with devastating accuracy.
 
-*Your attacks against Psychonaults ignores armour.*
+*Gain **Fatigue**. Your attacks against Psychonaults ignores armour.*
 
 #### 5: Kranzler's Teachings
 
 > Kranzler's soul is unyielding, impervious even to the eerie chants of the Dushani. Famulancers study his techniques, but only the most dedicated can truly master them. Those who succeed become temporarily immune to Psychonautic mental influences, standing firm when others would falter.
 
-*You are immune to Dushani chants.*
+*Gain **Fatigue**. You are immune to Dushani chants.*
 
 #### 6: The Last Farewell
 

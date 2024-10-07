@@ -33,15 +33,6 @@ parent: Backgrounds
 - Ceremonial water flask
 - Heavy leathers (1 Armour)
 
-## What is your starting skill? Roll 1d4.
-
-|       |          |
-| ----- | -------- |
-| **1** | Force    |
-| **2** | Legends  |
-| **3** | Mobility |
-| **4** | Faith    |
-
 ## What is your rank? Roll 1d6.
 
 ![](https://i.imgur.com/IuipNe7.png)
@@ -65,36 +56,36 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > When the Jehammedans taunt the Anabaptist with mocking cries of "Fisherman’s child!" he replies calmly, "If you hit us, don’t we bleed as well?" They laugh, but he grins and adds, "But if we bleed, don’t we rip you apart?" Pushed beyond his limits, the Anabaptist unleashes a relentless fury, tearing through his enemies with unstoppable rage.
 
-*Gain a Fatigue. Your attacks are enhanced. You must make a WIL save after a killing or lose control, attacking anyone in sight.*
+*Your attacks are enhanced. You must pass a WIL save after a killing or lose control, attacking anyone in sight.*
 
 #### 2: Killing Joke
 
 > The enemy braces for a blade, but instead, the Anabaptist deftly pivots and strikes with the pommel of his sword, aiming for an unarmored vital spot. This technique, known as the Killing Joke, is a high-risk manoeuvre that can knock an opponent unconscious instantly.
 
-*Gain a Fatigue. Your opponent becomes unconscious, but will awake if harmed.*
+*Gain **Fatigue**. Your opponent becomes unconscious, but will awake if harmed.*
 
 #### 3: Pneuma
 
 > When the Anabaptist's blow strikes deep, something more than blood spills out—an essence, a glimpse of the divine Pneuma, escapes from the dying flesh. This momentary touch of the divine strengthens and uplifts him.
 
-*Gain a Fatigue. Your opponent loses 1d6 STR, which is transferred to you (up to your max STR).*
+*Gain **Fatigue**. Your opponent loses 1d6 STR, which is transferred to you temporarily (up to 18).*
 
 #### 4: Realm of Emanations
 
 > The Anabaptist's faith burns bright, shielding him from the nightly horrors that haunt his mind. By day, the twisted influences of Psychonauts—whether through Dushani whispers, Pheromancer scents, or Psychokinetic illusions—cannot sway him. When defending against these mental assaults, his faith sharpens his resolve, allowing him to channel his strength into a powerful counter, turning his fear into a formidable defence.
 
-*Gain a Fatigue. Become immune to influences of Psychonauts common in your region.*
+*Gain **Fatigue**. Become immune to influences of Psychonauts common in your region.*
 
 #### 5: Torchbearer
 
 > The Anabaptist’s senses have been sharpened to the point of near madness by his closeness to the enemy. He can detect the corruption of Psychonauts, Leperos, and spore fields with uncanny precision, bringing them into stark clarity. In his presence, the hidden horrors of the world cannot remain concealed.
 
-*Gain a Fatigue. You feel primer auras within 60ft. WIL save to avoid detection by Psychonaults.*
+*You feel primer auras within 60ft. WIL save to avoid detection by Psychonaults.*
 
 #### 6: Zealot
 
 > Through relentless austerity and daily meditation, the Anabaptist purifies himself, transcending physical pain and unleashing the power of his spirit. On the battlefield, his body becomes a shield, with pain serving only as a distant reminder of harm rather than a hindrance. His resilience allows him to endure, reducing the impact of trauma.
 
-*Gain a Fatigue. You gain +1 Armour.*
+*Gain **Fatigue**. For the scene, you gain +1 Armour.*
 
 ![](https://img2.storyblok.com/2516x1415/filters:quality(90)/f/72501/2516x1415/6ca1363234/opener-anabaptists.jpg)

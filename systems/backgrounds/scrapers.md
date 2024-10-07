@@ -33,15 +33,6 @@ parent: Backgrounds
 - Compass
 - Periscope
 
-## What is your starting skill? Roll 1d4.
-
-|       |               |
-| ----- | ------------- |
-| **1** | Survival      |
-| **2** | Toughness     |
-| **3** | Artifact Lore |
-| **4** | Crafting      |
-
 ## What is your rank? Roll 1d6.
 
 ![](https://i.imgur.com/KFQ3EBG.png)
@@ -64,37 +55,37 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > The Apocalyptics swindle them, Judges hound them, Chroniclers deceive them, and the Clans drive them away. But when their anger finally erupts, it spreads like wildfire, igniting a shared fury among the crowd. The Scrapper seizes the moment, rallying the mob to action with a few well-chosen words.
 
-*Gain a Fatigue. A person or a small detachment develops a deep hatred of someone from another Cult.*
+*Gain **Fatigue**. A person or a small detachment develops a deep hatred of someone of your choice from another Cult.*
 
 #### 2: Rat
 
-> Scrappers survive by avoiding trouble, but Rats among them seek it out while seamlessly blending into the crowd. They can pull off daring acts like robbing a merchant and skillfully shifting the blame to an unsuspecting bystander, disappearing into the throng with their loot unnoticed. No matter what they do, Rats always seem innocent, or at least, no one can ever prove otherwise.
+> Scrappers survive by avoiding trouble, but Rats among them seek it out while seamlessly blending into the crowd. They can pull off daring acts like robbing a merchant and skilfully shifting the blame to an unsuspecting bystander, disappearing into the throng with their loot unnoticed. No matter what they do, Rats always seem innocent, or at least, no one can ever prove otherwise.
 
-*Gain a Fatigue. On a WIL save, they can see your guilt.*
+*Gain **Fatigue**. They cannot see your guilt.*
 
 #### 3: Tough Dog
 
 > People kick and torment the Tough Dogs, but they just bite back, taunting, "Is that all you've got?" They endure the abuse, waiting for their enemies to tire, knowing they can take more punishment than most.
 
-*Gain a Fatigue. You gain +1 Armour.*
+*Gain **Fatigue**. For the scene, you gain +1 Armour.*
 
 #### 4: Nitro
 
 > Deep beneath layers of fear and survival instincts, a buried rage simmers within, fueled by the contempt of those who see them as mere dirt diggers. This hidden fury, unearthed through years of digging, waits to erupt and consume anyone who dares look down on them. When unleashed, this anger turns the Scrapper into a force of devastation, striking with unmatched ferocity.
 
-*Gain a Fatigue. Your attacks are enhanced and non-Blast attacks are impaired against you, until you take damage.*
+*Gain **Fatigue**. Your attacks are enhanced and non-Blast attacks are impaired against you, until you take damage.*
 
 #### 5: Truffle Pig
 
 > Skilled Scrappers uncover artefacts that make Chroniclers uneasy as they reluctantly part with their Drafts, while less fortunate Scrappers barely earn more than the scrap’s worth. The best Scrappers possess an instinct, a sixth sense for finding hidden treasures and avoiding dangers in the ruins.
 
-*Gain a Fatigue. Choose one kind of object (key, arrow, gold, etc.). You can sense the nearest example.*
+*Gain **Fatigue**. Choose one kind of object (key, arrow, gold, etc.). You can sense the nearest example.*
 
 #### 6: Darwin
 
 > In the harsh depths of the ruins, only the strongest emerge. The Darwins, through luck or sheer strength, consistently escape the most desperate situations. These masters of survival gain renown with each narrow escape.
 
-*Gain a Fatigue. You see a place where you can rest safely, and hidden, for a **Watch** (you still have to get there safely).*
+*Gain **Fatigue**. You see a place where you can rest safely, and hidden, for a **Watch** (you still have to get there safely).*
 
 
 ![](https://img2.storyblok.com/3492x1964/filters:quality(90)/f/72501/3508x1973/32682ccbb9/opener-scrappers.jpg)
