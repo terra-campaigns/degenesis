@@ -1,3 +1,17 @@
+---
+layout: default
+title: To Nikopol
+parent: Anthology
+nav_order: 21
+
+timestamp: 2589-04-02
+region: East Pollen
+
+---
+
+# To Nikopol
+
+> {{ page.region}}, {{ page.timestamp }} 
 
 {Online} Degenesis: Travel To Nikopol | Open Table 4th Nov
 
