@@ -9,7 +9,7 @@ region: East Pollen
 
 ---
 
-# In the spore wall
+# {{ page.title }}
 
 > {{ page.region}}, {{ page.timestamp }}
 
