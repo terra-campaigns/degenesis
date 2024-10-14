@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Inquisitor Thorne
-parent: People
+parent: Protectorate Clique
 
 ---
 # Inquisitor Thorne
 
-> [Spitalian](../systems/backgrounds/spitalians.md) Recruit, survivor of the [Return Geteli](../campaigns/Anthology/ReturnGeteli.md) mission.
+> [Spitalian](../../systems/backgrounds/spitalians.md) Recruit, survivor of the [Return Geteli](../../campaigns/Anthology/ReturnGeteli.md) mission.
 
 ![](https://media1.tenor.com/m/JDrSKMNRT5sAAAAC/mad-max.gif)
 
