@@ -9,9 +9,7 @@ region: East Pollen
 
 ---
 
-# {{ page.title }}
-
-> {{ page.region}}, {{ page.timestamp }}
+{% include chapter_header.md %}
 
 A small detachment of [Vostok Scouts](../../people/Vostok/index.md) departs to discover the fate and location of the abducted women. Their number includes [Jacob](../../people/Vostok/jacob.md), [Yuri](../../people/Vostok/yuri.md), [Skittle](../../people/Vostok/skittle.md), [Luna](../../people/Vostok/luna.md) and [Dr. Sofia Markov](../../people/Vostok/sofia.md). Skittle and Yuri are cousins, and Yuri's beloved, Julia, is among the missing. Luna, a young spiritual adherent, is also deeply affected by the abductions, as her mother, Emenem, was taken. Jacob, a decisive man of action, assumes the role of the group’s protector, while Dr. Sofia, a self-proclaimed PhD, brings a semblance of reason to the eclectic assembly. The third missing woman is Valissa.
 

@@ -9,6 +9,4 @@ region: East Pollen
 
 ---
 
-# {{ page.title }}
-
-> {{ page.region}}, {{ page.timestamp }} 
+{% include chapter_header.md %}

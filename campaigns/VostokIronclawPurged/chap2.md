@@ -9,9 +9,7 @@ region: East Pollen
 
 ---
 
-# {{ page.title }}
-
-> {{ page.region}}, {{ page.timestamp }}
+{% include chapter_header.md %}
 
 The [index](../../people/Vostok/index.md) Scouts wake, heavy-limbed and haunted, after a night beset by fractured dreams and the whisper of feral urges. Shadows of yesterday’s choices hang like smoke in their minds, clouding judgment and unearthing doubts.
 

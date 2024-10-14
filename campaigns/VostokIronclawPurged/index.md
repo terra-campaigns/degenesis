@@ -10,8 +10,6 @@ footer_content:
 
 # To Kiev South
 
-> East Pollen, 2793 AD
-
 The hunter-gatherer clan known as the [index](../../people/Vostok/index.md) Kin is deeply connected to your land and traditions. Over the past decade, the relentless advance of the spore fields from the east of [Pollen](https://degenesis.com/world/cultures/pollen) has placed their ancestral homeland in grave danger. 
 
 ![](https://i.imgur.com/aCOHfMq.jpeg)
