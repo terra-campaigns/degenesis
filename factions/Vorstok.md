@@ -38,5 +38,6 @@ r: 2
 - [Elder Mirova](https://terra-campaigns.github.io/degenesis/people/mirova), from people
 - [Rurik, the Swift](https://terra-campaigns.github.io/degenesis/people/rurik), from people
 - [Yelena, the Seer](https://terra-campaigns.github.io/degenesis/people/yelena), from people
+- [The Ironclaw](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/chap2), from campaigns/KievSouth
 <!-- SerializedQuery END -->
 

@@ -25,6 +25,9 @@ Define themes.
 
 <!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 <!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
-- East Pollen, March 23, 2587: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/Anthology/ReturnGeteli) (Anthology)
+- \-, \-: [\-](https://terra-campaigns.github.io/degenesis/campaigns/Anthology/FractalForest1) (\-)
+- East Pollen, March 23, 2589: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/Anthology/ReturnGeteli) (Anthology)
+- East Pollen, April 02, 2589: [To Nikopol](https://terra-campaigns.github.io/degenesis/campaigns/Anthology/ToNikopol) (Anthology)
 - East Pollen, October 02, 2593: [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/chap1) (To Kiev South)
+- East Pollen, October 02, 2593: [The Ironclaw](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/chap2) (To Kiev South)
 <!-- SerializedQuery END -->
