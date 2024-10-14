@@ -15,7 +15,7 @@ region: East Pollen
 
 A small detachment of [Vostok Scouts](../../people/VostokScouts/index.md) departs to discover the fate and location of the abducted women. Their number includes [Jacob](../../people/VostokScouts/jacob.md), [Yuri](../../people/VostokScouts/yuri.md), [Skittle](../../people/VostokScouts/skittle.md), [Luna](../../people/VostokScouts/luna.md) and [Dr. Sofia Markov](../../people/VostokScouts/sofia.md). Skittle and Yuri are cousins, and Yuri's beloved, Julia, is among the missing. Luna, a young spiritual adherent, is also deeply affected by the abductions, as her mother, Emenem, was taken. Jacob, a decisive man of action, assumes the role of the group’s protector, while Dr. Sofia, a self-proclaimed PhD, brings a semblance of reason to the eclectic assembly. The third missing woman is Valissa.
 
-Following a ceremonial ritual, in which spores are cooked and prepared into small pouches for future use, the scout detachment steels itself for the journey ahead. Opting for an unexpected route, they venture through the perilous Spore Wall, a daring decision intended to evade the [ironclaw](../../factions/ironclaw.md) raiders who likely guard the more obvious southern approach to their lair.
+Following a ceremonial ritual, in which spores are cooked and prepared into small pouches for future use, the scout detachment steels itself for the journey ahead. Opting for an unexpected route, they venture through the perilous Spore Wall, a daring decision intended to evade the Ironclaw raiders who likely guard the more obvious southern approach to their lair.
 
 Once inside the wall, they navigate softer paths and uncover hidden openings, their progress both cautious and swift. One night, they find themselves beneath a magnificent aurora borealis, a rare and wondrous sight that fills them with a renewed sense of purpose. The next day, Jacob discovers a new path, but a sudden torrent of rain threatens to drench them. They seek refuge by climbing the mycelium-covered matter, avoiding the worst of the downpour.
 
@@ -37,9 +37,8 @@ The group then moves southwest, traversing old metro and sewage tunnels, a testa
 - [Yuri](https://terra-campaigns.github.io/degenesis/people/VostokScouts/yuri), from people/VostokScouts
 - [Skittle](https://terra-campaigns.github.io/degenesis/people/VostokScouts/skittle), from people/VostokScouts
 - [Luna](https://terra-campaigns.github.io/degenesis/people/VostokScouts/luna), from people/VostokScouts
-- [Sofia](https://terra-campaigns.github.io/degenesis/people/VostokScouts/sofia), from people/VostokScouts
+- [Dr. Sofia Markov](https://terra-campaigns.github.io/degenesis/people/VostokScouts/sofia), from people/VostokScouts
 - [Kramatorsk](https://terra-campaigns.github.io/degenesis/locations/Kramatorsk), from locations
 - [Shard](https://terra-campaigns.github.io/degenesis/locations/Shard), from locations
-- [Ironclaw Horde](https://terra-campaigns.github.io/degenesis/factions/ironclaw), from factions
 <!-- SerializedQuery END -->
 

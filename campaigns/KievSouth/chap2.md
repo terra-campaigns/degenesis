@@ -20,7 +20,7 @@ Three among them—Dr. Sofia, Yuri, and Skittle—are gone. Fled, perhaps, drive
 ![](https://i.imgur.com/9V3xTWR.png)
 
 
-The exit from the tunnel opens onto a desolate stretch near the suspected [Ironclaw](../../factions/ironclaw.md) refuge. It’s here that they stumble upon Francesco, ragged and breathless. He had been with another detachment, establishing a base some 50 Km west. His words spill out in a rush: the camp was overrun, Spitalians descending upon them with flames and talk of purging Pollen, the telltale mark of the cult's zealous grip on the Protectorate.
+The exit from the tunnel opens onto a desolate stretch near the suspected Ironclaw refuge. It’s here that they stumble upon Francesco, ragged and breathless. He had been with another detachment, establishing a base some 50 Km west. His words spill out in a rush: the camp was overrun, Spitalians descending upon them with flames and talk of purging Pollen, the telltale mark of the cult's zealous grip on the Protectorate.
 
 Their path leads to a mound crowned by crumbling stone, a skeletal ruin. Two children, barely more than babes, await them—eyes glinting with the creeping corruption of Sepsis. They tug at a hidden passage in the earth, and with a glance, Luna, Jacob and Francesco decide. Together, they vanish underground.
 
@@ -48,6 +48,5 @@ As firelight dances across the walls, Spitalians surge through, spreading death 
 - [Luna](https://terra-campaigns.github.io/degenesis/people/VostokScouts/luna), from people/VostokScouts
 - [Jacob](https://terra-campaigns.github.io/degenesis/people/VostokScouts/jacob), from people/VostokScouts
 - [Vostok Kin](https://terra-campaigns.github.io/degenesis/factions/Vorstok), from factions
-- [Ironclaw Horde](https://terra-campaigns.github.io/degenesis/factions/ironclaw), from factions
 <!-- SerializedQuery END -->
 

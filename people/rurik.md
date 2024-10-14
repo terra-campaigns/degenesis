@@ -3,7 +3,7 @@ layout: default
 title: Rurik, the Swift
 parent: People
 
-status: Perished
+status: Deseased
 
 statblock: 'yes'
 deprecated_layout: Terra Campaigns Leiaute v04d
