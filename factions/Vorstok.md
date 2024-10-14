@@ -38,7 +38,7 @@ r: 2
 - [Elder Mirova](https://terra-campaigns.github.io/degenesis/people/mirova), from people
 - [Rurik, the Swift](https://terra-campaigns.github.io/degenesis/people/rurik), from people
 - [Yelena, the Seer](https://terra-campaigns.github.io/degenesis/people/yelena), from people
-- [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/chap2), from campaigns/KievSouth
-- [To Kiev South](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/index), from campaigns/KievSouth
+- [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2), from campaigns/VostokIronclawPurged
+- [Vostok & Ironclaw purged](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/index), from campaigns/VostokIronclawPurged
 <!-- SerializedQuery END -->
 

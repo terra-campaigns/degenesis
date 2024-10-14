@@ -16,7 +16,7 @@ region: East Pollen
 
 In the oppressive silence of [Pollen](https://degenesis.com/world/cultures/pollen)'s tainted wilds, the air felt thick with more than spores. Three [Spitalians](../../systems/backgrounds/spitalians.md) Recruits, sent by the Registrar to retrieve Hygienist Geteli, trudged through the desolation. Their target had disappeared three weeks ago. He was last seen with two others, dispatched to investigate rumours of [Migrant](../../creatures/Migrants.md) infestations. His mission failed. Theirs could not.
 
-[Inquisitor Thorne](../../people/InquisitorThorne.md), Plague Hunter Joran Falk, and Kyra Valen, each hard-eyed and silent, made their way to the abandoned camp where Geteli's final report originated. Four blankets lay arranged, one smaller than the others. A child? Perhaps. More disturbing was the crate they uncovered—pale fruit, unrecognisable and alien. They took a sample without a word, their Spitalian instincts commanding caution. The camp sat atop a cave system.
+[Inquisitor Thorne](../../people/ProtectorateClique/InquisitorThorne.md), Plague Hunter Joran Falk, and Kyra Valen, each hard-eyed and silent, made their way to the abandoned camp where Geteli's final report originated. Four blankets lay arranged, one smaller than the others. A child? Perhaps. More disturbing was the crate they uncovered—pale fruit, unrecognisable and alien. They took a sample without a word, their Spitalian instincts commanding caution. The camp sat atop a cave system.
 
 With the stealth born of necessity, they descended a rope ladder into the cavern, the air growing heavier, laced with moisture and something unspoken. Soon enough, eyes—if they were even eyes—watched them. The Migrant, its body a grotesque amalgamation of bone plates and sinewy flesh, loomed in the shadows, eyeless but aware. It struck without warning, its claws a blur. Joran was quicker. His pickaxe found purchase, smashing through the creature's chest, splitting bone and muscle as though the Migrant were made of little more than damp earth. The beast fell silent, a pool of dark ichor spreading beneath its twisted body.
 
@@ -53,7 +53,7 @@ Pollen claimed her body, as it claimed so many others.
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
 - [Spitalians](https://terra-campaigns.github.io/degenesis/systems/backgrounds/spitalians), from systems/backgrounds
-- [Inquisitor Thorne](https://terra-campaigns.github.io/degenesis/people/InquisitorThorne), from people
+- [Inquisitor Thorne](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/InquisitorThorne), from people/ProtectorateClique
 - [Migrants](https://terra-campaigns.github.io/degenesis/creatures/Migrants), from creatures
 <!-- SerializedQuery END -->
 
