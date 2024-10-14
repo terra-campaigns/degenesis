@@ -3,17 +3,28 @@ layout: default
 title: Migrants
 parent: Creatures
 
+hp: 8
+ar: 2
+s: 14
+d: 11
+w: 4
+at: weapon and claws (d8+d8)
+
+bullets:
+- Shape-shifting abilities and physical prowess, blurs the line with the supernatural
+- Avoid areas with methane gas and open flames
+- "**Critical Damage**: A large chuck of flesh is infested with Sepsis (d6 infection )"
+- "**Blossom**: Kills itself and spread Sepsis infection (d10 *blast* infection)"
+
 footer_content: Images & adapted text from <a href="https://degenesis.com/">degenesis.com</a> for private use only. Copyright &copy; 2021 by SIXMOREVODKA.
 ---
 
-# Migrants
+# {{ page.title }}
 
-8 HP, 2 Armour, 14 STR, 11 DEX, 4 WIL, weapon and claws (d8+d8)
+| {{ page.hp }} HP, {{ page.ar }} Armour, {{ page.s }} STR, {{ page.d }} DEX, {{ page.w }} WIL, {{ page.at }} |
 
-- Shape-shifting abilities and physical prowess, blurs the line with the supernatural
-- Avoid areas with methane gas and open flames
-- **Critical Damage**: A large chuck of flesh is infested with Sepsis (d6 WIL damage)
-- **Blossom**: Kills itself and spread Sepsis infection (d10 *blast* infection)
+{% for sec in page.bullets %} 
+| {{ sec }} | {% endfor %}
 
 ![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/5517x3300/4675ce01f7/pollen-migrants.jpg)
 
