@@ -32,11 +32,13 @@ r: 2
 ---
 #### Connected to
 
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Vostok Scouts](https://terra-campaigns.github.io/degenesis/people/VostokScouts/index), from people/VostokScouts
 - [Elder Mirova](https://terra-campaigns.github.io/degenesis/people/mirova), from people
 - [Rurik, the Swift](https://terra-campaigns.github.io/degenesis/people/rurik), from people
 - [Yelena, the Seer](https://terra-campaigns.github.io/degenesis/people/yelena), from people
 - [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/chap2), from campaigns/KievSouth
+- [To Kiev South](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/index), from campaigns/KievSouth
 <!-- SerializedQuery END -->
 
