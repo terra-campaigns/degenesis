@@ -1,25 +1,20 @@
 # Sepsis
 
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06529978-05ab-4cb2-8ea3-dc97b9163a96/d88s81e-efbad273-840f-4c94-8b05-52b0061ff338.png/v1/fit/w_828,h_1172,q_70,strp/leperos_by_marko_djurdjevic_d88s81e-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzA2NTI5OTc4LTA1YWItNGNiMi04ZWEzLWRjOTdiOTE2M2E5NlwvZDg4czgxZS1lZmJhZDI3My04NDBmLTRjOTQtOGIwNS01MmIwMDYxZmYzMzgucG5nIiwid2lkdGgiOiI8PTExMzEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.B9VCzJ8xYfuYUrvNgIKjjb0umNpHSojl7lwzVsFW828)
-
 When you are exposed to the primer, or take [Burn](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn), you suffer [Spore Infestation](https://degenesis.com/world/stories/pollen/sepsis).
-Environment suits and masks reduce the impact of Spore Infestation.
-Spore Infestation reduces **HP**.
+Environment suits and masks reduce the impact of Spore Infestation, analog to how Armour does for combat.
+Spore Infestation reduces **WIL**.
 
-If reduced to exactly **0 HP** you develop a [Sepsis Mutation](#sepsis-mutations).
-Look up the result on the table below, based on the *amount of HP lost*.
+If reduced to **0 WIL**, a cultural stigma blooms.
+This stigma changes slowly over time, and goes away when your **WIL** is fully recovered.
+When the stigma goes away, you develop a [Sepsis Mutation](#sepsis-mutations).
+Roll a d6 on the table below.
 
-|        |                                                 |
-| ------ | ----------------------------------------------- |
-| **1**  | Roll on the beneficial mental mutation table    |
-| **2**  | Roll on the beneficial physical mutation table  |
-| **3**  | Roll on the detrimental mental mutation table   |
-| **4+** | Roll on the detrimental physical mutation table |
-
-If Spore Infestation goes beyond **0 HP**, you lose WIL and must pass a WIL save.
-If you fail, a culture stigma blooms.
-This stigma changes slowly over time, and goes away when your WIL is fully recovered.
-If you reach **0 WIL** you become a Leperos.
+|         |                                                 |
+| ------- | ----------------------------------------------- |
+| **1**   | Roll on the beneficial mental mutation table    |
+| **2**   | Roll on the beneficial physical mutation table  |
+| **3:4** | Roll on the detrimental mental mutation table   |
+| **5:6** | Roll on the detrimental physical mutation table |
 
 ## Sporination
 {: .no_toc }
@@ -45,7 +40,7 @@ It is a dial to control how likely characters change.
 Different types of Burn are harvested depending on Earth Chakra proximity.
 Burn can be of two potencies.
 Weak Burn deals **d4** Spore Infestation and its effect lasts for one scene.
-Potent Burn deals **d12** Spore Infestation and its effect lasts for one hour.
+Potent Burn deals **d12** Spore Infestation and its effect lasts for one day.
 
 |          |                                                                                                                                                                                                                                            |                                                          |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
