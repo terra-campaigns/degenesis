@@ -3,7 +3,6 @@ layout: default
 title: Protectorate Clique
 parent: People
 has_children: true
-nav_order: 1
 
 ---
 

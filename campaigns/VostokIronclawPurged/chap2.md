@@ -13,9 +13,9 @@ region: East Pollen
 
 > {{ page.region}}, {{ page.timestamp }}
 
-The [Vorstok](../../factions/Vorstok.md) Scouts wake, heavy-limbed and haunted, after a night beset by fractured dreams and the whisper of feral urges. Shadows of yesterday’s choices hang like smoke in their minds, clouding judgment and unearthing doubts.
+The [index](../../people/Vostok/index.md) Scouts wake, heavy-limbed and haunted, after a night beset by fractured dreams and the whisper of feral urges. Shadows of yesterday’s choices hang like smoke in their minds, clouding judgment and unearthing doubts.
 
-Three among them—Dr. Sofia, Yuri, and Skittle—are gone. Fled, perhaps, driven by the tension that lingered like the scent of rust and fear. Or, worse yet, taken. But by whom? [Luna](../../people/VostokScouts/luna.md) and [Jacob](../../people/VostokScouts/jacob.md) have no time for speculation. They steel themselves and move forward alone, instinctively drawn towards their target.
+Three among them—Dr. Sofia, Yuri, and Skittle—are gone. Fled, perhaps, driven by the tension that lingered like the scent of rust and fear. Or, worse yet, taken. But by whom? [Luna](../../people/Vostok/luna.md) and [Jacob](../../people/Vostok/jacob.md) have no time for speculation. They steel themselves and move forward alone, instinctively drawn towards their target.
 
 ![](https://i.imgur.com/9V3xTWR.png)
 
@@ -45,8 +45,7 @@ As firelight dances across the walls, Spitalians surge through, spreading death 
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
-- [Luna](https://terra-campaigns.github.io/degenesis/people/VostokScouts/luna), from people/VostokScouts
-- [Jacob](https://terra-campaigns.github.io/degenesis/people/VostokScouts/jacob), from people/VostokScouts
-- [Vostok Kin](https://terra-campaigns.github.io/degenesis/factions/Vorstok), from factions
+- [Luna](https://terra-campaigns.github.io/degenesis/people/Vostok/luna), from people/Vostok
+- [Jacob](https://terra-campaigns.github.io/degenesis/people/Vostok/jacob), from people/Vostok
 <!-- SerializedQuery END -->
 

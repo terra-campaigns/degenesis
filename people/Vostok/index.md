@@ -41,9 +41,9 @@ Use the link on the bottom of your character page.
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" WHERE file.name != "index" SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" WHERE file.name != "index" SORT file.folder DESC -->
-- [Elder Mirova](https://terra-campaigns.github.io/degenesis/people/mirova), from people
-- [Rurik, the Swift](https://terra-campaigns.github.io/degenesis/people/rurik), from people
-- [Yelena, the Seer](https://terra-campaigns.github.io/degenesis/people/yelena), from people
+- [Elder Mirova](https://terra-campaigns.github.io/degenesis/people/Vostok/mirova), from people/Vostok
+- [Rurik, the Swift](https://terra-campaigns.github.io/degenesis/people/Vostok/rurik), from people/Vostok
+- [Yelena, the Seer](https://terra-campaigns.github.io/degenesis/people/Vostok/yelena), from people/Vostok
 - [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1), from campaigns/VostokIronclawPurged
 - [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2), from campaigns/VostokIronclawPurged
 <!-- SerializedQuery END -->
