@@ -4,6 +4,9 @@ title: Terra System
 parent: Systems
 nav_order: 999
 
+nav_exclude: TRUE
+search_exclude: TRUE
+
 ---
 
 # Terra System's Degenesis
