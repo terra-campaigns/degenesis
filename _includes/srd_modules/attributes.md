@@ -8,3 +8,8 @@ Each of the three **Attributes** are used in different circumstances. (See **Sav
 
 **Attributes** are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher.
 
+## Attribute Loss
+
+Attributes may be reduced during play.
+You only die if they they are reduced as a consequence of damage.
+
