@@ -1,10 +1,10 @@
 ---
 layout: default
-title: The Ironclaw
+title: The Spitalian raid
 parent: To Kiev South
 nav_order: 2
 
-timestamp: 2593-10-02
+timestamp: 2593-10-03
 region: East Pollen
 
 ---
@@ -17,9 +17,15 @@ The [Vorstok](../../factions/Vorstok.md) Scouts wake, heavy-limbed and haunted, 
 
 Three among them—Dr. Sofia, Yuri, and Skittle—are gone. Fled, perhaps, driven by the tension that lingered like the scent of rust and fear. Or, worse yet, taken. But by whom? [Luna](../../people/VostokScouts/luna.md) and [Jacob](../../people/VostokScouts/jacob.md) have no time for speculation. They steel themselves and move forward alone, instinctively drawn towards their target.
 
+![](https://i.imgur.com/9V3xTWR.png)
+
+
 The exit from the tunnel opens onto a desolate stretch near the suspected [Ironclaw](../../factions/ironclaw.md) refuge. It’s here that they stumble upon Francesco, ragged and breathless. He had been with another detachment, establishing a base some 50 Km west. His words spill out in a rush: the camp was overrun, Spitalians descending upon them with flames and talk of purging Pollen, the telltale mark of the cult's zealous grip on the Protectorate.
 
 Their path leads to a mound crowned by crumbling stone, a skeletal ruin. Two children, barely more than babes, await them—eyes glinting with the creeping corruption of Sepsis. They tug at a hidden passage in the earth, and with a glance, Luna, Jacob and Francesco decide. Together, they vanish underground.
+
+![](https://i.imgur.com/nKRtuT1.png)
+
 
 Within the caverns, the air hangs thick with damp and decay, winding through stone veins to a staircase. The children lead the way, small hands pointing toward what they claim are prisoner cells. Hunger gnaws at them all, drawing them to a dank pantry. The food is rank, cloying with rot, but the children devour it without pause.
 
@@ -30,6 +36,9 @@ The skirmish is brief but vicious, its aftermath a twisted tableau of spilled bl
 Francesco seizes the chance to ambush a guard but stumbles, his strength guttering out, and collapses mid-strike, death already in his marrow. Jacob, locked in combat, meets his end alongside his foe, a final flash of violence that leaves Luna cowering in the shadows of the pantry, buried beneath the stench of rot.
 
 As firelight dances across the walls, Spitalians surge through, spreading death indiscriminately, torching guards, prisoners, and children alike in a ruthless sweep. Hidden among the refuse, Luna remains unseen, left in a hollow silence as the Spitalians' flames devour the world above.
+
+![](https://i.imgur.com/6WBQGoW.png)
+
 
 ---
 #### Connected to
