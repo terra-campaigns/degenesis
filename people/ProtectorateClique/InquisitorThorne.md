@@ -23,15 +23,8 @@ gear:
 - Winter clothes
 
 ---
-# {{ page.title }}
 
-| {{ page.hp }} HP, {{ page.ar }} Armour, {{ page.s }} STR, {{ page.d }} DEX, {{ page.w }} WIL |
-
-{% for sec in page.bullets %} 
-| {{ sec }} | {% endfor %}
-
-|**GEAR**| {% for sec in page.gear %} 
-| {{ sec }} | {% endfor %}
+{% include statblock_pc.md %}
 
 ![](https://media1.tenor.com/m/JDrSKMNRT5sAAAAC/mad-max.gif)
 

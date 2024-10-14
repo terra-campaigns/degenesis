@@ -5,9 +5,9 @@ parent: Creatures
 
 hp: 8
 ar: 2
-s: 14
-d: 11
-w: 4
+str: 14
+dex: 11
+wil: 4
 at: weapon and claws (d8+d8)
 
 bullets:
@@ -19,12 +19,7 @@ bullets:
 footer_content: Images & adapted text from <a href="https://degenesis.com/">degenesis.com</a> for private use only. Copyright &copy; 2021 by SIXMOREVODKA.
 ---
 
-# {{ page.title }}
-
-| {{ page.hp }} HP, {{ page.ar }} Armour, {{ page.s }} STR, {{ page.d }} DEX, {{ page.w }} WIL, {{ page.at }} |
-
-{% for sec in page.bullets %} 
-| {{ sec }} | {% endfor %}
+{% include statblock_npc.md %}
 
 ![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/5517x3300/4675ce01f7/pollen-migrants.jpg)
 
