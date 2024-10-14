@@ -3,6 +3,11 @@ layout: default
 title: Zorah, the Twisted
 parent: People
 
+nav_exclude: TRUE
+search_exclude: TRUE
+
+status: Perished
+
 statblock: 'yes'
 deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
