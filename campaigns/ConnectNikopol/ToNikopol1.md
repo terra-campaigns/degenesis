@@ -1,7 +1,7 @@
 ---
 layout: default
 title: To Nikopol 1
-parent: Protectorate Clique
+parent: Connect with Nikopol
 nav_order: 21
 
 timestamp: 2589-04-02

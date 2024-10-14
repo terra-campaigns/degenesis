@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Protectorate Clique
+title: Connect with Nikopol
 has_children: true
 nav_order: 11
 
