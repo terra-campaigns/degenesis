@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Yuri
-parent: Vostok Scouts
+title: Luna
+parent: Vostok Kin
 grand_parent: People
 
-status: Missing
+status: 
+
 ---
 
 # {{ page.title }}
 
 > {{ page.status }}
-
 
 - text and images
 - character sheet
@@ -21,4 +21,5 @@ status: Missing
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 - [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1), from campaigns/VostokIronclawPurged
+- [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2), from campaigns/VostokIronclawPurged
 <!-- SerializedQuery END -->

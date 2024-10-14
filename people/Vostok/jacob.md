@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jacob
-parent: Vostok Scouts
+parent: Vostok Kin
 grand_parent: People
 
 status: Missing
