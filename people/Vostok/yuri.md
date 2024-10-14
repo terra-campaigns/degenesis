@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Skittle
-parent: Vostok Scouts
+title: Yuri
+parent: Vostok Kin
 grand_parent: People
 
 status: Missing
-
 ---
 
 # {{ page.title }}

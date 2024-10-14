@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yelena, the Seer
-parent: People
+parent: Vostok Kin
 
 status: Missing
 
@@ -31,7 +31,7 @@ notes:
 
 > {{ page.status }}
 
-> [Vorstok](../factions/Vorstok.md) Kin's Shaman, follows the Lesnje
+> [index](Vostok/index.md) Kin's Shaman, follows the Lesnje
 
 ![](https://i.imgur.com/J9KPAaO.png)
 
@@ -49,7 +49,7 @@ Yelena, the Seer, is the Vostok Kin's shaman who follows the ancient ways of the
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
-- [Vostok Kin](https://terra-campaigns.github.io/degenesis/factions/Vorstok), from factions
+- [Vostok Kin](https://terra-campaigns.github.io/degenesis/people/Vostok/index), from people/Vostok
 - [Vostok & Ironclaw purged](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/index), from campaigns/VostokIronclawPurged
 <!-- SerializedQuery END -->
 

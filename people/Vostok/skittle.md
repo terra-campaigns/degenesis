@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Dr. Sofia Markov
-parent: Vostok Scouts
+title: Skittle
+parent: Vostok Kin
 grand_parent: People
 
 status: Missing
@@ -11,6 +11,7 @@ status: Missing
 # {{ page.title }}
 
 > {{ page.status }}
+
 
 - text and images
 - character sheet
