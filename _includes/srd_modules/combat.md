@@ -43,10 +43,10 @@ Armours can be
 
 |     |            |                                    |
 | :-: | ---------- | ---------------------------------- |
-|  1  | **Light**  | *Bulky*.                           |
+|  1  | **Light**  |                                    |
 |  2  | **Medium** | *Bulky*.                           |
 |  3  | **Heavy**  | *Bulky*, noisy, reduced awareness. |
-| +1  | **Shield** |                                    |
+| +1  | **Shield** | Occupies one hand.                 |
 	
 ## Attack Modifiers
 {: .no_toc }

@@ -4,8 +4,14 @@ title: Skittle
 parent: Vostok Scouts
 grand_parent: People
 
+status: Missing
+
 ---
-# Skittle
+
+# {{ page.title }}
+
+> {{ page.status }}
+
 
 - text and images
 - character sheet

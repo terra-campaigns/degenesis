@@ -3,6 +3,8 @@ layout: default
 title: Rurik, the Swift
 parent: People
 
+status: Deseased
+
 statblock: 'yes'
 deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
@@ -21,7 +23,10 @@ r: 0
 
 notes:
 ---
-# Rurik, the Swift
+
+# {{ page.title }}
+
+> {{ page.status }}
 
 > Fierce warrior from the [Vorstok](../factions/Vorstok.md) Kin
 

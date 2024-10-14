@@ -3,6 +3,8 @@ layout: default
 title: Yelena, the Seer
 parent: People
 
+status: Missing
+
 statblock: 'yes'
 deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
@@ -24,7 +26,10 @@ r: 1
 
 notes: 
 ---
-# Yelena, the Seer
+
+# {{ page.title }}
+
+> {{ page.status }}
 
 > [Vorstok](../factions/Vorstok.md) Kin's Shaman, follows the Lesnje
 

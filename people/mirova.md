@@ -3,6 +3,8 @@ layout: default
 title: Elder Mirova
 parent: People
 
+status: Missing
+
 statblock: 'yes'
 deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
@@ -21,7 +23,10 @@ r: 1
 
 notes: 
 ---
-# Elder Mirova
+
+# {{ page.title }}
+
+> {{ page.status }}
 
 > [Vorstok](../factions/Vorstok.md) Kin's guardian of traditions
 

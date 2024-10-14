@@ -2,8 +2,6 @@
 layout: default
 title: Migrants
 parent: Creatures
-nav_exclude: true
-search_exclude: true
 
 footer_content: Images & adapted text from <a href="https://degenesis.com/">degenesis.com</a> for private use only. Copyright &copy; 2021 by SIXMOREVODKA.
 ---
@@ -14,8 +12,8 @@ footer_content: Images & adapted text from <a href="https://degenesis.com/">dege
 
 - Shape-shifting abilities and physical prowess, blurs the line with the supernatural
 - Avoid areas with methane gas and open flames
-- **Critical Damage**: A large chuck of flesh is bitten off (d6 STR damage)
-- **Blossom**: Kills itself and spread Sepsis infection (d10 infection)
+- **Critical Damage**: A large chuck of flesh is infested with Sepsis (d6 WIL damage)
+- **Blossom**: Kills itself and spread Sepsis infection (d10 *blast* infection)
 
 ![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/5517x3300/4675ce01f7/pollen-migrants.jpg)
 

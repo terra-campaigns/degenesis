@@ -66,7 +66,7 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > Preservists are relentless, never giving their enemies a chance to surrender. Trained in a brutal technique known as Preservalis, they strike with their sword to create an opening, then follow up with a point-blank pistol shot to ensure the kill. The recoil propels them out of reach, leaving their foes defenceless.
 
-*Requires dual wielding a **Sword** and a **Pistol**. You disengage after attacking.*
+*Requires dual wielding a **Sword** and a **Pistol**. When you roll 6+ damage you may disengage after attacking.*
 
 #### 4: Last Bastion
 
