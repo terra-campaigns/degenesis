@@ -4,8 +4,13 @@ title: Jacob
 parent: Vostok Scouts
 grand_parent: People
 
+status: Missing
+
 ---
-# Jacob
+
+# {{ page.title }}
+
+> {{ page.status }}
 
 - text and images
 - character sheet

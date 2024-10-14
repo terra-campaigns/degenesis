@@ -4,8 +4,13 @@ title: Luna
 parent: Vostok Scouts
 grand_parent: People
 
+status: 
+
 ---
-# Luna
+
+# {{ page.title }}
+
+> {{ page.status }}
 
 - text and images
 - character sheet

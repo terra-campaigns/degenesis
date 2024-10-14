@@ -4,8 +4,13 @@ title: Yuri
 parent: Vostok Scouts
 grand_parent: People
 
+status: Missing
 ---
-# Yuri
+
+# {{ page.title }}
+
+> {{ page.status }}
+
 
 - text and images
 - character sheet
