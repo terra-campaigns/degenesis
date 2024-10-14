@@ -2,8 +2,6 @@
 layout: default
 title: Migrants
 parent: Creatures
-nav_exclude: true
-search_exclude: true
 
 footer_content: Images & adapted text from <a href="https://degenesis.com/">degenesis.com</a> for private use only. Copyright &copy; 2021 by SIXMOREVODKA.
 ---
