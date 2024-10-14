@@ -1,6 +1,6 @@
 ---
 layout: default
-title: To Kiev South
+title: Vostok & Ironclaw purged
 has_children: true
 nav_order: 10
 

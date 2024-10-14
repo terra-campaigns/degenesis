@@ -1,7 +1,7 @@
 ---
 layout: default
 title: In the spore wall
-parent: To Kiev South
+parent: Vostok & Ironclaw purged
 nav_order: 1
 
 timestamp: 2593-10-02

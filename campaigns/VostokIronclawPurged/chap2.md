@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Spitalian raid
-parent: To Kiev South
+parent: Vostok & Ironclaw purged
 nav_order: 2
 
 timestamp: 2593-10-03
