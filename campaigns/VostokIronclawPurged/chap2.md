@@ -3,10 +3,8 @@ layout: default
 title: The Spitalian raid
 parent: Vostok & Ironclaw purged
 nav_order: 2
-
 timestamp: 2593-10-03
 region: East Pollen
-
 ---
 
 {% include chapter_header.md %}
@@ -37,13 +35,12 @@ As firelight dances across the walls, Spitalians surge through, spreading death 
 
 ![](https://i.imgur.com/6WBQGoW.png)
 
-
 ---
 #### Connected to
+{: .no_toc }
 
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
 - [Luna](https://terra-campaigns.github.io/degenesis/people/Vostok/luna), from people/Vostok
 - [Jacob](https://terra-campaigns.github.io/degenesis/people/Vostok/jacob), from people/Vostok
 <!-- SerializedQuery END -->
-
