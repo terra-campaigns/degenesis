@@ -19,7 +19,11 @@ The following links can be used as an introduction of the **Degenesis** setting:
 
 ## Themes
 
-Define themes.
+- **Survival and Mutation**: Humanity battles to endure in a world reshaped by cosmic spores that mutate life, testing resilience against both nature and alien threats.
+- **Group Conflict**: Deep divides among Cultures and Cults fuel ideological clashes, as factions vie for dominance, often at the cost of unity.
+- **Civilization’s Decay**: Society has regressed to tribal states amid the ruins of a lost civilization, struggling between progress and the primal need for survival.
+- **Fatalism and Hope**: Despite a bleak world, human resilience and fleeting moments of solidarity offer a glimmer of hope against pervasive despair.
+- **Primal vs. Modernity**: Primitive instincts clash with remnants of lost sophistication, as humanity’s tribalism meets distorted echoes of past modernity.
 
 ## Timeline
 
