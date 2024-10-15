@@ -5,5 +5,4 @@
 {% for sec in page.bullets %} 
 | {{ sec }} | {% endfor %}
 
-|**GEAR**| {% for sec in page.gear %} 
-| {{ sec }} | {% endfor %}
+|**Gear:** {% for sec in page.gear %} {{ sec }}, {% endfor %}
