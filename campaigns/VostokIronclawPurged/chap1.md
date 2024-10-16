@@ -28,9 +28,11 @@ The group then moves southwest, traversing old metro and sewage tunnels, a testa
 
 ---
 #### Connected to
+{: .no_toc }
 
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+- [Vostok Kin](https://terra-campaigns.github.io/degenesis/people/Vostok/index), from people/Vostok
 - [Jacob](https://terra-campaigns.github.io/degenesis/people/Vostok/jacob), from people/Vostok
 - [Yuri](https://terra-campaigns.github.io/degenesis/people/Vostok/yuri), from people/Vostok
 - [Skittle](https://terra-campaigns.github.io/degenesis/people/Vostok/skittle), from people/Vostok
@@ -40,3 +42,7 @@ The group then moves southwest, traversing old metro and sewage tunnels, a testa
 - [Shard](https://terra-campaigns.github.io/degenesis/locations/Shard), from locations
 <!-- SerializedQuery END -->
 
+
+{% comment %}
+connected_to v0.1
+{% endcomment %}

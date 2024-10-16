@@ -89,3 +89,18 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 *Gain **Fatigue**. For the scene, you gain +1 Armour.*
 
 ![](https://img2.storyblok.com/2516x1415/filters:quality(90)/f/72501/2516x1415/6ca1363234/opener-anabaptists.jpg)
+
+---
+#### Connected to
+{: .no_toc }
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+- [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/index), from systems/backgrounds
+- [Protectorate Clique](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index), from people/ProtectorateClique
+<!-- SerializedQuery END -->
+
+
+{% comment %}
+connected_to v0.1
+{% endcomment %}

@@ -3,10 +3,8 @@ layout: default
 title: Return Geteli
 parent: Anthology
 nav_order: 20
-
 timestamp: 2589-03-23
 region: East Pollen
-
 ---
 
 {% include chapter_header.md %}
@@ -49,12 +47,16 @@ Pollen claimed her body, as it claimed so many others.
 
 ---
 #### Connected to
+{: .no_toc }
 
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
 - [Spitalians](https://terra-campaigns.github.io/degenesis/systems/backgrounds/spitalians), from systems/backgrounds
 - [Inquisitor Thorne](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/InquisitorThorne), from people/ProtectorateClique
 - [Migrants](https://terra-campaigns.github.io/degenesis/creatures/Migrants), from creatures
 <!-- SerializedQuery END -->
 
----
+
+{% comment %}
+connected_to v0.1
+{% endcomment %}
