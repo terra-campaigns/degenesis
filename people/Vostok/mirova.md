@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Elder Mirova
-parent: People
+parent: Vostok Kin
 
 status: Missing
 
@@ -28,7 +28,7 @@ notes:
 
 > {{ page.status }}
 
-> [Vorstok](../factions/Vorstok.md) Kin's guardian of traditions
+> [index](Vostok/index.md) Kin's guardian of traditions
 
 ![](https://i.imgur.com/GjAvGPx.png)
 
@@ -45,7 +45,7 @@ Elder Mirova is the Vostok Kin's revered guardian of traditions. She possesses d
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
-- [Vostok Kin](https://terra-campaigns.github.io/degenesis/factions/Vorstok), from factions
-- [To Kiev South](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/index), from campaigns/KievSouth
+- [Vostok Kin](https://terra-campaigns.github.io/degenesis/people/Vostok/index), from people/Vostok
+- [Vostok & Ironclaw purged](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/index), from campaigns/VostokIronclawPurged
 <!-- SerializedQuery END -->
 

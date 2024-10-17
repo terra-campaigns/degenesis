@@ -1,7 +1,7 @@
 ---
 layout: default
 title: In the spore wall
-parent: To Kiev South
+parent: Vostok & Ironclaw purged
 nav_order: 1
 
 timestamp: 2593-10-02
@@ -9,11 +9,9 @@ region: East Pollen
 
 ---
 
-# {{ page.title }}
+{% include chapter_header.md %}
 
-> {{ page.region}}, {{ page.timestamp }}
-
-A small detachment of [Vostok Scouts](../../people/VostokScouts/index.md) departs to discover the fate and location of the abducted women. Their number includes [Jacob](../../people/VostokScouts/jacob.md), [Yuri](../../people/VostokScouts/yuri.md), [Skittle](../../people/VostokScouts/skittle.md), [Luna](../../people/VostokScouts/luna.md) and [Dr. Sofia Markov](../../people/VostokScouts/sofia.md). Skittle and Yuri are cousins, and Yuri's beloved, Julia, is among the missing. Luna, a young spiritual adherent, is also deeply affected by the abductions, as her mother, Emenem, was taken. Jacob, a decisive man of action, assumes the role of the group’s protector, while Dr. Sofia, a self-proclaimed PhD, brings a semblance of reason to the eclectic assembly. The third missing woman is Valissa.
+A small detachment of [Vostok Scouts](../../people/Vostok/index.md) departs to discover the fate and location of the abducted women. Their number includes [Jacob](../../people/Vostok/jacob.md), [Yuri](../../people/Vostok/yuri.md), [Skittle](../../people/Vostok/skittle.md), [Luna](../../people/Vostok/luna.md) and [Dr. Sofia Markov](../../people/Vostok/sofia.md). Skittle and Yuri are cousins, and Yuri's beloved, Julia, is among the missing. Luna, a young spiritual adherent, is also deeply affected by the abductions, as her mother, Emenem, was taken. Jacob, a decisive man of action, assumes the role of the group’s protector, while Dr. Sofia, a self-proclaimed PhD, brings a semblance of reason to the eclectic assembly. The third missing woman is Valissa.
 
 Following a ceremonial ritual, in which spores are cooked and prepared into small pouches for future use, the scout detachment steels itself for the journey ahead. Opting for an unexpected route, they venture through the perilous Spore Wall, a daring decision intended to evade the Ironclaw raiders who likely guard the more obvious southern approach to their lair.
 
@@ -30,15 +28,21 @@ The group then moves southwest, traversing old metro and sewage tunnels, a testa
 
 ---
 #### Connected to
+{: .no_toc }
 
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "index" SORT file.folder DESC -->
-- [Jacob](https://terra-campaigns.github.io/degenesis/people/VostokScouts/jacob), from people/VostokScouts
-- [Yuri](https://terra-campaigns.github.io/degenesis/people/VostokScouts/yuri), from people/VostokScouts
-- [Skittle](https://terra-campaigns.github.io/degenesis/people/VostokScouts/skittle), from people/VostokScouts
-- [Luna](https://terra-campaigns.github.io/degenesis/people/VostokScouts/luna), from people/VostokScouts
-- [Dr. Sofia Markov](https://terra-campaigns.github.io/degenesis/people/VostokScouts/sofia), from people/VostokScouts
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+- [Vostok Kin](https://terra-campaigns.github.io/degenesis/people/Vostok/index), from people/Vostok
+- [Jacob](https://terra-campaigns.github.io/degenesis/people/Vostok/jacob), from people/Vostok
+- [Yuri](https://terra-campaigns.github.io/degenesis/people/Vostok/yuri), from people/Vostok
+- [Skittle](https://terra-campaigns.github.io/degenesis/people/Vostok/skittle), from people/Vostok
+- [Luna](https://terra-campaigns.github.io/degenesis/people/Vostok/luna), from people/Vostok
+- [Dr. Sofia Markov](https://terra-campaigns.github.io/degenesis/people/Vostok/sofia), from people/Vostok
 - [Kramatorsk](https://terra-campaigns.github.io/degenesis/locations/Kramatorsk), from locations
 - [Shard](https://terra-campaigns.github.io/degenesis/locations/Shard), from locations
 <!-- SerializedQuery END -->
 
+
+{% comment %}
+connected_to v0.1
+{% endcomment %}

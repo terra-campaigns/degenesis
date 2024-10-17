@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rurik, the Swift
-parent: People
+parent: Vostok Kin
 
 status: Deseased
 
@@ -28,7 +28,7 @@ notes:
 
 > {{ page.status }}
 
-> Fierce warrior from the [Vorstok](../factions/Vorstok.md) Kin
+> Fierce warrior from the [index](Vostok/index.md) Kin
 
 ![](https://i.imgur.com/U1XyNfX.png)
 
@@ -46,6 +46,6 @@ Rurik, the Swift, is a fierce warrior from the Vostok Kin, renowned for his exce
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
-- [Vostok Kin](https://terra-campaigns.github.io/degenesis/factions/Vorstok), from factions
+- [Vostok Kin](https://terra-campaigns.github.io/degenesis/people/Vostok/index), from people/Vostok
 <!-- SerializedQuery END -->
 

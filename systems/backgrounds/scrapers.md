@@ -89,3 +89,19 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 
 ![](https://img2.storyblok.com/3492x1964/filters:quality(90)/f/72501/3508x1973/32682ccbb9/opener-scrappers.jpg)
+
+---
+#### Connected to
+{: .no_toc }
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+- [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/index), from systems/backgrounds
+- [Vorons](https://terra-campaigns.github.io/degenesis/people/Vorons/index), from people/Vorons
+- [Protectorate Clique](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index), from people/ProtectorateClique
+<!-- SerializedQuery END -->
+
+
+{% comment %}
+connected_to v0.1
+{% endcomment %}

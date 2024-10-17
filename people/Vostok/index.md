@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Vostok Kin
-parent: Factions
+parent: People
+
+has_children: true
 
 status:
 
@@ -30,13 +32,18 @@ r: 2
 | Conflict Resolution | Disputes are settled through council meetings where elders mediate and seek the wisdom of the spirits.                                                                                                                                                                                                               |
 
 ---
+
+Players are welcomed to edit their own characters.
+Use the link on the bottom of your character page.
+
+---
 #### Connected to
 
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != "index" SORT file.folder DESC -->
-- [Elder Mirova](https://terra-campaigns.github.io/degenesis/people/mirova), from people
-- [Rurik, the Swift](https://terra-campaigns.github.io/degenesis/people/rurik), from people
-- [Yelena, the Seer](https://terra-campaigns.github.io/degenesis/people/yelena), from people
-- [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/KievSouth/chap2), from campaigns/KievSouth
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" WHERE file.name != "index" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" WHERE file.name != "index" SORT file.folder DESC -->
+- [Elder Mirova](https://terra-campaigns.github.io/degenesis/people/Vostok/mirova), from people/Vostok
+- [Rurik, the Swift](https://terra-campaigns.github.io/degenesis/people/Vostok/rurik), from people/Vostok
+- [Yelena, the Seer](https://terra-campaigns.github.io/degenesis/people/Vostok/yelena), from people/Vostok
+- [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1), from campaigns/VostokIronclawPurged
+- [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2), from campaigns/VostokIronclawPurged
 <!-- SerializedQuery END -->
-

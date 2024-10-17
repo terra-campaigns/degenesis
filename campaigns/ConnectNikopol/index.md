@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Protectorate Clique
+title: Connect with Nikopol
 has_children: true
-nav_order: 11
+nav_order: 5
 
 timestamp1: 2589-03-23
 timestamp2: 2589-04-02
