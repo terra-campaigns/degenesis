@@ -18,10 +18,13 @@ nav_exclude: TRUE
 
 ## v0.3.2-deg
 
+- Named the system: **Primal Odd**
 - Added:
 	- Ruin: New Sepsis infestation sub system
 	- Credits to Mark of the Odd
 	- Attribute loss text
+	- Include for PCs and NPCs to use metadata
+	- Templated "connected_to" Obsidian function
 - Changed:
 	- Background (Cults and Clans) is also influenced by Culture
 	- Scar 3 only adds 1d4 to HP (from Monolith)
