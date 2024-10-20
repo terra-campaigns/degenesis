@@ -1,15 +1,16 @@
 ---
-title: Apocalyptics
+title: Cossacks
 layout: default
 parent: Backgrounds
 
 ---
 
-# Apocalyptics
+# {{ page.title }}
 
-> [Apocalyptics](https://degenesis.com/world/cults/apocalyptics) live a pure and unbridled life. They appear in Flocks, swooping into gambling dens and nesting in bordellos. Their distillate is stronger, their Burn more potent, their whores more beautiful. Any vice finds a welcome home with them. They live in the present. All emotions are sacred to them and equally celebrated as if they were the last.
+> ...
 
-![](https://a.storyblok.com/f/72501/2715x3840/8a0617fc38/011-apocalyptics-archetype.jpg)
+![](https://i.imgur.com/Z7QOT6x.png)
+
 
 ## Names
 
@@ -49,4 +50,4 @@ Every time you roll a scar, if the result is higher than your current **Rank** r
 | **5** |     |
 | **6** |     |
 
-![](https://img2.storyblok.com/2516x1415/filters:quality(90)/f/72501/2516x1415/42a8f02000/opener-apocalyptics.jpg)
+![](https://i.imgur.com/Do1F0bo.png)
