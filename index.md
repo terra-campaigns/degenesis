@@ -49,4 +49,4 @@ The following links can be used as an introduction of the **Degenesis** setting:
 - **VTT**: Theatre of the mind / Owlbear Rodeo  
 - **Language**: English  
 - **Communication**: Discord voice. Video optional.  
-- **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression.
+- **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression..
