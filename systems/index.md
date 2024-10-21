@@ -5,7 +5,7 @@ has_children: true
 has_toc: false
 nav_order: 99
 
-footer_content: System mechanics licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0</a>. See <a href=CHANGELOG>CHANGELOG</a>.
+footer_content: System mechanics licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0</a>. See <a href=/CHANGELOG>CHANGELOG</a>.
 
 ---
 
