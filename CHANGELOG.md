@@ -18,9 +18,9 @@ nav_exclude: TRUE
 
 ## v0.4.0-deg
 
-- Named the system: **Primal Odd**
+- Named the system: **Primal Odd**, and new logo
 - Added:
-	- Ruin: New Sepsis infestation sub system
+	- Ruin: New Sepsis infestation sub system, aligned with MOTO
 	- Credits to Mark of the Odd
 	- Attribute loss text
 	- Include for PCs and NPCs to use metadata
@@ -28,6 +28,7 @@ nav_exclude: TRUE
 - Changed:
 	- Background (Cults and Clans) is also influenced by Culture
 	- Scar 3 only adds 1d4 to HP (from Monolith)
+	- Improved PC statblocks, and link to frontmatter
 - Removed:
 	- Inventory (Burdens)
 
