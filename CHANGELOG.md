@@ -16,6 +16,11 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
+## v0.4.1-deg
+
+- Under the hood:
+	- New href for redirect_to are dynamic
+
 ## v0.4.0-deg
 
 - Named the system: **Primal Odd**, and new logo
