@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 
-footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, licensed under the <a href=https://en.wikipedia.org/wiki/MIT_License">MIT License</a>.
+footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, licensed under the <a href=https://en.wikipedia.org/wiki/MIT_License">MIT License</a>. See <a href=\degenesis/systems/CHANGELOG>CHANGELOG</a>.
 
 ---
 
@@ -50,3 +50,4 @@ The following links can be used as an introduction of the **Degenesis** setting:
 - East Pollen, October 02, 2593: [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1) (Vostok & Ironclaw purged)
 - East Pollen, October 03, 2593: [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2) (Vostok & Ironclaw purged)
 <!-- SerializedQuery END -->
+

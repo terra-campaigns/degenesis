@@ -5,23 +5,22 @@ Environment suits and masks reduce the impact of Spore Infestation, analog to ho
 Spore Infestation reduces **WIL**.
 
 If reduced to **0 WIL**, a cultural stigma blooms.
-This stigma changes slowly over time, and goes away when your **WIL** is fully recovered.
-When the stigma goes away, you develop a [Sepsis Mutation](#sepsis-mutations).
-Roll a d6 on the table below.
+Look up the result of the roll on the table below, and then roll on the adequate [Sepsis Mutation](#sepsis-mutations) table.
+As your cultural stigma fades away, your mutation manifests.
+The development is complete when your **WIL** is recovered fully.
 
-|         |                                                 |
-| ------- | ----------------------------------------------- |
-| **1**   | Roll on the beneficial mental mutation table    |
-| **2**   | Roll on the beneficial physical mutation table  |
-| **3:4** | Roll on the detrimental mental mutation table   |
-| **5:6** | Roll on the detrimental physical mutation table |
+|        |                                                 |
+| ------ | ----------------------------------------------- |
+| **1**  | Roll on the beneficial mental mutation table    |
+| **2**  | Roll on the beneficial physical mutation table  |
+| **3**  | Roll on the detrimental mental mutation table   |
+| **4+** | Roll on the detrimental physical mutation table |
 
 ## Sporination
 {: .no_toc }
 
 |         |                                                                     |
 | ------- | ------------------------------------------------------------------- |
-| **1**   | Light sporination close to spore field                              |
 | **d4**  | Spore mist in hi-risk zones                                         |
 | **d6**  | Strong sporination in adult spore field                             |
 | **d8**  | Fungal bloom in adult spore field                                   |
