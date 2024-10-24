@@ -88,20 +88,22 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 *Gain **Fatigue**. You see a place where you can rest safely, and hidden, for a **Watch** (you still have to get there safely).*
 
 
-![](https://img2.storyblok.com/3492x1964/filters:quality(90)/f/72501/3508x1973/32682ccbb9/opener-scrappers.jpg)
+![](https://i.imgur.com/TA3vnRv.png)
+
 
 ---
 #### Connected to
 {: .no_toc }
 
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
 - [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/index), from systems/backgrounds
 - [Vorons](https://terra-campaigns.github.io/degenesis/people/Vorons/index), from people/Vorons
-- [Protectorate Clique](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index), from people/ProtectorateClique
 <!-- SerializedQuery END -->
 
 
 {% comment %}
-connected_to v0.1
+connected_to v0.2
 {% endcomment %}
+
+![](https://img2.storyblok.com/3492x1964/filters:quality(90)/f/72501/3508x1973/32682ccbb9/opener-scrappers.jpg)
