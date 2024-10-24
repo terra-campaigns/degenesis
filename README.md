@@ -1,6 +1,6 @@
 # Degenesis
 
-![](imgs/degenesisBG.png)
+![](imgs/DG-moto_logo.png)
 
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
