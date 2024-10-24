@@ -41,6 +41,8 @@ Burn can be of two potencies.
 Weak Burn deals **d4** Spore Infestation and its effect lasts for one scene.
 Potent Burn deals **d12** Spore Infestation and its effect lasts for one day.
 
+![](https://i.imgur.com/tMZs1Q9.png)
+
 |          |                                                                                                                                                                                                                                            |                                                          |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
 | **BION** | Pollen brings cold and hunger, while **Bion** offers warmth and comfort. One deep breath from the goat skin connects the person to the land, revitalising them with cold winds and minimal sustenance as their body fills with life force. | The Burner shakes off illness and poison, feels no cold. |
