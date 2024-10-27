@@ -18,8 +18,18 @@ nav_exclude: TRUE
 
 ## v0.4.1-deg
 
+- Added:
+	- Backgrounds: Cossacks
+	- Stereotypes for all Clans and Cults
+- Changed:
+	- Website name to Primal Odd
+	- Font is now Nunito
+	- Integrating Cultures and Backgrounds
 - Under the hood:
-	- New href for redirect_to are dynamic
+	- New href for redirect_to are dynamic, and removed TOC from systems/index
+	- Updated connected_to template (v0.2)
+	- Removed unused images (legacy)
+	- Added SMV DIY images
 
 ## v0.4.0-deg
 
