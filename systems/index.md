@@ -5,22 +5,11 @@ has_children: true
 has_toc: false
 nav_order: 99
 
-footer_content: System mechanics licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0</a>. See <a href=../CHANGELOG>CHANGELOG</a>.
-
 ---
 
 ![](../imgs/DG-moto_logo.png)
 
 {% include srd_modules/srd_version.md %}
-
-<details close markdown="block">
-  <summary id="index">
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 # Character Creation
 

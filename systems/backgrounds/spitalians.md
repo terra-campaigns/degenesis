@@ -85,20 +85,21 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 *Your attacks are enhanced until someone rejoins the fight.*
 
-![](https://img2.storyblok.com/3420x2162/filters:quality(90)/f/72501/4570x2887/fdff41381a/opener-spitalian.jpg)
+![](https://i.imgur.com/boJTIow.png)
 
 ---
 #### Connected to
 {: .no_toc }
 
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC -->
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
 - [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/index), from systems/backgrounds
-- [Protectorate Clique](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index), from people/ProtectorateClique
 - [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/Anthology/ReturnGeteli), from campaigns/Anthology
 <!-- SerializedQuery END -->
 
 
 {% comment %}
-connected_to v0.1
+connected_to v0.2
 {% endcomment %}
+
+![](https://img2.storyblok.com/3420x2162/filters:quality(90)/f/72501/4570x2887/fdff41381a/opener-spitalian.jpg)
