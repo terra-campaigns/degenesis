@@ -2,7 +2,7 @@
 layout: default
 title: Vostok & Ironclaw purged
 has_children: true
-nav_order: 10
+nav_order: 4
 footer_content:
 has_toc: FALSE
 ---
