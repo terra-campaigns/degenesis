@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Return Geteli
-parent: Anthology
+parent: Connect with Nikopol
 nav_order: 20
 timestamp: 2589-03-23
 region: East Pollen
