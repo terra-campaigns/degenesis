@@ -28,14 +28,13 @@ The following links can be used as an introduction of the **Degenesis** setting:
 # Open Table
 
 - **Campaign approach**: [Open Table](https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto), sandbox & episodic
-- **Planned starting date**: 18th January 2025, Saturday
-- **Frequency**: Once every 6 days (moving through the week to accommodate for different players' availability)
+- **Planned starting date**: 11th January 2025, Saturday
+- **Frequency**: Once every 6 days (moving through the weekdays)
 - **Time & Duration**: <t:1737225900:t> to <t:1737236700:t>
 - **Sign-up**: First come, first served. Players left in the waiting list will have priority for the following session.
 - **Module**: [Degenesis](https://terra-campaigns.github.io/degenesis/) setting
 - **TTRPG system**: [Primal Odd](https://terra-campaigns.github.io/degenesis/systems/) (Cairn hack)
 - **Desired theme**: Post apocalyptic, primal punk
-- **Desired style**: OSR, episodic building an anthology.
 - **VTT**: Theatre of the mind / Owlbear Rodeo
 - **Language**: English
 - **Communication**: Discord voice. Video optional.
