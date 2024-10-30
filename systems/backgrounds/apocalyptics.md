@@ -49,41 +49,14 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 ## What is your potential? Roll 1d6.
 
-#### 1: All-in
-
-| Make your bets! In combat, you don’t just bet gold or luck—you wager blood and bones. Only an Apocalyptic would dare to go all in, risking everything for a chance at glory. And oh, how they smile at the prospect of winning it all.
-
-*When an opponent rolls a **1** on their weapon die, your next attack is Enhanced.*
-
-#### 2: Card of Destiny
-
-| The cards? Tools for manipulation, yes, but the longer you use them, the more you begin to understand. Their faces are more than symbols—they are echoes, shadows cast by the future onto the past. Those who know how to read them don't just walk through the present—they walk through time.
-
-*Once per week you can predict a situation. If it comes to pass, your first save is successful or have your first attack Enhanced.*
-
-#### 3: Crow's Nest
-
-| The Flock is more than kin—it’s a heartbeat that echoes through the Apocalyptic’s soul, the origin of every step they take. Harm the Flock, and you carve into the Apocalyptic’s very flesh.
-
-*Gain **Fatigue**. All Apocalyptics' attacks are Enhanced and non-Blast attacks against them are Impaired until they next take STR damage.*
-
-#### 4: Mirror
-
-| In the heat of battle, the Apocalyptic’s heart beats in sync with his enemy’s—two hearts, one rhythm. He watches, learns, and echoes every move, as if they were sparring partners bound by fate.
-
-*Gain **Fatigue**. Use your opponent's weapon die, instead of yours.*
-
-#### 5: Black Omen
-
-| The Flock’s fortune tellers peer beyond the veil of the present, into darkened futures. It isn’t difficult for them to see—no more than binding a dead crow or drawing a bloody cross upon a door. These omens are whispers from the primal dark, and the world fears their savagery, seeing in them a pact with forces that should never be summoned.
-
-*The target suffer 1d4 WIL loss.*
-
-#### 6: 1000 Ways
-
-| The Apocalyptic has fought in a hundred battles and mastered a thousand styles—only to cast them all aside. Combat isn’t a dance of rigid steps or a game of seduction. It’s chaos, pure and untamed. In the end, only one thing matters: victory. The path to it? Infinite.
-
-*Gain **Fatigue**. After your first melee attack, your following melee attacks are Enhanced.*
+|       |                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **ALL-IN**: *Make your bets! In combat, you don’t just bet gold or luck—you wager blood and bones. Only an Apocalyptic would dare to go all in, risking everything for a chance at glory. And oh, how they smile at the prospect of winning it all.*<br>When an opponent rolls a **1** on their weapon die, your next attack is Enhanced.                                                                                                                   |
+| **2** | **CARD OF DESTINY**: *The cards? Tools for manipulation, yes, but the longer you use them, the more you begin to understand. Their faces are more than symbols—they are echoes, shadows cast by the future onto the past. Those who know how to read them don't just walk through the present—they walk through time.*<br>Once per week you can predict a situation. If it comes to pass, your first save is successful or have your first attack Enhanced. |
+| **3** | **CROW'S NEST**: *The Flock is more than kin—it’s a heartbeat that echoes through the Apocalyptic’s soul, the origin of every step they take. Harm the Flock, and you carve into the Apocalyptic’s very flesh.*<br>Gain **Fatigue**. All Apocalyptics' attacks are Enhanced and non-Blast attacks against them are Impaired until they next take STR damage.                                                                                                |
+| **4** | **MIRROR**: *In the heat of battle, the Apocalyptic’s heart beats in sync with his enemy’s—two hearts, one rhythm. He watches, learns, and echoes every move, as if they were sparring partners bound by fate.*<br>Gain **Fatigue**. Use your opponent's weapon die, instead of yours.                                                                                                                                                                      |
+| **5** | **BLACK OMEN**: *The Flock’s fortune tellers peer beyond the veil of the present, into darkened futures. It isn’t difficult for them to see—no more than binding a dead crow or drawing a bloody cross upon a door. These omens are whispers from the primal dark, and the world fears their savagery, seeing in them a pact with forces that should never be summoned.*<br>The target suffer 1d4 WIL loss.                                                 |
+| **6** | **1000 WAYS**: *The Apocalyptic has fought in a hundred battles and mastered a thousand styles—only to cast them all aside. Combat isn’t a dance of rigid steps or a game of seduction. It’s chaos, pure and untamed. In the end, only one thing matters: victory. The path to it? Infinite.*<br>Gain **Fatigue**. After your first melee attack, your following melee attacks are Enhanced.                                                                |
 
 ![](https://i.imgur.com/xzyBYri.png)
 
