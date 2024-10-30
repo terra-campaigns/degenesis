@@ -40,7 +40,7 @@ When creating images, please follow this style:
 - Cinematic comic art composition, with dramatic lighting and contrast, imbues scenes with a mythic quality, highlighting the bleak beauty of decay.
 - Renaissance-inspired precision contrasts beauty with grotesque decay, blending ancient and futuristic elements.
 
-When creating people, creature and locations statblocks, please use the yaml template below:
+When creating people, creature and locations statblocks, please use the strict yaml template below:
 
 ```
 bullets:
@@ -50,5 +50,7 @@ bullets:
 - [diegetic: something the GM can use at the table, e.g. a noise, a face, a corporal expression]
 
 ```
+
+Do not use the words or brackets, they are there just for this GPT understanding. Use simple, short sentences.
 
 ---
