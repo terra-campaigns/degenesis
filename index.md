@@ -27,8 +27,7 @@ The following links can be used as an introduction of the **Degenesis** setting:
 
 # Open Table
 
-- **Campaign approach**: [Open Table](https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto), sandbox & episodic
-- **Planned starting date**: 11th January 2025, Saturday
+- **Campaign approach**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
 - **Frequency**: Once every 6 days (moving through the weekdays)
 - **Time & Duration**: <t:1737225900:t> to <t:1737236700:t>
 - **Sign-up**: First come, first served. Players left in the waiting list will have priority for the following session.
