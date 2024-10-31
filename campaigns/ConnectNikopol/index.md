@@ -3,10 +3,7 @@ layout: default
 title: Connect with Nikopol
 has_children: true
 nav_order: 5
-
-timestamp1: 2589-03-23
-timestamp2: 2589-04-02
-region: East Pollen
+has_toc: FALSE
 
 footer_content: 
 
@@ -14,7 +11,6 @@ footer_content:
 
 # {{ page.title }}
 
-> {{ page.region}}, {{ page.timestamp1 }} to {{ page.timestamp2 }} 
 
 ![](https://img2.storyblok.com/4000x2323/filters:quality(90)/f/72501/5076x2948/1d79ad3218/pollen-thundestorm.png)
 
@@ -23,3 +19,14 @@ footer_content:
 
 ![](https://i.imgur.com/N81zDfI.png)
 
+## Timeline of Events
+
+<!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE contains(file.folder, this.file.folder) AND file.name != "index" SORT timestamp, nav_order asc -->
+<!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE contains(file.folder, this.file.folder) AND file.name != "index" SORT timestamp, nav_order asc -->
+- East Pollen, March 23, 2589: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli) (Connect with Nikopol)
+- East Pollen, April 02, 2589: [To Nikopol 1](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1) (Connect with Nikopol)
+<!-- SerializedQuery END -->
+
+{% comment %}
+timeline v0.1
+{% endcomment %}

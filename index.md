@@ -27,15 +27,13 @@ The following links can be used as an introduction of the **Degenesis** setting:
 
 # Open Table
 
-- **Campaign approach**: [Open Table](https://thealexandrian.net/wordpress/38643/roleplaying-games/open-table-manifesto), sandbox & episodic
-- **Planned starting date**: 18th January 2025, Saturday
-- **Frequency**: Once every 6 days (moving through the week to accommodate for different players' availability)
+- **Campaign approach**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
+- **Frequency**: Once every 6 days (moving through the weekdays)
 - **Time & Duration**: <t:1737225900:t> to <t:1737236700:t>
 - **Sign-up**: First come, first served. Players left in the waiting list will have priority for the following session.
 - **Module**: [Degenesis](https://terra-campaigns.github.io/degenesis/) setting
 - **TTRPG system**: [Primal Odd](https://terra-campaigns.github.io/degenesis/systems/) (Cairn hack)
 - **Desired theme**: Post apocalyptic, primal punk
-- **Desired style**: OSR, episodic building an anthology.
 - **VTT**: Theatre of the mind / Owlbear Rodeo
 - **Language**: English
 - **Communication**: Discord voice. Video optional.
@@ -45,9 +43,9 @@ The following links can be used as an introduction of the **Degenesis** setting:
 
 <!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 <!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
-- East Pollen, March 23, 2589: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/Anthology/ReturnGeteli) (Anthology)
+- East Pollen, February 02, 2589: [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1) (Vostok & Ironclaw purged)
+- East Pollen, February 03, 2589: [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2) (Vostok & Ironclaw purged)
+- East Pollen, March 23, 2589: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli) (Connect with Nikopol)
 - East Pollen, April 02, 2589: [To Nikopol 1](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1) (Connect with Nikopol)
-- East Pollen, October 02, 2593: [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1) (Vostok & Ironclaw purged)
-- East Pollen, October 03, 2593: [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2) (Vostok & Ironclaw purged)
 <!-- SerializedQuery END -->
 

@@ -16,6 +16,15 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
+## v0.4.2-deg
+
+- Added:
+	- Creatures: Husk Spiders
+- Changed:
+	- Width of Nunito font
+- Under the hood:
+	- Templated timeline links for campaigns
+
 ## v0.4.1-deg
 
 - Added:
