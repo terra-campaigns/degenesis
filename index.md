@@ -15,7 +15,9 @@ The following links can be used as an introduction of the **Degenesis** setting:
 
 - **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)
 - [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
-- [**Degenesis** Official](https://degenesis.com) website
+- [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded 
+- Lore Drops
+- Echoes of Eshaton
 
 ## Themes
 
@@ -27,17 +29,19 @@ The following links can be used as an introduction of the **Degenesis** setting:
 
 # Open Table
 
+- **GM:** efsa (Estêvão)
 - **Campaign approach**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
-- **Frequency**: Once every 6 days (moving through the weekdays)
-- **Time & Duration**: <t:1737225900:t> to <t:1737236700:t>
+- **Frequency**: Mostly every 5 days (moving through the weekdays)
+- **Time & Duration**: 2045 CET/CEST, for 2.5h
 - **Sign-up**: First come, first served. Players left in the waiting list will have priority for the following session.
-- **Module**: [Degenesis](https://terra-campaigns.github.io/degenesis/) setting
+- **Module**: [Degenesis](https://degenesis.com/) setting
 - **TTRPG system**: [Primal Odd](https://terra-campaigns.github.io/degenesis/systems/) (Cairn hack)
 - **Desired theme**: Post apocalyptic, primal punk
 - **VTT**: Theatre of the mind / Owlbear Rodeo
 - **Language**: English
 - **Communication**: Discord voice. Video optional.
 - **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression.
+- **Documentation**: Campaign [website](https://terra-campaigns.github.io/degenesis/)
 
 # Timeline of Events
 
