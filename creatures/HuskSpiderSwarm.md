@@ -4,7 +4,7 @@ title: Husk Spider (Swarm)
 parent: Creatures
 
 hp: 6
-ar: 0
+armour: 0
 str: 6
 dex: 14
 wil: 8

@@ -3,7 +3,7 @@ layout: default
 title: Migrants
 parent: Creatures
 hp: 8
-ar: 2
+armour: 2
 str: 14
 dex: 11
 wil: 4
