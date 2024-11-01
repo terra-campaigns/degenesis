@@ -1,8 +1,14 @@
 # {{ page.title }}
 
-| {{ page.hp }} HP, {{ page.ar }} Armour, {{ page.s }} STR, {{ page.d }} DEX, {{ page.w }} WIL |
+| {{ page.hp }} HP, {{ page.armour }} Armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL |
 
-{% for sec in page.bullets %} 
-| {{ sec }} | {% endfor %}
+{% for sec in page.details %} 
+- {{ sec }}  {% endfor %}
+
+![]({{ page.image}})
 
 |**Gear:** {% for sec in page.gear %} {{ sec }}, {% endfor %}
+
+{% comment %}
+statblock_pc v0.2
+{% endcomment %}
