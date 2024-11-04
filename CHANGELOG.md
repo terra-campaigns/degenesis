@@ -16,8 +16,20 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
-## v0.4.3-deg
+## v0.4.3
 
+- Version sync with [template](https://github.com/terra-campaigns/template)
+- Added:
+	- Template PC statblock
+	- Rule for being exposed (0 HP)
+- Changed:
+	- Equipment tags updated
+- Removed:
+	- LICENSE file
+- Under the hood:
+	- Colour scheme is mapped in config.yaml
+	- Simpler CSS
+	- New Campaign, People, Creatures and Locations structure
 
 ## v0.4.2-deg
 
