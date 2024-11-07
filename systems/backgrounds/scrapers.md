@@ -55,23 +55,23 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > The Apocalyptics swindle them, Judges hound them, Chroniclers deceive them, and the Clans drive them away. But when their anger finally erupts, it spreads like wildfire, igniting a shared fury among the crowd. The Scrapper seizes the moment, rallying the mob to action with a few well-chosen words.
 
-*Gain **Fatigue**. A person or a small detachment develops a deep hatred of someone of your choice from another Cult.*
+*A person or a small detachment develops a deep hatred of someone of your choice from another Cult.*
 
 #### 2: Rat
 
 > Scrappers survive by avoiding trouble, but Rats among them seek it out while seamlessly blending into the crowd. They can pull off daring acts like robbing a merchant and skilfully shifting the blame to an unsuspecting bystander, disappearing into the throng with their loot unnoticed. No matter what they do, Rats always seem innocent, or at least, no one can ever prove otherwise.
 
-*Gain **Fatigue**. They cannot see your guilt.*
+*You can pull roguish acts and never be caught.*
 
 #### 3: Tough Dog
 
 > People kick and torment the Tough Dogs, but they just bite back, taunting, "Is that all you've got?" They endure the abuse, waiting for their enemies to tire, knowing they can take more punishment than most.
 
-*Gain **Fatigue**. For the scene, you gain +1 Armour.*
+*Gain +1 Armour (to the limit of 3).*
 
 #### 4: Nitro
 
-> Deep beneath layers of fear and survival instincts, a buried rage simmers within, fueled by the contempt of those who see them as mere dirt diggers. This hidden fury, unearthed through years of digging, waits to erupt and consume anyone who dares look down on them. When unleashed, this anger turns the Scrapper into a force of devastation, striking with unmatched ferocity.
+> Deep beneath layers of fear and survival instincts, a buried rage simmers within, fuelled by the contempt of those who see them as mere dirt diggers. This hidden fury, unearthed through years of digging, waits to erupt and consume anyone who dares look down on them. When unleashed, this anger turns the Scrapper into a force of devastation, striking with unmatched ferocity.
 
 *Gain **Fatigue**. Your attacks are enhanced and non-Blast attacks are impaired against you, until you take damage.*
 
@@ -79,13 +79,13 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > Skilled Scrappers uncover artefacts that make Chroniclers uneasy as they reluctantly part with their Drafts, while less fortunate Scrappers barely earn more than the scrap’s worth. The best Scrappers possess an instinct, a sixth sense for finding hidden treasures and avoiding dangers in the ruins.
 
-*Gain **Fatigue**. Choose one kind of object (key, arrow, gold, etc.). You can sense the nearest example.*
+*Choose one kind of object (key, arrow, gold, etc.). You can sense the nearest example.*
 
 #### 6: Darwin
 
 > In the harsh depths of the ruins, only the strongest emerge. The Darwins, through luck or sheer strength, consistently escape the most desperate situations. These masters of survival gain renown with each narrow escape.
 
-*Gain **Fatigue**. You see a place where you can rest safely, and hidden, for a **Watch** (you still have to get there safely).*
+*You see a place where you can rest safely, and hidden, for a **Watch** (you still have to get there safely).*
 
 
 ![](https://i.imgur.com/TA3vnRv.png)
