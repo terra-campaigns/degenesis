@@ -8,4 +8,5 @@ gem "just-the-docs", "0.10.0" # pinned to the current release
 
 gem "jekyll-relative-links"
 
-gem 'jekyll-redirect-from'
+gem "jekyll-redirect-from"
+

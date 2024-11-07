@@ -1,0 +1,28 @@
+---
+layout: default
+title: <PUT YOUR PC NAME HERE>
+parent: <PUT YOUR GROUP NAME HERE>
+
+str: CURRENT/MAX
+dex: CURRENT/MAX
+wil: CURRENT/MAX
+
+hp: CURRENT/MAX
+
+armour: VALUE
+
+details:
+  - "**Background**: <YOUR BACKGROUND DETAILS HERE, INCLUDING CULT/CLAN, RANK AND REGION>"
+  - "**Potential**: <YOUR POTENTIAL NAME AND DESCRIPTION HERE>"
+  - "**Bond**: <YOUR BOND NAME AND DESCRIPTION HERE>"
+  - <ANY OTHER INFO, AS MANY BULLETS AS NEEDED>
+
+image: <LINK TO IMAGE FILE>
+
+gear:
+  - YOUR GEAR HERE
+  - IN
+  - BULLET
+  - POINTS
+
+---

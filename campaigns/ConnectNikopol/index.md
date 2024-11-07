@@ -21,10 +21,10 @@ footer_content:
 
 ## Timeline of Events
 
-<!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE contains(file.folder, this.file.folder) AND file.name != "index" SORT timestamp, nav_order asc -->
-<!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE contains(file.folder, this.file.folder) AND file.name != "index" SORT timestamp, nav_order asc -->
-- East Pollen, March 23, 2589: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli) (Connect with Nikopol)
-- East Pollen, April 02, 2589: [To Nikopol 1](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1) (Connect with Nikopol)
+<!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM "degenesis/campaigns" WHERE contains(file.folder, this.file.folder) AND file.name != "index" SORT timestamp, nav_order asc -->
+<!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM "degenesis/campaigns" WHERE contains(file.folder, this.file.folder) AND file.name != "index" SORT timestamp, nav_order asc -->
+- East Pollen, March 23, 2589: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli)
+- East Pollen, April 02, 2589: [To Nikopol 1](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1)
 <!-- SerializedQuery END -->
 
 {% comment %}
