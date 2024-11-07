@@ -53,13 +53,13 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > The Spitalian expertly manoeuvres the Splayer, sliding the blades open and closed with precise, deadly efficiency. With a swift motion, he strikes, forcing the mechanism to snap open, and prepares for another strike, each movement adding to his defence and control of battlefield.
 
-*Requires a **Splayer**. Engaged opponent have their next attacks impaired. Your attacks are impaired (d4) but they have the Blast property.*
+*Requires a **Splayer**. Engaged opponents have their next attacks impaired. Your attacks are impaired (d4) but they have the Blast property.*
 
 #### 2: Phalanx
 
 > A wall of spears forms a nearly impenetrable defence, with each point aimed at the enemy. Standing shoulder to shoulder, the Spitalian joins the line, ready to draw attacks toward himself to protect his comrades. As the phalanx strengthens, any foe foolish enough to charge risks impaling themselves on their deadly formation.
 
-*Requires 2+ close allies. Your opponent is impaired if they try to attack the formation.*
+*Requires 2+ close allies. Your opponent is impaired if they try to attack the formation in melee.*
 
 #### 3: Preservalis
 
@@ -71,13 +71,13 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > The Spitalian's knowledge of his enemy runs deep—flesh torn, bones exposed, even the most hidden vulnerabilities laid bare. He knows precisely where to strike and how to inflict maximum pain. When facing Psychonauts, this intimate understanding grants him an edge, allowing him to strike with devastating accuracy.
 
-*Gain **Fatigue**. Your attacks against Psychonaults ignores armour.*
+*Requires a melee weapon. When you roll 6+ damage, your attack against Psychonaults ignores armour.*
 
 #### 5: Kranzler's Teachings
 
 > Kranzler's soul is unyielding, impervious even to the eerie chants of the Dushani. Famulancers study his techniques, but only the most dedicated can truly master them. Those who succeed become temporarily immune to Psychonautic mental influences, standing firm when others would falter.
 
-*Gain **Fatigue**. You are immune to Dushani chants.*
+*Gain **Fatigue**. You are immune to Dushani chants for the scene.*
 
 #### 6: The Last Farewell
 

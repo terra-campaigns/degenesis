@@ -62,7 +62,7 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > The enemy braces for a blade, but instead, the Anabaptist deftly pivots and strikes with the pommel of his sword, aiming for an unarmored vital spot. This technique, known as the Killing Joke, is a high-risk manoeuvre that can knock an opponent unconscious instantly.
 
-*Gain **Fatigue**. Your opponent becomes unconscious, but will awake if harmed.*
+*Requires a **Sword**. When you deal 6+ damage your opponent becomes unconscious, but will awake if harmed.*
 
 #### 3: Pneuma
 
@@ -80,13 +80,13 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
 > The Anabaptist’s senses have been sharpened to the point of near madness by his closeness to the enemy. He can detect the corruption of Psychonauts, Leperos, and spore fields with uncanny precision, bringing them into stark clarity. In his presence, the hidden horrors of the world cannot remain concealed.
 
-*You feel primer auras within 60ft. WIL save to avoid detection by Psychonaults.*
+*You feel primer auras within a short distance. WIL save to avoid detection by Psychonaults.*
 
 #### 6: Zealot
 
 > Through relentless austerity and daily meditation, the Anabaptist purifies himself, transcending physical pain and unleashing the power of his spirit. On the battlefield, his body becomes a shield, with pain serving only as a distant reminder of harm rather than a hindrance. His resilience allows him to endure, reducing the impact of trauma.
 
-*Gain **Fatigue**. For the scene, you gain +1 Armour.*
+*Gain +1 Armour (to the limit of 3).*
 
 ![](https://i.imgur.com/yn3nT0g.png)
 
