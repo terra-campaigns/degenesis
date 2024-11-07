@@ -16,6 +16,11 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
+## v0.4.4-deg
+
+- Changed:
+	- New nav_footer
+
 ## v0.4.3
 
 - Version sync with [template](https://github.com/terra-campaigns/template)

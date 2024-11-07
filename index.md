@@ -15,9 +15,9 @@ The following links can be used as an introduction of the **Degenesis** setting:
 
 - **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)
 - [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
-- [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded 
-- Lore Drops
-- Echoes of Eshaton
+- SMV's [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded 
+- Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist.
+- [Echoes of Eshaton](https://echoesofeshaton.com/) solo Degenesis play
 
 ## Themes
 
