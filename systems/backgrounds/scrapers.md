@@ -50,7 +50,28 @@ potentials:
     rule:
       You see a place where you can rest safely, and hidden, for a **Watch** (you still have to get there safely).
 
-  
+ranks:
+  - name: "1"
+    text:
+      - "**MOUSE**: You work for an old Scraper. He always offers you food. <br>"
+  - name: "2:3"
+    text:
+      - "**BADGER**: Take a **Shotgun** (d8 blast) or **Rifle** (d10), and a **Rune**. Other scrapers recognise when you scratch your **Rune** on walls. <br>" 
+  - name: "4:5"
+    text:
+      - "(choose one) All start with a **Rune**. <br>" 
+      - "**FOX**: Take a **Marvel Rifle** (d6) and a carrying rig. You have a foxhole you can use for hiding, protection and storage. <br>"
+      - "**MECHANIST**: Take a **Toolkit**. You always scrape more raw materials when dismantling. <br>"
+      - "**SCAVENGER**: Take a **Crusher** (d6) that looks brutal. Scavengers always help each other out. <br>"
+      - "**CARTEL THUG**: Take a **Heavy Leather Apron** (1 armour). You have a Cartel tattoo in your forehead, and Appraisers always leave you alone. <br>"
+  - name: "6"
+    text:
+      - "(choose one) All start with a **Rune**. <br>" 
+      - "**LONE WOLF**: Take an **Upgraded Marvel Rifle** (d8). You know your territory like no one else. <br>"
+      - "**MANUFACTURER**: Take **Workshops Keys**. Manufacturers always give access to each other's workshops. <br>"
+      - "**ALPHA WOLF**: Take a **Tonfa** (d6). You are held in high regard by Judges, Spitalians, Chroniclers and Helvectics. <br>"
+      - "**APPRAISER**: Take a **Revolver** (d6). You have access to Judges and can negotiate with Chroniclers on behalf of other Scrapers. <br>"
+
 ---
 
 # {{ page.title }}
@@ -85,13 +106,8 @@ potentials:
 
 ![](https://i.imgur.com/KFQ3EBG.png)
 
-|         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**   | **MOUSE**: You work for an old Scraper. He always offers you food.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **2:3** | **BADGER**: Take a **Shotgun** (d8 blast) or **Rifle** (d10), and a **Rune**. Other scrapers recognise when you scratch your **Rune** on walls.                                                                                                                                                                                                                                                                                                                                                                           |
-| **4:5** | (choose one) All start with a **Rune**.<br>**FOX**: Take a **Marvel Rifle** (d6) and a carrying rig. You have a foxhole you can use for hiding, protection and storage.<br>**MECHANIST**: Take a **Toolkit**. You always scrape more raw materials when dismantling.<br>**SCAVENGER**: Take a **Crusher** (d6) that looks brutal. Scavengers always help each other out.<br>**CARTEL THUG**: Take a **Heavy Leather Apron** (1 armour). You have a Cartel tattoo in your forehead, and Appraisers always leave you alone. |
-| **6**   | (choose one) All start with a **Rune**.<br>**LONE WOLF**: Take an **Upgraded Marvel Rifle** (d8). You know your territory like no one else.<br>**MANUFACTURER**: Take **Workshops Keys**. Manufacturers always give access to each other's workshops.<br>**ALPHA WOLF**: Take a **Tonfa** (d6). You are held in high regard by Judges, Spitalians, Chroniclers and Helvectics.<br>**APPRAISER**: Take a **Revolver** (d6). You have access to Judges and can negotiate with Chroniclers on behalf of other Scrapers.      |
-
+{% for entry in page.ranks %}
+| {{ entry.name }} | {{ entry.text }} {% endfor %}
 
 Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 
