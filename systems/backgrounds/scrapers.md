@@ -25,6 +25,27 @@ gear:
   - Rope & grappling hook (d4)
   - Compass
   - Periscope
+ranks:
+  - roll: "1"
+    text:
+      - "**MOUSE**: You work for an old Scraper. He always offers you food. <br>"
+  - roll: "2:3"
+    text:
+      - "**BADGER**: Take a **Shotgun** (d8 blast) or **Rifle** (d10), and a **Rune**. Other scrapers recognise when you scratch your **Rune** on walls. <br>"
+  - roll: "4:5"
+    text:
+      - (choose one) All start with a **Rune**. <br>
+      - "**FOX**: Take a **Marvel Rifle** (d6) and a carrying rig. You have a foxhole you can use for hiding, protection and storage. <br>"
+      - "**MECHANIST**: Take a **Toolkit**. You always scrape more raw materials when dismantling. <br>"
+      - "**SCAVENGER**: Take a **Crusher** (d6) that looks brutal. Scavengers always help each other out. <br>"
+      - "**CARTEL THUG**: Take a **Heavy Leather Apron** (1 armour). You have a Cartel tattoo in your forehead, and Appraisers always leave you alone. <br>"
+  - roll: "6"
+    text:
+      - (choose one) All start with a **Rune**. <br>
+      - "**LONE WOLF**: Take an **Upgraded Marvel Rifle** (d8). You know your territory like no one else. <br>"
+      - "**MANUFACTURER**: Take **Workshops Keys**. Manufacturers always give access to each other's workshops. <br>"
+      - "**ALPHA WOLF**: Take a **Tonfa** (d6). You are held in high regard by Judges, Spitalians, Chroniclers and Helvectics. <br>"
+      - "**APPRAISER**: Take a **Revolver** (d6). You have access to Judges and can negotiate with Chroniclers on behalf of other Scrapers. <br>"
 potentials:
   - roll: 1
     name: THE MOB
@@ -72,63 +93,9 @@ potentials:
       - These masters of survival gain renown with each narrow escape.
     rule:
       - You see a place where you can rest safely, and hidden, for a **Watch** (you still have to get there safely).
-ranks:
-  - roll: "1"
-    text:
-      - "**MOUSE**: You work for an old Scraper. He always offers you food. <br>"
-  - roll: 2:3
-    text:
-      - "**BADGER**: Take a **Shotgun** (d8 blast) or **Rifle** (d10), and a **Rune**. Other scrapers recognise when you scratch your **Rune** on walls. <br>"
-  - roll: 4:5
-    text:
-      - (choose one) All start with a **Rune**. <br>
-      - "**FOX**: Take a **Marvel Rifle** (d6) and a carrying rig. You have a foxhole you can use for hiding, protection and storage. <br>"
-      - "**MECHANIST**: Take a **Toolkit**. You always scrape more raw materials when dismantling. <br>"
-      - "**SCAVENGER**: Take a **Crusher** (d6) that looks brutal. Scavengers always help each other out. <br>"
-      - "**CARTEL THUG**: Take a **Heavy Leather Apron** (1 armour). You have a Cartel tattoo in your forehead, and Appraisers always leave you alone. <br>"
-  - roll: "6"
-    text:
-      - (choose one) All start with a **Rune**. <br>
-      - "**LONE WOLF**: Take an **Upgraded Marvel Rifle** (d8). You know your territory like no one else. <br>"
-      - "**MANUFACTURER**: Take **Workshops Keys**. Manufacturers always give access to each other's workshops. <br>"
-      - "**ALPHA WOLF**: Take a **Tonfa** (d6). You are held in high regard by Judges, Spitalians, Chroniclers and Helvectics. <br>"
-      - "**APPRAISER**: Take a **Revolver** (d6). You have access to Judges and can negotiate with Chroniclers on behalf of other Scrapers. <br>"
 ---
 
-# {{ page.title }}
-
-|                           |                         |
-| ------------------------- | ----------------------- |
-| ![]({{ page.icon_link }}) | {{ page.flavour_text }} |
-
-![]({{ page.img_front}})
-
-## Names
-
-{% for entry in page.names %} {{ entry }} <br>   {% endfor %}
-
-## Starting Gear
-
-{% for entry in page.gear %} {{ entry }} <br>   {% endfor %}
-
-## What is your rank? Roll a d6.
-
-![]({{ page.img_rank }})
-
-{% for entry in page.ranks %}
-| **{{ entry.roll }}** | {{ entry.text }} | {% endfor %}
-
-Depending on gained renown, you may be promoted to higher Ranks by your Cult.
-
-![]({{ page.img_eqpt }})
-
-## What is your potential? Roll a d6.
-
-{% for entry in page.potentials %}
-| **{{ entry.roll }}** | **{{ entry.name }}:** *"{{ entry.flavour }}"* <br> {{ entry.rule }} | {% endfor %}
-
-![]({{ page.img_sttp }})
-
+{% include statblock_background.md %}
 
 ---
 #### Connected to
