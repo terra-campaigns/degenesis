@@ -29,7 +29,7 @@ parent: Backgrounds
 
 - 2d6 x 50 Chronicler Drafts
 - Scalpel (d6)
-- Field Journal
+- Tranquilizer (3 uses)
 - Sterile Gloves
 
 ## What is your rank? Roll 1d6.
