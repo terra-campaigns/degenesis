@@ -28,7 +28,7 @@ def find_markdown_links(directory):
 
 def save_links_to_json(links, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(links, f, indent=4)
+        json.dump({"file": links}, f, indent=4)
 
 if __name__ == "__main__":
     # Setup command-line argument parsing
