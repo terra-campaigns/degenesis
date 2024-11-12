@@ -58,13 +58,13 @@ potentials:
     flavour:
       - "The enemy braces for a blade, but instead, the Anabaptist deftly pivots and strikes with the pommel of his sword, aiming for an unarmored vital spot. This technique, known as the Killing Joke, is a high-risk manoeuvre that can knock an opponent unconscious instantly."
     rule:
-      - Requires a **Sword**. When you deal 6+ damage your opponent becomes unconscious, but will awake if harmed.
+      - Requires a **Sword**. When you deal 6+ damage your opponent becomes unconscious, but will wake up if harmed.
   - roll: 3
     name: PNEUMA
     flavour:
       - "When the Anabaptist's blow strikes deep, something more than blood spills out—an essence, a glimpse of the divine Pneuma, escapes from the dying flesh. This momentary touch of the divine strengthens and uplifts him."
     rule:
-      - Gain **Fatigue**. Your opponent loses 1d6 STR, which is transferred to you temporarily (up to 18).
+      - Gain **Fatigue**. Your opponent loses d6 STR, which is transferred to you temporarily (up to 18).
   - roll: 4
     name: REALM OF EMANATIONS
     flavour:
