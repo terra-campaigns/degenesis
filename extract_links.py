@@ -20,9 +20,16 @@ def find_markdown_links(directory):
 
                     # Find all markdown links
                     file_links = link_pattern.findall(content)
-                    if file_links:
-                        # Add links to dictionary under the file path
-                        links[file_path] = [{"text": text, "url": url} for text, url in file_links]
+                    valid_links = []
+                    for text, url in file_links:
+                        # Skip links that contain Jekyll templating syntax
+                        if "{{" in text or "}}" in text or "{{" in url or "}}" in url:
+                            continue
+                        valid_links.append({"text": text, "url": url})
+
+                    if valid_links:
+                        # Add valid links to dictionary under the file path
+                        links[file_path] = valid_links
 
     return links
 
