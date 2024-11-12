@@ -44,6 +44,14 @@ Without a word, she ended her own life.
 
 Pollen claimed her body, as it claimed so many others.
 
+---
+
+New clues brought back by Inquisitor Thorne:
+
+- the unknown fruit sample
+- ​the surgically removed head of Geteli
+- the sight of the fleshy dead stuff
+- the sight of a massive tree inside the caverns
 
 ---
 #### Connected to
