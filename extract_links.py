@@ -25,7 +25,16 @@ def find_markdown_links(directory):
                         # Skip links that contain Jekyll templating syntax
                         if "{{" in text or "}}" in text or "{{" in url or "}}" in url:
                             continue
-                        valid_links.append({"text": text, "url": url})
+                        
+                        # Check if the URL is internal (relative path, not starting with http:// or https://)
+                        is_internal = not url.startswith(('http://', 'https://'))
+                        
+                        # Append link data with the is_internal field
+                        valid_links.append({
+                            "text": text,
+                            "url": url,
+                            "is_internal": is_internal
+                        })
 
                     if valid_links:
                         # Add valid links to dictionary under the file path
