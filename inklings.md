@@ -44,16 +44,9 @@ kanban-plugin: board
 - [ ] Vostok kin finds an oasis, very very new (fractal forest) - I know this was not here before! But we can live off it.
 - [ ] Vorons, based in Kiev, protect the spore fields to harvest Bison Burn. They burn fractal forests and partner with scrapers in the ruined city.
 - [ ] Pollen clans tell stories about the wretched had to children
-- [ ] 1. I think the take away for the survivor is:
-	    
-	    - the unknown fruit sample
-	    - the surgically removed head of Geteli
-	    - the sight of the fleshy dead stuff
-	    - the sight of a massive tree inside the caverns
-	    
-	    These will all be hooks for other one shots.
 - [ ] How to sync Bastionland approach to encounters and 2d6 12 is a dragon?
-- [ ] Vasco
+- [ ] Use 1 item from pollen for each session
+- [ ] Fractal forests receive gifts
 
 
 ## Themes
@@ -66,6 +59,15 @@ kanban-plugin: board
 ## Archive
 
 - [ ] System: remove skills.
+- [ ] 1. I think the take away for the survivor is:
+	    
+	    - the unknown fruit sample
+	    - the surgically removed head of Geteli
+	    - the sight of the fleshy dead stuff
+	    - the sight of a massive tree inside the caverns
+	    
+	    These will all be hooks for other one shots.
+- [ ] Vasco
 
 %% kanban:settings
 ```
