@@ -30,4 +30,7 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 {% for entry in page.potentials %}
 | **{{ entry.roll }}** | **{{ entry.name }}:** *"{{ entry.flavour }}"* <br> {{ entry.rule }} | {% endfor %}
 
+With enough time and a mentor you can learn new potentials.
+Even from other **Backgrounds**.
+
 ![]({{ page.img_sttp }})
