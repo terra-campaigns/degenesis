@@ -1,6 +1,6 @@
 {
     "file": {
-        "./CHANGELOG.md": [
+        "CHANGELOG.md": [
             {
                 "text": "template",
                 "url": "https://github.com/terra-campaigns/template",
@@ -27,7 +27,7 @@
                 "is_internal": false
             }
         ],
-        "./README.md": [
+        "README.md": [
             {
                 "text": "instructions for macOS",
                 "url": "https://jekyllrb.com/docs/installation/macos/",
@@ -39,7 +39,7 @@
                 "is_internal": false
             }
         ],
-        "./index.md": [
+        "index.md": [
             {
                 "text": "One",
                 "url": "https://www.youtube.com/watch?v=WTCARC91yyw",
@@ -121,7 +121,7 @@
                 "is_internal": false
             }
         ],
-        "./_includes/srd_modules/hp.md": [
+        "_includes/srd_modules/hp.md": [
             {
                 "text": "Healing & Recovery",
                 "url": "core-rules.md#Healing%20&%20Recovery",
@@ -133,10 +133,10 @@
                 "is_internal": true
             }
         ],
-        "./_includes/srd_modules/srd_version.md": [
+        "_includes/srd_modules/srd_version.md": [
             {
                 "text": "CHANGELOG",
-                "url": "../../CHANGELOG.md",
+                "url": "CHANGELOG.md",
                 "is_internal": true
             },
             {
@@ -170,31 +170,31 @@
                 "is_internal": false
             }
         ],
-        "./_includes/srd_modules/npcs.md": [
+        "_includes/srd_modules/npcs.md": [
             {
                 "text": "Hirelings",
-                "url": "/wip/2e/marketplace#hirelings-per-day",
+                "url": "wip/2e/marketplace#hirelings-per-day",
                 "is_internal": true
             },
             {
                 "text": "**background**",
-                "url": "/wip/2e/character-creation#backgrounds",
+                "url": "wip/2e/character-creation#backgrounds",
                 "is_internal": true
             },
             {
                 "text": "Character Creation",
-                "url": "/wip/2e/character-creation",
+                "url": "wip/2e/character-creation",
                 "is_internal": true
             }
         ],
-        "./_includes/srd_modules/combat.md": [
+        "_includes/srd_modules/combat.md": [
             {
                 "text": "Scars",
                 "url": "#scars-table",
                 "is_internal": true
             }
         ],
-        "./_includes/srd_modules/character-creation.md": [
+        "_includes/srd_modules/character-creation.md": [
             {
                 "text": "Character Sheet",
                 "url": "https://raw.githubusercontent.com/terra-campaigns/degenesis.test/refs/heads/main/systems/template_pc.md",
@@ -221,14 +221,14 @@
                 "is_internal": true
             }
         ],
-        "./misc/example.md": [
+        "misc/example.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
                 "is_internal": false
             }
         ],
-        "./_site/README.md": [
+        "_site/README.md": [
             {
                 "text": "instructions for macOS",
                 "url": "https://jekyllrb.com/docs/installation/macos/",
@@ -240,7 +240,7 @@
                 "is_internal": false
             }
         ],
-        "./_site/systems/culture.md": [
+        "_site/systems/culture.md": [
             {
                 "text": "Culture",
                 "url": "https://degenesis.com/world/cultures/",
@@ -248,7 +248,7 @@
             },
             {
                 "text": "Backgrounds",
-                "url": "backgrounds/",
+                "url": "backgrounds",
                 "is_internal": true
             },
             {
@@ -282,7 +282,7 @@
                 "is_internal": true
             }
         ],
-        "./_site/systems/ruin.md": [
+        "_site/systems/ruin.md": [
             {
                 "text": "Burn",
                 "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
@@ -309,21 +309,21 @@
                 "is_internal": false
             }
         ],
-        "./_obsidian/connected_to.md": [
+        "_obsidian/connected_to.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
                 "is_internal": false
             }
         ],
-        "./_obsidian/timeline.md": [
+        "_obsidian/timeline.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
                 "is_internal": false
             }
         ],
-        "./locations/Kramatorsk.md": [
+        "locations/Kramatorsk.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
@@ -340,14 +340,14 @@
                 "is_internal": false
             }
         ],
-        "./locations/Nikopol.md": [
+        "locations/Nikopol.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
                 "is_internal": false
             }
         ],
-        "./locations/Shard.md": [
+        "locations/Shard.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
@@ -364,29 +364,29 @@
                 "is_internal": false
             }
         ],
-        "./people/Vorons/index.md": [
+        "people/Vorons/index.md": [
             {
                 "text": "Chroniclers",
-                "url": "../../systems/backgrounds/chroniclers.md",
+                "url": "systems/backgrounds/chroniclers.md",
                 "is_internal": true
             },
             {
                 "text": "Scrapers",
-                "url": "../../systems/backgrounds/scrapers.md",
+                "url": "systems/backgrounds/scrapers.md",
                 "is_internal": true
             },
             {
                 "text": "Apocalyptics",
-                "url": "../../systems/backgrounds/apocalyptics.md",
+                "url": "systems/backgrounds/apocalyptics.md",
                 "is_internal": true
             },
             {
                 "text": "Cossacks",
-                "url": "../../systems/backgrounds/cossacks.md",
+                "url": "systems/backgrounds/cossacks.md",
                 "is_internal": true
             }
         ],
-        "./people/Vostok/rurik.md": [
+        "people/Vostok/rurik.md": [
             {
                 "text": "index",
                 "url": "Vostok/index.md",
@@ -408,7 +408,7 @@
                 "is_internal": false
             }
         ],
-        "./people/Vostok/luna.md": [
+        "people/Vostok/luna.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
@@ -430,7 +430,7 @@
                 "is_internal": false
             }
         ],
-        "./people/Vostok/yelena.md": [
+        "people/Vostok/yelena.md": [
             {
                 "text": "index",
                 "url": "Vostok/index.md",
@@ -457,7 +457,7 @@
                 "is_internal": false
             }
         ],
-        "./people/Vostok/mirova.md": [
+        "people/Vostok/mirova.md": [
             {
                 "text": "index",
                 "url": "Vostok/index.md",
@@ -484,7 +484,7 @@
                 "is_internal": false
             }
         ],
-        "./people/Vostok/index.md": [
+        "people/Vostok/index.md": [
             {
                 "text": "Pollen",
                 "url": "https://degenesis.com/world/cultures/pollen",
@@ -526,7 +526,7 @@
                 "is_internal": false
             }
         ],
-        "./people/Vostok/jacob.md": [
+        "people/Vostok/jacob.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
@@ -548,7 +548,7 @@
                 "is_internal": false
             }
         ],
-        "./people/Vostok/skittle.md": [
+        "people/Vostok/skittle.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
@@ -565,7 +565,7 @@
                 "is_internal": false
             }
         ],
-        "./people/Vostok/sofia.md": [
+        "people/Vostok/sofia.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
@@ -582,7 +582,7 @@
                 "is_internal": false
             }
         ],
-        "./people/Vostok/yuri.md": [
+        "people/Vostok/yuri.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
@@ -599,27 +599,27 @@
                 "is_internal": false
             }
         ],
-        "./people/ProtectorateClique/index.md": [
+        "people/ProtectorateClique/index.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
                 "is_internal": false
             }
         ],
-        "./campaigns/VostokIronclawPurged/chap2.md": [
+        "campaigns/VostokIronclawPurged/chap2.md": [
             {
                 "text": "index",
-                "url": "../../people/Vostok/index.md",
+                "url": "people/Vostok/index.md",
                 "is_internal": true
             },
             {
                 "text": "Luna",
-                "url": "../../people/Vostok/luna.md",
+                "url": "people/Vostok/luna.md",
                 "is_internal": true
             },
             {
                 "text": "Jacob",
-                "url": "../../people/Vostok/jacob.md",
+                "url": "people/Vostok/jacob.md",
                 "is_internal": true
             },
             {
@@ -648,10 +648,10 @@
                 "is_internal": false
             }
         ],
-        "./campaigns/VostokIronclawPurged/index.md": [
+        "campaigns/VostokIronclawPurged/index.md": [
             {
                 "text": "Vostok",
-                "url": "../../people/Vostok/index.md",
+                "url": "people/Vostok/index.md",
                 "is_internal": true
             },
             {
@@ -661,17 +661,17 @@
             },
             {
                 "text": "Mirova",
-                "url": "../../people/Vostok/mirova.md",
+                "url": "people/Vostok/mirova.md",
                 "is_internal": true
             },
             {
                 "text": "Yelena",
-                "url": "../../people/Vostok/yelena.md",
+                "url": "people/Vostok/yelena.md",
                 "is_internal": true
             },
             {
                 "text": "Scouts",
-                "url": "../../people/Vostok/index.md",
+                "url": "people/Vostok/index.md",
                 "is_internal": true
             },
             {
@@ -720,40 +720,40 @@
                 "is_internal": false
             }
         ],
-        "./campaigns/VostokIronclawPurged/chap1.md": [
+        "campaigns/VostokIronclawPurged/chap1.md": [
             {
                 "text": "Vostok Scouts",
-                "url": "../../people/Vostok/index.md",
+                "url": "people/Vostok/index.md",
                 "is_internal": true
             },
             {
                 "text": "Jacob",
-                "url": "../../people/Vostok/jacob.md",
+                "url": "people/Vostok/jacob.md",
                 "is_internal": true
             },
             {
                 "text": "Yuri",
-                "url": "../../people/Vostok/yuri.md",
+                "url": "people/Vostok/yuri.md",
                 "is_internal": true
             },
             {
                 "text": "Skittle",
-                "url": "../../people/Vostok/skittle.md",
+                "url": "people/Vostok/skittle.md",
                 "is_internal": true
             },
             {
                 "text": "Luna",
-                "url": "../../people/Vostok/luna.md",
+                "url": "people/Vostok/luna.md",
                 "is_internal": true
             },
             {
                 "text": "Dr. Sofia Markov",
-                "url": "../../people/Vostok/sofia.md",
+                "url": "people/Vostok/sofia.md",
                 "is_internal": true
             },
             {
                 "text": "Kramatorsk",
-                "url": "../../locations/Kramatorsk.md",
+                "url": "locations/Kramatorsk.md",
                 "is_internal": true
             },
             {
@@ -763,7 +763,7 @@
             },
             {
                 "text": "Shard",
-                "url": "../../locations/Shard.md",
+                "url": "locations/Shard.md",
                 "is_internal": true
             },
             {
@@ -817,14 +817,14 @@
                 "is_internal": false
             }
         ],
-        "./campaigns/ConnectNikopol/ToNikopol1.md": [
+        "campaigns/ConnectNikopol/ToNikopol1.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
                 "is_internal": false
             }
         ],
-        "./campaigns/ConnectNikopol/index.md": [
+        "campaigns/ConnectNikopol/index.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
@@ -846,7 +846,7 @@
                 "is_internal": false
             }
         ],
-        "./campaigns/ConnectNikopol/ReturnGeteli.md": [
+        "campaigns/ConnectNikopol/ReturnGeteli.md": [
             {
                 "text": "Pollen",
                 "url": "https://degenesis.com/world/cultures/pollen",
@@ -854,17 +854,17 @@
             },
             {
                 "text": "Spitalians",
-                "url": "../../systems/backgrounds/spitalians.md",
+                "url": "systems/backgrounds/spitalians.md",
                 "is_internal": true
             },
             {
                 "text": "Migrant",
-                "url": "../../creatures/Migrants.md",
+                "url": "creatures/Migrants.md",
                 "is_internal": true
             },
             {
                 "text": "Inquisitor Thorne",
-                "url": "../../people/ProtectorateClique/InquisitorThorne.md",
+                "url": "people/ProtectorateClique/InquisitorThorne.md",
                 "is_internal": true
             },
             {
@@ -873,21 +873,21 @@
                 "is_internal": false
             }
         ],
-        "./campaigns/Anthology/index.md": [
+        "campaigns/Anthology/index.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
                 "is_internal": false
             }
         ],
-        "./creatures/HuskSpiderSwarm.md": [
+        "creatures/HuskSpiderSwarm.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
                 "is_internal": false
             }
         ],
-        "./creatures/Migrants.md": [
+        "creatures/Migrants.md": [
             {
                 "text": "Pollen",
                 "url": "https://degenesis.com/world/cultures/pollen",
@@ -909,7 +909,7 @@
                 "is_internal": false
             }
         ],
-        "./systems/culture.md": [
+        "systems/culture.md": [
             {
                 "text": "Culture",
                 "url": "https://degenesis.com/world/cultures/",
@@ -917,7 +917,7 @@
             },
             {
                 "text": "Backgrounds",
-                "url": "backgrounds/",
+                "url": "backgrounds",
                 "is_internal": true
             },
             {
@@ -951,7 +951,7 @@
                 "is_internal": true
             }
         ],
-        "./systems/ruin.md": [
+        "systems/ruin.md": [
             {
                 "text": "Burn",
                 "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
@@ -978,7 +978,7 @@
                 "is_internal": false
             }
         ],
-        "./systems/terraSystem.md": [
+        "systems/terraSystem.md": [
             {
                 "text": "SRD",
                 "url": "https://terra-campaigns.github.io/terraSystem/",
@@ -1030,21 +1030,21 @@
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/chroniclers.md": [
+        "systems/backgrounds/chroniclers.md": [
             {
                 "text": "Chroniclers",
                 "url": "https://degenesis.com/world/cults/chroniclers",
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/judges.md": [
+        "systems/backgrounds/judges.md": [
             {
                 "text": "Judges",
                 "url": "https://degenesis.com/world/cults/judges",
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/scrapers.md": [
+        "systems/backgrounds/scrapers.md": [
             {
                 "text": "Scrappers",
                 "url": "https://degenesis.com/world/cults/scrappers",
@@ -1071,14 +1071,14 @@
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/hellvetics.md": [
+        "systems/backgrounds/hellvetics.md": [
             {
                 "text": "Hellvetics",
                 "url": "https://degenesis.com/world/cults/hellvetics",
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/index.md": [
+        "systems/backgrounds/index.md": [
             {
                 "text": "SCRAPERS",
                 "url": "scrapers.md",
@@ -1110,7 +1110,7 @@
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/anabaptists.md": [
+        "systems/backgrounds/anabaptists.md": [
             {
                 "text": "Anabaptists",
                 "url": "https://degenesis.com/world/cults/anabaptists",
@@ -1132,7 +1132,7 @@
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/apocalyptics.md": [
+        "systems/backgrounds/apocalyptics.md": [
             {
                 "text": "Apocalyptics",
                 "url": "https://degenesis.com/world/cults/apocalyptics",
@@ -1159,7 +1159,7 @@
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/cossacks.md": [
+        "systems/backgrounds/cossacks.md": [
             {
                 "text": "\"+ title + \"",
                 "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
@@ -1181,7 +1181,7 @@
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/spitalians.md": [
+        "systems/backgrounds/spitalians.md": [
             {
                 "text": "Spitalians",
                 "url": "https://degenesis.com/world/cults/spitalians",
@@ -1208,7 +1208,7 @@
                 "is_internal": false
             }
         ],
-        "./systems/backgrounds/jehammedans.md": [
+        "systems/backgrounds/jehammedans.md": [
             {
                 "text": "Jehammedan",
                 "url": "https://degenesis.com/world/cults/jehammedans",

@@ -15,6 +15,10 @@ def find_markdown_links(directory):
         for file in files:
             if file.endswith('.md'):
                 file_path = os.path.join(root, file)
+                
+                # Remove any leading './' or '.' from file path
+                cleaned_file_path = os.path.relpath(file_path, directory).lstrip('./')
+                
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
 
@@ -29,16 +33,23 @@ def find_markdown_links(directory):
                         # Check if the URL is internal (relative path, not starting with http:// or https://)
                         is_internal = not url.startswith(('http://', 'https://'))
                         
-                        # Append link data with the is_internal field
+                        # For internal links, make the path start from the directory root
+                        if is_internal:
+                            # Calculate the absolute path starting from the root of the directory
+                            full_url = os.path.normpath(os.path.join('/', os.path.relpath(url, directory)))
+                        else:
+                            full_url = url
+                        
+                        # Append link data with the is_internal field and full_url
                         valid_links.append({
                             "text": text,
-                            "url": url,
+                            "url": full_url.lstrip('./'),
                             "is_internal": is_internal
                         })
 
                     if valid_links:
-                        # Add valid links to dictionary under the file path
-                        links[file_path] = valid_links
+                        # Add valid links to dictionary under the cleaned file path
+                        links[cleaned_file_path] = valid_links
 
     return links
 
