@@ -3,6 +3,7 @@ import re
 import json
 import argparse
 from collections import defaultdict
+from urllib.parse import urlparse
 
 def find_markdown_links(directory):
     links = defaultdict(list)
@@ -37,14 +38,18 @@ def find_markdown_links(directory):
                             # Calculate the absolute path starting from the root of the directory
                             full_url = os.path.normpath(os.path.join('/', os.path.relpath(url, directory))).lstrip('./')
                         else:
+                            # For external links, use the original URL and add a favicon URL
                             full_url = url
-                        
-                        # Append outbound link data with the is_internal field, full URL, and direction as "outbound"
+                            parsed_url = urlparse(url)
+                            favicon_url = f"{parsed_url.scheme}://{parsed_url.netloc}/favicon.ico"
+
+                        # Append outbound link data with the is_internal field, full URL, direction, and favicon (if applicable)
                         links[cleaned_file_path].append({
                             "text": text,
                             "url": full_url,
                             "is_internal": is_internal,
-                            "direction": "outbound"
+                            "direction": "outbound",
+                            "favicon": favicon_url if not is_internal else None
                         })
 
                         # If the link is internal, add this file as an inbound link in the target file's entry
