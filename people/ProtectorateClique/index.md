@@ -16,6 +16,13 @@ When creating your character use the following table, instead of the Culture.
 2-3: Anabaptist 
 4-6: Spitalian
 
+See videos about:
+
+- [Pollen](https://youtu.be/8aZRkjvtaow?t=586&si=wfsGbT5PXUZTBd55)
+- [Spitalians](https://youtu.be/8aZRkjvtaow?t=979&si=YTXX672lUPoYA8bF)
+- [Anabaptists](https://youtu.be/8aZRkjvtaow?t=2054&si=qI099W5BSDzZ0Fcs)
+- [Scrapers](https://youtu.be/8aZRkjvtaow?t=1505&si=qayBB5ZHVPUNAutg)
+
 Players are welcome to edit their own characters.
 Use the link on the bottom of your character page.
 
