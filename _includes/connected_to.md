@@ -8,7 +8,10 @@
     {% if entry.is_internal %}
     {% assign target = site.pages | where: 'path', entry.url %}
     {% assign prettylink = entry.url | split: "." | first %}
-    <a href="{{ site.url }}/{{ prettylink }}">{{ target[0].title }}</a><br>
+    <a class="link" href="{{ site.url }}/{{ prettylink }}">
+       {{ target[0].title }}
+       <img class="preview" src="{{ target[0].icon_link }}">
+    </a><br>
     {% else %}
     <a href="{{ entry.url }}" target="_blank">{{ entry.text }}</a> (external)<br>
     {% endif %}
