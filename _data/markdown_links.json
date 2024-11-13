@@ -131,20 +131,6 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "In the spore wall",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
                 "is_internal": false,
@@ -389,15 +375,6 @@
                 "direction": "inbound"
             }
         ],
-        "misc/example.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
         "_site/README.md": [
             {
                 "text": "instructions for macOS",
@@ -607,77 +584,7 @@
                 "direction": "inbound"
             }
         ],
-        "_obsidian/connected_to.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
-        "_obsidian/timeline.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
-        "locations/Kramatorsk.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Kramatorsk",
-                "url": "campaigns/VostokIronclawPurged/chap1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "locations/Nikopol.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
         "locations/Shard.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
             {
                 "text": "In the spore wall",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
@@ -752,20 +659,6 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "Backgrounds",
                 "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
                 "is_internal": false,
@@ -795,20 +688,6 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "Backgrounds",
                 "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
                 "is_internal": false,
@@ -829,20 +708,6 @@
                 "url": "people/Vorons/index.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
                 "text": "Backgrounds",
@@ -866,20 +731,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
                 "text": "Vostok Kin",
@@ -910,20 +761,6 @@
             }
         ],
         "people/Vostok/luna.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
             {
                 "text": "In the spore wall",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
@@ -960,20 +797,6 @@
                 "favicon": null
             },
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "Vostok Kin",
                 "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
                 "is_internal": false,
@@ -1003,20 +826,6 @@
                 "favicon": null
             },
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "Vostok Kin",
                 "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
                 "is_internal": false,
@@ -1044,20 +853,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
                 "text": "Elder Mirova",
@@ -1121,20 +916,6 @@
         ],
         "people/Vostok/jacob.md": [
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "In the spore wall",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
                 "is_internal": false,
@@ -1163,20 +944,6 @@
         ],
         "people/Vostok/skittle.md": [
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "In the spore wall",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
                 "is_internal": false,
@@ -1191,20 +958,6 @@
             }
         ],
         "people/Vostok/sofia.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
             {
                 "text": "In the spore wall",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
@@ -1221,20 +974,6 @@
         ],
         "people/Vostok/yuri.md": [
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "In the spore wall",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
                 "is_internal": false,
@@ -1250,11 +989,32 @@
         ],
         "people/ProtectorateClique/index.md": [
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
+                "text": "Pollen",
+                "url": "https://youtu.be/8aZRkjvtaow?t=586&si=wfsGbT5PXUZTBd55",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "favicon": "https://youtu.be/favicon.ico"
+            },
+            {
+                "text": "Spitalians",
+                "url": "https://youtu.be/8aZRkjvtaow?t=979&si=YTXX672lUPoYA8bF",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://youtu.be/favicon.ico"
+            },
+            {
+                "text": "Anabaptists",
+                "url": "https://youtu.be/8aZRkjvtaow?t=2054&si=qI099W5BSDzZ0Fcs",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://youtu.be/favicon.ico"
+            },
+            {
+                "text": "Scrapers",
+                "url": "https://youtu.be/8aZRkjvtaow?t=1505&si=qayBB5ZHVPUNAutg",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://youtu.be/favicon.ico"
             }
         ],
         "campaigns/VostokIronclawPurged/chap2.md": [
@@ -1278,20 +1038,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
                 "text": "Vostok Kin",
@@ -1352,20 +1098,6 @@
                 "favicon": null
             },
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "In the spore wall",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
                 "is_internal": false,
@@ -1375,20 +1107,6 @@
             {
                 "text": "The Spitalian raid",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
@@ -1480,20 +1198,6 @@
                 "favicon": null
             },
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "Vostok Kin",
                 "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
                 "is_internal": false,
@@ -1550,30 +1254,15 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
-        "campaigns/ConnectNikopol/ToNikopol1.md": [
+        "locations/Kramatorsk.md": [
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "text": "Kramatorsk",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/ConnectNikopol/index.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
             {
                 "text": "Return Geteli",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
@@ -1641,20 +1330,6 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "Backgrounds",
                 "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
                 "is_internal": false,
@@ -1684,20 +1359,6 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "Return Geteli",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
                 "is_internal": false,
@@ -1711,24 +1372,6 @@
                 "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "campaigns/Anthology/index.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\"+ regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
-        "creatures/HuskSpiderSwarm.md": [
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "systems/culture.md": [
@@ -2015,20 +1658,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "\"+ title + \"",
-                "url": "https://terra-campaigns.github.io/\" + regexreplace(file.path, \".md\", \"\"",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
                 "text": "Backgrounds",

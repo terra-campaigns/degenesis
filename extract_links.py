@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 def find_markdown_links(directory):
     links = defaultdict(list)
 
-    # Regular expression to match markdown links, excluding image links
+    # Regular expression to match markdown links, excluding image links and unwanted patterns
     link_pattern = re.compile(r'(?<!\!)\[(.*?)\]\((.*?)\)')
 
     # Walk through all files and subfolders in the directory
@@ -26,8 +26,8 @@ def find_markdown_links(directory):
                     # Find all markdown links in the file
                     file_links = link_pattern.findall(content)
                     for text, url in file_links:
-                        # Skip links that contain Jekyll templating syntax
-                        if "{{" in text or "}}" in text or "{{" in url or "}}" in url:
+                        # Skip links containing Jekyll templating syntax or code-like patterns
+                        if any(unwanted in text or unwanted in url for unwanted in ["{{", "}}", "+", "\""]):
                             continue
                         
                         # Check if the URL is internal (relative path, not starting with http:// or https://)
