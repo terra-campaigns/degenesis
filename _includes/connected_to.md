@@ -1,4 +1,3 @@
-
 ---
 #### Connected to
 {: .no_toc }
