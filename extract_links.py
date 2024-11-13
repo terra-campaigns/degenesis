@@ -2,12 +2,12 @@ import os
 import re
 import json
 import argparse
+from collections import defaultdict
 
 def find_markdown_links(directory):
-    links = {}
+    links = defaultdict(list)
 
     # Regular expression to match markdown links, excluding image links
-    # Markdown link format: [link text](url)
     link_pattern = re.compile(r'(?<!\!)\[(.*?)\]\((.*?)\)')
 
     # Walk through all files and subfolders in the directory
@@ -16,15 +16,14 @@ def find_markdown_links(directory):
             if file.endswith('.md'):
                 file_path = os.path.join(root, file)
                 
-                # Remove any leading './' or '.' from file path
+                # Clean the file path by removing any leading './' or '/' characters
                 cleaned_file_path = os.path.relpath(file_path, directory).lstrip('./')
                 
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
 
-                    # Find all markdown links
+                    # Find all markdown links in the file
                     file_links = link_pattern.findall(content)
-                    valid_links = []
                     for text, url in file_links:
                         # Skip links that contain Jekyll templating syntax
                         if "{{" in text or "}}" in text or "{{" in url or "}}" in url:
@@ -36,22 +35,29 @@ def find_markdown_links(directory):
                         # For internal links, make the path start from the directory root
                         if is_internal:
                             # Calculate the absolute path starting from the root of the directory
-                            full_url = os.path.normpath(os.path.join('/', os.path.relpath(url, directory)))
+                            full_url = os.path.normpath(os.path.join('/', os.path.relpath(url, directory))).lstrip('./')
                         else:
                             full_url = url
                         
-                        # Append link data with the is_internal field and full_url
-                        valid_links.append({
+                        # Append outbound link data with the is_internal field, full URL, and direction as "outbound"
+                        links[cleaned_file_path].append({
                             "text": text,
-                            "url": full_url.lstrip('./'),
-                            "is_internal": is_internal
+                            "url": full_url,
+                            "is_internal": is_internal,
+                            "direction": "outbound"
                         })
 
-                    if valid_links:
-                        # Add valid links to dictionary under the cleaned file path
-                        links[cleaned_file_path] = valid_links
+                        # If the link is internal, add this file as an inbound link in the target file's entry
+                        if is_internal:
+                            links[full_url].append({
+                                "text": text,
+                                "url": cleaned_file_path,  # Store inbound file path in the "url" field
+                                "is_internal": True,
+                                "direction": "inbound"
+                            })
 
-    return links
+    # Convert the defaultdict to a regular dict for JSON serialization
+    return dict(links)
 
 def save_links_to_json(links, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
