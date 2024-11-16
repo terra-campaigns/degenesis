@@ -2,13 +2,16 @@
 title: Anabaptists
 layout: default
 parent: Backgrounds
+
 icon_link: ../../../imgs/icons/12-CULT-ANABAPTISTS-WHITE-ON-BLACK-320x320.webp
 flavour_text: The land was once beautiful and full of trees. The sun shone down with a friendly face upon fields and happy people. But today, Paradise is rotten. The Spawn of the Demiurge, Psychonauts in all their carnality carry no divine soul. The root of all evil is clear to see and must be hacked to pieces and cut out by the [Anabaptists](https://degenesis.com/world/cults/anabaptists).
+
 img_front: https://a.storyblok.com/f/72501/2715x3840/efb5d38082/012-anabaptist-archetype.jpg
 img_rank: https://i.imgur.com/IuipNe7.png
 img_eqpt: https://i.imgur.com/NmaF9YK.png
 img_sttp: https://i.imgur.com/yn3nT0g.png
 img_back: https://img2.storyblok.com/2516x1415/filters:quality(90)/f/72501/2516x1415/6ca1363234/opener-anabaptists.jpg
+
 names:
 - Gideon Stern
 - Mira Valeria
@@ -17,14 +20,15 @@ names:
 - Thaddeus Cain
 - Selene Marrow
 - Aldric Verus
-- Isolde Pax
 - Marcus Voss
 - Cassandra Faith
+
 gear:
 - 1d6 x 50 Chronicler Drafts *(petty)*
 - Purifier's dagger (d6)
 - Ceremonial water flask
 - Heavy leathers (1 Armour)
+
 ranks:
   - roll: "1"
     text:
@@ -46,6 +50,7 @@ ranks:
       - (Choose One) All take a **Long Spade** and **Grain**. <br>
       - "**SUBLIME**: Take a **Bidenhander** (d10) or **Spitfire** (d8 blast). You are considered a manifested emanation, foretold in prophecies and there are no closed doors for you in Cathedral city. <br>"
       - "**EMISSARY**: Take a **Long Sword** (d10). You are respected by all Cults of the Protectorate. <br>"
+
 potentials:
   - roll: 1
     name: FISHERMAN'S BLOOD
@@ -94,6 +99,7 @@ potentials:
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
 - [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/index), from systems/backgrounds
+- [Protectorate Clique](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index), from people/ProtectorateClique
 <!-- SerializedQuery END -->
 
 {% comment %}

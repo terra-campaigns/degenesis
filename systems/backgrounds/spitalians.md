@@ -5,11 +5,13 @@ parent: Backgrounds
 
 icon_link: ../../../imgs/icons/01-CULT-SPITALIANS-WHITE-ON-BLACK-320x320.webp
 flavour_text: Mankind’s last line of defense against the Primer and its spawn. [Spitalians](https://degenesis.com/world/cults/spitalians) explore the spore fields, dissect dead Psychonauts, and develop poisons and weapons. With their fungicides they cut swathes into the Sepsis, and carry spore covered muscles in glass tubes to lead them to the Aberrants’ breeding grounds.
+
 img_front: https://a.storyblok.com/f/72501/2715x3840/8900dcd07d/001-spitalians-archetype.jpg
 img_rank: https://i.imgur.com/LKEOuPq.png
 img_eqpt: https://i.imgur.com/n83TXJi.png
 img_sttp: https://i.imgur.com/boJTIow.png
 img_back: https://img2.storyblok.com/3420x2162/filters:quality(90)/f/72501/4570x2887/fdff41381a/opener-spitalian.jpg
+
 names:
 - Dr. Aurelia Voss
 - Sergeant Roderick Stein
@@ -17,15 +19,15 @@ names:
 - Pathologist Lena Krieger
 - Field Operative Marik Holt
 - Purifier Harlan Dray
-- Researcher Elara Nyx
 - Erasmus Kline
 - Liora Kaestner
-- Ignatius Volker
+
 gear:
 - 2d6 x 50 Chronicler Drafts
 - Scalpel (d6)
 - Tranquilizer (3 uses)
 - Sterile Gloves
+
 ranks:
   - roll: "1"
     text:
@@ -47,6 +49,7 @@ ranks:
       - "**PHARMACIST**: Take an **Apothecarium**. You gain free access to pharmacies and hospitals. <br>"
       - "**EPIGENETICIST**: take a **Sequencer**, you are well regarded by the Chroniclers. <br>"
       - "**HIPPOCRAT**: take a **Revolver** (d6), you have access to secret facilities. <br>"
+
 potentials:
   - roll: 1
     name: SPLAYING
@@ -95,6 +98,7 @@ potentials:
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
 - [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/index), from systems/backgrounds
+- [Protectorate Clique](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index), from people/ProtectorateClique
 - [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli), from campaigns/ConnectNikopol
 <!-- SerializedQuery END -->
 
