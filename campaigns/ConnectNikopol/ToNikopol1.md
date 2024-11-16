@@ -10,11 +10,11 @@ region: East Pollen
 
 {% include chapter_header.md %}
 
-**A detachment from the Protectorate Clique is tasked to scout the way to the ruins of Cherasky.**
+**A detachment from the Protectorate Clique is tasked to scout the way to the ruins of [Cherasky](../../locations/Cherasky.md).**
 
--	Isolde Pax, an Anabaptist Furor woman who believed this mission to be blessed.
+-	[IsoldePax](../../people/ProtectorateClique/IsoldePax.md), an Anabaptist Furor woman who believed this mission to be blessed.
 -	Ignatius Volker, an Spitalian Femulancer man.
--	Researcher Elara Nyx, an Spitalian Femulancer woman.
+-	Researcher [ElaraNyx](../../people/ProtectorateClique/ElaraNyx.md), an Spitalian Femulancer woman.
 
 **The first two days bring good omens.**
 

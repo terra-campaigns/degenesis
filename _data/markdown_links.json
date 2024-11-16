@@ -599,6 +599,41 @@
                 "direction": "inbound"
             }
         ],
+        "locations/Cherasky.md": [
+            {
+                "text": "Cossacks",
+                "url": "systems/backgrounds/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cherasky",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/cossacks.md": [
+            {
+                "text": "Cossacks",
+                "url": "locations/Cherasky.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cossacks",
+                "url": "people/Vorons/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cossacks",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "people/Vorons/index.md": [
             {
                 "text": "Chroniclers",
@@ -706,20 +741,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
-        "systems/backgrounds/cossacks.md": [
-            {
-                "text": "Cossacks",
-                "url": "people/Vorons/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Cossacks",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "people/Vostok/rurik.md": [
@@ -1313,6 +1334,45 @@
             {
                 "text": "Kramatorsk",
                 "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/ToNikopol1.md": [
+            {
+                "text": "Cherasky",
+                "url": "locations/Cherasky.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "IsoldePax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ElaraNyx",
+                "url": "people/ProtectorateClique/ElaraNyx.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/ProtectorateClique/IsoldePax.md": [
+            {
+                "text": "IsoldePax",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/ElaraNyx.md": [
+            {
+                "text": "ElaraNyx",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

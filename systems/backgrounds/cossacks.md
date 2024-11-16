@@ -85,4 +85,5 @@ potentials:
 {% include statblock_background.md %}
 
 {% include connected_to.md %}
+
 ![]({{ page.img_back }})
