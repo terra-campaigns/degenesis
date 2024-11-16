@@ -88,6 +88,16 @@ Assuming [Jekyll] and [Bundler] are installed on your computer:
 
 and then browse to http://localhost:4000.
 
+## Building and previewing your site locally
+
+Using the `Connected_to` feature requires running a script to map pages interlinks, and generate the `_data/markdown_links.json`file.
+To do so as a command line to run the script while building locally, making sure you update the links often.
+
+```
+python3 extract_links.py .
+bundle exec jekyll serve
+```
+
 ## Customization
 
 You're free to customize sites that you create with this template, however you like!
