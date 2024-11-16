@@ -652,6 +652,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Scrapers",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Scrappers",
                 "url": "https://degenesis.com/world/cults/scrappers",
                 "is_internal": false,
@@ -710,18 +716,10 @@
                 "direction": "inbound"
             },
             {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Vorons",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vorons/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "text": "Cossacks",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "people/Vostok/rurik.md": [
@@ -989,32 +987,89 @@
         ],
         "people/ProtectorateClique/index.md": [
             {
-                "text": "Pollen",
-                "url": "https://youtu.be/8aZRkjvtaow?t=586&si=wfsGbT5PXUZTBd55",
-                "is_internal": false,
+                "text": "Cossacks",
+                "url": "systems/backgrounds/cossacks.md",
+                "is_internal": true,
                 "direction": "outbound",
-                "favicon": "https://youtu.be/favicon.ico"
-            },
-            {
-                "text": "Spitalians",
-                "url": "https://youtu.be/8aZRkjvtaow?t=979&si=YTXX672lUPoYA8bF",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://youtu.be/favicon.ico"
-            },
-            {
-                "text": "Anabaptists",
-                "url": "https://youtu.be/8aZRkjvtaow?t=2054&si=qI099W5BSDzZ0Fcs",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://youtu.be/favicon.ico"
+                "favicon": null
             },
             {
                 "text": "Scrapers",
-                "url": "https://youtu.be/8aZRkjvtaow?t=1505&si=qayBB5ZHVPUNAutg",
+                "url": "systems/backgrounds/scrapers.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anabaptists",
+                "url": "systems/backgrounds/anabaptists.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Spitalians",
+                "url": "systems/backgrounds/spitalians.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/backgrounds/anabaptists.md": [
+            {
+                "text": "Anabaptists",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anabaptists",
+                "url": "https://degenesis.com/world/cults/anabaptists",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://youtu.be/favicon.ico"
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/spitalians.md": [
+            {
+                "text": "Spitalians",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spitalians",
+                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spitalians",
+                "url": "https://degenesis.com/world/cults/spitalians",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Return Geteli",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "campaigns/VostokIronclawPurged/chap2.md": [
@@ -1313,35 +1368,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
-        "systems/backgrounds/spitalians.md": [
-            {
-                "text": "Spitalians",
-                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Spitalians",
-                "url": "https://degenesis.com/world/cults/spitalians",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Return Geteli",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "creatures/Migrants.md": [
@@ -1649,22 +1675,6 @@
                 "url": "systems/backgrounds/index.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/anabaptists.md": [
-            {
-                "text": "Anabaptists",
-                "url": "https://degenesis.com/world/cults/anabaptists",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "systems/backgrounds/jehammedans.md": [
