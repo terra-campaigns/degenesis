@@ -3,7 +3,7 @@ layout: default
 title: Scouting to Cherasky
 parent: Connect with Nikopol
 nav_order: 21
-timestamp: 2589-04-02
+timestamp: 2594-04-02
 region: East Pollen
 
 ---

@@ -47,9 +47,10 @@ The following links can be used as an introduction of the **Degenesis** setting:
 
 <!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
 <!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
-- East Pollen, February 02, 2589: [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1) (Vostok & Ironclaw purged)
-- East Pollen, February 03, 2589: [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2) (Vostok & Ironclaw purged)
-- East Pollen, March 23, 2589: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli) (Connect with Nikopol)
-- East Pollen, April 02, 2589: [To Nikopol 1](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1) (Connect with Nikopol)
+- East Pollen, February 02, 2594: [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1) (Vostok & Ironclaw purged)
+- East Pollen, February 03, 2594: [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2) (Vostok & Ironclaw purged)
+- East Pollen, March 23, 2594: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli) (Connect with Nikopol)
+- East Pollen, April 02, 2594: [Scouting to Cherasky](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1) (Connect with Nikopol)
+- East Pollen, April 14, 2594: [Cleaning the tracks](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol2) (Connect with Nikopol)
 <!-- SerializedQuery END -->
 

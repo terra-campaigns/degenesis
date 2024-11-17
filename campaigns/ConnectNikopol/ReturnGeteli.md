@@ -3,7 +3,7 @@ layout: default
 title: Return Geteli
 parent: Connect with Nikopol
 nav_order: 20
-timestamp: 2589-03-23
+timestamp: 2594-03-23
 region: East Pollen
 ---
 

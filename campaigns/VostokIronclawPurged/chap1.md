@@ -4,7 +4,7 @@ title: In the spore wall
 parent: Vostok & Ironclaw purged
 nav_order: 1
 
-timestamp: 2589-02-02
+timestamp: 2594-02-02
 region: East Pollen
 
 ---

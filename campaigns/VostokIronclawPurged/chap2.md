@@ -3,7 +3,7 @@ layout: default
 title: The Spitalian raid
 parent: Vostok & Ironclaw purged
 nav_order: 2
-timestamp: 2589-02-03
+timestamp: 2594-02-03
 region: East Pollen
 
 ---
