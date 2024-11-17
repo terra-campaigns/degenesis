@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Isolde Pax
+title: Dr. Monroe
 parent: Protectorate Clique
 
 hp: 
@@ -11,15 +11,15 @@ wil:
 armour: 
 
 details:
--
--
--
-- Melancholic and in thoughts. Respectful of hierarchy, faithful and virtuous. Around 40 yo.
+- ""
+- ""
+- ""
+- Unsure of himself? Methodical / academical, skinny, flesh of sister (Julia) is the mollusk on his splayer. 28 yo.
 
 image: 
 
 gear:
-- 
+-
 
 ---
 

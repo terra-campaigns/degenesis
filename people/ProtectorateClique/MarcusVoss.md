@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Isolde Pax
+title: Marcus Voss
 parent: Protectorate Clique
 
 hp: 
@@ -11,15 +11,15 @@ wil:
 armour: 
 
 details:
--
--
--
-- Melancholic and in thoughts. Respectful of hierarchy, faithful and virtuous. Around 40 yo.
+- ""
+- ""
+- ""
+- Optimistic, simple minded, dedicated. Always sketching (but throwing pages away). 25 yo.
 
 image: 
 
 gear:
-- 
+-
 
 ---
 

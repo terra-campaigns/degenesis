@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Isolde Pax
+title: Konrad Jaguer
 parent: Protectorate Clique
 
 hp: 
@@ -11,15 +11,15 @@ wil:
 armour: 
 
 details:
--
--
--
-- Melancholic and in thoughts. Respectful of hierarchy, faithful and virtuous. Around 40 yo.
+- ""
+- ""
+- ""
+- Rushed through Spitalian training, sent prematurely to the field. Unaware and keen. Holds a tome. 18 yo.
 
-image: 
+image: https://i.imgur.com/6GHvyJK.png
 
 gear:
-- 
+-
 
 ---
 

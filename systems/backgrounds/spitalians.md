@@ -68,7 +68,7 @@ potentials:
     flavour:
       - "Preservists are relentless, never giving their enemies a chance to surrender. Trained in a brutal technique known as Preservalis, they strike with their sword to create an opening, then follow up with a point-blank pistol shot to ensure the kill. The recoil propels them out of reach, leaving their foes defenceless."
     rule:
-      - Requires dual wielding a **Sword** and a **Pistol**. When you roll 6+ damage you may disengage after attacking.
+      - Requires dual wielding a **Sword** and a **Pistol**. You may disengage after a melee attack.
   - roll: 4
     name: LAST BASTION
     flavour:

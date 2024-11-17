@@ -1034,6 +1034,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "systems/backgrounds/anabaptists.md": [
@@ -1053,6 +1059,13 @@
             {
                 "text": "Backgrounds",
                 "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Protectorate Clique",
+                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
@@ -1081,6 +1094,13 @@
             {
                 "text": "Backgrounds",
                 "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Protectorate Clique",
+                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
@@ -1338,6 +1358,124 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/ConnectNikopol/ToNikopol2.md": [
+            {
+                "text": "Clique",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Inquisitor Thorne",
+                "url": "people/ProtectorateClique/InquisitorThorne.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dr. Monroe",
+                "url": "people/ProtectorateClique/DrMonroe.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "people/ProtectorateClique/MarcusVoss.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fractal Forest",
+                "url": "https://discord.com/channels/1060840338777964565/1288248721322020926/1307719825501589515",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://discord.com/favicon.ico"
+            }
+        ],
+        "people/ProtectorateClique/ComPrimeKlaus.md": [
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/InquisitorThorne.md": [
+            {
+                "text": "Inquisitor Thorne",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Inquisitor Thorne",
+                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/IsoldePax.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "IsoldePax",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/DrMonroe.md": [
+            {
+                "text": "Dr. Monroe",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/MarcusVoss.md": [
+            {
+                "text": "Marcus Voss",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/KonradJager.md": [
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/ConnectNikopol/ToNikopol1.md": [
             {
                 "text": "Cherasky",
@@ -1359,14 +1497,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "people/ProtectorateClique/IsoldePax.md": [
-            {
-                "text": "IsoldePax",
-                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "people/ProtectorateClique/ElaraNyx.md": [
@@ -1450,14 +1580,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
-        "people/ProtectorateClique/InquisitorThorne.md": [
-            {
-                "text": "Inquisitor Thorne",
-                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "systems/culture.md": [

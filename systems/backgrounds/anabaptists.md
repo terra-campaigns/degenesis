@@ -20,7 +20,6 @@ names:
 - Thaddeus Cain
 - Selene Marrow
 - Aldric Verus
-- Marcus Voss
 - Cassandra Faith
 
 gear:
