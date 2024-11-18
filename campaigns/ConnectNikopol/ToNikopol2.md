@@ -13,8 +13,8 @@ region: East Pollen
 ### Arrival in [Cherasky](../../locations/Cherasky.md)
 
 - The [Clique](../../people/ProtectorateClique/index.md) gathers under [Commando Prime Klaus](../../people/ProtectorateClique/ComPrimeKlaus.md), whose orders resonate with discipline and necessity—clearing frozen mud from the tracks begins.
-- [Inquisitor Thorne](../../people/ProtectorateClique/InquisitorThorne.md), [Isolde Pax](../../people/ProtectorateClique/IsoldePax.md), [Dr. Monroe](../../people/ProtectorateClique/DrMonroe.md), [Marcus Voss](../../people/ProtectorateClique/MarcusVoss.md) and [Konrad Jager](../../people/ProtectorateClique/KonradJager.md) go to the eastern tracks.
-- **Voss** sketches Klaus, capturing the grit of leadership etched in lines and shadow.
+- [Inquisitor Thorne](../../people/ProtectorateClique/InquisitorThorne.md), [Isolde Pax](../../people/ProtectorateClique/IsoldePax.md), [Dr. Moreau](../../people/ProtectorateClique/DrMoreau.md), [Marcus Voss](../../people/ProtectorateClique/MarcusVoss.md) and [Konrad Jager](../../people/ProtectorateClique/KonradJager.md) go to the eastern tracks.
+- Marcus sketches Klaus, capturing the grit of leadership etched in lines and shadow.
 - They accompany a Storskis, who is responsible for driving and operating the cleaning car.
 
 ![](https://i.imgur.com/zC2adKh.png)
@@ -32,7 +32,7 @@ region: East Pollen
 - Dr. Monroe joins the rites in silent respect, the weight of history pressing upon the group.
 - In whispered tones, Isolde and Marcus confront their earlier violence, tethering their souls with justification: “They were sinners.”
 
-### Final Day’s Travail
+### Final Day’s Travail, before [Shard](../../locations/Shard.md)
 
 - The tracks ease their grip, their frozen defiance replaced by fleeting respite as the group advances.
 - Rain turns to hail, then an uncanny downpour of insect fragments, culminating in a living storm of spiders.
