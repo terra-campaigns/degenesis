@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dr. Monroe
+title: Dr. Moreau
 parent: Protectorate Clique
 
 hp: 
