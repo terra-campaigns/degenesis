@@ -152,8 +152,15 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "To Nikopol 1",
+                "text": "Scouting to Cherasky",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Cleaning the tracks",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol2",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
@@ -597,6 +604,12 @@
                 "url": "campaigns/VostokIronclawPurged/chap1.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Shard",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "locations/Cherasky.md": [
@@ -606,6 +619,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Cherasky",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Cherasky",
@@ -1360,6 +1379,13 @@
         ],
         "campaigns/ConnectNikopol/ToNikopol2.md": [
             {
+                "text": "Cherasky",
+                "url": "locations/Cherasky.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Clique",
                 "url": "people/ProtectorateClique/index.md",
                 "is_internal": true,
@@ -1388,8 +1414,8 @@
                 "favicon": null
             },
             {
-                "text": "Dr. Monroe",
-                "url": "people/ProtectorateClique/DrMonroe.md",
+                "text": "Dr. Moreau",
+                "url": "people/ProtectorateClique/DrMoreau.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1414,6 +1440,13 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://discord.com/favicon.ico"
+            },
+            {
+                "text": "Shard",
+                "url": "locations/Shard.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "people/ProtectorateClique/ComPrimeKlaus.md": [
@@ -1452,9 +1485,9 @@
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/DrMonroe.md": [
+        "people/ProtectorateClique/DrMoreau.md": [
             {
-                "text": "Dr. Monroe",
+                "text": "Dr. Moreau",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
                 "direction": "inbound"
