@@ -734,12 +734,6 @@
                 "url": "people/Vostok/yelena.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "people/Vostok/mirova.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "people/Vostok/luna.md": [
@@ -801,8 +795,8 @@
         ],
         "people/Vostok/mirova.md": [
             {
-                "text": "index",
-                "url": "people/Vostok/Vostok/index.md",
+                "text": "Vostok",
+                "url": "people/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -829,6 +823,12 @@
             }
         ],
         "people/Vostok/index.md": [
+            {
+                "text": "Vostok",
+                "url": "people/Vostok/mirova.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "Pollen",
                 "url": "https://degenesis.com/world/cultures/pollen",
@@ -1605,13 +1605,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Return Geteli",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "systems/culture.md": [
