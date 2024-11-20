@@ -1025,6 +1025,23 @@
                 "direction": "inbound"
             }
         ],
+        "people/ProtectorateClique/IvanTheWise.md": [
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "locations/Nikopol.md": [
+            {
+                "text": "Nikopol",
+                "url": "people/ProtectorateClique/IvanTheWise.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "people/ProtectorateClique/index.md": [
             {
                 "text": "Cossacks",
