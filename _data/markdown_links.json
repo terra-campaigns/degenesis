@@ -169,20 +169,20 @@
         "_includes/srd_modules/hp.md": [
             {
                 "text": "Healing & Recovery",
-                "url": "core-rules.md#Healing%20&%20Recovery",
+                "url": "_includes/srd_modules/core-rules.md#Healing%20&%20Recovery",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Scars",
-                "url": "core-rules.md#Scars",
+                "url": "_includes/srd_modules/core-rules.md#Scars",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "core-rules.md#Healing%20&%20Recovery": [
+        "_includes/srd_modules/core-rules.md#Healing%20&%20Recovery": [
             {
                 "text": "Healing & Recovery",
                 "url": "_includes/srd_modules/hp.md",
@@ -190,7 +190,7 @@
                 "direction": "inbound"
             }
         ],
-        "core-rules.md#Scars": [
+        "_includes/srd_modules/core-rules.md#Scars": [
             {
                 "text": "Scars",
                 "url": "_includes/srd_modules/hp.md",
@@ -251,47 +251,23 @@
         ],
         "_includes/srd_modules/npcs.md": [
             {
-                "text": "Hirelings",
-                "url": "wip/2e/marketplace#hirelings-per-day",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "**background**",
-                "url": "wip/2e/character-creation#backgrounds",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Character Creation",
-                "url": "wip/2e/character-creation",
+                "text": "Background",
+                "url": "_includes/srd_modules/#backgrounds",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "wip/2e/marketplace#hirelings-per-day": [
+        "_includes/srd_modules/#backgrounds": [
             {
-                "text": "Hirelings",
+                "text": "Background",
                 "url": "_includes/srd_modules/npcs.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "wip/2e/character-creation#backgrounds": [
+            },
             {
-                "text": "**background**",
-                "url": "_includes/srd_modules/npcs.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "wip/2e/character-creation": [
-            {
-                "text": "Character Creation",
-                "url": "_includes/srd_modules/npcs.md",
+                "text": "Background",
+                "url": "_includes/srd_modules/character-creation.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -299,13 +275,13 @@
         "_includes/srd_modules/combat.md": [
             {
                 "text": "Scars",
-                "url": "#scars-table",
+                "url": "_includes/srd_modules/#scars-table",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "#scars-table": [
+        "_includes/srd_modules/#scars-table": [
             {
                 "text": "Scars",
                 "url": "_includes/srd_modules/combat.md",
@@ -323,42 +299,34 @@
             },
             {
                 "text": "Background",
-                "url": "#backgrounds",
+                "url": "_includes/srd_modules/#backgrounds",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Bond",
-                "url": "#bonds",
+                "url": "_includes/srd_modules/#bonds",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Attribute",
-                "url": "#attributes",
+                "url": "_includes/srd_modules/#attributes",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Hit Protection",
-                "url": "#hit-protection",
+                "url": "_includes/srd_modules/#hit-protection",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "#backgrounds": [
-            {
-                "text": "Background",
-                "url": "_includes/srd_modules/character-creation.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "#bonds": [
+        "_includes/srd_modules/#bonds": [
             {
                 "text": "Bond",
                 "url": "_includes/srd_modules/character-creation.md",
@@ -366,7 +334,7 @@
                 "direction": "inbound"
             }
         ],
-        "#attributes": [
+        "_includes/srd_modules/#attributes": [
             {
                 "text": "Attribute",
                 "url": "_includes/srd_modules/character-creation.md",
@@ -374,7 +342,7 @@
                 "direction": "inbound"
             }
         ],
-        "#hit-protection": [
+        "_includes/srd_modules/#hit-protection": [
             {
                 "text": "Hit Protection",
                 "url": "_includes/srd_modules/character-creation.md",
@@ -408,7 +376,7 @@
             },
             {
                 "text": "Backgrounds",
-                "url": "backgrounds",
+                "url": "_site/systems/backgrounds",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -422,120 +390,84 @@
             },
             {
                 "text": "Scrapers",
-                "url": "backgrounds/scrapers",
+                "url": "_site/systems/backgrounds/scrapers",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Spitalians",
-                "url": "backgrounds/spitalians",
+                "url": "_site/systems/backgrounds/spitalians",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Anabaptists",
-                "url": "backgrounds/anabaptists",
+                "url": "_site/systems/backgrounds/anabaptists",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Apocalyptics",
-                "url": "backgrounds/apocalyptics",
+                "url": "_site/systems/backgrounds/apocalyptics",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Cossacks",
-                "url": "backgrounds/cossacks",
+                "url": "_site/systems/backgrounds/cossacks",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "backgrounds": [
+        "_site/systems/backgrounds": [
             {
                 "text": "Backgrounds",
                 "url": "_site/systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
-        "backgrounds/scrapers": [
+        "_site/systems/backgrounds/scrapers": [
             {
                 "text": "Scrapers",
                 "url": "_site/systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Scrapers",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
-        "backgrounds/spitalians": [
+        "_site/systems/backgrounds/spitalians": [
             {
                 "text": "Spitalians",
                 "url": "_site/systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Spitalians",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
-        "backgrounds/anabaptists": [
+        "_site/systems/backgrounds/anabaptists": [
             {
                 "text": "Anabaptists",
                 "url": "_site/systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Anabaptists",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
-        "backgrounds/apocalyptics": [
+        "_site/systems/backgrounds/apocalyptics": [
             {
                 "text": "Apocalyptics",
                 "url": "_site/systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Apocalyptics",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
-        "backgrounds/cossacks": [
+        "_site/systems/backgrounds/cossacks": [
             {
                 "text": "Cossacks",
                 "url": "_site/systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Cossacks",
-                "url": "systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -557,7 +489,7 @@
             },
             {
                 "text": "Sepsis Mutation",
-                "url": "#sepsis-mutations",
+                "url": "_site/systems/#sepsis-mutations",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -577,16 +509,10 @@
                 "favicon": "https://liminalhorrorrpg.com/favicon.ico"
             }
         ],
-        "#sepsis-mutations": [
+        "_site/systems/#sepsis-mutations": [
             {
                 "text": "Sepsis Mutation",
                 "url": "_site/systems/ruin.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sepsis Mutation",
-                "url": "systems/ruin.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -649,6 +575,12 @@
             {
                 "text": "Cossacks",
                 "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "COSSACKS",
+                "url": "systems/backgrounds/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -731,12 +663,24 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "SCRAPERS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "systems/backgrounds/apocalyptics.md": [
             {
                 "text": "Apocalyptics",
                 "url": "people/Vorons/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "APOCALYPTICS",
+                "url": "systems/backgrounds/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -765,7 +709,7 @@
         "people/Vostok/rurik.md": [
             {
                 "text": "index",
-                "url": "Vostok/index.md",
+                "url": "people/Vostok/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -778,7 +722,7 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
-        "Vostok/index.md": [
+        "people/Vostok/Vostok/index.md": [
             {
                 "text": "index",
                 "url": "people/Vostok/rurik.md",
@@ -829,7 +773,7 @@
         "people/Vostok/yelena.md": [
             {
                 "text": "index",
-                "url": "Vostok/index.md",
+                "url": "people/Vostok/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -858,7 +802,7 @@
         "people/Vostok/mirova.md": [
             {
                 "text": "index",
-                "url": "Vostok/index.md",
+                "url": "people/Vostok/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1072,6 +1016,12 @@
                 "favicon": null
             },
             {
+                "text": "Protectorate Clique",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Clique",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
@@ -1082,6 +1032,12 @@
             {
                 "text": "Anabaptists",
                 "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ANABAPTISTS",
+                "url": "systems/backgrounds/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1121,6 +1077,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "SPITALIANS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Spitalians",
                 "url": "https://degenesis.com/world/cults/spitalians",
                 "is_internal": false,
@@ -1147,6 +1109,42 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "people/ProtectorateClique/ComPrimeKlaus.md": [
+            {
+                "text": "Protectorate Clique",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "one of the Anabaptists",
+                "url": "people/ProtectorateClique/MarcusVoss.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/MarcusVoss.md": [
+            {
+                "text": "one of the Anabaptists",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/VostokIronclawPurged/chap2.md": [
@@ -1466,14 +1464,6 @@
                 "favicon": null
             }
         ],
-        "people/ProtectorateClique/ComPrimeKlaus.md": [
-            {
-                "text": "Commando Prime Klaus",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "people/ProtectorateClique/InquisitorThorne.md": [
             {
                 "text": "Inquisitor Thorne",
@@ -1505,14 +1495,6 @@
         "people/ProtectorateClique/DrMoreau.md": [
             {
                 "text": "Dr. Moreau",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/MarcusVoss.md": [
-            {
-                "text": "Marcus Voss",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1642,7 +1624,7 @@
             },
             {
                 "text": "Backgrounds",
-                "url": "backgrounds",
+                "url": "systems/backgrounds",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1656,38 +1638,86 @@
             },
             {
                 "text": "Scrapers",
-                "url": "backgrounds/scrapers",
+                "url": "systems/backgrounds/scrapers",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Spitalians",
-                "url": "backgrounds/spitalians",
+                "url": "systems/backgrounds/spitalians",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Anabaptists",
-                "url": "backgrounds/anabaptists",
+                "url": "systems/backgrounds/anabaptists",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Apocalyptics",
-                "url": "backgrounds/apocalyptics",
+                "url": "systems/backgrounds/apocalyptics",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Cossacks",
-                "url": "backgrounds/cossacks",
+                "url": "systems/backgrounds/cossacks",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "systems/backgrounds": [
+            {
+                "text": "Backgrounds",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/scrapers": [
+            {
+                "text": "Scrapers",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/spitalians": [
+            {
+                "text": "Spitalians",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/anabaptists": [
+            {
+                "text": "Anabaptists",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/apocalyptics": [
+            {
+                "text": "Apocalyptics",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/cossacks": [
+            {
+                "text": "Cossacks",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "systems/ruin.md": [
@@ -1707,7 +1737,7 @@
             },
             {
                 "text": "Sepsis Mutation",
-                "url": "#sepsis-mutations",
+                "url": "systems/#sepsis-mutations",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1725,6 +1755,14 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://liminalhorrorrpg.com/favicon.ico"
+            }
+        ],
+        "systems/#sepsis-mutations": [
+            {
+                "text": "Sepsis Mutation",
+                "url": "systems/ruin.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "systems/terraSystem.md": [
@@ -1751,7 +1789,7 @@
             },
             {
                 "text": "here",
-                "url": "assets/TerranSheet.pdf",
+                "url": "systems/assets/TerranSheet.pdf",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1799,7 +1837,7 @@
                 "favicon": "https://soulmuppet-store.co.uk/favicon.ico"
             }
         ],
-        "assets/TerranSheet.pdf": [
+        "systems/assets/TerranSheet.pdf": [
             {
                 "text": "here",
                 "url": "systems/terraSystem.md",
@@ -1828,35 +1866,35 @@
         "systems/backgrounds/index.md": [
             {
                 "text": "SCRAPERS",
-                "url": "scrapers.md",
+                "url": "systems/backgrounds/scrapers.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "SPITALIANS",
-                "url": "spitalians.md",
+                "url": "systems/backgrounds/spitalians.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "ANABAPTISTS",
-                "url": "anabaptists.md",
+                "url": "systems/backgrounds/anabaptists.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "APOCALYPTICS",
-                "url": "apocalyptics.md",
+                "url": "systems/backgrounds/apocalyptics.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "COSSACKS",
-                "url": "cossacks.md",
+                "url": "systems/backgrounds/cossacks.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1867,46 +1905,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
-        "scrapers.md": [
-            {
-                "text": "SCRAPERS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "spitalians.md": [
-            {
-                "text": "SPITALIANS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "anabaptists.md": [
-            {
-                "text": "ANABAPTISTS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "apocalyptics.md": [
-            {
-                "text": "APOCALYPTICS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "cossacks.md": [
-            {
-                "text": "COSSACKS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "systems/backgrounds/jehammedans.md": [

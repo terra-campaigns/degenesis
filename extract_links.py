@@ -1,4 +1,4 @@
-# extract_links v0.1
+# extract_links v0.2
 
 import os
 import re
@@ -20,7 +20,7 @@ def find_markdown_links(directory):
                 file_path = os.path.join(root, file)
                 
                 # Clean the file path by removing any leading './' or '/' characters
-                cleaned_file_path = os.path.relpath(file_path, directory).lstrip('./')
+                cleaned_file_path = os.path.relpath(file_path, directory).replace("\\", "/")
                 
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
@@ -35,10 +35,11 @@ def find_markdown_links(directory):
                         # Check if the URL is internal (relative path, not starting with http:// or https://)
                         is_internal = not url.startswith(('http://', 'https://'))
                         
-                        # For internal links, make the path start from the directory root
+                        # For internal links, resolve the full path correctly
                         if is_internal:
-                            # Calculate the absolute path starting from the root of the directory
-                            full_url = os.path.normpath(os.path.join('/', os.path.relpath(url, directory))).lstrip('./')
+                            # Normalize the path relative to the current file's directory
+                            resolved_path = os.path.normpath(os.path.join(os.path.dirname(cleaned_file_path), url))
+                            full_url = resolved_path.replace("\\", "/")  # Use forward slashes for consistency
                         else:
                             # For external links, use the original URL and add a favicon URL
                             full_url = url
