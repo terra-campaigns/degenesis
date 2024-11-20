@@ -28,7 +28,7 @@ notes:
 
 > {{ page.status }}
 
-> [index](Vostok/index.md) Kin's guardian of traditions
+> [Vostok](index.md) Kin's guardian of traditions
 
 ![](https://i.imgur.com/GjAvGPx.png)
 
