@@ -3,6 +3,7 @@ layout: default
 title: Vorons
 parent: People
 has_children: true
+nav_exclude: true
 
 ---
 
