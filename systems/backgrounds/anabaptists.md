@@ -40,7 +40,7 @@ ranks:
       - "**ORGIASTIC**: Take a **Bidenhander** (d10). Your gang treat each other as family."
   - roll: "4"
     text:
-      - "**ELYSIAN**: Take a **Crucible**, **Healing Herbs** and an **Adriatic Stone**. Because of the **Elysian Oils** you used you reduce Sepsis infection in 1 (d6 usage die). You can always get more oil on Anabaptists Enclaves."
+      - "**ELYSIAN**: Take a **Crucible**, **Healing Herbs** and an **Adriatic Stone**. Because of the **Elysian Oils** you used you reduce Sepsis infection in 1 (6 uses). You can always get more oil on Anabaptists Enclaves."
   - roll: "5"
     text: 
       - "**FUROR**: Take a **Spitfire** (d8 blast). You can muster a gan of Orgiastics and start a crusade and try to start forming a settlement."

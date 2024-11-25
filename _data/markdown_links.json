@@ -75,6 +75,13 @@
                 "favicon": "https://www.youtube.com/favicon.ico"
             },
             {
+                "text": "predicament",
+                "url": "https://degenesis.com/downloads/transmissions/you",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
                 "text": "Dave Thaumavore's **Degenesis** Review",
                 "url": "https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7",
                 "is_internal": false,
@@ -573,14 +580,25 @@
                 "direction": "inbound"
             },
             {
-                "text": "Cossacks",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
                 "text": "COSSACKS",
                 "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/IvanTheWise.md": [
+            {
+                "text": "Nikopol",
+                "url": "../locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "../locations/Nikopol.md": [
+            {
+                "text": "Nikopol",
+                "url": "people/IvanTheWise.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -638,12 +656,6 @@
                 "direction": "inbound"
             },
             {
-                "text": "Scrapers",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
                 "text": "Scrappers",
                 "url": "https://degenesis.com/world/cults/scrappers",
                 "is_internal": false,
@@ -660,6 +672,13 @@
             {
                 "text": "Vorons",
                 "url": "https://terra-campaigns.github.io/degenesis/people/Vorons/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Protectorate Clique",
+                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
@@ -969,48 +988,31 @@
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/IvanTheWise.md": [
-            {
-                "text": "Nikopol",
-                "url": "locations/Nikopol.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "locations/Nikopol.md": [
-            {
-                "text": "Nikopol",
-                "url": "people/ProtectorateClique/IvanTheWise.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "people/ProtectorateClique/index.md": [
             {
-                "text": "Cossacks",
-                "url": "systems/backgrounds/cossacks.md",
+                "text": "RexRustyRoss",
+                "url": "people/ProtectorateClique/RexRustyRoss.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Scrapers",
-                "url": "systems/backgrounds/scrapers.md",
+                "text": "SashaVolkov",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Anabaptists",
-                "url": "systems/backgrounds/anabaptists.md",
+                "text": "MaraTheRatQuinn",
+                "url": "people/ProtectorateClique/MaraTheRatQuinn.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Spitalians",
-                "url": "systems/backgrounds/spitalians.md",
+                "text": "KazimirIronblood",
+                "url": "people/ProtectorateClique/KazimirIronblood.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1028,87 +1030,36 @@
                 "direction": "inbound"
             }
         ],
-        "systems/backgrounds/anabaptists.md": [
+        "people/ProtectorateClique/RexRustyRoss.md": [
             {
-                "text": "Anabaptists",
+                "text": "RexRustyRoss",
                 "url": "people/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "ANABAPTISTS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anabaptists",
-                "url": "https://degenesis.com/world/cults/anabaptists",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Protectorate Clique",
-                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
-        "systems/backgrounds/spitalians.md": [
+        "people/ProtectorateClique/SashaVolkov.md": [
             {
-                "text": "Spitalians",
+                "text": "SashaVolkov",
                 "url": "people/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
+            }
+        ],
+        "people/ProtectorateClique/MaraTheRatQuinn.md": [
             {
-                "text": "Spitalians",
-                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "text": "MaraTheRatQuinn",
+                "url": "people/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
+            }
+        ],
+        "people/ProtectorateClique/KazimirIronblood.md": [
             {
-                "text": "SPITALIANS",
-                "url": "systems/backgrounds/index.md",
+                "text": "KazimirIronblood",
+                "url": "people/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Spitalians",
-                "url": "https://degenesis.com/world/cults/spitalians",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Protectorate Clique",
-                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Return Geteli",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "people/ProtectorateClique/ComPrimeKlaus.md": [
@@ -1592,6 +1543,48 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
+        "systems/backgrounds/spitalians.md": [
+            {
+                "text": "Spitalians",
+                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "SPITALIANS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spitalians",
+                "url": "https://degenesis.com/world/cults/spitalians",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Protectorate Clique",
+                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Return Geteli",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
         "creatures/Migrants.md": [
             {
                 "text": "Migrant",
@@ -1898,6 +1891,35 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/anabaptists.md": [
+            {
+                "text": "ANABAPTISTS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anabaptists",
+                "url": "https://degenesis.com/world/cults/anabaptists",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Backgrounds",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Protectorate Clique",
+                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "systems/backgrounds/jehammedans.md": [

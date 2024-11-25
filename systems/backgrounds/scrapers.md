@@ -10,8 +10,6 @@ img_eqpt: https://i.imgur.com/xcLiuvS.png
 img_sttp: https://i.imgur.com/TA3vnRv.png
 img_back: https://img2.storyblok.com/3492x1964/filters:quality(90)/f/72501/3508x1973/32682ccbb9/opener-scrappers.jpg
 names:
-  - Rex "Rusty" Voss
-  - Mara "The Rat" Quinn
   - Dexter "Wrench" Hargrove
   - Nina "Scav" Cole
   - Jax "Grit" Turner

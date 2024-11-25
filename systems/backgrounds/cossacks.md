@@ -5,14 +5,14 @@ parent: Backgrounds
 
 icon_link: ../../../imgs/icons/05-CULT-CLANNERS-WHITE-ON-BLACK-320x320.webp
 flavour_text: The steppe is wide, brutal, and unforgiving—but so are the Cossacks. Out here, where the wind howls like a wounded beast and the horizon stretches endlessly, they reign supreme, born of a land that knows no mercy. The Cossacks don’t just survive—they thrive, their blood thick with the cold steel of defiance and their hearts bound to the untamed wilderness.
+
 img_front: https://i.imgur.com/Z7QOT6x.png
 img_rank: https://i.imgur.com/Ptd50Pb.png
 img_eqpt: https://i.imgur.com/VfL8iej.png
 img_sttp: https://i.imgur.com/KQWT8Ru.png
 img_back: https://i.imgur.com/Do1F0bo.png
+
 names:
-- Kazimir Ironblood
-- Sasha Volkov
 - Yelena Stormrider
 - Ivan Blackhoof
 - Mikhail Ashenblade
@@ -21,11 +21,13 @@ names:
 - Anastasia Frostmane
 - Boris Fireheart
 - Vera Stonefist
+
 gear:
 - 1d6 x 50 Chronicler Drafts
 - Survival Knife (d6)
 - Leathers (1 Armour)
 - Rope and Grappling Hook (d4)
+
 ranks:
   - roll: "1:2"
     text:
@@ -42,6 +44,7 @@ ranks:
   - roll: "6"
     text:
       - "**SHAMAN**: Take **Books of Law**. You understand all contracts between clans and cults in Pollen. <br>"
+
 potentials:
   - roll: 1
     name: ELEPHANT SKIN
