@@ -2,6 +2,7 @@
 layout: default
 title: R. Elara Nyx
 parent: Protectorate Clique
+nav_exclude: true
 
 hp: 
 str: 

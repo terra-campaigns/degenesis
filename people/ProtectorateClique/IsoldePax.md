@@ -2,8 +2,9 @@
 layout: default
 title: Isolde Pax
 parent: Protectorate Clique
+nav_exclude: true
 
-hp: 
+hp: 7
 str: 
 dex: 
 wil: 
@@ -15,6 +16,7 @@ details:
 -
 -
 - Melancholic and in thoughts. Respectful of hierarchy, faithful and virtuous. Around 40 yo.
+- Crooked nose after being bested by Dexter
 
 image: 
 

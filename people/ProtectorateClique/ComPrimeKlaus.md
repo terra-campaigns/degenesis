@@ -3,7 +3,7 @@ template: NPC v0.3
 layout: default
 title: Commando Prime Klaus
 parent: Protectorate Clique
-image: https://img2.storyblok.com/3086x1792/filters:quality(90)/f/72501/3840x2230/40928ceedc/spitalians-the-preservists-arrive.jpg
+image: https://i.imgur.com/ArqQk2I.png
 
 statblock: true
 hp: 4

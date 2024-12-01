@@ -2,6 +2,7 @@
 layout: default
 title: Konrad Jaguer
 parent: Protectorate Clique
+nav_exclude: true
 
 hp: 
 str: 

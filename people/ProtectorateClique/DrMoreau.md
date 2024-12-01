@@ -2,6 +2,7 @@
 layout: default
 title: Dr. Moreau
 parent: Protectorate Clique
+nav_exclude: true
 
 hp: 
 str: 

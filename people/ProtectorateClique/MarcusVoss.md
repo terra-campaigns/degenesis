@@ -2,6 +2,7 @@
 layout: default
 title: Marcus Voss
 parent: Protectorate Clique
+nav_exclude: true
 
 hp: 
 str: 
