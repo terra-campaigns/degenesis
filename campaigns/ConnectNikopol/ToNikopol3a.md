@@ -2,7 +2,7 @@
 layout: default
 title: Day before the crossing
 parent: Connect with Nikopol
-nav_order: 21
+nav_order: 23
 timestamp: 2594-04-18
 region: East Pollen
 
@@ -12,8 +12,8 @@ region: East Pollen
 
 ### A forced trade
 
-- [Isolde Pax](../../people/ProtectorateClique/IsoldePax.md) and [Konrad Jager](../../people/ProtectorateClique/KonradJager.md) observe Dexter, a Scrapper from the Clique, and Purifier Harlem exchanging notes - was it Chronicler Drafts?
-- The Scrapper comes back and forces a trade of a Kievan artefact from a young Cossack woman: "But I don't want Nikopol rates, I wish to sell it in the Protectorate"
+- [Isolde Pax](../../people/ProtectorateClique/IsoldePax.md) and [Konrad Jager](../../people/ProtectorateClique/KonradJager.md) observe [Dexter](Dexter.md), a Scrapper from the Clique, and [Purifier Harlem](PurifierHarlem.md) exchanging notes - was it Chronicler Drafts?
+- The Scrapper comes back and forces a trade of a Kievan artefact from a young Cossack woman: "But I don't want [Nikopol](Nikopol.md) rates, I wish to sell it in the Protectorate"
 - Konrad, naively, intersects the deal and a kerfuffle ensues. Isolde is bested by the Scrapper, and leaves with a broken nose.
 
 ### The Clique mission in Nikopol
