@@ -16,12 +16,13 @@ details:
 -
 -
 - Melancholic and in thoughts. Respectful of hierarchy, faithful and virtuous. Around 40 yo.
+- Patience of a mountain. Disposition of the sea.
 - Crooked nose after being bested by Dexter
 
 image: 
 
 gear:
-- 
+- Winter clothing and heavy leathers
 
 ---
 

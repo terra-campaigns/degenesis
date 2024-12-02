@@ -24,6 +24,8 @@ gear:
 
 ---
 
+> Deceased in [East Pollen, 2094-04-19](../../campaigns/ConnectNikopol/ToNikopol3b.md)
+
 {% comment %}
 DO NOT EDIT BELOW THIS COMMENT
 {% endcomment %}

@@ -3,7 +3,7 @@ template: NPC v0.3
 layout: default
 title: Yelena
 parent: Protectorate Clique
-image: 
+image: https://i.imgur.com/AJau74H.png
 
 statblock: true
 hp: 
