@@ -677,13 +677,6 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "Protectorate Clique",
-                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "SCRAPERS",
                 "url": "systems/backgrounds/index.md",
                 "is_internal": true,
@@ -1079,6 +1072,12 @@
             },
             {
                 "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1343,6 +1342,70 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/ConnectNikopol/ToNikopol3a.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vasco",
+                "url": "https://youtu.be/pPO9amOJlDQ?si=HAAWmsYymGoehv_9",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://youtu.be/favicon.ico"
+            }
+        ],
+        "people/ProtectorateClique/IsoldePax.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "IsoldePax",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/KonradJager.md": [
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/ConnectNikopol/ToNikopol2.md": [
             {
                 "text": "Cherasky",
@@ -1429,31 +1492,9 @@
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/IsoldePax.md": [
-            {
-                "text": "Isolde Pax",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "IsoldePax",
-                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "people/ProtectorateClique/DrMoreau.md": [
             {
                 "text": "Dr. Moreau",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/KonradJager.md": [
-            {
-                "text": "Konrad Jager",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1566,13 +1607,6 @@
             {
                 "text": "Backgrounds",
                 "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Protectorate Clique",
-                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"

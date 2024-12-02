@@ -13,11 +13,12 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 
 The following links can be used as an introduction of the **Degenesis** setting:
 
-- **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)
-- [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
-- SMV's [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded 
-- Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist.
-- [Echoes of Eshaton](https://echoesofeshaton.com/) solo Degenesis play
+- Watch the Degenesis Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)
+- Listen to your [predicament](https://degenesis.com/downloads/transmissions/you).
+- Watch [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
+- Navigate SMV's [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded 
+- Listen to Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist.
+- Listen to [Echoes of Eshaton](https://echoesofeshaton.com/) solo Degenesis play podcast.
 
 ## Themes
 
@@ -26,6 +27,12 @@ The following links can be used as an introduction of the **Degenesis** setting:
 - **Civilization’s Decay**: Society has regressed to tribal states amid the ruins of a lost civilisation, struggling between progress and the primal need for survival.
 - **Fatalism and Hope**: Despite a bleak world, human resilience and fleeting moments of solidarity offer a glimmer of hope against pervasive despair.
 - **Primal vs. Modernity**: Primitive instincts clash with remnants of lost sophistication, as humanity’s tribalism meets distorted echoes of past modernity.
+
+## Inspiration Music
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3kkceRStYdXtFGdjvjhdOd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Ask the GM to collaborate at maintaining the playlist.
 
 # Open Table
 
@@ -52,5 +59,6 @@ The following links can be used as an introduction of the **Degenesis** setting:
 - East Pollen, March 23, 2594: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli) (Connect with Nikopol)
 - East Pollen, April 02, 2594: [Scouting to Cherasky](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1) (Connect with Nikopol)
 - East Pollen, April 14, 2594: [Cleaning the tracks](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol2) (Connect with Nikopol)
+- East Pollen, April 18, 2594: [Day before the crossing](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol3a) (Connect with Nikopol)
 <!-- SerializedQuery END -->
 

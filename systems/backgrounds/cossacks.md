@@ -40,7 +40,7 @@ ranks:
       - "**GATHERER**: Take a **Map**. You know the region of Pollen in detail. <br>"
   - roll: "5"
     text:
-      - "**TRIBAL WARRIOR**: Take a **Modified AK-47** (d10 / d8 blast). All neighbour clanners fear you. <br>"
+      - "**TRIBAL WARRIOR**: Take a **Modified AK-47** (d8 single/blast). All neighbour clanners fear you. <br>"
   - roll: "6"
     text:
       - "**SHAMAN**: Take **Books of Law**. You understand all contracts between clans and cults in Pollen. <br>"
