@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The day before the crossing
+title: Before the crossing
 parent: Connect with Nikopol
 nav_order: 23
 timestamp: 2594-04-18
