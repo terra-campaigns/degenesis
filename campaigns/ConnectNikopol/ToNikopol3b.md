@@ -31,7 +31,7 @@ region: East Pollen
 
 ### Ambush
 
-- Without warning, the train halts. [Husk Spiders](../../creatures/HuskSpiderSwarm.md) swarm the cars, while [Migrants](../../creatures/Migrants.md) seize the moment to attack, slashing through soldiers venturing from the deep mycelium.
+- Without warning, the train halts. [Husk Spiders](../../creatures/HuskSpiderSwarm.md) swarm the cars, while [Migrants](../../creatures/Migrants.md) seize the moment to attack, slashing through soldiers venturing into the mycelium.
 - Marcus charges toward the front of the train, Konrad and Elara following closely. They find the tracks ahead sabotaged, leaving the signal car unable to proceed. [Commando Prime Klaus](../../people/ProtectorateClique/ComPrimeKlaus.md) orders the group to protect the Storksis unit making the repairs.
 - A Migrant abomination advances. Marcus, wielding his bidenhander, confronts it and slays the creature. Yet, something goes awry—Marcus turns on a group of Cossacks rushing to help. They retaliate, gunning him down. Marcus’s life ends amidst the Spore Wall’s haunting fungal mist.
 - The Clique retreats back to the relative safety of the wagons, while fungicide is deployed to stem the Migrants’ encroachment.
