@@ -50,15 +50,4 @@ Ask the GM to collaborate at maintaining the playlist.
 - **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression.
 - **Documentation**: Campaign [website](https://terra-campaigns.github.io/degenesis/)
 
-# Timeline of Events
-
-<!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
-<!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
-- East Pollen, February 02, 2594: [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1) (Vostok & Ironclaw purged)
-- East Pollen, February 03, 2594: [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2) (Vostok & Ironclaw purged)
-- East Pollen, March 23, 2594: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli) (Connect with Nikopol)
-- East Pollen, April 02, 2594: [Scouting to Cherasky](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1) (Connect with Nikopol)
-- East Pollen, April 14, 2594: [Cleaning the tracks](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol2) (Connect with Nikopol)
-- East Pollen, April 18, 2594: [Day before the crossing](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol3a) (Connect with Nikopol)
-<!-- SerializedQuery END -->
-
+{% include prefooter_campaign.html %}
