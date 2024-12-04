@@ -136,48 +136,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "The Spitalian raid",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Return Geteli",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Scouting to Cherasky",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Cleaning the tracks",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol2",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Day before the crossing",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol3a",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "_includes/srd_modules/hp.md": [
@@ -589,23 +547,6 @@
             {
                 "text": "COSSACKS",
                 "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/IvanTheWise.md": [
-            {
-                "text": "Nikopol",
-                "url": "../locations/Nikopol.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "../locations/Nikopol.md": [
-            {
-                "text": "Nikopol",
-                "url": "people/IvanTheWise.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1794,22 +1735,6 @@
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "campaigns/ConnectNikopol/index.md": [
-            {
-                "text": "Return Geteli",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "To Nikopol 1",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "creatures/HuskSpiderSwarm.md": [
