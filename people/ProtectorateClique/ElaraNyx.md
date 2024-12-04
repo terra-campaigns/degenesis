@@ -12,7 +12,8 @@ wil:
 armour: 
 
 details:
--
+- Spitalian Femulancer
+- Experienced, conducting research
 
 image: 
 
