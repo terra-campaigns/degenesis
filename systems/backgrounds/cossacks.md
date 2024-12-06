@@ -21,6 +21,7 @@ names:
 - Anastasia Frostmane
 - Boris Fireheart
 - Vera Stonefist
+- Kazimir Ironblood
 
 gear:
 - 1d6 x 50 Chronicler Drafts
