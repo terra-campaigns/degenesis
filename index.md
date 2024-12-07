@@ -17,7 +17,7 @@ The following links can be used as an introduction of the **Degenesis** setting:
 - Listen to your [predicament](https://degenesis.com/downloads/transmissions/you).
 - Watch [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
 - Navigate SMV's [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded 
-- Immerse yourself in [SMV's art for Degenesis](https://www.sixmorevodka.com/not-so-famous-work/degenesis)
+- Immerse yourself in [SMV's art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis)
 - Listen to Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist.
 - Listen to [Echoes of Eshaton](https://echoesofeshaton.com/) solo Degenesis play podcast.
 
