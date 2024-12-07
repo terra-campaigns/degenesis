@@ -43,9 +43,12 @@ region: East Pollen
 - By nightfall, the battered Clique reaches [Nikopol](../../locations/Nikopol.md).
 - The cost of the ambush is devastating—one in every three members have perished, and many others are gravely wounded.
 - The group undergoes a gruelling decontamination process, treated like infected animals by figures in environmental suits.
-- Isolde gathers Marcus’s belongings, preparing to honor him with a proper burial.
 
 ![](https://i.imgur.com/AWhbSlB.png)
 
+- Isolde gathers Marcus’s belongings, preparing to honour him with a proper burial.
+- She finds a sketch of a forbidden fruit from the fractal forest on the last page of Marcus' drawing book.
+
+![Image](https://i.imgur.com/rCWcUHA.png)
 
 {% include connected_to.md %}

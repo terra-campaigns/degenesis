@@ -2,7 +2,7 @@
 layout: default
 title: Marcus Voss
 parent: Protectorate Clique
-nav_exclude: true
+nav_exclude: false
 
 hp: 
 str: 
@@ -17,7 +17,7 @@ details:
 - ""
 - Optimistic, simple minded, dedicated. Always sketching (but throwing pages away). 25 yo.
 
-image: 
+image: https://i.imgur.com/rCWcUHA.png
 
 gear:
 -
