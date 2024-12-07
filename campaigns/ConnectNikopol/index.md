@@ -19,5 +19,4 @@ footer_content:
 
 ![](https://i.imgur.com/N81zDfI.png)
 
-
 {% include prefooter_campaign.html %}
