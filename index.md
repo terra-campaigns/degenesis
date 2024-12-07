@@ -38,15 +38,15 @@ Ask the GM to collaborate at maintaining the playlist.
 
 - **GM:** efsa (Estêvão)
 - **Campaign approach**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
-- **Frequency**: Mostly every 5 days (moving through the weekdays)
-- **Time & Duration**: 2045 CET/CEST, for 2.5h
-- **Sign-up**: First come, first served. Players left in the waiting list will have priority for the following session.
+- **Frequency**: Mostly every 5 days
+- **Time & Duration**: 1945 UTC for 2~3h
+- **Sign-up**: First come, first served
 - **Module**: [Degenesis](https://degenesis.com/) setting
 - **TTRPG system**: [Primal Odd](https://terra-campaigns.github.io/degenesis/systems/) (Cairn hack)
 - **Desired theme**: Post apocalyptic, primal punk
-- **VTT**: Theatre of the mind / Owlbear Rodeo
+- **VTT**: Theatre of the mind / [Owlbear Rodeo](https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis)
 - **Language**: English
-- **Communication**: Discord voice. Video optional.
+- **Communication**: [Discord voice](https://discord.com/channels/1060840338777964565/1289653812805505044) (Video optional) and [Discord text & image share](https://discord.com/channels/1060840338777964565/1313166726334124114).
 - **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression.
 - **Documentation**: Campaign [website](https://terra-campaigns.github.io/degenesis/)
 
