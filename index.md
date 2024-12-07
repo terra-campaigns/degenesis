@@ -48,6 +48,8 @@ Ask the GM to collaborate at maintaining the playlist.
 - **Language**: English
 - **Communication**: [Discord voice](https://discord.com/channels/1060840338777964565/1289653812805505044) (Video optional) and [Discord text & image share](https://discord.com/channels/1060840338777964565/1313166726334124114).
 - **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression.
-- **Documentation**: Campaign [website](https://terra-campaigns.github.io/degenesis/)
+- **Notes**:
+  - Campaign [website](https://terra-campaigns.github.io/degenesis/)
+  - New and replacement characters can be [rolled or chosen from pregens](https://terra-campaigns.github.io/degenesis/systems/#character-creation).
 
 {% include prefooter_campaign.html %}
