@@ -28,16 +28,22 @@ kanban-plugin: board
 - [ ] Use 1 item from pollen for each session
 - [ ] Fractal forests receive gifts
 - [ ] The spitalians who raided the vostok
-- [ ] Psychonaults trap in the tracks
+	- bullish with what they've accomplished
+	- interested in joining the clique
 - [ ] Com prime: is Konrad ready for a promotion?
-- [ ] Add fractal forest to the map
 - [ ] Draw Klaus on his horse
-- [ ] Fractal forest close to nikopol
+- [ ] Fractal forest close to Kieve
+- [ ] 600km in 12 to get to Nikopol. 2 encounter rolls, if encounter it is a migrant ambush
+- [ ] Prep: add 2 equipment as part of the sets
+- [ ] Frederico Voight, a healer surgeon spitalian, godfather of Konrad
+	This has now become a joke amongst the Spitalians, treating Konrad badly about it
+- [ ] Isolde's joke
 
 
 ## Themes
 
 - [ ] Starving peasants
+- [ ] Sepsis disease (Leperos, pandorians)
 
 
 ***
@@ -74,6 +80,8 @@ kanban-plugin: board
 	- Corridor of 100km is poisoned by spitalians
 	- Have to pass underneath
 	- The Garganti knows how to cross
+- [ ] Add fractal forest to the map
+- [ ] Psychonaults trap in the tracks
 
 %% kanban:settings
 ```
