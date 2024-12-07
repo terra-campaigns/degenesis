@@ -91,3 +91,5 @@ potentials:
 {% include connected_to.md %}
 
 ![]({{ page.img_back }})
+
+![](https://i.imgur.com/RzXMZ94.png)
