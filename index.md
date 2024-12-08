@@ -11,15 +11,15 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 
 ![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/2560x1440/1fc6e9d7ce/wp-01-desktop-2560-1440.jpg)
 
-The following links can be used as an introduction of the **Degenesis** setting:
+The following links can be used as an introduction to the **Degenesis** setting:
 
-- Watch the Degenesis Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)
+- Watch the **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)
 - Listen to your [predicament](https://degenesis.com/downloads/transmissions/you).
 - Watch [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
 - Navigate SMV's [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded 
-- Immerse yourself in [SMV's art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis)
+- Immerse yourself in SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis)
 - Listen to Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist.
-- Listen to [Echoes of Eshaton](https://echoesofeshaton.com/) solo Degenesis play podcast.
+- Listen to [Echoes of Eshaton](https://echoesofeshaton.com/) solo **Degenesis** play podcast.
 
 ## Themes
 
@@ -50,7 +50,6 @@ Ask the GM to collaborate at maintaining the playlist.
 - **Communication**: [Discord voice](https://discord.com/channels/1060840338777964565/1289653812805505044) (Video optional) and [Discord text & image share](https://discord.com/channels/1060840338777964565/1313166726334124114).
 - **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression.
 - **Notes**:
-  - Campaign [website](https://terra-campaigns.github.io/degenesis/)
-  - New and replacement characters can be [rolled or chosen from pregens](https://terra-campaigns.github.io/degenesis/systems/#character-creation).
+  - New and replacement characters can be [created, rolled or chosen from pregens](https://terra-campaigns.github.io/degenesis/systems/#character-creation).
 
 {% include prefooter_campaign.html %}
