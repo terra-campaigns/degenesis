@@ -96,7 +96,7 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "SMV's art for **Degenesis**",
+                "text": "art for **Degenesis**",
                 "url": "https://www.sixmorevodka.com/not-so-famous-work/degenesis",
                 "is_internal": false,
                 "direction": "outbound",
@@ -159,14 +159,7 @@
                 "favicon": "https://discord.com/favicon.ico"
             },
             {
-                "text": "website",
-                "url": "https://terra-campaigns.github.io/degenesis/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "rolled or chosen from pregens",
+                "text": "created, rolled or chosen from pregens",
                 "url": "https://terra-campaigns.github.io/degenesis/systems/#character-creation",
                 "is_internal": false,
                 "direction": "outbound",
