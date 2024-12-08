@@ -594,35 +594,6 @@
                 "direction": "inbound"
             }
         ],
-        "people/IvanTheWise.md": [
-            {
-                "text": "Nikopol",
-                "url": "locations/Nikopol.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "locations/Nikopol.md": [
-            {
-                "text": "Nikopol",
-                "url": "people/IvanTheWise.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Nikopol",
-                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Nikopol",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "people/Vorons/index.md": [
             {
                 "text": "Chroniclers",
@@ -1602,6 +1573,20 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "locations/Nikopol.md": [
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/ConnectNikopol/ToNikopol2.md": [
