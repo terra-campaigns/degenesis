@@ -8,11 +8,11 @@ parent: Creatures
 image: https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/5517x3300/4675ce01f7/pollen-migrants.jpg
 
 statblock: true
-hp: 8
+hp: 14
 armour: 2
-str: 14
-dex: 11
-wil: 4
+str: 18
+dex: 12
+wil: 7
 at: weapon and claws (d8+d8)
 
 details:
