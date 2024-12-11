@@ -26,12 +26,20 @@ kanban-plugin: board
 	This has now become a joke amongst the Spitalians, treating Konrad badly about it
 - [ ] Isolde's joke
 - [ ] Isolde prays and organise a burial for Marcus
+- [ ] Read the dead are coming
+- [ ] Spitalians speak medically
+	Anabaptists speak religiously 
+	Scrapper speak
+- [ ] What broke the peace between spitalians and Anabaptists and when? Briton?
+- [ ] Injuries (liminal horror) when critical damage
+- [ ] Konrad's poisonous eye gland
 
 
 ## Themes
 
 - [ ] Starving peasants
 - [ ] Sepsis disease (Leperos, pandorians)
+- [ ] Primer / leperos
 
 
 ## Parked

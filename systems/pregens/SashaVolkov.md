@@ -1,9 +1,11 @@
 ---
+template: pc v0.3
 layout: default
 title: Sasha Volkov
+role: 
 parent: Pregen Characters
 nav_exclude: true
-new_pc: true
+statblock: true
 
 image: https://i.imgur.com/IOuWmY0.png
 
