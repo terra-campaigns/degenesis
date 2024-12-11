@@ -1,8 +1,10 @@
 ---
+template: pc v0.3
 layout: default
 title: Konrad Jaguer
 parent: Protectorate Clique
 nav_exclude: true
+statblock: true
 
 hp: 
 str: 
