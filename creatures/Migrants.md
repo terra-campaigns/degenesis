@@ -13,13 +13,13 @@ armour: 2
 str: 18
 dex: 12
 wil: 7
-at: weapon and claws (d8+d8)
+at: bite (d4, 1 infestation) and heavy axe (d8+d8)
 
 details:
 - Shape-shifting abilities and physical prowess, blurs the line with the supernatural
 - Avoid areas with methane gas and open flames
 - "**Critical Damage**: A large chuck of flesh is infested with Sepsis (d6 infection)"
-- "**Blossom**: Kills itself and spread Sepsis infection (d10 *blast* infection)"
+- "**Blossom**: Kills itself and spread Sepsis infection (d8 *blast* infestation)"
 
 ---
 
