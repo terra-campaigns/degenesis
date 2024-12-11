@@ -96,6 +96,13 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
+                "text": "art for **Degenesis**",
+                "url": "https://www.sixmorevodka.com/not-so-famous-work/degenesis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.sixmorevodka.com/favicon.ico"
+            },
+            {
                 "text": "Lore Drops",
                 "url": "https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N",
                 "is_internal": false,
@@ -131,8 +138,29 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "website",
-                "url": "https://terra-campaigns.github.io/degenesis/",
+                "text": "Owlbear Rodeo",
+                "url": "https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.owlbear.rodeo/favicon.ico"
+            },
+            {
+                "text": "Discord voice",
+                "url": "https://discord.com/channels/1060840338777964565/1289653812805505044",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://discord.com/favicon.ico"
+            },
+            {
+                "text": "Discord text & image share",
+                "url": "https://discord.com/channels/1060840338777964565/1313166726334124114",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://discord.com/favicon.ico"
+            },
+            {
+                "text": "created, rolled or chosen from pregens",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/#character-creation",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
@@ -296,6 +324,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "pre-generated characters",
+                "url": "_includes/srd_modules/pregens",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "_includes/srd_modules/#bonds": [
@@ -317,6 +352,14 @@
         "_includes/srd_modules/#hit-protection": [
             {
                 "text": "Hit Protection",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/pregens": [
+            {
+                "text": "pre-generated characters",
                 "url": "_includes/srd_modules/character-creation.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -982,86 +1025,6 @@
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/index.md": [
-            {
-                "text": "RexRustyRoss",
-                "url": "people/ProtectorateClique/RexRustyRoss.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "SashaVolkov",
-                "url": "people/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "MaraTheRatQuinn",
-                "url": "people/ProtectorateClique/MaraTheRatQuinn.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "KazimirIronblood",
-                "url": "people/ProtectorateClique/KazimirIronblood.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Protectorate Clique",
-                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Clique",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Clique",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/RexRustyRoss.md": [
-            {
-                "text": "RexRustyRoss",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/SashaVolkov.md": [
-            {
-                "text": "SashaVolkov",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/MaraTheRatQuinn.md": [
-            {
-                "text": "MaraTheRatQuinn",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/KazimirIronblood.md": [
-            {
-                "text": "KazimirIronblood",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "people/ProtectorateClique/Dexter.md": [
             {
                 "text": "Konrad Jager",
@@ -1270,6 +1233,26 @@
             },
             {
                 "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/index.md": [
+            {
+                "text": "Protectorate Clique",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1743,6 +1726,13 @@
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
         "creatures/Migrants.md": [
@@ -2069,6 +2059,38 @@
                 "direction": "inbound"
             }
         ],
+        "systems/pregens/index.md": [
+            {
+                "text": "Sasha Volkov",
+                "url": "systems/pregens/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thaddeus Cain",
+                "url": "systems/pregens/ThaddeusCain.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/pregens/SashaVolkov.md": [
+            {
+                "text": "Sasha Volkov",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/pregens/ThaddeusCain.md": [
+            {
+                "text": "Thaddeus Cain",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "systems/backgrounds/judges.md": [
             {
                 "text": "Judges",
@@ -2148,13 +2170,6 @@
             {
                 "text": "Backgrounds",
                 "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Protectorate Clique",
-                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"

@@ -1,34 +1,29 @@
 ---
+template: loc v0.3
 layout: default
 title: Nikopol
+role: A resilient underground bastion of humanity, crucial for its rich mining of rare metals and manganese, which sustain trade and survival. Its fortified structure and disciplined militias defend against the Primer, while its isolationism shields it from exploitation. Divided into miners, warriors, and traders, its society survives under the cultural and spiritual anchor of Founders’ Square, symbolizing hope amidst decay.
 parent: Locations
 
-nav_exclude: true
+image: https://i.imgur.com/93kPOn5.jpeg
 
-bullets:
-  - "**Location and Structure**: Primarily an underground city resembling an anthill, with only a few fortified buildings on the surface surrounded by hostile environments, including the Spore Wall."
-  - "**Governance and Society**: Nikopol is governed by a Council of Elders, though practical control lies with the Sovrals and various factions of Clan Rarogi. Society is divided mainly among Zemlyaks (miners), Woyins (warriors), and Postachi (traders)."
-  - "**Economy and Resources**: The city relies heavily on mining manganese and rare metals for trade, obtaining essential supplies in exchange. However, the toxic effects of prolonged mining activity are increasingly impacting the health of the population."
-  - "**Historical Legacy**: The Founders' Square stands as the cultural and spiritual center of Nikopol, symbolizing a bygone golden era. Here, citizens hold festivals and prayers to honor the Founders, keeping hope alive amidst encroaching threats."
-  - "**Military Defense and Struggles**: Nikopol faces continual threats from mutants, Biokinetics, and Sepsis. Defense is highly organized, with units like the Streltsys and significant fortifications, especially around the Station, protecting the city."
-  - "**External Relations**: Nikopol has adopted a more isolationist stance over time, with past alliances fading. Relationships with the Spitalians are tense due to historical betrayals, while occasional trade connections with the Apocalyptics continue sporadically."
-  - "**Echoing Machinery and Footsteps**: The underground city resonates with the hum of ventilation fans, the clang of metal, and the steady, echoing footsteps of guards patrolling Nikopol’s tunnels. This industrial symphony is occasionally broken by the drilling and blasting sounds from the mines, creating an ever-present, ominous soundscape that mirrors the city's unyielding resilience."
+nav_exclude: false
+
+details:
+- The underground city resonates with the hum of ventilation fans, punctuated by the clang of metal and echoing footsteps of guards. Occasional drilling and blasting sounds from the mines form a constant industrial symphony. Above ground, the Spore Wall stands as a hostile barrier surrounding the city, with only a few fortified structures marking the surface.
 
 ---
 
 {% include statblock_loc.md %}
 
-![](https://i.imgur.com/93kPOn5.jpeg)
+{% comment %} =========== HIDDEN TEXT ===========
 
+**Lessons**:  
+Survival in Nikopol demands adaptation to the toxic environment caused by prolonged mining. The citizens’ resilience stems from their ability to navigate this hostile ecosystem, learning to balance extraction of resources with self-preservation.
 
----
-#### Connected to
-{: .no_toc }
+**Lore**:  
+The Founders’ Square serves as a cultural an![Image](https://i.imgur.com/Zzr06zg.jpeg)d spiritual heart. It symbolizes a bygone golden age, where festivals and prayers sustain hope amid the encroaching threats of mutants, Sepsis, and dwindling external alliances. Historical tension with the Spitalians highlights a fracture caused by betrayals in the past.
 
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
+========== HIDDEN ENDS ========= {% endcomment %}
 
-
-{% comment %}
-connected_to v0.2
-{% endcomment %}
-
+![Image](https://i.imgur.com/D2Cbj8c.jpeg)

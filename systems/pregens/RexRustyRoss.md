@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rex "Rusty" Ross
-parent: Protectorate Clique
+parent: Pregen Characters
 nav_exclude: true
 new_pc: true
 

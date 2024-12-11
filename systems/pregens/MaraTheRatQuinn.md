@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mara "The Rat" Quinn
-parent: Protectorate Clique
+parent: Pregen Characters
 nav_exclude: true
 new_pc: true
 

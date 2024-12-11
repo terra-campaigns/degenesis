@@ -40,3 +40,5 @@ nav_order: 99
 {% include srd_modules/scars.md %}
 
 {% include_relative ruin.md %}
+
+{% include srd_modules/procedures.md %}

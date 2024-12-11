@@ -1,11 +1,12 @@
 ---
-template: NPC v0.3
+template: npc v0.3
 layout: default
 title: Yelena
 parent: Protectorate Clique
+
 image: https://i.imgur.com/AJau74H.png
 
-statblock: true
+statblock: false
 hp: 
 armour: 
 str: 

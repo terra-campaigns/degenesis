@@ -6,38 +6,39 @@ kanban-plugin: board
 
 ## Inbox
 
-- [ ] Eternal oasis exists. Where are they
-- [ ] Rus Land
-- [ ] Nuclear Challenges
-	- Chernobyl
-	- https://en.m.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages
-- [ ] Village sinks in earth (discordance event). Spitalians will want to investigate
 - [ ] Cossack clan in Kiev S
 	- The Kieven Chronicler
-- [ ] **sGravenzand**
-	![](https://i.imgur.com/JwqFke9.png)
 - [ ] https://traintobaikonur.com/
 - [ ] Check DEG weapon tags for effects on 6+
-- [ ] Add marketplace to website
-- [ ] Vasco in pollen, Pandora expedition
 - [ ] Check the mollock for npcs in pollen
 - [ ] Define Pandorans and other clans for Pollen
 - [ ] Vorons, based in Kiev, protect the spore fields to harvest Bison Burn. They burn fractal forests and partner with scrapers in the ruined city.
-- [ ] Pollen clans tell stories about the wretched had to children
 - [ ] How to sync Bastionland approach to encounters and 2d6 12 is a dragon?
 - [ ] Use 1 item from pollen for each session
 - [ ] Fractal forests receive gifts
 - [ ] The spitalians who raided the vostok
-- [ ] Psychonaults trap in the tracks
+	- bullish with what they've accomplished
+	- interested in joining the clique
 - [ ] Com prime: is Konrad ready for a promotion?
-- [ ] Add fractal forest to the map
-- [ ] Draw Klaus on his horse
-- [ ] Fractal forest close to nikopol
+- [ ] Fractal forest close to Kieve
+- [ ] Prep: add 2 equipment as part of the sets
+- [ ] Frederico Voight, a healer surgeon spitalian, godfather of Konrad
+	This has now become a joke amongst the Spitalians, treating Konrad badly about it
+- [ ] Isolde's joke
+- [ ] Isolde prays and organise a burial for Marcus
 
 
 ## Themes
 
 - [ ] Starving peasants
+- [ ] Sepsis disease (Leperos, pandorians)
+
+
+## Parked
+
+- [ ] **sGravenzand**
+	![](https://i.imgur.com/JwqFke9.png)
+- [ ] Pollen clans tell stories about the wretched had to children
 
 
 ***
@@ -74,9 +75,20 @@ kanban-plugin: board
 	- Corridor of 100km is poisoned by spitalians
 	- Have to pass underneath
 	- The Garganti knows how to cross
+- [ ] Add fractal forest to the map
+- [ ] Psychonaults trap in the tracks
+- [ ] Rus Land
+- [ ] Nuclear Challenges
+	- Chernobyl
+	- https://en.m.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages
+- [ ] Village sinks in earth (discordance event). Spitalians will want to investigate
+- [ ] Vasco in pollen, Pandora expedition
+- [ ] Draw Klaus on his horse
+- [ ] 600km in 12 to get to Nikopol. 2 encounter rolls, if encounter it is a migrant ambush
+- [ ] Add marketplace to website
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
