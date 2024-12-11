@@ -61,7 +61,7 @@ Armours can be
 {: .no_toc }
 
 - Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers **Critical Damage** takes an injury based on the table below, and cannot do anything else during the scene. NPCs and monsters that fail a Critical Damage save may be considered dead, per the **Warden's** discretion. Additionally, some enemies have special abilities or effects that are triggered when their target fails a critical damage save. 
+- Any PC that suffers **Critical Damage** checks the damage taken on the Wound table, and cannot do anything else during the rest of the scene. NPCs and monsters that fail a Critical Damage save may be considered dead, per the **Warden's** discretion. Additionally, some enemies have special abilities or effects that are triggered when their target fails a critical damage save.
 
 ![woundTbl](../../imgs/woundTbl.png)
 
@@ -69,7 +69,7 @@ Armours can be
 {: .no_toc }
 
 - If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed.Complete DEX loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. Complete DEX loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ## Character Death
 {: .no_toc }
