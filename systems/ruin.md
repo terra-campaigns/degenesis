@@ -1,13 +1,14 @@
 # Sepsis
 
-When you are exposed to the primer, or take [Burn](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn), you suffer [Spore Infestation](https://degenesis.com/world/stories/pollen/sepsis).
-Environment suits and masks reduce the impact of Spore Infestation, analog to how Armour does for combat.
-Spore Infestation reduces **WIL**.
+When you are exposed to the primer, or take [Burn](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn), you suffer [**Spore Infestation**](https://degenesis.com/world/stories/pollen/sepsis).
+Environment suits and masks reduce the impact of **Spore Infestation**, analog to how Armour does for combat.
+**Spore Infestation** reduces **WIL**.
 
 If reduced to **0 WIL**, a cultural stigma blooms.
-Look up the result of the roll on the table below, and then roll on the adequate [Sepsis Mutation](#sepsis-mutations) table.
+Look up the amount of **WIL** lost on the table below, and then roll on the adequate [**Sepsis Mutation**](#sepsis-mutations) table.
 As your cultural stigma fades away, your mutation manifests.
 The development is complete when your **WIL** is recovered fully.
+Increase your minimum **Fatigue** in 1.
 
 |        |                                                 |
 | ------ | ----------------------------------------------- |
