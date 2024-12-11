@@ -14,4 +14,4 @@ parent: WIP
 - WIL: `4 + Ego / 2 | max: 18`. Alternativle, use `Psyche + Intelect + Charisma`.
 - Armour: `Armour Rating / 2 | max: 3`.
 - HP: `Flesh Wounds / 2 | max: 18`.
-- Damage: 
+- Damage: ~d(`Damage - d6 | max d10+d10`) 
