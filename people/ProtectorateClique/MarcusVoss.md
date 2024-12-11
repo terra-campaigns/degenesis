@@ -1,8 +1,10 @@
 ---
+template: pc v0.3
 layout: default
 title: Marcus Voss
 parent: Protectorate Clique
 nav_exclude: false
+statblock: true
 
 hp: 
 str: 

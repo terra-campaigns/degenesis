@@ -1,8 +1,10 @@
 ---
+template: pc v0.3
 layout: default
 title: Isolde Pax
 parent: Protectorate Clique
 nav_exclude: true
+statblock: true
 
 hp: 7
 str: 
