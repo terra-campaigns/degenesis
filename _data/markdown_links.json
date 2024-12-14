@@ -503,7 +503,7 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "Sepsis Mutation",
+                "text": "**Sepsis Mutation**",
                 "url": "_site/systems/#sepsis-mutations",
                 "is_internal": true,
                 "direction": "outbound",
@@ -526,7 +526,7 @@
         ],
         "_site/systems/#sepsis-mutations": [
             {
-                "text": "Sepsis Mutation",
+                "text": "**Sepsis Mutation**",
                 "url": "_site/systems/ruin.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -982,6 +982,12 @@
             },
             {
                 "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1015,6 +1021,12 @@
             {
                 "text": "IsoldePax",
                 "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1720,6 +1732,73 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/ConnectNikopol/Prequel10.md": [
+            {
+                "text": "Kiev",
+                "url": "locations/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "locations/Kiev.md": [
+            {
+                "text": "Kiev",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/Anastasia.md": [
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/SashaVolkov.md": [
+            {
+                "text": "Sasha Volkov",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "creatures/HuskSpiderSwarm.md": [
             {
                 "text": "Husk Spiders",
@@ -1950,7 +2029,7 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "Sepsis Mutation",
+                "text": "**Sepsis Mutation**",
                 "url": "systems/#sepsis-mutations",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1973,7 +2052,7 @@
         ],
         "systems/#sepsis-mutations": [
             {
-                "text": "Sepsis Mutation",
+                "text": "**Sepsis Mutation**",
                 "url": "systems/ruin.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2062,7 +2141,7 @@
         "systems/pregens/index.md": [
             {
                 "text": "Sasha Volkov",
-                "url": "systems/pregens/SashaVolkov.md",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2073,14 +2152,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "systems/pregens/SashaVolkov.md": [
-            {
-                "text": "Sasha Volkov",
-                "url": "systems/pregens/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "systems/pregens/ThaddeusCain.md": [

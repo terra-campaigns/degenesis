@@ -20,6 +20,6 @@ New and replacement characters can be randomly assigned from the list.
 |     |                                                      |
 | --- | ---------------------------------------------------- |
 | 1   | [Rex "Rusty" Ross](RexRustyRoss.md) (Scrapper)       |
-| 2   | [Sasha Volkov](../../systems/pregens/SashaVolkov.md) (Cossack)             |
+| 2   | [Sasha Volkov](../../people/ProtectorateClique/SashaVolkov.md) (Cossack)             |
 | 3   | [Mara "the Rat" Quinn](../../systems/pregens/MaraTheRatQuinn.md) (Scraper) |
 | 4   | [Thaddeus Cain](../../systems/pregens/ThaddeusCain.md) (Anabaptist)        |

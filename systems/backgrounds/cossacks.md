@@ -76,13 +76,13 @@ potentials:
     flavour:
       - "The crowd cheers, thinking it’s just a show—his body bending, joints popping in ways that make them wince. But this isn’t just entertainment. These contortions were learned in darker places, for darker purposes."
     rule:
-      - You can always evade a grapple, being stuck, bound or chained.
+      - Gain **Fatigue**. You can evade a grapple, being stuck, bound or chained.
   - roll: 6
     name: COULD BE WORSE
     flavour:
       - "Bruises fade, cuts close, and bones mend. Pain is a warning, not a weakness. The character feels it, acknowledges it—but never lets it stop them. Pain exists to protect, not to prevent survival."
     rule:
-      - You always succeed on STR saves against Critical Damage.
+      - Gain **Fatigue**. You succeed on **STR** saves against **Critical Damage**.
 
 ---
 

@@ -3,8 +3,7 @@ template: pc v0.3
 layout: default
 title: Sasha Volkov
 role: 
-parent: Pregen Characters
-nav_exclude: true
+parent: Protectorate Clique
 statblock: true
 
 image: https://i.imgur.com/IOuWmY0.png
@@ -19,7 +18,7 @@ armour: Leathers - 1
 details:
 - COSSACK **SCOUT** - Everyone in yours and neighbour clans knows you.
 - DESTROYER - You were once a builder, but a great loss has driven you to tear down everything you once loved. You carry a hammer symbolic of your destructive path.
-- COULD BE WORSE - "Bruises fade, cuts close, and bones mend. Pain is a warning, not a weakness. The character feels it, acknowledges it—but never lets it stop them. Pain exists to protect, not to prevent survival." - **You always succeed on STR saves against Critical Damage.**
+- COULD BE WORSE - "Bruises fade, cuts close, and bones mend. Pain is a warning, not a weakness. The character feels it, acknowledges it—but never lets it stop them. Pain exists to protect, not to prevent survival." - **when you fail your STR saves against Critical Damage, consult the Injury table **
 
 gear:
 - Sledgehammer (d8)
