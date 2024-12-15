@@ -29,3 +29,5 @@ DO NOT EDIT BELOW THIS COMMENT
 {% endcomment %}
 
 {% include statblock_pc.md %}
+
+![](https://i.imgur.com/6WZkd0E.png)

@@ -16,6 +16,7 @@ hp:
 armour: 
 
 details:
+- Cossack Shaman
 - 
 
 gear:
