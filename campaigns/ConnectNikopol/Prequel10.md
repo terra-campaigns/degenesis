@@ -4,7 +4,7 @@ title: Cossack recruits
 parent: Connect with Nikopol
 nav_order: 10
 timestamp: 2593-01-15
-region: East Pollen
+region: Kiev
 
 ---
 
