@@ -33,6 +33,20 @@ kanban-plugin: board
 - [ ] What broke the peace between spitalians and Anabaptists and when? Briton?
 - [ ] Injuries (liminal horror) when critical damage
 - [ ] Konrad's poisonous eye gland
+- [ ] Purifier Harlem blames Konrad for the mistake in identify the psychonaut risk, and reinforce the Spitalian intention to work together with the Cossacks. Court-martial for konrad
+- [ ] Anastasia's book
+- [ ] Responsible can only enter Nikopol if a high rank vouches for them. If any of the two slip, they will face ban or execution
+- [ ] Improve the Bonds
+- [ ] Double check the potentials, based on new fatigue rule
+
+
+## Old sets
+
+- [ ] **Abandoned church**
+	- Crackling sound on the soil
+	- Towering image "gives you hope"
+	- Doors and windows shut: inside circular spore field grows
+	- Rift centipede inside (viper statblock | CD - venon kills in 1d12h | as long as an arm | mental symbiosis with bioknetic)
 
 
 ## Themes
@@ -94,9 +108,10 @@ kanban-plugin: board
 - [ ] Draw Klaus on his horse
 - [ ] 600km in 12 to get to Nikopol. 2 encounter rolls, if encounter it is a migrant ambush
 - [ ] Add marketplace to website
+- [ ] Implement Concepts for NPCs
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
