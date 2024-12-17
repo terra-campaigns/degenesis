@@ -12,8 +12,8 @@ Increase your minimum **Fatigue** in 1.
 
 |        |                                                 |
 | ------ | ----------------------------------------------- |
-| **1**  | Roll on the beneficial mental mutation table    |
-| **2**  | Roll on the beneficial physical mutation table  |
+| **1**  | Roll on the favourable mental mutation table    |
+| **2**  | Roll on the favourable physical mutation table  |
 | **3**  | Roll on the detrimental mental mutation table   |
 | **4+** | Roll on the detrimental physical mutation table |
 
@@ -51,12 +51,10 @@ Potent Burn deals **d12** Spore Infestation and its effect lasts for one day.
 ## Sepsis Mutations
 {: .no_toc }
 
-![](https://i.imgur.com/SUoem6s.png)
-![](https://i.imgur.com/WGmajjr.png)
-![](https://i.imgur.com/3xXstMw.png)
-![](https://i.imgur.com/mPrY7uJ.png)
-![](https://i.imgur.com/6ljhho5.png)
-![](https://i.imgur.com/3kiIhIz.png)
+![](https://i.imgur.com/wFi5Ywp.png)
+![](https://i.imgur.com/45eBzMs.png)
+![](https://i.imgur.com/1EESOcZ.png)
+![](https://i.imgur.com/xR9vnwA.png)
 
 > Spore Infestation mechanics are based on [Oddular Mechanics](https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1) by Chris McDowall and Fallout from [Liminal Horror](https://liminalhorrorrpg.com/). Sepsis Mutation tables are copied from <a href="https://www.drivethrurpg.com/en/product/115703/the-metamorphica-classic-edition">The Metamorphica (Classic Edition)</a> for private use only. The PDF can be acquired as PWYW for descriptions on each mutation.
 > {: .fs-2 }
