@@ -23,7 +23,7 @@ details:
 
 ---
 
-{% include statblock_npc.html %}
+{% include statblock_npc.md %}
 
 {% comment %} =========== HIDDEN TEXT ===========
 
