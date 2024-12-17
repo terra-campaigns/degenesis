@@ -1,7 +1,9 @@
 ---
-template: NPC v0.3
+template: npc v0.3.1
 layout: default
 title: Commando Prime Klaus
+role: Commander of the Clique
+archetype: Borca, The Conqueror, Spitalian Commando Prime
 parent: Protectorate Clique
 image: https://i.imgur.com/ArqQk2I.png
 
@@ -15,22 +17,11 @@ at: Splayer (d8 or d4 *detachment*)
 
 ---
 
-# {{ page.title }}
+{% include statblock_npc.md %}
 
-- Commander of the [Protectorate Clique](index.md).
+{% comment %} =========== HIDDEN TEXT ===========
+
+========== HIDDEN ENDS ========= {% endcomment %}
+
 - A man of vanity, but well relatable.
-
-| "You and you, back to your posts!" and then unfolds the portrait [one of the Anabaptists](MarcusVoss.md) made of him."
-
-{% comment %} =========================== TEMPLATE CODE =========================== {% endcomment %}
-{% comment %} ===================== DO NOT EDIT BELOW THIS LINE ===================== {% endcomment %}
-
-{% if page.image %}
-![]({{ page.image }})
-{% endif %}
-{% if page.statblock %}
-| {{ page.hp }} HP, {{ page.armour }} Armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL, {{ page.at }} |
-{% endif %}
-{% include connected_to.md %}
-
-{% comment %} =========================== TEMPLATE ENDS =========================== {% endcomment %}
+- "You and you, back to your posts!" and then unfolds the portrait [one of the Anabaptists](MarcusVoss.md) made of him."

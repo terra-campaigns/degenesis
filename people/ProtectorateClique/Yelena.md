@@ -20,6 +20,7 @@ at:
 
 - Cossack Tribal Warrior
 - Fond of [Isolde Pax](IsoldePax.md)
+- Daughter had Psychonaut signs and was killed horribly in [Nikopol](../../campaigns/ConnectNikopol/InNikopol01.md), Yelena became broken after the fact.
 
 {% comment %} =========================== TEMPLATE CODE =========================== {% endcomment %}
 {% comment %} ===================== DO NOT EDIT BELOW THIS LINE ===================== {% endcomment %}

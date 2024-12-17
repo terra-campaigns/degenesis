@@ -1,8 +1,9 @@
 ---
-template: npc v0.3
+template: npc v0.3.1
 layout: default
 title: Prokhor
 role: Leader of the Streltsys
+archetype: Pollen, The Traditionalist, Rarogi Sovral
 parent: Founders' Blessed
 
 image: https://i.imgur.com/J01Rztk.png
@@ -17,17 +18,8 @@ at:
 
 ---
 
-# {{ page.title }}
+{% include statblock_npc.md %}
 
-{% comment %} =========================== TEMPLATE CODE =========================== {% endcomment %}
-{% comment %} ===================== DO NOT EDIT BELOW THIS LINE ===================== {% endcomment %}
+{% comment %} =========== HIDDEN TEXT ===========
 
-{% if page.image %}
-![]({{ page.image }})
-{% endif %}
-{% if page.statblock %}
-| {{ page.hp }} HP, {{ page.armour }} Armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL, {{ page.at }} |
-{% endif %}
-{% include connected_to.md %}
-
-{% comment %} =========================== TEMPLATE ENDS =========================== {% endcomment %}
+========== HIDDEN ENDS ========= {% endcomment %}
