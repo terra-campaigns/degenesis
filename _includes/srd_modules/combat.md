@@ -65,6 +65,9 @@ Armours can be
 
 ![](https://raw.githubusercontent.com/terra-campaigns/degenesis/refs/heads/main/imgs/woundTbl.png)
 
+> The Wound Table is copied from the [Liminal Horror](https://liminalhorrorrpg.com/) SRD, available under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+> {: .fs-2 }
+
 ## Attribute Loss
 {: .no_toc }
 
