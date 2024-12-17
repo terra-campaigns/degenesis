@@ -972,10 +972,44 @@
                 "direction": "inbound"
             }
         ],
+        "people/ProtectorateClique/Anastasia.md": [
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "people/ProtectorateClique/Yelena.md": [
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "Isolde Pax",
                 "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1041,6 +1075,91 @@
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/InNikopol01.md": [
+            {
+                "text": "Nikopol",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kiev",
+                "url": "locations/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "HIVE group",
+                "url": "https://degenesis.com/world/stories/spitalians/vasco",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Sokolov",
+                "url": "people/FoundersBlessed/Sokolov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bion",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Africa",
+                "url": "https://degenesis.com/world/cultures/africa",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Prokhor",
+                "url": "people/FoundersBlessed/Prokhor.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "people/ProtectorateClique/Dexter.md": [
@@ -1230,13 +1349,6 @@
         ],
         "people/ProtectorateClique/ComPrimeKlaus.md": [
             {
-                "text": "Protectorate Clique",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
                 "text": "one of the Anabaptists",
                 "url": "people/ProtectorateClique/MarcusVoss.md",
                 "is_internal": true,
@@ -1257,26 +1369,6 @@
             },
             {
                 "text": "Commando Prime Klaus",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/index.md": [
-            {
-                "text": "Protectorate Clique",
-                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Clique",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Clique",
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1691,6 +1783,20 @@
                 "favicon": null
             }
         ],
+        "people/ProtectorateClique/index.md": [
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "people/ProtectorateClique/InquisitorThorne.md": [
             {
                 "text": "Inquisitor Thorne",
@@ -1750,99 +1856,6 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/ConnectNikopol/InNikopol01.md": [
-            {
-                "text": "Anastasia",
-                "url": "people/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Konrad",
-                "url": "people/ProtectorateClique/KonradJager.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sasha",
-                "url": "people/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Yelena",
-                "url": "people/ProtectorateClique/Yelena.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Nikopol",
-                "url": "locations/Nikopol.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Kiev",
-                "url": "locations/Kiev.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "HIVE group",
-                "url": "https://degenesis.com/world/stories/spitalians/vasco",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Sokolov",
-                "url": "people/FoundersBlessed/Sokolov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Bion",
-                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Africa",
-                "url": "https://degenesis.com/world/cultures/africa",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Prokhor",
-                "url": "people/FoundersBlessed/Prokhor.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "people/ProtectorateClique/Anastasia.md": [
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "people/ProtectorateClique/SashaVolkov.md": [
             {
                 "text": "Sasha",
@@ -1853,12 +1866,6 @@
             {
                 "text": "Sasha Volkov",
                 "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha Volkov",
-                "url": "systems/pregens/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1881,6 +1888,12 @@
             {
                 "text": "Sokolov",
                 "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sokolov",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1925,6 +1938,13 @@
             {
                 "text": "Isolde Pax",
                 "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sokolov",
+                "url": "people/FoundersBlessed/Sokolov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2270,13 +2290,6 @@
             }
         ],
         "systems/pregens/index.md": [
-            {
-                "text": "Sasha Volkov",
-                "url": "people/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
             {
                 "text": "Thaddeus Cain",
                 "url": "systems/pregens/ThaddeusCain.md",
