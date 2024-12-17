@@ -44,11 +44,13 @@ For many, it was freedom incarnate; for young Sofia, it was an assault on her se
 
 Within the square, Anastasia encountered [Prokhor](../../people/FoundersBlessed/Prokhor.md), the hardened leader of the Streltsys, Nikopol’s special operatives. Their exchange in an office room was brief. On her way out, Anastasia pockets a book of some sorts.
 
+![](https://i.imgur.com/J01Rztk.png)
+
 Then it happened. A sudden, gut-wrenching blast of sound erupted from Zofia. A Psychonaut awakening. The reverberations tore through the tunnels, drowning the revelry and shattering the musical action.
 
 ### Making silence 
 
-The sound was unbearable, a visceral attack on the senses. With ears covered, Anastasia, Prokhov, Konrad, and three Streltsys sprinted toward the source, their steps echoing in the chaos. What they found froze some, but not the Streltsys, who kicked Zofia with their boots.
+The sound was unbearable, a visceral attack on the senses. With ears covered, Anastasia, Prokhov, Konrad, and three Streltsys sprinted toward the source. What they found froze some, but not the Streltsys, who kicked Zofia with their boots.
 
 Anastasia and Konrad stood paralysed, the scene unfolding like a nightmare. Sasha acted first, tearing one of the men away, but his efforts were not enough. The Streltsys, driven by fear or duty, delivered their brutal verdict.
 

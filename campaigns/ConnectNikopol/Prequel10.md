@@ -31,7 +31,7 @@ The Forest parts its soil with organic grace, revealing a pulsing, veined maw—
 
 Returning to Kiev by boat, the trio’s minds are restless, their shared guilt mixing with the rhythmic lapping of water against the hull. Among the passengers is [Isolde Pax](../../people/ProtectorateClique/IsoldePax.md), an Anabaptist clad in battle-worn steel and an undisclosed injury. She reveals her purpose: recruiting mercenaries for the Protectorate, a mission to fortify their tenuous hold in Pollen.
 
-Another traveler steps forward—Sokolov, an Apocalyptic trader of Bion, his sly grin promising bargains that bite as much as they bless. He shares his plans to liquidate his stock in Kiev and vanish southwest to Nikopol.
+Another traveler steps forward—[Sokolov](../../people/FoundersBlessed/Sokolov.md), an Apocalyptic trader of Bion, his sly grin promising bargains that bite as much as they bless. He shares his plans to liquidate his stock in Kiev and vanish southwest to Nikopol.
 
 ![](https://i.imgur.com/62OmEw8.png)
 
