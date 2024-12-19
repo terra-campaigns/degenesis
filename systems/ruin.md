@@ -1,11 +1,11 @@
 # Sepsis
 
-When you are exposed to the primer, or take [Burn](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn), you suffer **[Spore Infestation](https://degenesis.com/world/stories/pollen/sepsis)**.
+When you are exposed to the primer, or take [Burn](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn), you suffer [Spore Infestation](https://degenesis.com/world/stories/pollen/sepsis).
 Environment suits and masks reduce the impact of **Spore Infestation**, analog to how Armour does for combat.
 **Spore Infestation** reduces **WIL**.
 
 If though a **Spore Infestation** your **WIL** becomes equal or lower than your **Fatigue**, a cultural stigma blooms.
-Look up the amount of **WIL** lost on the table below, and then roll on the adequate [**Sepsis Mutation**](#sepsis-mutations) table.
+Look up the amount of **WIL** lost on the table below, and then roll on the adequate [Sepsis Mutation](#sepsis-mutations) table.
 As your cultural stigma fades away, your mutation manifests.
 The development is complete when your **WIL** is recovered fully.
 Increase your minimum **Fatigue** in 1.
@@ -20,33 +20,30 @@ Increase your minimum **Fatigue** in 1.
 ## Sporination
 {: .no_toc }
 
-|         |                                                                     |
-| ------- | ------------------------------------------------------------------- |
-| **d4**  | Spore mist in hi-risk zones                                         |
-| **d6**  | Strong sporination in adult spore field                             |
-| **d8**  | Fungal bloom in adult spore field                                   |
-| **d10** | Fungal bloom in Mother spore field                                  |
-| **d12** | Spore saturation at the Pollen spore front and in the Earth Chakras |
+|         |                                   |
+| ------- | --------------------------------- |
+| **d4**  | Spore mist in hi-risk zones       |
+| **d6**  | One dose of Burn                  |
+| **d8**  | Sporination in adult spore field  |
+| **d10** | Sporination in mother spore field |
+| **d12** | Sporination in the Earth Chakras  |
 
 #### Note
 {: .no_toc }
 
 The amount and frequency of how you deal Primer infection establishes the tone and pacing of your game.
-It is a dial to control how likely characters change.
+It is a dial to control how fast characters change.
 
 ## Types of Burn
 {: .no_toc }
 
 Different types of Burn are harvested depending on Earth Chakra proximity.
-Burn can be of two potencies.
-Weak Burn deals **d4** Spore Infestation and its effect lasts for one scene.
-Potent Burn deals **d12** Spore Infestation and its effect lasts for one day.
 
 ![](https://i.imgur.com/tMZs1Q9.png)
 
-|          |                                                                                                                                                                                                                                            |                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| **BION** | Pollen brings cold and hunger, while **Bion** offers warmth and comfort. One deep breath from the goat skin connects the person to the land, revitalising them with cold winds and minimal sustenance as their body fills with life force. | The Burner shakes off illness and poison, feels no cold. |
+|          |                                                                                                                                                                                                                                            |                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **BION** | Pollen brings cold and hunger, while **Bion** offers warmth and comfort. One deep breath from the goat skin connects the person to the land, revitalising them with cold winds and minimal sustenance as their body fills with life force. | The Burner shakes off illness and poison, feels no cold or hunger. Effect lasts one day. |
 
 ## Sepsis Mutations
 {: .no_toc }
