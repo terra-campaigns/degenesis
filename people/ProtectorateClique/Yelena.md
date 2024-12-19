@@ -1,7 +1,7 @@
 ---
 template: npc v0.3
 layout: default
-title: Yelena
+title: Yelena Stormrider
 parent: Protectorate Clique
 
 image: https://i.imgur.com/AJau74H.png
