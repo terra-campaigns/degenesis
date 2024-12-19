@@ -279,6 +279,20 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Liminal Horror",
+                "url": "https://liminalhorrorrpg.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://liminalhorrorrpg.com/favicon.ico"
+            },
+            {
+                "text": "CC-BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://creativecommons.org/favicon.ico"
             }
         ],
         "_includes/srd_modules/#scars-table": [
