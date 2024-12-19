@@ -61,7 +61,7 @@ Armours can be
 {: .no_toc }
 
 - Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers **Critical Damage** checks the damage taken on the Wound table, and cannot do anything else during the rest of the scene. NPCs and monsters that fail a Critical Damage save may be considered dead, per the **Warden's** discretion. Additionally, some enemies have special abilities or effects that are triggered when their target fails a critical damage save.
+- When a PC suffers **Critical Damage**, look up the result on the Wounds Table based on the _STR lost in the attack_. The PC is taken out of action and cannot do anything else during the rest of the scene. NPCs and monsters that fail a **Critical Damage** save may be considered dead, per the **Warden's** discretion. Additionally, some enemies have special abilities or effects that are triggered when their target fails a **Critical Damage** save.
 
 ![](https://raw.githubusercontent.com/terra-campaigns/degenesis/refs/heads/main/imgs/woundTbl.png)
 
