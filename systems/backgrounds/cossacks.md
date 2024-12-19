@@ -82,7 +82,7 @@ potentials:
     flavour:
       - "Bruises fade, cuts close, and bones mend. Pain is a warning, not a weakness. The character feels it, acknowledges it—but never lets it stop them. Pain exists to protect, not to prevent survival."
     rule:
-      - Gain **Fatigue**. You succeed on **STR** saves against **Critical Damage**.
+      - When you suffer **Critical Damage** the worst result you look up on the Wound Table is a 6.
 
 ---
 

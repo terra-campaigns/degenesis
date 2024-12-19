@@ -19,7 +19,7 @@ armour: Leathers - 1
 details:
 - COSSACK **SCOUT** - Everyone in yours and neighbour clans knows you.
 - DESTROYER - You were once a builder, but a great loss has driven you to tear down everything you once loved. You carry a hammer symbolic of your destructive path.
-- COULD BE WORSE - "Bruises fade, cuts close, and bones mend. Pain is a warning, not a weakness. The character feels it, acknowledges it—but never lets it stop them. Pain exists to protect, not to prevent survival." - **Gain Fatigue. When you fail your STR save against Critical Damage, you don't get an injury from the Wound Table.**
+- COULD BE WORSE - "Bruises fade, cuts close, and bones mend. Pain is a warning, not a weakness. The character feels it, acknowledges it—but never lets it stop them. Pain exists to protect, not to prevent survival." - When you suffer **Critical Damage** the worst result you look up on the Wound Table is a 6.
 
 gear:
 - Sledgehammer (d8)
