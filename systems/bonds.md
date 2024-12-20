@@ -2,7 +2,7 @@
 
 **Bonds** tie you to someone else and the world.
 You may resolve your **Bond**, and will be awarded Growth.
-Once resolved, you may roll a new **Bond** (but won't get new skills).
+Once resolved, you may roll a new **Bond**.
 
 Roll a ***d4*** and a ***d6***.
 

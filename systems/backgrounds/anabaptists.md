@@ -22,7 +22,7 @@ names:
 - Cassandra Faith
 
 gear:
-- 1d6 x 50 Chronicler Drafts *(petty)*
+- 1d6 x 50 Chronicler Drafts
 - Purifier's dagger (d6)
 - Ceremonial water flask
 - Heavy leathers (1 Armour)
@@ -42,7 +42,7 @@ ranks:
       - "**ELYSIAN**: Take a **Crucible**, **Healing Herbs** and an **Adriatic Stone**. Because of the **Elysian Oils** you used you reduce Sepsis infection in 1 (6 uses). You can always get more oil on Anabaptists Enclaves."
   - roll: "5"
     text: 
-      - "**FUROR**: Take a **Spitfire** (d8 blast). You can muster a gan of Orgiastics and start a crusade and try to start forming a settlement."
+      - "**FUROR**: Take a **Spitfire** (d8 blast). You can muster a gang of Orgiastics and start a crusade and try to start forming a settlement."
   - roll: "6"
     text:
       - (Choose One) All take a **Long Spade** and **Grain**. <br>
