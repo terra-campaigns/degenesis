@@ -2,13 +2,13 @@
 
 **Bonds** tie you to someone else and the world.
 You may resolve your **Bond**, and will be awarded Growth.
-Once resolved, you may roll a new **Bond** (but won't get new skills).
+Once resolved, you may roll a new **Bond**.
 
 Roll a ***d4*** and a ***d6***.
 
 |         |                                                                                                                                                                                        |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1,1** | **AMNESIAC**: You must protect a stranger who claims to know your past.                                                                                                                |
+| **1,1** | **AMNESIAC**: You don't remember your past.                                                                                                                                            |
 | **1,2** | **ADVENTURER**: You owe a debt to someone who saved you on one of your reckless journeys. You keep a **tattered map** they gave you.                                                   |
 | **1,3** | **CREATOR**: Someone destroyed your greatest work, and you are driven to create something even greater. Your workshop holds a **cursed brush** from your last masterpiece.             |
 | **1,4** | **MENTOR**: You are searching for a lost disciple who betrayed your teachings. You carry a **worn journal** of their early lessons.                                                    |
@@ -25,13 +25,13 @@ Roll a ***d4*** and a ***d6***.
 | **3,3** | **DESTROYER**: You were once a builder, but a great loss has driven you to tear down everything you once loved. You carry a **hammer** symbolic of your destructive path.              |
 | **3,4** | **CHOSEN**: A prophecy foretold your rise, but a close friend doubts your destiny and stands in your way. You wear a **prophetic amulet** marking your supposed fate.                  |
 | **3,5** | **DEFILER**: You seek to corrupt the heart of someone who once held you in high regard. You possess a **drawing** that reflects your twisted nature.                                   |
-| **3,6** | **PROTECTOR**: A person or place you swore to defend is now under threat, and you will stop at nothing to protect them. You carry a **shield with the emblem** of your cause.          |
+| **3,6** | **PROTECTOR**: A person or place you swore to defend is now under threat, and you will stop at nothing to protect them. **Who or what do you protect?**                                |
 | **4,1** | **VISIONARY**: You have seen a glimpse of a dark future and are determined to change the course of fate. You keep a **crystal orb** that reveals visions of what is to come.           |
 | **4,2** | **ZEALOT**: Your faith is challenged by a heretic who claims to have the true revelation. You clutch a **sacred relic** that embodies your devotion.                                   |
 | **4,3** | **DISCIPLE**: You have outgrown your master, and now seek to challenge them or surpass their teachings. You carry a **worn manuscript** of your master’s teachings.                    |
 | **4,4** | **RIGHTEOUS**: You have judged someone close to you as wicked, but others don’t see it that way. You wield a **judgmental scale** symbolizing your moral stance.                       |
 | **4,5** | **TRAVELER**: You promised to deliver a message to a distant land, but the journey is more dangerous than expected. You carry a **sealed letter** with the critical message.           |
-| **4,6** | Roll twice and combine the bonds and choose one of the equipment items.                                                                                                                |
+| **4,6** | Roll twice and combine the bonds.                                                                                                                                                      |
 
 > Bonds are based on Degenesis Archetypes (Apocalyptic Tarot).
 {: .fs-2 }
