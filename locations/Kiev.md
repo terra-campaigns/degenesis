@@ -17,6 +17,7 @@ details:
 
 {% comment %} =========== HIDDEN TEXT ===========
 
+- Sleepers protecting the east front of the city
 
 
 ========== HIDDEN ENDS ========= {% endcomment %}
