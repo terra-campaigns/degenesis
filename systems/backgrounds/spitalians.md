@@ -18,13 +18,12 @@ names:
 - Chief Surgeon Octavius Grey
 - Pathologist Lena Krieger
 - Field Operative Marik Holt
-- Erasmus Kline
 - Liora Kaestner
 
 gear:
 - 2d6 x 50 Chronicler Drafts
 - Scalpel (d6)
-- Tranquilizer (3 uses)
+- Tranquillizer (3 uses)
 - Sterile Gloves
 
 ranks:
