@@ -11,12 +11,22 @@ footer_content:
 
 # {{ page.title }}
 
-
 ![](https://img2.storyblok.com/4000x2323/filters:quality(90)/f/72501/5076x2948/1d79ad3218/pollen-thundestorm.png)
 
-- "**Spitalian Expedition Concern**: A Spitalian platoon based in Nikopol for Biokinetic hunts is rumoured to have suffered near-total losses. The Consultant of Danzig is seeking anyone willing to confirm the expedition's status, as northern Spitalians hope these reports are exaggerated or untrue."
-- "**Mission Rewards and Passage**: Any retrieval of equipment, notes, specimens, or personnel will be rewarded. Clanners arranged safe passage to Nikopol via a Storski train, but a return trip hinges on delivering results to the Spitalian contingent in Danzig."
+## Campaign objectives
+
+> As established [before crossing the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol3a/#the-cliques-mission-in-nikopol).
+
+- Unearth any connections the enigmatic city may have to [Vasco](https://degenesis.com/world/bio/spitalians/vasco)’s mystery—a ghost haunting Spitalian politics.
+- Probe [Nikopol](../../locations/Nikopol.md)’s underbelly, seeking to smuggle [Kievan](../../locations/Kiev.md) artefacts through the Storskis rail, their path destined for the Protectorate’s coffers.
+- Twist the city's leadership into vassals of the Protectorate—or, failing that, identify and nurture a new power that bends more easily to the Protectorate's will.
 
 ![](https://i.imgur.com/N81zDfI.png)
+
+## Open assignments
+
+- Clear up a nascent spore field in an old church in the surroundings of Nikopol (from the Woyins)
+- Exploit a small pocket of gold in the Bloody Mines (from the Zemlyaks)
+- Expand current maritime export of ore to Burgas, supplying enough to Istanbul as well (from the Postachi)
 
 {% include prefooter_campaign.html %}
