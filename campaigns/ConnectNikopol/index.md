@@ -27,6 +27,6 @@ footer_content:
 
 - Clear up a nascent spore field in an old church in the surroundings of Nikopol (from the Woyins)
 - Exploit a small pocket of gold in the Bloody Mines (from the Zemlyaks)
-- Expand current maritime export of ore to Burgas, supplying enough to Istanbul as well (from the Postachi)
+- Exchange rough worked metal with food with a Cossack tribe 30 Km North (from the Postachi)
 
 {% include prefooter_campaign.html %}
