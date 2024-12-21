@@ -42,7 +42,7 @@ The Founder's Square was a cacophony of hedonism. Drunken laughter mingled with 
 
 For many, it was freedom incarnate; for young Sofia, it was an assault on her senses. As she began to wail, Yelena whisked her back to the relative quiet of the tunnel. Sasha followed, his concern for the child palpable, but his attempts to soothe her proved futile.
 
-Within the square, Anastasia encountered [Prokhor](../../people/FoundersBlessed/Prokhor.md), the hardened leader of the Streltsys, Nikopol’s special operatives. Their exchange in an office room was brief. On her way out, Anastasia pockets a book of some sorts.
+Within the square, Anastasia encountered [Prokhor](../../people/FoundersBlessed/Prokhor.md), the hardened leader of the Streltsys, Nikopol’s special operatives. Their exchange in an office room was brief. On her way out, Anastasia pockets a [book of some sorts](https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries).
 
 ![](https://i.imgur.com/J01Rztk.png)
 

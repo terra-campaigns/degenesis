@@ -6,7 +6,7 @@ role:
 archetype: 
 parent: Founders' Blessed
 
-image: 
+image: https://i.imgur.com/44uQLQo.png
 
 statblock: false
 hp: 
