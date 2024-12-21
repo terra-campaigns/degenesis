@@ -15,7 +15,7 @@ armour:
 
 details:
 - Rushed through Spitalian training, sent prematurely to the field. Unaware and keen. Holds a tome. 18 yo.
-- Minimum Fatigue 1 - eye infection
+- Sepsis - Eye infection (minimum fatigue 1)
 
 image: https://i.imgur.com/6GHvyJK.png
 

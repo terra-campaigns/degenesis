@@ -4,7 +4,7 @@ layout: default
 
 title: Purifier Harlem
 role: Leader of Operations for the Clique
-archetype: Borca, The Heretic, Spitalian Preservist
+archetype: Borca, The Heretic, Spitalian Preservist (4)
 parent: Protectorate Clique
 
 image: https://img2.storyblok.com/1543x896/filters:quality(90)/f/72501/3840x2230/40928ceedc/spitalians-the-preservists-arrive.jpg
