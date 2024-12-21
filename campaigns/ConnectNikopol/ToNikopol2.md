@@ -32,7 +32,7 @@ region: East Pollen
 - Dr. Monroe joins the rites in silent respect, the weight of history pressing upon the group.
 - In whispered tones, Isolde and Marcus confront their earlier violence, tethering their souls with justification: “They were sinners.”
 
-### Final Day’s Travail, before [Shard](../../locations/Shard.md)
+### Final Day’s Travel, before [Shard](../../locations/Shard.md)
 
 - The tracks ease their grip, their frozen defiance replaced by fleeting respite as the group advances.
 - Rain turns to hail, then an uncanny downpour of insect fragments, culminating in a living storm of spiders.

@@ -20,7 +20,7 @@ region: East Pollen
 
 [Commando Prime Klaus](../../people/ProtectorateClique/ComPrimeKlaus.md) assembles his loyal Clique, his words heavy with purpose and veiled warnings. The mission unfolds:
 
-- Unearth any connections the enigmatic city may have to Vasco’s mystery—a ghost haunting Spitalian politics.
+- Unearth any connections the enigmatic city may have to [Vasco](https://degenesis.com/world/bio/spitalians/vasco)’s mystery—a ghost haunting Spitalian politics.
 - Probe Nikopol’s underbelly, seeking to smuggle Kievan artefacts through the Storskis rail, their path destined for the Protectorate’s coffers.
 - Twist the city's leadership into vassals of the Protectorate—or, failing that, identify and nurture a new power that bends more easily to the Protectorate's will.
 
