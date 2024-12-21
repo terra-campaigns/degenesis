@@ -17,6 +17,7 @@ names:
   - Lena "Shiv" Goss
   - Omar "Scrap" Delaney
   - Tara "Gutter" Morrow
+  - Rex "Rusty" Ross
 gear:
   - 1d6 x 50 Chronicler Drafts
   - Rope & grappling hook (d4)

@@ -7,7 +7,7 @@ parent: Pregen Characters
 nav_exclude: true
 statblock: true
 
-image: https://i.imgur.com/Y5Z5sNP.png
+image: https://i.imgur.com/Glh7UKv.png
 
 str: 8
 dex: 12
