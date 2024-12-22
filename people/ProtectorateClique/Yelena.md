@@ -3,7 +3,7 @@ template: npc v0.3.1
 layout: default
 title: Yelena Stormrider
 role: No active role - depressed due to loss
-archetype: Cossack Tribal Warrior
+archetype: Cossack Tribal Warrior (3)
 parent: Protectorate Clique
 
 image: https://i.imgur.com/AJau74H.png

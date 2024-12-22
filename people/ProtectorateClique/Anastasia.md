@@ -3,17 +3,17 @@ template: pc v0.3
 layout: default
 title: Anastasia Frostmane
 role:
-archetype: Pollen, The Protector, Cossack Shaman
+archetype: Pollen, The Protector, Cossack Shaman (3)
 parent: Protectorate Clique
-statblock: false
+statblock: true
 
 image: 
 
-str: 13/13
-dex: 7/7
-wil: 12/12
+str: 13
+dex: 7
+wil: 12
 
-hp: 4/4
+hp: 4
 armour: 1 (2 if holding shield)
 
 details:

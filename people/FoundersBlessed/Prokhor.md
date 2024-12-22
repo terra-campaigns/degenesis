@@ -3,18 +3,18 @@ template: npc v0.3.1
 layout: default
 title: Prokhor 'The Just'
 role: Leader of the Streltsys
-archetype: Pollen, The Traditionalist, Rarogi Sovral
+archetype: Pollen, The Traditionalist, Rarogi Sovral (4)
 parent: Founders' Blessed
 
 image: https://i.imgur.com/J01Rztk.png
 
-statblock: false
-hp: 
-armour: 
-str: 
-dex: 
-wil: 
-at: 
+statblock: true
+hp: 7
+armour: Streltsy’s suit 1
+str: 12
+dex: 10
+wil: 12
+at: Streltsy Rifle (d8), Knife (d6)
 
 ---
 

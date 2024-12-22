@@ -8,13 +8,13 @@ parent: Founders' Blessed
 
 image: https://i.imgur.com/62OmEw8.png
 
-statblock: false
-hp: 
-armour: 
-str: 
-dex: 
-wil: 
-at: 
+statblock: true
+hp: 9
+armour: Battle-scarred leather armour 1
+str: 12
+dex: 12
+wil: 12
+at: Blade bracelet (d6), Crossbow (d8)
 
 ---
 
