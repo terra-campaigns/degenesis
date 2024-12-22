@@ -272,6 +272,182 @@
                 "direction": "inbound"
             }
         ],
+        "_includes/srd_modules/procedures.md": [
+            {
+                "text": "DUNGEON EXPLORATION",
+                "url": "_includes/srd_modules/#dungeon-exploration",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "WILDERNESS EXPLORATION",
+                "url": "_includes/srd_modules/#wilderness-exploration",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "DOWNTIME",
+                "url": "_includes/srd_modules/#downtime",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Reactions",
+                "url": "/second-edition/players-guide/core-rules/#reactions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Action**",
+                "url": "_includes/srd_modules/#wilderness-actions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/#wilderness-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "reactions",
+                "url": "/second-edition/players-guide/core-rules.md/#reactions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/#wilderness-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Make Camp**",
+                "url": "_includes/srd_modules/#make-camp",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/#dungeon-exploration": [
+            {
+                "text": "DUNGEON EXPLORATION",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#wilderness-exploration": [
+            {
+                "text": "WILDERNESS EXPLORATION",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#downtime": [
+            {
+                "text": "DOWNTIME",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#dungeon-events": [
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "/second-edition/players-guide/core-rules/#reactions": [
+            {
+                "text": "Reactions",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#wilderness-actions": [
+            {
+                "text": "**Wilderness Action**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#wilderness-events": [
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "/second-edition/players-guide/core-rules.md/#reactions": [
+            {
+                "text": "reactions",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#make-camp": [
+            {
+                "text": "**Make Camp**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "_includes/srd_modules/combat.md": [
             {
                 "text": "Scars",
@@ -393,6 +569,53 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "_site/systems/character-development.md": [
+            {
+                "text": "Cult or Clan",
+                "url": "_site/systems/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scars",
+                "url": "_site/systems/#scars",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis",
+                "url": "_site/systems/#sepsis",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_site/systems/#backgrounds": [
+            {
+                "text": "Cult or Clan",
+                "url": "_site/systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/#scars": [
+            {
+                "text": "Scars",
+                "url": "_site/systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/#sepsis": [
+            {
+                "text": "Sepsis",
+                "url": "_site/systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "_site/systems/culture.md": [
@@ -2425,6 +2648,53 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/character-development.md": [
+            {
+                "text": "Cult or Clan",
+                "url": "systems/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scars",
+                "url": "systems/#scars",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis",
+                "url": "systems/#sepsis",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/#backgrounds": [
+            {
+                "text": "Cult or Clan",
+                "url": "systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/#scars": [
+            {
+                "text": "Scars",
+                "url": "systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/#sepsis": [
+            {
+                "text": "Sepsis",
+                "url": "systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "systems/culture.md": [
