@@ -26,7 +26,7 @@ footer_content:
 ## Open assignments
 
 - Clear up a nascent spore field in an old church in the surroundings of Nikopol (from the Woyins)
-- Exploit a small pocket of gold in the Bloody Mines (from the Zemlyaks)
-- Exchange rough worked metal with food with a Cossack tribe 30 Km North (from the Postachi)
+- Exploit a small pocket of gold in the deep Bloody Mines (from the Zemlyaks)
+- Exchange rough worked metal for food, with a local Cossack tribe 30 Km North (from the Postachi)
 
 {% include prefooter_campaign.html %}

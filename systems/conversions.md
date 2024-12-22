@@ -1,10 +1,3 @@
----
-layout: default
-title: Conversions
-parent: WIP
-
----
-
 # Conversions
 
 ## Conversions from Degenesis
