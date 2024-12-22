@@ -1,5 +1,9 @@
 # Procedures
 
+**[DUNGEON EXPLORATION](#dungeon-exploration)**  
+**[WILDERNESS EXPLORATION](#wilderness-exploration)**  
+**[DOWNTIME](#downtime)**  
+
 ## Dungeon Exploration
 
 ### The Basics
