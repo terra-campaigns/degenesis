@@ -39,7 +39,6 @@
 | {{ sec }} {% endfor %} |
 {% endif %}
 
-
 {% if page.image %}
 ![]({{ page.image }})
 {% endif %}

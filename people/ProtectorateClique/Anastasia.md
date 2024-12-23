@@ -1,5 +1,5 @@
 ---
-template: pc v0.3
+template: pc v0.3.1
 layout: default
 title: Anastasia Frostmane
 role:
@@ -17,8 +17,6 @@ hp: 4
 armour: 1 (2 if holding shield)
 
 details:
-- "**Background**: Cossack"
-- "**Rank**: Shaman (rank 3)"
 - "**Potential**: Asceticism - You don’t become deprived due to lack of water or food."
 - "**Bond**: Protector - A person or place you swore to defend is now under threat, and you will stop at nothing to protect them. You carry a shield with the emblem of your cause."
 
