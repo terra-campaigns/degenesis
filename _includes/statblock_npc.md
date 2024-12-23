@@ -1,8 +1,4 @@
-{% comment %}
-=======================
-template: npc v0.3
-=======================
-{% endcomment %}
+{% comment %} template: npc v0.3 {% endcomment %}
 
 {% if page.template == "npc v0.3" %}
 
@@ -23,24 +19,25 @@ template: npc v0.3
 {% endif %}
 
 
-{% comment %}
-=======================
-template: npc v0.3.1
-=======================
-{% endcomment %}
+
+
+{% comment %} template: npc v0.3.1 {% endcomment %}
 
 {% if page.template == "npc v0.3.1" %}
 
 # {{ page.title }}
 
-| ***{{ page.role }}***
-| {{ page.archetype }}
+{% if page.role %}
+#### ***{{ page.role }}***
+{% endif %}
+
+| {{ page.archetype }} | {% if page.statblock %} 
+| {{ page.hp }} HP, {{ page.armour }} Armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL, {{ page.at }} |
+{% endif %}
+
 
 {% if page.image %}
 ![]({{ page.image }})
-{% endif %}
-{% if page.statblock %}
-| {{ page.hp }} HP, {{ page.armour }} Armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL, {{ page.at }} |
 {% endif %}
 {% for sec in page.details %} 
 - {{ sec }}  {% endfor %}

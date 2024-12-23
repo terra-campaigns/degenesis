@@ -10,16 +10,21 @@ image: https://i.imgur.com/YYqNlQ1.png
 
 statblock: true
 hp: 5
-armour: Thick Clothes with metal plates - 1
+armour: "Thick clothes with metal plates: 1"
 str: 11
 dex: 13
 wil: 13
-at: Piercer (d8)
+at: "Piercer (d8, CD: pierces through)"
 
 ---
 
 {% include statblock_npc.md %}
 
 {% comment %} =========== HIDDEN TEXT ===========
-
+- Vita's spy
+- Ex-Streltsys, after beating a Sovral to death was left behind in fight with Leperos.
 ========== HIDDEN ENDS ========= {% endcomment %}
+
+- Believes he is being played by [Prokhor](Prokhor.md) and the Streltsys (as suggested by [Sasha Volkov](../ProtectorateClique/SashaVolkov.md) in [Nikopol](../../locations/Nikopol.md) on [2594-05-08](../../campaigns/ConnectNikopol/InNikopol02.md)).
+- Ex-Streltsys
+- Smells like booze.

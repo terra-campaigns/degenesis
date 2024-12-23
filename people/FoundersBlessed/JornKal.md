@@ -1,6 +1,8 @@
 ---
 template: npc v0.3.1
 layout: default
+nav_exclude: true
+
 title: Jorn Kal
 role: Wannabe hero
 archetype: Borca, The Adventurer, Spitalian Famulancer (3)
@@ -21,5 +23,7 @@ at: Splayer (d8)
 {% include statblock_npc.md %}
 
 {% comment %} =========== HIDDEN TEXT ===========
+
+- Mollusk in his sprayer is made of a Resident's brain (who calls Rubilo and Zubilo)
 
 ========== HIDDEN ENDS ========= {% endcomment %}

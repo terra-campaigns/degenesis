@@ -25,9 +25,10 @@ details:
 
 {% comment %} =========== HIDDEN TEXT ===========
 
-Nikopol?
-
-- hidden bullet 1
-- hidden bullet 2
+- Has Streltsys spies
+- Might have some relationship with the Resident
 
 ========== HIDDEN ENDS ========= {% endcomment %}
+
+- Re-builds Nikopol after his father passes away.
+- Ventured into the Spore Wall and came back changed by Sepsis. 
