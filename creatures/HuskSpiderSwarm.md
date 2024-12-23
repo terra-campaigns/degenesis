@@ -2,7 +2,6 @@
 template: npc v0.3.1
 layout: default
 title: Husk Spider (Swarm)
-archetype: Husk Spiders have been seen in the Stukov Desert, sometimes even in Borca. However, their home is Pollen. There, they are the vanguard when the ground thaws and a Fractal Forest comes to the surface. They attack this oasis by the hundreds of thousands, and other spiders and centipedes follow the pheromone contained in their silk.
 parent: Creatures
 
 image: https://i.imgur.com/QmIQOph.png
@@ -34,3 +33,4 @@ details:
 
 ========== HIDDEN ENDS ========= {% endcomment %}
 
+Husk Spiders have been seen in the Stukov Desert, sometimes even in Borca. However, their home is Pollen. There, they are the vanguard when the ground thaws and a Fractal Forest comes to the surface. They attack this oasis by the hundreds of thousands, and other spiders and centipedes follow the pheromone contained in their silk.
