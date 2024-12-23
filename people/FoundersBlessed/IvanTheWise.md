@@ -31,4 +31,4 @@ details:
 ========== HIDDEN ENDS ========= {% endcomment %}
 
 - Re-builds Nikopol after his father passes away.
-- Ventured into the Spore Wall and came back changed by Sepsis. 
+- Ventured into the Spore Wall and came back changed by Sepsis.

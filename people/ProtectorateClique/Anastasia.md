@@ -36,4 +36,4 @@ gear:
 - Eccentric, short in stature but with athletic physique, upper 30s
 - Tattoos and paraphernalia on self, carries a large shield on her back
 - Protects Zofia, the child of [Yelena](Yelena.md)
-- Uses Bion ritualistically 
+- Uses Bion ritualistically
