@@ -30,6 +30,7 @@ kanban-plugin: board
 - [ ] Supply Bion to Lubos, and get access to his artefact stash
 - [ ] Konrad's tome: Uncover the crypto key from the Kievan Chronicler
 - [ ] Expand current maritime export of ore to Burgas, supplying enough to Istanbul as well (from the Postachi)
+- [ ] Isolde: what do you believe to be, as a sublime?
 
 
 ## Old sets
