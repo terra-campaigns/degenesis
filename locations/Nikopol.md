@@ -31,3 +31,10 @@ The Founders’ Square serves as a cultural an![Image](https://i.imgur.com/Zzr06
 ![Image](https://i.imgur.com/D2Cbj8c.jpeg)
 
 # Train depot
+
+# [Lubos](../people/FoundersBlessed/Lubos.md)' workshop
+
+- Disorganised mess of tools and equipment, including a smelting unit, bad lighting
+- Smell of oil and sweat
+- Hundreds of automata to be fixed
+- Visited in secret in [2594-05-08](../campaigns/ConnectNikopol/InNikopol02.md)
