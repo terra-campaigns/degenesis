@@ -28,12 +28,12 @@
 # {{ page.title }}
 
 {% if page.role %}
-#### ***{{ page.role }}***
+#### **{{ page.role }}**
 {% endif %}
 
 {% if page.archetype %}
 | {{ page.archetype }} | {% endif %} {% if page.statblock %} 
-| {{ page.hp }} HP, {{ page.armour }} Armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL, {{ page.at }} |
+| {{ page.hp }} HP, {{ page.armour }} armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL, {{ page.at }} |
 {% endif %} {% if page.details %}
 {% for sec in page.details %}
 | {{ sec }} {% endfor %} |
