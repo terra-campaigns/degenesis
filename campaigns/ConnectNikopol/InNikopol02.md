@@ -24,7 +24,7 @@ The Anabaptist leader succumbs to her wounds. Commando Prime, with a voice heavy
 
 ### The Clique’s New Duties in Nikopol
 
-The Clique’s uneasy acceptance into Nikopol’s fold carries its weight in obligations, each tethered to factions rich in desperation and power:
+The Clique’s uneasy acceptance into Nikopol’s fold carries its weight in obligations:
 
 - **The Woyins**: Guardians against the surface horrors. [Prokhor](../../people/FoundersBlessed/Prokhor.md), their sentinel, is the contact.
 - **The Zemlyaks**: Harvesters of riches and lifeblood for Nikopol’s survival. Their voice is [Bodgan "Detina"](../../people/FoundersBlessed/BodganDetina.md).
