@@ -94,21 +94,3 @@ potentials:
 ---
 
 {% include statblock_background.md %}
-
----
-#### Connected to
-{: .no_toc }
-
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
-- [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/index), from systems/backgrounds
-- [Vorons](https://terra-campaigns.github.io/degenesis/people/Vorons/index), from people/Vorons
-<!-- SerializedQuery END -->
-
-{% comment %}
-connected_to v0.3
-{% endcomment %}
-
-{% if page.img_back %}
-![]({{ page.img_back }})
-{% endif %}

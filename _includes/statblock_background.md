@@ -34,3 +34,9 @@ With enough time and a mentor you can learn new potentials.
 Even from other **Backgrounds**.
 
 ![]({{ page.img_sttp }})
+
+{% include connected_to.md %}
+
+{% if page.img_back %}
+![]({{ page.img_back }})
+{% endif %}
