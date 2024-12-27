@@ -662,6 +662,13 @@
                 "favicon": null
             },
             {
+                "text": "Cossacks",
+                "url": "_site/systems/backgrounds/cossacks",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Apocalyptics",
                 "url": "_site/systems/backgrounds/apocalyptics",
                 "is_internal": true,
@@ -669,8 +676,8 @@
                 "favicon": null
             },
             {
-                "text": "Cossacks",
-                "url": "_site/systems/backgrounds/cossacks",
+                "text": "Rarogi",
+                "url": "_site/systems/backgrounds/rarogi",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -708,6 +715,14 @@
                 "direction": "inbound"
             }
         ],
+        "_site/systems/backgrounds/cossacks": [
+            {
+                "text": "Cossacks",
+                "url": "_site/systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "_site/systems/backgrounds/apocalyptics": [
             {
                 "text": "Apocalyptics",
@@ -716,9 +731,9 @@
                 "direction": "inbound"
             }
         ],
-        "_site/systems/backgrounds/cossacks": [
+        "_site/systems/backgrounds/rarogi": [
             {
-                "text": "Cossacks",
+                "text": "Rarogi",
                 "url": "_site/systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1098,20 +1113,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Vorons",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vorons/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "people/Vostok/rurik.md": [
@@ -2825,6 +2826,13 @@
                 "favicon": null
             },
             {
+                "text": "Cossacks",
+                "url": "systems/backgrounds/cossacks",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Apocalyptics",
                 "url": "systems/backgrounds/apocalyptics",
                 "is_internal": true,
@@ -2832,8 +2840,8 @@
                 "favicon": null
             },
             {
-                "text": "Cossacks",
-                "url": "systems/backgrounds/cossacks",
+                "text": "Rarogi",
+                "url": "systems/backgrounds/rarogi",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2871,6 +2879,14 @@
                 "direction": "inbound"
             }
         ],
+        "systems/backgrounds/cossacks": [
+            {
+                "text": "Cossacks",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "systems/backgrounds/apocalyptics": [
             {
                 "text": "Apocalyptics",
@@ -2879,9 +2895,9 @@
                 "direction": "inbound"
             }
         ],
-        "systems/backgrounds/cossacks": [
+        "systems/backgrounds/rarogi": [
             {
-                "text": "Cossacks",
+                "text": "Rarogi",
                 "url": "systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3099,11 +3115,26 @@
                 "favicon": null
             },
             {
+                "text": "RAROGI",
+                "url": "systems/backgrounds/rarogi.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Degenesis Cults & Clans",
                 "url": "https://degenesis.com/world/cults/",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/rarogi.md": [
+            {
+                "text": "RAROGI",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "systems/backgrounds/jehammedans.md": [
