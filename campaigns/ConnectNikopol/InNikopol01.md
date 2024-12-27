@@ -12,7 +12,7 @@ region: Nikopol
 
 ### The Descent into Nikopol
 
-The Rarogi, once steadfast in their duties, now staggered to their posts drunk and grinning, their discipline slipping away under the shadow of celebration. Meals were missed, responsibilities forgotten.
+The [Rarogi](../../systems/backgrounds/rarogi.md), once steadfast in their duties, now staggered to their posts drunk and grinning, their discipline slipping away under the shadow of celebration. Meals were missed, responsibilities forgotten.
 
 ![](https://traintobaikonur.com/images/kids-play-combat-1600w.jpg)
 

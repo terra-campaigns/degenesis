@@ -1721,6 +1721,13 @@
                 "direction": "inbound"
             },
             {
+                "text": "Rarogi",
+                "url": "systems/backgrounds/rarogi.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Anastasia",
                 "url": "people/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
@@ -2646,6 +2653,33 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Rarogi",
+                "url": "systems/backgrounds/rarogi.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/backgrounds/rarogi.md": [
+            {
+                "text": "Rarogi",
+                "url": "campaigns/ConnectNikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rarogi",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "RAROGI",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "people/FoundersBlessed/Sokolov.md": [
@@ -3127,14 +3161,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
-        "systems/backgrounds/rarogi.md": [
-            {
-                "text": "RAROGI",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "systems/backgrounds/jehammedans.md": [

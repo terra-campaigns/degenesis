@@ -19,14 +19,8 @@ footer_content:
 
 - Unearth any connections the enigmatic city may have to [Vasco](https://degenesis.com/world/bio/spitalians/vasco)’s mystery—a ghost haunting Spitalian politics.
 - Probe [Nikopol](../../locations/Nikopol.md)’s underbelly, seeking to smuggle [Kievan](../../locations/Kiev.md) artefacts through the Storskis rail, their path destined for the Protectorate’s coffers.
-- Twist the city's leadership into vassals of the Protectorate—or, failing that, identify and nurture a new power that bends more easily to the Protectorate's will.
+- Twist the city's leadership into vassals of the Protectorate—or, failing that, identify and nurture a new [Rarogi](../../systems/backgrounds/rarogi.md) power that bends more easily to the Protectorate's will.
 
 ![](https://i.imgur.com/N81zDfI.png)
-
-## Open assignments
-
-- Clear up a nascent spore field in an old church in the surroundings of Nikopol (from the Woyins)
-- Exploit a small pocket of gold in the deep Bloody Mines (from the Zemlyaks)
-- Exchange rough worked metal for food, with a local Cossack tribe 30 Km North (from the Postachi)
 
 {% include prefooter_campaign.html %}
