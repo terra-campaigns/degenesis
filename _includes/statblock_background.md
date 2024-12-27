@@ -33,7 +33,9 @@ Depending on gained renown, you may be promoted to higher Ranks by your Cult.
 With enough time and a mentor you can learn new potentials.
 Even from other **Backgrounds**.
 
+{% if page.img_sttp %}
 ![]({{ page.img_sttp }})
+{% endif %}
 
 {% include connected_to.md %}
 
