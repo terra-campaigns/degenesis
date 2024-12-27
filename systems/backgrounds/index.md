@@ -4,7 +4,7 @@ title: Backgrounds
 nav_order: 20
 parent: Systems
 has_children: true
-has_toc: true
+has_toc: false
 
 ---
 
