@@ -1,7 +1,8 @@
 ---
-template: pc v0.3
+template: pc v0.3.1
 layout: default
 title: Mara "The Rat" Quinn
+archetype: Pollen, The Zealot, Scraper Mechanist (3)
 role: 
 parent: Pregen Characters
 nav_exclude: true
@@ -18,7 +19,7 @@ armour:
 
 details:
 - SCRAPER **MECHANIST** - You always scrape more raw materials when dismantling.
-- ZEALOT - Your faith is challenged by a heretic who claims to have the true revelation. You clutch a sacred relic that embodies your devotion.
+- "**The ZEALOT** burns with unwavering devotion, drawing strength from a faith so fierce it scorches everything in its path. He endures suffering and sacrifices all for his religion or ideology, proving his worth through relentless acts of belief. **When the fire consumes all but your faith, what will remain to guide you?**"
 - TRUFFLE PIG - Skilled Scrappers uncover artefacts that make Chroniclers uneasy as they reluctantly part with their Drafts, while less fortunate Scrappers barely earn more than the scrap’s worth. The best Scrappers possess an instinct, a sixth sense for finding hidden treasures and avoiding dangers in the ruins. - **Choose one kind of object (key, arrow, gold, etc.). You can sense the nearest example.**
 
 gear:

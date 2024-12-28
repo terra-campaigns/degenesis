@@ -1,7 +1,8 @@
 ---
-template: pc v0.3
+template: pc v0.3.1
 layout: default
 title: Thaddeus Cain
+archetype: Pollen, The Hermit, Anabaptist Ascetic (2)
 role: 
 parent: Pregen Characters
 nav_exclude: true
@@ -18,8 +19,8 @@ armour: Leathers (1 Armour)
 
 details:
 - ANABAPTIST **ASCETIC** - You inspire providers and farmers.
-- HERMIT - A past connection from the world you left behind is desperately seeking your help. You keep a rusted compass from your former life.
-- SLEEK - The crowd cheers, thinking it’s just a show—his body bending, joints popping in ways that make them wince. But this isn’t just entertainment. These contortions were learned in darker places, for darker purposes - **You can always evade a grapple, being stuck, bound or chained.**
+- "**The HERMIT** shuns the noise of the world, finding solace in solitude and freedom in the absence of responsibility to others. They retreat to the fringes, content to live alone, untouched by the chatter and stories of those they disdain. **When the world intrudes on their peace, how do you fight to remain isolated?**"
+- TORCHBEARER - The Anabaptist’s senses have been sharpened to the point of near madness by his closeness to the enemy. He can detect the corruption of Psychonauts, Leperos, and spore fields with uncanny precision, bringing them into stark clarity. In his presence, the hidden horrors of the world cannot remain concealed. - **You feel primer auras within a short distance. WIL save to avoid detection by Psychonaults.**
 
 gear:
 - Seeds to bury in holy places

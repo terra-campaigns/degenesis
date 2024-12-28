@@ -36,14 +36,16 @@
 {% if page.archetype %}
 | {{ page.archetype }} | {% endif %} {% if page.statblock %} 
 | {{ page.hp }} HP, {{ page.armour }} armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL |
-{% endif %} {% if page.details %}
-{% for sec in page.details %}
-| {{ sec }} {% endfor %} |
-{% endif %} | GEAR: {% for sec in page.gear %} {{ sec }}, {% endfor %}
+{% endif %} 
 
 {% if page.image %}
 ![]({{ page.image }})
 {% endif %}
+
+{% if page.details %}
+{% for sec in page.details %}
+| {{ sec }} {% endfor %} |
+{% endif %} | GEAR: {% for sec in page.gear %} {{ sec }}, {% endfor %}
 
 {% include connected_to.md %}
 {% endif %}
