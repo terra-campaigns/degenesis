@@ -6,7 +6,7 @@ role:
 archetype: Pollen, The Ruler, Spitalian Famulancer (3)
 parent: Pregen Characters
 nav_exclude: true
-statblock: true
+statblock: false
 
 image: https://i.imgur.com/0N6RvqV.png
 
@@ -32,9 +32,5 @@ gear:
 - Sterile Gloves
 
 ---
-
-{% comment %}
-DO NOT EDIT BELOW THIS COMMENT
-{% endcomment %}
 
 {% include statblock_pc.md %}

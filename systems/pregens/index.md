@@ -22,3 +22,4 @@ New and replacement characters can be randomly assigned from the list.
 | 1   | [Erasmus Kline](ErasmusKline.md) (Spitalian)                               |
 | 2   | [Mara "the Rat" Quinn](../../systems/pregens/MaraTheRatQuinn.md) (Scraper) |
 | 3   | [Thaddeus Cain](../../systems/pregens/ThaddeusCain.md) (Anabaptist)        |
+| 4   | [Varvara Semyonich](VarvaraSemyonich.md) (Rarogi)                          |

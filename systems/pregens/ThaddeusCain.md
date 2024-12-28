@@ -6,7 +6,7 @@ archetype: Pollen, The Hermit, Anabaptist Ascetic (2)
 role: 
 parent: Pregen Characters
 nav_exclude: true
-statblock: true
+statblock: false
 
 image: https://i.imgur.com/Glh7UKv.png
 
@@ -30,9 +30,5 @@ gear:
 - Heavy leathers (1 Armour)
 
 ---
-
-{% comment %}
-DO NOT EDIT BELOW THIS COMMENT
-{% endcomment %}
 
 {% include statblock_pc.md %}

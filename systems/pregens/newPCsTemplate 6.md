@@ -1,8 +1,12 @@
 ---
+template: pc v0.3.1
 layout: default
-title: Dr. Moreau
-parent: Protectorate Clique
+title: 
+archetype: 
+role: 
+parent: Pregen Characters
 nav_exclude: true
+statblock: false
 
 image: 
 
@@ -15,20 +19,13 @@ armour:
 
 details:
 - 
-- 
-- 
-- 
 
 gear:
--
+- 
 
 ---
 
+{% include statblock_pc.md %}
+
 | SP1 | 41         | 21      | 18 6 9   | 6   |
 | --- | ---------- | ------- | -------- | --- |
-
-{% comment %}
-DO NOT EDIT BELOW THIS COMMENT
-{% endcomment %}
-
-{% include statblock_pc.md %}

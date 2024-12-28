@@ -6,7 +6,7 @@ archetype: Pollen, The Zealot, Scraper Mechanist (3)
 role: 
 parent: Pregen Characters
 nav_exclude: true
-statblock: true
+statblock: false
 
 image: https://i.imgur.com/pxn8jkX.png
 
@@ -31,9 +31,5 @@ gear:
 - Periscope
 
 ---
-
-{% comment %}
-DO NOT EDIT BELOW THIS COMMENT
-{% endcomment %}
 
 {% include statblock_pc.md %}
