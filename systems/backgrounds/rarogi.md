@@ -19,7 +19,6 @@ names:
 - Dmitri Razumkin
 - Katerina Grushina
 - Arkady Lebedev
-- Varvara Semyonich
 - Fyodor Zolnikov
 - Ivan Karmazov
 - Nastasya Petrovskaya
