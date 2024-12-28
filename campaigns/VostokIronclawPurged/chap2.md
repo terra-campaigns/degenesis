@@ -10,7 +10,7 @@ region: East Pollen
 
 {% include chapter_header.md %}
 
-The [index](../../people/Vostok/index.md) Scouts wake, heavy-limbed and haunted, after a night beset by fractured dreams and the whisper of feral urges. Shadows of yesterday’s choices hang like smoke in their minds, clouding judgment and unearthing doubts.
+The [Vostok](../../people/Vostok/index.md) Scouts wake, heavy-limbed and haunted, after a night beset by fractured dreams and the whisper of feral urges. Shadows of yesterday’s choices hang like smoke in their minds, clouding judgment and unearthing doubts.
 
 Three among them—Dr. Sofia, Yuri, and Skittle—are gone. Fled, perhaps, driven by the tension that lingered like the scent of rust and fear. Or, worse yet, taken. But by whom? [Luna](../../people/Vostok/luna.md) and [Jacob](../../people/Vostok/jacob.md) have no time for speculation. They steel themselves and move forward alone, instinctively drawn towards their target.
 

@@ -31,11 +31,12 @@ Weapons have a damage die.
 
 Weapons also may have tags.
 
-|            |                                                           |
-| ---------- | --------------------------------------------------------- |
-| *Bulky*    | Needs 2 hands                                             |
-| *Advanced* | Ignore non-advanced Armour                                |
-| *Blast*    | Harms multiple opponents (roll damage die for the number) |
+|              |                                                           |
+| ------------ | --------------------------------------------------------- |
+| *Bulky*      | Needs 2 hands                                             |
+| *Advanced*   | Ignore non-advanced Armour                                |
+| *Blast*      | Harms multiple opponents (roll damage die for the number) |
+| *Non-lethal* | Targets DEX after HP                                      |
 
 For ranges, use what is narratively appropriate.
 
@@ -60,13 +61,18 @@ Armours can be
 {: .no_toc }
 
 - Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+- When a PC suffers **Critical Damage**, look up the damage die result on the Wounds Table. The PC is taken out of action and cannot do anything else during the rest of the scene. NPCs and monsters that fail a **Critical Damage** save may be considered dead, per the **Warden's** discretion. Additionally, some enemies have special abilities or effects that are triggered when their target fails a **Critical Damage** save.
+
+![](https://raw.githubusercontent.com/terra-campaigns/degenesis/refs/heads/main/imgs/woundTbl.png)
+
+> The Wound Table is copied from the [Liminal Horror](https://liminalhorrorrpg.com/) SRD, available under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+> {: .fs-2 }
 
 ## Attribute Loss
 {: .no_toc }
 
 - If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. Complete DEX loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ## Character Death
 {: .no_toc }

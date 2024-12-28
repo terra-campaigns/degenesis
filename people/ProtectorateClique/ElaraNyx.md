@@ -1,7 +1,10 @@
 ---
+template: pc v0.3
 layout: default
 title: R. Elara Nyx
 parent: Protectorate Clique
+nav_exclude: true
+statblock: true
 
 hp: 
 str: 
@@ -11,7 +14,8 @@ wil:
 armour: 
 
 details:
--
+- Spitalian Femulancer
+- Experienced, conducting research
 
 image: 
 

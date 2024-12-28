@@ -9,7 +9,7 @@ search_exclude: true
 
 # Jehammedans
 
-> A [Jehammedan](https://degenesis.com/world/cults/jehammedans)’s life is determined from the day he is born. He will fulfill his duties within the family, like his father and his grandfather before him. They honor the family as decreed by Jehammed, the last prophet. As a young Ismaeli, the Jehammedan herds his family’s goats and imagines how life would have been as an Isaaki, a blessed child.
+> A [Jehammedan](https://degenesis.com/world/cults/jehammedans)’s life is determined from the day he is born. He will fulfil his duties within the family, like his father and his grandfather before him. They honour the family as decreed by Jehammed, the last prophet. As a young Ismaeli, the Jehammedan herds his family’s goats and imagines how life would have been as an Isaaki, a blessed child.
 
 ![](https://a.storyblok.com/f/72501/2715x3840/99926e4b7b/010-jehammedans-archetype.jpg)
 

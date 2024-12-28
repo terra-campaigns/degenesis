@@ -17,13 +17,12 @@ names:
 - Mira Valeria
 - Jasper Thorn
 - Lucia Ember
-- Thaddeus Cain
 - Selene Marrow
 - Aldric Verus
 - Cassandra Faith
 
 gear:
-- 1d6 x 50 Chronicler Drafts *(petty)*
+- 1d6 x 50 Chronicler Drafts
 - Purifier's dagger (d6)
 - Ceremonial water flask
 - Heavy leathers (1 Armour)
@@ -43,7 +42,7 @@ ranks:
       - "**ELYSIAN**: Take a **Crucible**, **Healing Herbs** and an **Adriatic Stone**. Because of the **Elysian Oils** you used you reduce Sepsis infection in 1 (6 uses). You can always get more oil on Anabaptists Enclaves."
   - roll: "5"
     text: 
-      - "**FUROR**: Take a **Spitfire** (d8 blast). You can muster a gan of Orgiastics and start a crusade and try to start forming a settlement."
+      - "**FUROR**: Take a **Spitfire** (d8 blast). You can muster a gang of Orgiastics and start a crusade and try to start forming a settlement."
   - roll: "6"
     text:
       - (Choose One) All take a **Long Spade** and **Grain**. <br>
@@ -60,9 +59,9 @@ potentials:
   - roll: 2
     name: KILLING JOKE
     flavour:
-      - "The enemy braces for a blade, but instead, the Anabaptist deftly pivots and strikes with the pommel of his sword, aiming for an unarmored vital spot. This technique, known as the Killing Joke, is a high-risk manoeuvre that can knock an opponent unconscious instantly."
+      - "The enemy braces for a blade, but instead, the Anabaptist deftly pivots and strikes with the pommel of his sword, aiming for an unprotected vital spot. This technique, known as the Killing Joke, is a high-risk manoeuvre that can knock an opponent unconscious instantly."
     rule:
-      - Requires a **Sword**. When you deal 6+ damage your opponent becomes unconscious, but will wake up if harmed.
+      - Requires a **Sword**. When you deal 6+ damage your opponent becomes unconscious, but will wake up if harmed again. The next attack against you is **Enhanced**.
   - roll: 3
     name: PNEUMA
     flavour:
@@ -90,21 +89,3 @@ potentials:
 ---
 
 {% include statblock_background.md %}
-
----
-#### Connected to
-{: .no_toc }
-
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
-- [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/index), from systems/backgrounds
-- [Protectorate Clique](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index), from people/ProtectorateClique
-<!-- SerializedQuery END -->
-
-{% comment %}
-connected_to v0.3
-{% endcomment %}
-
-{% if page.img_back %}
-![]({{ page.img_back }})
-{% endif %}

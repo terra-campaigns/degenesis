@@ -4,7 +4,7 @@ layout: default
 parent: Backgrounds
 
 icon_link: ../../../imgs/icons/01-CULT-SPITALIANS-WHITE-ON-BLACK-320x320.webp
-flavour_text: Mankind’s last line of defense against the Primer and its spawn. [Spitalians](https://degenesis.com/world/cults/spitalians) explore the spore fields, dissect dead Psychonauts, and develop poisons and weapons. With their fungicides they cut swathes into the Sepsis, and carry spore covered muscles in glass tubes to lead them to the Aberrants’ breeding grounds.
+flavour_text: Mankind’s last line of defence against the Primer and its spawn. [Spitalians](https://degenesis.com/world/cults/spitalians) explore the spore fields, dissect dead Psychonauts, and develop poisons and weapons. With their fungicides they cut swathes into the Sepsis, and carry spore covered muscles in glass tubes to lead them to the Aberrants’ breeding grounds.
 
 img_front: https://a.storyblok.com/f/72501/2715x3840/8900dcd07d/001-spitalians-archetype.jpg
 img_rank: https://i.imgur.com/LKEOuPq.png
@@ -18,14 +18,12 @@ names:
 - Chief Surgeon Octavius Grey
 - Pathologist Lena Krieger
 - Field Operative Marik Holt
-- Purifier Harlan Dray
-- Erasmus Kline
 - Liora Kaestner
 
 gear:
 - 2d6 x 50 Chronicler Drafts
 - Scalpel (d6)
-- Tranquilizer (3 uses)
+- Tranquillizer (3 uses)
 - Sterile Gloves
 
 ranks:
@@ -41,7 +39,7 @@ ranks:
   - roll: "6"
     text:
       - (choose one) All take a **Spitalian Suit** (2 Armour against Spore Infestation). <br>
-      - "**PRESERVIST**: Take a **Preservalis Sword** (d10), a **Pistol** (d6) and a **Horse**. In the Protectorate, you have access to armories. <br>"
+      - "**PRESERVIST**: Take a **Preservalis Sword** (d10), a **Pistol** (d6) and a **Horse**. In the Protectorate, you have access to armoires. <br>"
       - "**FIELD MEDIC**: take a **Field Kit**, you are well regarded in the Protectorate. <br>"
       - "**SURGEON**: Take **Surgical Equipment**. You are well regarded by the Anabaptists. <br>"
       - "**HYGIENIST**: take a **Hygienist bodysuit** (3 Armour against Spore Infestation). you are well regarded by the Judges. <br>"
@@ -90,22 +88,3 @@ potentials:
 ---
 
 {% include statblock_background.md %}
-
----
-#### Connected to
-{: .no_toc }
-
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE (file.path != this.file.path AND title != null) SORT file.folder DESC -->
-- [Backgrounds](https://terra-campaigns.github.io/degenesis/systems/backgrounds/index), from systems/backgrounds
-- [Protectorate Clique](https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index), from people/ProtectorateClique
-- [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli), from campaigns/ConnectNikopol
-<!-- SerializedQuery END -->
-
-{% comment %}
-connected_to v0.3
-{% endcomment %}
-
-{% if page.img_back %}
-![]({{ page.img_back }})
-{% endif %}

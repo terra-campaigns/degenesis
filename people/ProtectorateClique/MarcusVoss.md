@@ -1,7 +1,10 @@
 ---
+template: pc v0.3
 layout: default
 title: Marcus Voss
 parent: Protectorate Clique
+nav_exclude: false
+statblock: true
 
 hp: 
 str: 
@@ -16,12 +19,14 @@ details:
 - ""
 - Optimistic, simple minded, dedicated. Always sketching (but throwing pages away). 25 yo.
 
-image: 
+image: https://i.imgur.com/rCWcUHA.png
 
 gear:
 -
 
 ---
+
+> Deceased in [East Pollen, 2094-04-19](../../campaigns/ConnectNikopol/ToNikopol3b.md)
 
 {% comment %}
 DO NOT EDIT BELOW THIS COMMENT

@@ -96,6 +96,13 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
+                "text": "art for **Degenesis**",
+                "url": "https://www.sixmorevodka.com/not-so-famous-work/degenesis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.sixmorevodka.com/favicon.ico"
+            },
+            {
                 "text": "Lore Drops",
                 "url": "https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N",
                 "is_internal": false,
@@ -131,43 +138,29 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "website",
-                "url": "https://terra-campaigns.github.io/degenesis/",
+                "text": "Owlbear Rodeo",
+                "url": "https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "favicon": "https://www.owlbear.rodeo/favicon.ico"
             },
             {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "text": "Discord voice",
+                "url": "https://discord.com/channels/1060840338777964565/1289653812805505044",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "favicon": "https://discord.com/favicon.ico"
             },
             {
-                "text": "The Spitalian raid",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
+                "text": "Discord text & image share",
+                "url": "https://discord.com/channels/1060840338777964565/1313166726334124114",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "favicon": "https://discord.com/favicon.ico"
             },
             {
-                "text": "Return Geteli",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Scouting to Cherasky",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Cleaning the tracks",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol2",
+                "text": "created, rolled or chosen from pregens",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/#character-creation",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
@@ -279,6 +272,182 @@
                 "direction": "inbound"
             }
         ],
+        "_includes/srd_modules/procedures.md": [
+            {
+                "text": "DUNGEON EXPLORATION",
+                "url": "_includes/srd_modules/#dungeon-exploration",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "WILDERNESS EXPLORATION",
+                "url": "_includes/srd_modules/#wilderness-exploration",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "DOWNTIME",
+                "url": "_includes/srd_modules/#downtime",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Reactions",
+                "url": "/second-edition/players-guide/core-rules/#reactions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Action**",
+                "url": "_includes/srd_modules/#wilderness-actions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/#wilderness-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "reactions",
+                "url": "/second-edition/players-guide/core-rules.md/#reactions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/#wilderness-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Make Camp**",
+                "url": "_includes/srd_modules/#make-camp",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_includes/srd_modules/#dungeon-exploration": [
+            {
+                "text": "DUNGEON EXPLORATION",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#wilderness-exploration": [
+            {
+                "text": "WILDERNESS EXPLORATION",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#downtime": [
+            {
+                "text": "DOWNTIME",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#dungeon-events": [
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "/second-edition/players-guide/core-rules/#reactions": [
+            {
+                "text": "Reactions",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#wilderness-actions": [
+            {
+                "text": "**Wilderness Action**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#wilderness-events": [
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "/second-edition/players-guide/core-rules.md/#reactions": [
+            {
+                "text": "reactions",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_includes/srd_modules/#make-camp": [
+            {
+                "text": "**Make Camp**",
+                "url": "_includes/srd_modules/procedures.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "_includes/srd_modules/combat.md": [
             {
                 "text": "Scars",
@@ -286,6 +455,20 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Liminal Horror",
+                "url": "https://liminalhorrorrpg.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://liminalhorrorrpg.com/favicon.ico"
+            },
+            {
+                "text": "CC-BY-SA 4.0",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://creativecommons.org/favicon.ico"
             }
         ],
         "_includes/srd_modules/#scars-table": [
@@ -331,6 +514,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "pre-generated characters",
+                "url": "_includes/srd_modules/pregens",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "_includes/srd_modules/#bonds": [
@@ -357,6 +547,14 @@
                 "direction": "inbound"
             }
         ],
+        "_includes/srd_modules/pregens": [
+            {
+                "text": "pre-generated characters",
+                "url": "_includes/srd_modules/character-creation.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "_site/README.md": [
             {
                 "text": "instructions for macOS",
@@ -371,6 +569,53 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "_site/systems/character-development.md": [
+            {
+                "text": "Cult or Clan",
+                "url": "_site/systems/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scars",
+                "url": "_site/systems/#scars",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis",
+                "url": "_site/systems/#sepsis",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_site/systems/#backgrounds": [
+            {
+                "text": "Cult or Clan",
+                "url": "_site/systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/#scars": [
+            {
+                "text": "Scars",
+                "url": "_site/systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/#sepsis": [
+            {
+                "text": "Sepsis",
+                "url": "_site/systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "_site/systems/culture.md": [
@@ -417,6 +662,13 @@
                 "favicon": null
             },
             {
+                "text": "Cossacks",
+                "url": "_site/systems/backgrounds/cossacks",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Apocalyptics",
                 "url": "_site/systems/backgrounds/apocalyptics",
                 "is_internal": true,
@@ -424,8 +676,8 @@
                 "favicon": null
             },
             {
-                "text": "Cossacks",
-                "url": "_site/systems/backgrounds/cossacks",
+                "text": "Rarogi",
+                "url": "_site/systems/backgrounds/rarogi",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -463,6 +715,14 @@
                 "direction": "inbound"
             }
         ],
+        "_site/systems/backgrounds/cossacks": [
+            {
+                "text": "Cossacks",
+                "url": "_site/systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "_site/systems/backgrounds/apocalyptics": [
             {
                 "text": "Apocalyptics",
@@ -471,9 +731,9 @@
                 "direction": "inbound"
             }
         ],
-        "_site/systems/backgrounds/cossacks": [
+        "_site/systems/backgrounds/rarogi": [
             {
-                "text": "Cossacks",
+                "text": "Rarogi",
                 "url": "_site/systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -522,6 +782,176 @@
                 "url": "_site/systems/ruin.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "locations/Nikopol.md": [
+            {
+                "text": "Lubos",
+                "url": "people/FoundersBlessed/Lubos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "2594-05-08",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/FoundersBlessed/Lubos.md": [
+            {
+                "text": "Lubos",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lubos",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/InNikopol02.md": [
+            {
+                "text": "2594-05-08",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol on 2594-05-08",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "2594-05-08",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "calamity that claimed Zofia",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Clique",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Furor Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Elder Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "people/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prokhor",
+                "url": "people/FoundersBlessed/Prokhor.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lubos",
+                "url": "people/FoundersBlessed/Lubos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kievan",
+                "url": "locations/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "locations/Shard.md": [
@@ -580,25 +1010,14 @@
                 "direction": "inbound"
             },
             {
-                "text": "COSSACKS",
-                "url": "systems/backgrounds/index.md",
+                "text": "Cossacks",
+                "url": "people/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "people/IvanTheWise.md": [
+            },
             {
-                "text": "Nikopol",
-                "url": "../locations/Nikopol.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "../locations/Nikopol.md": [
-            {
-                "text": "Nikopol",
-                "url": "people/IvanTheWise.md",
+                "text": "COSSACKS",
+                "url": "systems/backgrounds/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -656,32 +1075,17 @@
                 "direction": "inbound"
             },
             {
+                "text": "Scrapers",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Scrappers",
                 "url": "https://degenesis.com/world/cults/scrappers",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Vorons",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vorons/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Protectorate Clique",
-                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
                 "text": "SCRAPERS",
@@ -709,25 +1113,11 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Vorons",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vorons/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "people/Vostok/rurik.md": [
             {
-                "text": "index",
+                "text": "Vostok",
                 "url": "people/Vostok/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -743,13 +1133,13 @@
         ],
         "people/Vostok/Vostok/index.md": [
             {
-                "text": "index",
+                "text": "Vostok",
                 "url": "people/Vostok/rurik.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "index",
+                "text": "Vostok",
                 "url": "people/Vostok/yelena.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -785,7 +1175,7 @@
         ],
         "people/Vostok/yelena.md": [
             {
-                "text": "index",
+                "text": "Vostok",
                 "url": "people/Vostok/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -891,7 +1281,7 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "index",
+                "text": "Vostok",
                 "url": "campaigns/VostokIronclawPurged/chap2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -988,38 +1378,246 @@
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/index.md": [
+        "people/ProtectorateClique/IsoldePax.md": [
             {
-                "text": "RexRustyRoss",
-                "url": "people/ProtectorateClique/RexRustyRoss.md",
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/Dexter.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "SashaVolkov",
+                "text": "some illness in 2593",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Clique",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Furor Pax",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "IsoldePax",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/Dexter.md": [
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/Prequel10.md": [
+            {
+                "text": "some illness in 2593",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kiev",
+                "url": "locations/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha Volkov",
                 "url": "people/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "MaraTheRatQuinn",
-                "url": "people/ProtectorateClique/MaraTheRatQuinn.md",
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "KazimirIronblood",
-                "url": "people/ProtectorateClique/KazimirIronblood.md",
+                "text": "Sokolov",
+                "url": "people/FoundersBlessed/Sokolov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/ProtectorateClique/index.md": [
+            {
+                "text": "Clique",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol on 2594-05-08",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Protectorate Clique",
+                "text": "Commando Prime Klaus",
                 "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "people/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Spitalians",
+                "url": "systems/backgrounds/spitalians.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anabaptists",
+                "url": "systems/backgrounds/anabaptists.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cossacks",
+                "url": "systems/backgrounds/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scrapers",
+                "url": "systems/backgrounds/scrapers.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1028,47 +1626,198 @@
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/RexRustyRoss.md": [
+            },
             {
-                "text": "RexRustyRoss",
-                "url": "people/ProtectorateClique/index.md",
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/SashaVolkov.md": [
+        "people/ProtectorateClique/Anastasia.md": [
             {
-                "text": "SashaVolkov",
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
                 "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Elder Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/MaraTheRatQuinn.md": [
+        "people/ProtectorateClique/Yelena.md": [
             {
-                "text": "MaraTheRatQuinn",
-                "url": "people/ProtectorateClique/index.md",
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/KazimirIronblood.md": [
+        "campaigns/ConnectNikopol/InNikopol01.md": [
             {
-                "text": "KazimirIronblood",
-                "url": "people/ProtectorateClique/index.md",
+                "text": "Nikopol",
+                "url": "people/ProtectorateClique/Yelena.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "calamity that claimed Zofia",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rarogi",
+                "url": "systems/backgrounds/rarogi.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kiev",
+                "url": "locations/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "HIVE group",
+                "url": "https://degenesis.com/world/stories/spitalians/vasco",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Sokolov",
+                "url": "people/FoundersBlessed/Sokolov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bion",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Africa",
+                "url": "https://degenesis.com/world/cultures/africa",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Prokhor",
+                "url": "people/FoundersBlessed/Prokhor.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "book of some sorts",
+                "url": "https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "people/ProtectorateClique/ComPrimeKlaus.md": [
             {
-                "text": "Protectorate Clique",
+                "text": "Commando Prime Klaus",
                 "url": "people/ProtectorateClique/index.md",
                 "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
+                "direction": "inbound"
             },
             {
                 "text": "one of the Anabaptists",
@@ -1079,12 +1828,156 @@
             },
             {
                 "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/PurifierHarlem.md": [
+            {
+                "text": "Purifier Harlem",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/spitalians.md": [
+            {
+                "text": "Spitalians",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spitalians",
+                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "SPITALIANS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spitalians",
+                "url": "https://degenesis.com/world/cults/spitalians",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/anabaptists.md": [
+            {
+                "text": "Anabaptists",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ANABAPTISTS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anabaptists",
+                "url": "https://degenesis.com/world/cults/anabaptists",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "people/ProtectorateClique/KonradJager.md": [
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
         "people/ProtectorateClique/MarcusVoss.md": [
+            {
+                "text": "East Pollen, 2094-04-19",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
             {
                 "text": "one of the Anabaptists",
                 "url": "people/ProtectorateClique/ComPrimeKlaus.md",
@@ -1096,11 +1989,185 @@
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/ToNikopol3b.md": [
+            {
+                "text": "East Pollen, 2094-04-19",
+                "url": "people/ProtectorateClique/MarcusVoss.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Elara Nyx",
+                "url": "people/ProtectorateClique/ElaraNyx.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "people/ProtectorateClique/MarcusVoss.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "people/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Husk Spiders",
+                "url": "creatures/HuskSpiderSwarm.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Migrants",
+                "url": "creatures/Migrants.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/FoundersBlessed/BodganDetina.md": [
+            {
+                "text": "Prokhor",
+                "url": "people/FoundersBlessed/Prokhor.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "2594-05-08",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/FoundersBlessed/Prokhor.md": [
+            {
+                "text": "Prokhor",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/SashaVolkov.md": [
+            {
+                "text": "Sasha Volkov",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/VostokIronclawPurged/chap2.md": [
             {
-                "text": "index",
+                "text": "Vostok",
                 "url": "people/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -1343,6 +2410,90 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/ConnectNikopol/ToNikopol3a.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "people/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Protectorate",
+                "url": "https://degenesis.com/world/stories/borca/justitian",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vasco",
+                "url": "https://degenesis.com/world/bio/spitalians/vasco",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "locations/Kiev.md": [
+            {
+                "text": "Kievan",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kievan",
+                "url": "campaigns/ConnectNikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kiev",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kiev",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/ConnectNikopol/ToNikopol2.md": [
             {
                 "text": "Cherasky",
@@ -1429,31 +2580,9 @@
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/IsoldePax.md": [
-            {
-                "text": "Isolde Pax",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "IsoldePax",
-                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "people/ProtectorateClique/DrMoreau.md": [
             {
                 "text": "Dr. Moreau",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/KonradJager.md": [
-            {
-                "text": "Konrad Jager",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1488,22 +2617,119 @@
                 "url": "campaigns/ConnectNikopol/ToNikopol1.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Elara Nyx",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/ConnectNikopol/index.md": [
             {
-                "text": "Return Geteli",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
+                "text": "before crossing the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol3a/#the-cliques-mission-in-nikopol",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "To Nikopol 1",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1",
+                "text": "Vasco",
+                "url": "https://degenesis.com/world/bio/spitalians/vasco",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kievan",
+                "url": "locations/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rarogi",
+                "url": "systems/backgrounds/rarogi.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/backgrounds/rarogi.md": [
+            {
+                "text": "Rarogi",
+                "url": "campaigns/ConnectNikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rarogi",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "RAROGI",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/FoundersBlessed/Sokolov.md": [
+            {
+                "text": "Sokolov",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sokolov",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "creatures/HuskSpiderSwarm.md": [
+            {
+                "text": "Husk Spiders",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "creatures/Migrants.md": [
+            {
+                "text": "Migrants",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Migrant",
+                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
         "campaigns/ConnectNikopol/ReturnGeteli.md": [
@@ -1543,61 +2769,51 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
-        "systems/backgrounds/spitalians.md": [
+        "systems/character-development.md": [
             {
-                "text": "Spitalians",
-                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "text": "Cult or Clan",
+                "url": "systems/#backgrounds",
                 "is_internal": true,
-                "direction": "inbound"
+                "direction": "outbound",
+                "favicon": null
             },
             {
-                "text": "SPITALIANS",
-                "url": "systems/backgrounds/index.md",
+                "text": "Scars",
+                "url": "systems/#scars",
                 "is_internal": true,
-                "direction": "inbound"
+                "direction": "outbound",
+                "favicon": null
             },
             {
-                "text": "Spitalians",
-                "url": "https://degenesis.com/world/cults/spitalians",
-                "is_internal": false,
+                "text": "Sepsis",
+                "url": "systems/#sepsis",
+                "is_internal": true,
                 "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Protectorate Clique",
-                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Return Geteli",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "favicon": null
             }
         ],
-        "creatures/Migrants.md": [
+        "systems/#backgrounds": [
             {
-                "text": "Migrant",
-                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "text": "Cult or Clan",
+                "url": "systems/character-development.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
+            }
+        ],
+        "systems/#scars": [
             {
-                "text": "Pollen",
-                "url": "https://degenesis.com/world/cultures/pollen",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
+                "text": "Scars",
+                "url": "systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/#sepsis": [
+            {
+                "text": "Sepsis",
+                "url": "systems/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "systems/culture.md": [
@@ -1644,6 +2860,13 @@
                 "favicon": null
             },
             {
+                "text": "Cossacks",
+                "url": "systems/backgrounds/cossacks",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Apocalyptics",
                 "url": "systems/backgrounds/apocalyptics",
                 "is_internal": true,
@@ -1651,8 +2874,8 @@
                 "favicon": null
             },
             {
-                "text": "Cossacks",
-                "url": "systems/backgrounds/cossacks",
+                "text": "Rarogi",
+                "url": "systems/backgrounds/rarogi",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1690,6 +2913,14 @@
                 "direction": "inbound"
             }
         ],
+        "systems/backgrounds/cossacks": [
+            {
+                "text": "Cossacks",
+                "url": "systems/culture.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "systems/backgrounds/apocalyptics": [
             {
                 "text": "Apocalyptics",
@@ -1698,9 +2929,9 @@
                 "direction": "inbound"
             }
         ],
-        "systems/backgrounds/cossacks": [
+        "systems/backgrounds/rarogi": [
             {
-                "text": "Cossacks",
+                "text": "Rarogi",
                 "url": "systems/culture.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1831,6 +3062,38 @@
                 "direction": "inbound"
             }
         ],
+        "systems/pregens/index.md": [
+            {
+                "text": "Erasmus Kline",
+                "url": "systems/pregens/ErasmusKline.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thaddeus Cain",
+                "url": "systems/pregens/ThaddeusCain.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/pregens/ErasmusKline.md": [
+            {
+                "text": "Erasmus Kline",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/pregens/ThaddeusCain.md": [
+            {
+                "text": "Thaddeus Cain",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "systems/backgrounds/judges.md": [
             {
                 "text": "Judges",
@@ -1886,40 +3149,18 @@
                 "favicon": null
             },
             {
+                "text": "RAROGI",
+                "url": "systems/backgrounds/rarogi.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Degenesis Cults & Clans",
                 "url": "https://degenesis.com/world/cults/",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
-        "systems/backgrounds/anabaptists.md": [
-            {
-                "text": "ANABAPTISTS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anabaptists",
-                "url": "https://degenesis.com/world/cults/anabaptists",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/backgrounds/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Protectorate Clique",
-                "url": "https://terra-campaigns.github.io/degenesis/people/ProtectorateClique/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "systems/backgrounds/jehammedans.md": [
@@ -1929,6 +3170,23 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "_notions/inklings.md": [
+            {
+                "text": " ] Anastasia's stolen book: [Jorn's mission",
+                "url": "_notions/prokhor.md#just-journal-entries",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_notions/prokhor.md#just-journal-entries": [
+            {
+                "text": " ] Anastasia's stolen book: [Jorn's mission",
+                "url": "_notions/inklings.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ]
     }

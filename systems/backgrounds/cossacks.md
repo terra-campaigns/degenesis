@@ -21,6 +21,7 @@ names:
 - Anastasia Frostmane
 - Boris Fireheart
 - Vera Stonefist
+- Kazimir Ironblood
 
 gear:
 - 1d6 x 50 Chronicler Drafts
@@ -40,7 +41,7 @@ ranks:
       - "**GATHERER**: Take a **Map**. You know the region of Pollen in detail. <br>"
   - roll: "5"
     text:
-      - "**TRIBAL WARRIOR**: Take a **Modified AK-47** (d10 / d8 blast). All neighbour clanners fear you. <br>"
+      - "**TRIBAL WARRIOR**: Take a **Modified AK-47** (d8 single/blast). All neighbour clanners fear you. <br>"
   - roll: "6"
     text:
       - "**SHAMAN**: Take **Books of Law**. You understand all contracts between clans and cults in Pollen. <br>"
@@ -75,18 +76,16 @@ potentials:
     flavour:
       - "The crowd cheers, thinking it’s just a show—his body bending, joints popping in ways that make them wince. But this isn’t just entertainment. These contortions were learned in darker places, for darker purposes."
     rule:
-      - You can always evade a grapple, being stuck, bound or chained.
+      - Gain **Fatigue**. You can evade a grapple, being stuck, bound or chained.
   - roll: 6
     name: COULD BE WORSE
     flavour:
       - "Bruises fade, cuts close, and bones mend. Pain is a warning, not a weakness. The character feels it, acknowledges it—but never lets it stop them. Pain exists to protect, not to prevent survival."
     rule:
-      - You always succeed on STR saves against Critical Damage.
+      - When you suffer **Critical Damage** the worst result you look up on the Wound Table is a 6.
 
 ---
 
 {% include statblock_background.md %}
 
-{% include connected_to.md %}
-
-![]({{ page.img_back }})
+![](https://i.imgur.com/RzXMZ94.png)

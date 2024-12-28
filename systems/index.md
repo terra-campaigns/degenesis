@@ -11,8 +11,6 @@ nav_order: 99
 
 {% include srd_modules/srd_version.md %}
 
-# Character Creation
-
 {% include srd_modules/character-creation.md %}
 
 {% include_relative culture.md %}
@@ -40,3 +38,13 @@ nav_order: 99
 {% include srd_modules/scars.md %}
 
 {% include_relative ruin.md %}
+
+{% include srd_modules/procedures.md %}
+
+---
+
+#### Work-in-progress
+
+{% include_relative character-development.md %}
+
+{% include_relative conversions.md %}

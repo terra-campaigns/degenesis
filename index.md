@@ -11,13 +11,15 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 
 ![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/2560x1440/1fc6e9d7ce/wp-01-desktop-2560-1440.jpg)
 
-The following links can be used as an introduction of the **Degenesis** setting:
+The following links can be used as an introduction to the **Degenesis** setting:
 
-- **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)
-- [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
-- SMV's [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded 
-- Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist.
-- [Echoes of Eshaton](https://echoesofeshaton.com/) solo Degenesis play
+- Watch the **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)
+- Listen to your [predicament](https://degenesis.com/downloads/transmissions/you).
+- Watch [Dave Thaumavore's **Degenesis** Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)
+- Navigate SMV's [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded 
+- Immerse yourself in SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis)
+- Listen to Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist.
+- Listen to [Echoes of Eshaton](https://echoesofeshaton.com/) solo **Degenesis** play podcast.
 
 ## Themes
 
@@ -27,30 +29,27 @@ The following links can be used as an introduction of the **Degenesis** setting:
 - **Fatalism and Hope**: Despite a bleak world, human resilience and fleeting moments of solidarity offer a glimmer of hope against pervasive despair.
 - **Primal vs. Modernity**: Primitive instincts clash with remnants of lost sophistication, as humanity’s tribalism meets distorted echoes of past modernity.
 
+## Inspiration Music
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3kkceRStYdXtFGdjvjhdOd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Ask the GM to collaborate at maintaining the playlist.
+
 # Open Table
 
 - **GM:** efsa (Estêvão)
 - **Campaign approach**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
-- **Frequency**: Mostly every 5 days (moving through the weekdays)
-- **Time & Duration**: 2045 CET/CEST, for 2.5h
-- **Sign-up**: First come, first served. Players left in the waiting list will have priority for the following session.
+- **Frequency**: Mostly every 5 days
+- **Time & Duration**: 1945 UTC for 2~3h
+- **Sign-up**: First come, first served
 - **Module**: [Degenesis](https://degenesis.com/) setting
 - **TTRPG system**: [Primal Odd](https://terra-campaigns.github.io/degenesis/systems/) (Cairn hack)
 - **Desired theme**: Post apocalyptic, primal punk
-- **VTT**: Theatre of the mind / Owlbear Rodeo
+- **VTT**: Theatre of the mind / [Owlbear Rodeo](https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis)
 - **Language**: English
-- **Communication**: Discord voice. Video optional.
+- **Communication**: [Discord voice](https://discord.com/channels/1060840338777964565/1289653812805505044) (Video optional) and [Discord text & image share](https://discord.com/channels/1060840338777964565/1313166726334124114).
 - **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression.
-- **Documentation**: Campaign [website](https://terra-campaigns.github.io/degenesis/)
+- **Notes**:
+  - New and replacement characters can be [created, rolled or chosen from pregens](https://terra-campaigns.github.io/degenesis/systems/#character-creation).
 
-# Timeline of Events
-
-<!-- QueryToSerialize: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
-<!-- SerializedQuery: LIST without ID region + ", " + timestamp + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "degenesis/campaigns" WHERE file.name != "index" SORT timestamp, nav_order asc -->
-- East Pollen, February 02, 2594: [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1) (Vostok & Ironclaw purged)
-- East Pollen, February 03, 2594: [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2) (Vostok & Ironclaw purged)
-- East Pollen, March 23, 2594: [Return Geteli](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ReturnGeteli) (Connect with Nikopol)
-- East Pollen, April 02, 2594: [Scouting to Cherasky](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol1) (Connect with Nikopol)
-- East Pollen, April 14, 2594: [Cleaning the tracks](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol2) (Connect with Nikopol)
-<!-- SerializedQuery END -->
-
+{% include prefooter_campaign.html %}
