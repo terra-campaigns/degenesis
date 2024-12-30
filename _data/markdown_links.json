@@ -3076,6 +3076,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Varvara Semyonich",
+                "url": "systems/pregens/VarvaraSemyonich.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "systems/pregens/ErasmusKline.md": [
@@ -3089,6 +3096,14 @@
         "systems/pregens/ThaddeusCain.md": [
             {
                 "text": "Thaddeus Cain",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/pregens/VarvaraSemyonich.md": [
+            {
+                "text": "Varvara Semyonich",
                 "url": "systems/pregens/index.md",
                 "is_internal": true,
                 "direction": "inbound"
