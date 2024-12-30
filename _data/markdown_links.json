@@ -782,6 +782,65 @@
                 "url": "_site/systems/ruin.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Sepsis Mutations",
+                "url": "_site/systems/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/ruin_alt.md": [
+            {
+                "text": "Burn",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Spore Infestation",
+                "url": "https://degenesis.com/world/stories/pollen/sepsis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Sporination",
+                "url": "_site/systems/#sporination",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Types of Burn",
+                "url": "_site/systems/#types-of-burn",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis Mutations",
+                "url": "_site/systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_site/systems/#sporination": [
+            {
+                "text": "Sporination",
+                "url": "_site/systems/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/#types-of-burn": [
+            {
+                "text": "Types of Burn",
+                "url": "_site/systems/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "locations/Nikopol.md": [
@@ -2978,6 +3037,65 @@
             {
                 "text": "Sepsis Mutation",
                 "url": "systems/ruin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sepsis Mutations",
+                "url": "systems/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/ruin_alt.md": [
+            {
+                "text": "Burn",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Spore Infestation",
+                "url": "https://degenesis.com/world/stories/pollen/sepsis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Sporination",
+                "url": "systems/#sporination",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Types of Burn",
+                "url": "systems/#types-of-burn",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis Mutations",
+                "url": "systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/#sporination": [
+            {
+                "text": "Sporination",
+                "url": "systems/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/#types-of-burn": [
+            {
+                "text": "Types of Burn",
+                "url": "systems/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
