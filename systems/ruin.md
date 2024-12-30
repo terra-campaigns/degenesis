@@ -20,6 +20,8 @@ Increase your minimum **Fatigue** in 1.
 ## Sporination
 {: .no_toc }
 
+Depending on the environment you are, you might be dealt Spore Infestation.
+
 |         |                                   |
 | ------- | --------------------------------- |
 | **d4**  | Spore mist in hi-risk zones       |
@@ -33,6 +35,7 @@ Increase your minimum **Fatigue** in 1.
 
 The amount and frequency of how you deal Primer infection establishes the tone and pacing of your game.
 It is a dial to control how fast characters change.
+The recommendation is to deal the values above once per day, when characters are exposed.
 
 ## Types of Burn
 {: .no_toc }
@@ -41,9 +44,9 @@ Different types of Burn are harvested depending on Earth Chakra proximity.
 
 ![](https://i.imgur.com/tMZs1Q9.png)
 
-|          |                                                                                                                                                                                                                                            |                                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| **BION** | Pollen brings cold and hunger, while **Bion** offers warmth and comfort. One deep breath from the goat skin connects the person to the land, revitalising them with cold winds and minimal sustenance as their body fills with life force. | The Burner shakes off illness and poison, feels no cold or hunger. Effect lasts one day. |
+|          |                                                                                                                                                                                                                                            |                                                                                                                             |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| **BION** | Pollen brings cold and hunger, while **Bion** offers warmth and comfort. One deep breath from the goat skin connects the person to the land, revitalising them with cold winds and minimal sustenance as their body fills with life force. | The Burner shakes off illness and poison, feels no cold or hunger. Effect lasts one day and removes the Deprived condition. |
 
 ## Sepsis Mutations
 {: .no_toc }

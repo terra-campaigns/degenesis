@@ -48,3 +48,5 @@ nav_order: 99
 {% include_relative character-development.md %}
 
 {% include_relative conversions.md %}
+
+{% include_relative ruin_alt.md %}
