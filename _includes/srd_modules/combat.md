@@ -68,12 +68,6 @@ Armours can be
 > The Wound Table is copied from the [Liminal Horror](https://liminalhorrorrpg.com/) SRD, available under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 > {: .fs-2 }
 
-## Attribute Loss
-{: .no_toc }
-
-- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. Complete DEX loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
-
 ## Character Death
 {: .no_toc }
 

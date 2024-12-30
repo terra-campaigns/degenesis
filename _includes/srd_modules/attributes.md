@@ -9,8 +9,9 @@ Each of the three **Attributes** are used in different circumstances. (See **Sav
 **Attributes** are not universal descriptors. A character with a low STR is not necessarily hopelessly weak; they can still attempt to lift a heavy door or survive a deadly fight! Their risk is simply higher.
 
 ## Attribute Loss
-{: .no_toc }
 
 Attributes may be reduced during play.
-You only die if they they are reduced as a consequence of damage.
 
+- If a PC takes damage outside of combat, they should instead receive damage to an **Attribute**, typically **STR**. If a PC's **STR** is reduced to **0**, they die.
+- **DEX** loss relates to physical harm that is not fatal, but makes you less able. When **DEX** reaches **0** you are unable to take actions.
+- **WIL** loss relates to mental stress. When **WILL** reaches **0**, you are broken.
