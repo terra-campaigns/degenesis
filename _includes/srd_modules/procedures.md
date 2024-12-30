@@ -59,12 +59,6 @@ When the party:
 - A light source and a _safe location_ are required to **rest**. Present or oncoming danger makes **rest** impossible.
 - **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
 
-## Panic
-
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_.
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
-
 ### Dungeon Elements
 
 #### Light
