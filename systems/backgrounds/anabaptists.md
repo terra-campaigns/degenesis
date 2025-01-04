@@ -7,7 +7,7 @@ icon_link: ../../../imgs/icons/12-CULT-ANABAPTISTS-WHITE-ON-BLACK-320x320.webp
 flavour_text: The land was once beautiful and full of trees. The sun shone down with a friendly face upon fields and happy people. But today, Paradise is rotten. The Spawn of the Demiurge, Psychonauts in all their carnality carry no divine soul. The root of all evil is clear to see and must be hacked to pieces and cut out by the [Anabaptists](https://degenesis.com/world/cults/anabaptists).
 
 img_front: https://a.storyblok.com/f/72501/2715x3840/efb5d38082/012-anabaptist-archetype.jpg
-img_rank: https://i.imgur.com/IuipNe7.png
+img_rank: https://i.imgur.com/UPNP8y0.png
 img_eqpt: https://i.imgur.com/NmaF9YK.png
 img_sttp: https://i.imgur.com/yn3nT0g.png
 img_back: https://img2.storyblok.com/2516x1415/filters:quality(90)/f/72501/2516x1415/6ca1363234/opener-anabaptists.jpg
