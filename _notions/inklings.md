@@ -7,14 +7,12 @@ kanban-plugin: board
 ## Inbox
 
 - [ ] https://traintobaikonur.com/
-- [ ] Check DEG weapon tags for effects on 6+
 - [ ] Check the mollock for npcs in pollen
 - [ ] Define Pandorans and other clans for Pollen
-- [ ] How to sync Bastionland approach to encounters and 2d6 12 is a dragon?
+- [ ] How to sync Bastionland approach to encounters and 2d6 12 is a dragon? And tarot?
 - [ ] The spitalians who raided the vostok
 	- bullish with what they've accomplished
 	- interested in joining the clique
-- [ ] Com prime: is Konrad ready for a promotion?
 - [ ] Prep: add 2 equipment as part of the sets
 - [ ] Isolde's joke
 - [ ] Read the dead are coming
@@ -31,6 +29,15 @@ kanban-plugin: board
 - [ ] Konrad's tome: Uncover the crypto key from the Kievan Chronicler
 - [ ] Expand current maritime export of ore to Burgas, supplying enough to Istanbul as well (from the Postachi)
 - [ ] Isolde: what do you believe to be, as a sublime?
+- [ ] Pollen clans, primal punk 208
+- [ ] Set up by Dexter of someone carrying burn
+- [ ] Items to develop:
+	- Spitalians fungicide rifle and horse 
+	- scrappers motorbike
+	- Anabaptists oil
+- [ ] Konrad's godfather was seen in lucatore
+- [ ] 1st Dec 2594 - Clique has higher priority mission on the Adriatic basin
+- [ ] Isolde has to prove her worth as a sublime in the Adriatic war.
 
 
 ## Old sets
@@ -55,16 +62,14 @@ kanban-plugin: board
 - [ ] **sGravenzand**
 	![](https://i.imgur.com/JwqFke9.png)
 - [ ] Pollen clans tell stories about the wretched had to children
+- [ ] protectorate as a cyber-western setting
+- [ ] Check DEG weapon tags for effects on 6+
 
 
 ***
 
 ## Archive
 
-- [ ] Destruction fortress (Spitalians)
-	- Corridor of 100km is poisoned by spitalians
-	- Have to pass underneath
-	- The Garganti knows how to cross
 - [ ] Add fractal forest to the map
 - [ ] Psychonaults trap in the tracks
 - [ ] Rus Land
@@ -88,6 +93,7 @@ kanban-plugin: board
 - [ ] Isolde prays and organise a burial for Marcus
 - [ ] Purifier Harlem blames Konrad for the mistake in identify the psychonaut risk, and reinforce the Spitalian intention to work together with the Cossacks. Court-martial for konrad
 - [ ] Responsible can only enter Nikopol if a high rank vouches for them. If any of the two slip, they will face ban or execution
+- [ ] Com prime: is Konrad ready for a promotion?
 
 %% kanban:settings
 ```
