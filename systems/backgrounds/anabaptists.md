@@ -24,13 +24,13 @@ names:
 gear:
 - 1d6 x 50 Chronicler Drafts
 - Purifier's dagger (d6)
-- Ceremonial water flask
+- Ceremonial oil flask "strength, faith, insight"
 - Heavy leathers (1 Armour)
 
 ranks:
   - roll: "1"
     text:
-      - "**TOUCHED**: Take a **Long Spade** and **Grain**. You get three dots tattooed on your forehead and a ring through your nose to chain soul to body. <br>"
+      - "**TOUCHED**: Take a **Long Spade** (d4) and **Grains**. You get three dots tattooed on your forehead and a ring through your nose to chain soul to body. <br>"
   - roll: "2"
     text:
       - "**ASCETIC**: Take **Seeds** to bury in holy places. You inspire providers and farmers. <br>"
@@ -42,12 +42,12 @@ ranks:
       - "**ELYSIAN**: Take a **Crucible**, **Healing Herbs** and an **Adriatic Stone**. Because of the **Elysian Oils** you used you reduce Sepsis infection in 1 (6 uses). You can always get more oil on Anabaptists Enclaves."
   - roll: "5"
     text: 
-      - "**FUROR**: Take a **Spitfire** (d8 blast). You can muster a gang of Orgiastics and start a crusade and try to start forming a settlement."
+      - "**FUROR**: Take a **Spitfire** (d8 blast, 3 uses). You can muster a gang of Orgiastics and start a crusade and try to start forming a settlement."
   - roll: "6"
     text:
       - (Choose One) All take a **Long Spade** and **Grain**. <br>
-      - "**SUBLIME**: Take a **Bidenhander** (d10) or **Spitfire** (d8 blast). You are considered a manifested emanation, foretold in prophecies and there are no closed doors for you in Cathedral city. <br>"
-      - "**EMISSARY**: Take a **Long Sword** (d10). You are respected by all Cults of the Protectorate. <br>"
+      - "**SUBLIME**: Take a **Bidenhander** (d10) or **Spitfire** (d8 blast, 3 uses). You are considered a manifested emanation, foretold in prophecies and there are no closed doors for you in Cathedral city. <br>"
+      - "**EMISSARY**: Take a **Long Sword** (d8). You are respected by all Cults of the Protectorate. <br>"
 
 potentials:
   - roll: 1
@@ -67,7 +67,7 @@ potentials:
     flavour:
       - "When the Anabaptist's blow strikes deep, something more than blood spills out—an essence, a glimpse of the divine Pneuma, escapes from the dying flesh. This momentary touch of the divine strengthens and uplifts him."
     rule:
-      - Gain **Fatigue**. Your opponent loses d6 STR, which is transferred to you temporarily (up to 18).
+      - Gain **Fatigue**. Your opponent loses d6 STR, which are transferred to your HP temporarily (up to 18).
   - roll: 4
     name: REALM OF EMANATIONS
     flavour:
