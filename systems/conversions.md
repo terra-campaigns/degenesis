@@ -1,6 +1,6 @@
 # Conversions
 
-## Conversions from Degenesis
+## Conversions from KatharSys
 
 - STR: `4 + Trauma | max: 18`. If `19+` use *detachment*. Alternatively, use `Body * 3`.
 - DEX: `4 + Initiative | max: 18`. Alternatively, use `Agility + Instinct + 3`.

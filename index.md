@@ -38,12 +38,12 @@ Ask the GM to collaborate at maintaining the playlist.
 # Open Table
 
 - **GM:** efsa (Estêvão)
-- **Campaign approach**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
+- **Campaign**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
 - **Frequency**: Mostly every 5 days
 - **Time & Duration**: 1945 UTC for 2~3h
 - **Sign-up**: First come, first served
 - **Module**: [Degenesis](https://degenesis.com/) setting
-- **TTRPG system**: [Primal Odd](https://terra-campaigns.github.io/degenesis/systems/) (Cairn hack)
+- **TTRPG system**: [Primal Odd](https://terra-campaigns.github.io/degenesis/systems/) (ItO/Cairn hack)
 - **Desired theme**: Post apocalyptic, primal punk
 - **VTT**: Theatre of the mind / [Owlbear Rodeo](https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis)
 - **Language**: English
