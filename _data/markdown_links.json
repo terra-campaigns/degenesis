@@ -2150,6 +2150,13 @@
         ],
         "people/FoundersBlessed/BodganDetina.md": [
             {
+                "text": "Vira",
+                "url": "people/FoundersBlessed/Vira.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Prokhor",
                 "url": "people/FoundersBlessed/Prokhor.md",
                 "is_internal": true,
@@ -2176,6 +2183,14 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "people/FoundersBlessed/Vira.md": [
+            {
+                "text": "Vira",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "people/FoundersBlessed/Prokhor.md": [

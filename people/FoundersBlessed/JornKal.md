@@ -7,7 +7,6 @@ title: Jorn Kal
 role: Wannabe hero
 archetype: Borca, The Adventurer, Spitalian Famulancer (3)
 parent: Founders' Blessed
-
 image: https://i.imgur.com/nK5OG2J.png
 
 statblock: true

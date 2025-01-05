@@ -26,7 +26,7 @@ gear:
 - Seeds to bury in holy places
 - 200 Chronicler Drafts
 - Purifier's dagger (d6)
-- Ceremonial water flask
+- Ceremonial oil flask
 - Heavy leathers (1 Armour)
 
 ---
