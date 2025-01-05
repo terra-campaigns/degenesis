@@ -38,6 +38,7 @@ kanban-plugin: board
 - [ ] Konrad's godfather was seen in lucatore
 - [ ] 1st Dec 2594 - Clique has higher priority mission on the Adriatic basin
 - [ ] Isolde has to prove her worth as a sublime in the Adriatic war.
+- [ ] A marauder close to kiev
 
 
 ## Old sets
@@ -64,6 +65,19 @@ kanban-plugin: board
 - [ ] Pollen clans tell stories about the wretched had to children
 - [ ] protectorate as a cyber-western setting
 - [ ] Check DEG weapon tags for effects on 6+
+
+
+## Hooks
+
+- [ ] Mine for gold - Mother
+- [ ] Request by Ivan, when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
+- [ ] Seek the crypto key from Konrad's notebook: chronicler is in Kiev, key is somewhere else.
+- [ ] Isolde go to Purgare to gain her Sublime worth
+- [ ] Trade with local tribe, and meet the Spitalians who raided the vortok
+- [ ] Clear the church - military
+- [ ] Rescue someone in a watchtower - military, use Last Watch?
+- [ ] Engage with Sokolov burn supply chain
+- [ ] Hunt a Mammoth
 
 
 ***
@@ -97,6 +111,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
