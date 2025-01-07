@@ -10,7 +10,7 @@ region: Nikopol
 
 {% include chapter_header.md %}
 
-> Through the Eyes of [BodganDetina](../../people/FoundersBlessed/BodganDetina.md)
+*Narrated by [Detina](../../people/FoundersBlessed/BodganDetina.md)*
 
 ![](https://i.imgur.com/YYqNlQ1.png)
 

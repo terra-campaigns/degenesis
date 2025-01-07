@@ -13,7 +13,7 @@ hp: 9
 armour: Battle-scarred leather armour 1
 str: 12
 dex: 12
-wil: 12
+wil: 10
 at: Blade bracelet (d6), Crossbow (d8)
 
 ---

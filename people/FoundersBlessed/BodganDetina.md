@@ -13,7 +13,7 @@ hp: 5
 armour: "Thick clothes with metal plates: 1"
 str: 11
 dex: 13
-wil: 13
+wil: 9
 at: "Piercer (d8, CD: pierces through)"
 
 ---

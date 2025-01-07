@@ -13,7 +13,7 @@ hp: 14
 armour: 2
 str: 18
 dex: 12
-wil: 7
+wil: 8
 at: bite (d4, 1 infestation) and heavy axe (d8+d8)
 
 details:

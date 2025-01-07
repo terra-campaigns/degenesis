@@ -2233,7 +2233,7 @@
                 "favicon": null
             },
             {
-                "text": "BodganDetina",
+                "text": "Detina",
                 "url": "campaigns/ConnectNikopol/BloodyMines1.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2610,7 +2610,7 @@
         ],
         "campaigns/ConnectNikopol/BloodyMines1.md": [
             {
-                "text": "BodganDetina",
+                "text": "Detina",
                 "url": "people/FoundersBlessed/BodganDetina.md",
                 "is_internal": true,
                 "direction": "outbound",

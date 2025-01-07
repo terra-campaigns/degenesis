@@ -11,7 +11,7 @@ image: https://i.imgur.com/XOOTGWB.png
 statblock: true
 str: 12
 dex: 12
-wil: 12
+wil: 11
 hp: 7
 armour: Thick Clothes withmetal plates, 1
 at: Pickaxe (d6), Flintlock Pistol (d6)

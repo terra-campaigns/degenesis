@@ -13,7 +13,7 @@ hp: 7
 armour: Streltsy’s suit 1
 str: 12
 dex: 10
-wil: 12
+wil: 14
 at: Streltsy Rifle (d8), Knife (d6)
 
 ---
