@@ -12,11 +12,15 @@ region: Nikopol
 
 > Through the Eyes of [BodganDetina](../../people/FoundersBlessed/BodganDetina.md)
 
+![](https://i.imgur.com/YYqNlQ1.png)
+
 #### Preparations
 
 The morning began with the taste of ash and resentment on my tongue. Vira, always a calming presence, tried to bring peace to the air over breakfast. It didn’t help. The newcomers — [Isolde](../../people/ProtectorateClique/IsoldePax.md), [Konrad](../../people/ProtectorateClique/KonradJager.md), and [Sasha](../../people/ProtectorateClique/SashaVolkov.md) — spoke of high stakes, duty, and purpose, but to me, this was survival. My so-called redeployment to the mines had been nothing short of exile. If this powder gold meant something to Elder [Ivan](../../people/FoundersBlessed/IvanTheWise.md), it was little more than another tool to tighten his grip on the people of Nikopol. Still, I kept my bitterness to myself. Revenge was a patient creature, waiting for its moment.
 
 I watched Konrad approach a Spitalian, Zenon, for something about his eye. Another sign of weakness the Sovrals would have crushed, I thought. Meanwhile, Sacha, a more spirited scout than I expected, convinced [Yelena](../../people/ProtectorateClique/Yelena.md) to join us. Her hollow stare mirrored my own once, before [Vira](../../people/FoundersBlessed/Vira.md) found me and gave me purpose again.
+
+![](https://i.imgur.com/XOOTGWB.png)
 
 I checked my gear and grit my teeth. The mines would test us all, but I had fought worse — both on the battlefield and in the politics of The Station.
 
@@ -28,6 +32,8 @@ The horizon broke to reveal a church, crumbling and weak like the faith it once 
 
 When they attacked, the group held their positions as the shots began. Isolde and Sacha found themselves surrounded, but the two fought well. Better than expected. By the time the last Lepero hit the dirt, I realized the Streltsy had wasted most of their ammunition. They’d need to return to Nikopol, leaving us behind. Typical. I welcomed their absence as we descended into the mine’s maw.
 
+![](https://i.imgur.com/I6kSeCW.png)
+
 #### **The First Night in the Mine**
 
 The descent was long, a slow suffocation into the bowels of the earth. Hours passed, the air growing colder and heavier with each step. The others spoke little. Good. Their words couldn’t pierce the dark thoughts in my mind. This place was death, a grave swallowing us whole.
@@ -38,7 +44,9 @@ When we finally stopped to rest, the silence pressed down on me like a weight. W
 
 Time dissolved in the dark. Morning? Evening? The mine cared little. Somewhere along the descent, we stumbled upon something unnatural. A root formation jutted from the rock — a grotesque finger, its nail cracked and yellowed. I knew its heat, its menace. I warned them to leave it alone. I knew evil when I saw it. The old instincts, the ones that had saved me in countless battles, told me this thing would bring ruin.
 
-Then came the water.
+Then came the water. It happened again, and I remember well.
+
+![](https://i.imgur.com/hIrqdBz.png)
 
 It roared through the tunnels, a cold, unrelenting force. I tried to shout for them to move, but chaos took hold fast, and Isolde was ahead running up. The flood swept Isolde, Konrad, and Yelena away, dragging them into the abyss. I found shelter, the waters clawing at me but never claiming me. When the torrent subsided, I found Sacha and Vira close to me.
 
