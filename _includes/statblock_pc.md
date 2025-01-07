@@ -30,7 +30,11 @@
 # {{ page.title }}
 
 {% if page.role %}
+{% if page.deceased %}
+#### **{{ page.role }}**, deceased
+{% else %}
 #### **{{ page.role }}**
+{% endif %}
 {% endif %}
 
 {% if page.archetype %}
