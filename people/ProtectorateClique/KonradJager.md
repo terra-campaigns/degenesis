@@ -3,8 +3,8 @@ template: pc v0.3
 layout: default
 
 title: Konrad Jaguer
-role: 
-archetype: Pollen, 
+role: Deseased
+archetype: Pollen, Spitalian Recruit
 parent: Protectorate Clique
 
 statblock: false

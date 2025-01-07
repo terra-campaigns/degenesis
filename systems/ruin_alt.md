@@ -16,6 +16,11 @@ Environment suits and masks reduce the impact of **Spore Infestation**, analog t
 | **12**  | Roll on the favourable physical mutation table and reset your **Fatigue** to **6**. Increase your minimum **Fatigue** in **1**.<br>                                                                                                                                                                                                                  |
 | **13+** | Your lungs fill with snot and you choke. You become **Deprived**. Re-roll your **WIL** score with **3d6** and keep the new score if it is lower. Reset your **Fatigue** to **6**. You gain **1 Armour** against **Spore Infestation** (to a max of 3) and your minimum **Fatigue** is increased in **1**. You feel the Primer taking control of you. |
 
+Your minimum **Fatigue** may be increased as consequence of Spore Infestation.
+Increased minimum **Fatigue** cannot be reduced again.
+Your minimum **Fatigue** can never be higher than **5**.
+If that happens, you become infectious instead, doling d4 **Spore Infestation**.
+
 The following rules remain unchanged:
 
 - [Sporination](#sporination)

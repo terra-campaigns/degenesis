@@ -166,6 +166,36 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
+        "_includes/hooks.md": [
+            {
+                "text": "**Prokhor**",
+                "url": "https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "entry about a plan from Jorn",
+                "url": "https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "encrypted by the Kievan Chronicler",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/InNikopol01/#friedrich-voigts-tome",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Anastasia picked up from Lubos",
+                "url": "https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
         "_includes/srd_modules/hp.md": [
             {
                 "text": "Healing & Recovery",
@@ -571,113 +601,6 @@
                 "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
-        "_site/campaigns/ConnectNikopol/hooks.md": [
-            {
-                "text": "**Prokhor**",
-                "url": "_site/people/FoundersBlessed/Prokhor.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "_site/people/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "entry about a plan from Jorn",
-                "url": "_site/people/FoundersBlessed/Prokhor.md#Just-Journal-entries",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Konrad",
-                "url": "_site/people/ProtectorateClique/KonradJager.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sokolov",
-                "url": "_site/people/FoundersBlessed/Sokolov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Lubos",
-                "url": "_site/people/FoundersBlessed/Lubos.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia picked up from Lubos",
-                "url": "_site/campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "_site/people/FoundersBlessed/Prokhor.md": [
-            {
-                "text": "**Prokhor**",
-                "url": "_site/campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/people/ProtectorateClique/Anastasia.md": [
-            {
-                "text": "Anastasia",
-                "url": "_site/campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/people/FoundersBlessed/Prokhor.md#Just-Journal-entries": [
-            {
-                "text": "entry about a plan from Jorn",
-                "url": "_site/campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/people/ProtectorateClique/KonradJager.md": [
-            {
-                "text": "Konrad",
-                "url": "_site/campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/people/FoundersBlessed/Sokolov.md": [
-            {
-                "text": "Sokolov",
-                "url": "_site/campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/people/FoundersBlessed/Lubos.md": [
-            {
-                "text": "Lubos",
-                "url": "_site/campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/campaigns/ConnectNikopol/InNikopol02.md": [
-            {
-                "text": "Anastasia picked up from Lubos",
-                "url": "_site/campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "_site/systems/character-development.md": [
             {
                 "text": "Cult or Clan",
@@ -1014,12 +937,6 @@
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Lubos",
-                "url": "campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/ConnectNikopol/InNikopol02.md": [
@@ -1124,12 +1041,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
-            {
-                "text": "Anastasia picked up from Lubos",
-                "url": "campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "locations/Shard.md": [
@@ -1603,6 +1514,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Isolde",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Furor Pax",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
@@ -1843,12 +1760,6 @@
                 "url": "campaigns/ConnectNikopol/Prequel10.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "people/ProtectorateClique/Yelena.md": [
@@ -1871,6 +1782,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Yelena",
@@ -2130,6 +2047,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Konrad",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Konrad Jager",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
@@ -2144,12 +2067,6 @@
             {
                 "text": "Konrad",
                 "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad",
-                "url": "campaigns/ConnectNikopol/hooks.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2314,12 +2231,24 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "BodganDetina",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "people/FoundersBlessed/Vira.md": [
             {
                 "text": "Vira",
                 "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vira",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2342,18 +2271,18 @@
                 "url": "campaigns/ConnectNikopol/InNikopol01.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "**Prokhor**",
-                "url": "campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "people/ProtectorateClique/SashaVolkov.md": [
             {
                 "text": "Sasha Volkov",
                 "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2679,6 +2608,80 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
+        "campaigns/ConnectNikopol/BloodyMines1.md": [
+            {
+                "text": "BodganDetina",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ivan",
+                "url": "people/FoundersBlessed/IvanTheWise.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vira",
+                "url": "people/FoundersBlessed/Vira.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Leperos",
+                "url": "creatures/Leperos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/FoundersBlessed/IvanTheWise.md": [
+            {
+                "text": "Ivan",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "creatures/Leperos.md": [
+            {
+                "text": "Leperos",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "locations/Kiev.md": [
             {
                 "text": "Kievan",
@@ -2903,71 +2906,6 @@
             {
                 "text": "Sokolov",
                 "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sokolov",
-                "url": "campaigns/ConnectNikopol/hooks.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/ConnectNikopol/hooks.md": [
-            {
-                "text": "**Prokhor**",
-                "url": "people/FoundersBlessed/Prokhor.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "people/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "entry about a plan from Jorn",
-                "url": "people/FoundersBlessed/Prokhor.md#Just-Journal-entries",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Konrad",
-                "url": "people/ProtectorateClique/KonradJager.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sokolov",
-                "url": "people/FoundersBlessed/Sokolov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Lubos",
-                "url": "people/FoundersBlessed/Lubos.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia picked up from Lubos",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "people/FoundersBlessed/Prokhor.md#Just-Journal-entries": [
-            {
-                "text": "entry about a plan from Jorn",
-                "url": "campaigns/ConnectNikopol/hooks.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

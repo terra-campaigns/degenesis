@@ -22,4 +22,6 @@ at: Pickaxe (d6), Flintlock Pistol (d6)
 
 {% comment %} =========== HIDDEN TEXT ===========
 
+- Her idea to bring back the times when Voivodes respected Elders and considered the city a worthy trade partner and ally.
+
 ========== HIDDEN ENDS ========= {% endcomment %}
