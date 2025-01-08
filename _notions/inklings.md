@@ -16,33 +16,23 @@ kanban-plugin: board
 - [ ] Prep: add 2 equipment as part of the sets
 - [ ] Isolde's joke
 - [ ] Read the dead are coming
-- [ ] Spitalians speak medically
-	Anabaptists speak religiously 
-	Scrapper speak
 - [ ] What broke the peace between spitalians and Anabaptists and when? Briton?
-- [ ] Konrad's poisonous eye gland
-- [ ] Anastasia's stolen book: [Jorn's mission](prokhor.md#just-journal-entries)
-- [ ] Improve the Bonds
 - [ ] Double check the potentials, based on new fatigue rule
-- [ ] Isolde becoming sublime
-- [ ] Supply Bion to Lubos, and get access to his artefact stash
-- [ ] Konrad's tome: Uncover the crypto key from the Kievan Chronicler
 - [ ] Expand current maritime export of ore to Burgas, supplying enough to Istanbul as well (from the Postachi)
-- [ ] Isolde: what do you believe to be, as a sublime?
 - [ ] Pollen clans, primal punk 208
-- [ ] Set up by Dexter of someone carrying burn
 - [ ] Items to develop:
 	- Spitalians fungicide rifle and horse 
 	- scrappers motorbike
 	- Anabaptists oil
-- [ ] Konrad's godfather was seen in lucatore
 - [ ] 1st Dec 2594 - Clique has higher priority mission on the Adriatic basin
 - [ ] Isolde has to prove her worth as a sublime in the Adriatic war.
-- [ ] Request by Ivan, when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
 - [ ] Rescue someone in a watchtower - military, use Last Watch?
 - [ ] Clear the church - military
 - [ ] Trade with local tribe, and meet the Spitalians who raided the vortok, alternative to hunt a mammoth on their way there.
 - [ ] A marauder close to kiev
+- [ ] Konrad's poisonous eye gland
+- [ ] Request by Ivan, when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
+- [ ] Set up by Dexter of someone carrying burn
 - [ ] Next session start:
 	- Yelena starts sobbing again: "another kid died in this broken world"
 	- Konrad died with a face of despair. He suffered.
@@ -67,19 +57,11 @@ kanban-plugin: board
 	- Rift centipede inside (viper statblock | CD - venon kills in 1d12h | as long as an arm | mental symbiosis with bioknetic)
 
 
-## Themes
-
-- [ ] Starving peasants
-- [ ] Sepsis disease (Leperos, pandorians)
-- [ ] Primer / leperos
-
-
 ## Parked
 
-- [ ] Vorons, based in Kiev, protect the spore fields to harvest Bison Burn. They burn fractal forests and partner with scrapers in the ruined city.
 - [ ] **sGravenzand**
 	![](https://i.imgur.com/JwqFke9.png)
-- [ ] Pollen clans tell stories about the wretched had to children
+- [ ] Pollen clans tell stories about the wretched hag to children
 - [ ] protectorate as a cyber-western setting
 - [ ] Check DEG weapon tags for effects on 6+
 
@@ -88,17 +70,6 @@ kanban-plugin: board
 
 ## Archive
 
-- [ ] Vasco in pollen, Pandora expedition
-- [ ] Draw Klaus on his horse
-- [ ] 600km in 12 to get to Nikopol. 2 encounter rolls, if encounter it is a migrant ambush
-- [ ] Add marketplace to website
-- [ ] Implement Concepts for NPCs
-- [ ] Cossack clan in Kiev S
-	- The Kieven Chronicler
-- [ ] Fractal forests receive gifts
-- [ ] Injuries (liminal horror) when critical damage
-- [ ] Fractal forest close to Kieve
-- [ ] Use 1 item from pollen for each session
 - [ ] Frederico Voight, a healer surgeon spitalian, godfather of Konrad
 	This has now become a joke amongst the Spitalians, treating Konrad badly about it
 - [ ] Isolde prays and organise a burial for Marcus
@@ -110,9 +81,21 @@ kanban-plugin: board
 - [ ] Seek the crypto key from Konrad's notebook: chronicler is in Kiev, key is somewhere else.
 - [ ] Hunt a Mammoth
 - [ ] Mine for gold - Mother
+- [ ] Konrad's godfather was seen in lucatore
+- [ ] Isolde: what do you believe to be, as a sublime?
+- [ ] Anastasia's stolen book: [Jorn's mission](prokhor.md#just-journal-entries)
+- [ ] Improve the Bonds
+- [ ] Isolde becoming sublime
+- [ ] Spitalians speak medically
+	Anabaptists speak religiously 
+	Scrapper speak
+- [ ] Supply Bion to Lubos, and get access to his artefact stash
+- [ ] Konrad's tome: Uncover the crypto key from the Kievan Chronicler
+- [ ] Sepsis disease (Leperos, pandorians)
+- [ ] Vorons, based in Kiev, protect the spore fields to harvest Bison Burn. They burn fractal forests and partner with scrapers in the ruined city.
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
