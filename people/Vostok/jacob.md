@@ -4,16 +4,14 @@ title: Jacob
 parent: Vostok Kin
 grand_parent: People
 
-status: Missing
+deceased: true
+
 
 ---
 
 # {{ page.title }}
 
 > {{ page.status }}
-
-- text and images
-- character sheet
 
 ---
 #### Connected to

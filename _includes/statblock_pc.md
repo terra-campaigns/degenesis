@@ -31,7 +31,7 @@
 
 {% if page.role %}
 {% if page.deceased %}
-#### **{{ page.role }}**, deceased
+#### **{{ page.role }}**, [deceased]({{ site.url }}/people/#in-memoriam)
 {% else %}
 #### **{{ page.role }}**
 {% endif %}
