@@ -42,7 +42,7 @@ When we finally stopped to rest, the silence pressed down on me like a weight. W
 
 #### **A Possible Morning**
 
-Time dissolved in the dark. Morning? Evening? The mine cared little. Somewhere along the descent, we stumbled upon something unnatural. A root formation jutted from the rock — a grotesque finger, its nail cracked and yellowed. I knew its war, its menace. I warned them to leave it alone. I knew evil when I saw it. The old instincts, the ones that had saved me in countless battles, told me this thing would bring ruin.
+Time dissolved in the dark. Morning? Evening? The mine cared little. Somewhere along the descent, we stumbled upon something unnatural. A root formation jutted from the rock — a grotesque finger, its nail cracked and yellowed. I knew its warmth, its menace. I warned them to leave it alone. I knew evil when I saw it. The old instincts, the ones that had saved me in countless battles, told me this thing would bring ruin.
 
 Then came the water. It happened again, and I remember well.
 
