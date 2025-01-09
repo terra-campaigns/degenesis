@@ -30,7 +30,7 @@ The walk was six hours of bile in my throat. Two Streltsy accompanied us, their 
 
 The horizon broke to reveal a church, crumbling and weak like the faith it once stood for. [Leperos](../../creatures/Leperos.md) lurked behind it, shadows of the disease that plagued this world. Their presence stirred the old instincts in me.
 
-When they attacked, the group held their positions as the shots began. Isolde and Sacha found themselves surrounded, but the two fought well. Better than expected. By the time the last Lepero hit the dirt, I realized the Streltsy had wasted most of their ammunition. They’d need to return to Nikopol, leaving us behind. Typical. I welcomed their absence as we descended into the mine’s maw.
+When they attacked, the group divided as the shots began. Isolde and Sacha found themselves surrounded, but the two fought well. Better than expected. By the time the last Lepero hit the dirt, I realized the Streltsy had wasted most of their ammunition. They’d need to return to Nikopol, leaving us behind. Typical. I welcomed their absence as we descended into the mine’s maw.
 
 ![](https://i.imgur.com/I6kSeCW.png)
 
@@ -42,7 +42,7 @@ When we finally stopped to rest, the silence pressed down on me like a weight. W
 
 #### **A Possible Morning**
 
-Time dissolved in the dark. Morning? Evening? The mine cared little. Somewhere along the descent, we stumbled upon something unnatural. A root formation jutted from the rock — a grotesque finger, its nail cracked and yellowed. I knew its heat, its menace. I warned them to leave it alone. I knew evil when I saw it. The old instincts, the ones that had saved me in countless battles, told me this thing would bring ruin.
+Time dissolved in the dark. Morning? Evening? The mine cared little. Somewhere along the descent, we stumbled upon something unnatural. A root formation jutted from the rock — a grotesque finger, its nail cracked and yellowed. I knew its war, its menace. I warned them to leave it alone. I knew evil when I saw it. The old instincts, the ones that had saved me in countless battles, told me this thing would bring ruin.
 
 Then came the water. It happened again, and I remember well.
 

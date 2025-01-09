@@ -168,13 +168,6 @@
         ],
         "_includes/hooks.md": [
             {
-                "text": "**Prokhor**",
-                "url": "https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
                 "text": "entry about a plan from Jorn",
                 "url": "https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries",
                 "is_internal": false,
