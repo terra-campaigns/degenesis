@@ -51,4 +51,6 @@ nav_order: 99
 
 {% include_relative ruin_alt.md %}
 
+{% include_relative conditions_alt.md %}
+
 {% include_relative conversions.md %}
