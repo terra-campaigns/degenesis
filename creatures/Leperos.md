@@ -17,7 +17,8 @@ at: Primitive weapon (d6)
 
 details:
 - Generally found as a *Detachment*
-- "**Flared up**: When it first loses STR, next attack is *Enhanced*"
+- "**Stench**: When first engaged in melee opponent must pass **STR** save or spend turn retching"
+- "**Flared up**: When out of HP, attacks are *Enhanced*"
 
 ---
 
