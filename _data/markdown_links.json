@@ -3217,6 +3217,18 @@
                 "direction": "inbound"
             },
             {
+                "text": "Mutation",
+                "url": "systems/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mutation",
+                "url": "systems/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Sepsis Mutations",
                 "url": "systems/ruin_alt.md",
                 "is_internal": true,
@@ -3237,6 +3249,20 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Mutation",
+                "url": "systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mutation",
+                "url": "systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             },
             {
                 "text": "Sporination",

@@ -16,6 +16,22 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
+## v0.4.5-deg
+
+- Added:
+	- Cairn Procedures
+	- WIP space for new test rules
+	- Backgrounds: Apocalyptics, Rarogi
+	- Pregen characters
+	- Redirects
+- Changed:
+	- Versioned include for PCs and NPCs
+	- Backgrounds - Anabaptists, Spitalians
+	- New version of bonds, with questions instead of equipment
+	- General heading levels of system
+	- Consolidated attribute loss (combat and attribute includes affected)
+	- Removed Cairn specific rules for NPCs
+
 ## v0.4.4-deg
 
 - Added: include for backgrounds
