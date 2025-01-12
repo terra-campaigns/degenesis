@@ -24,7 +24,7 @@ As they made their way toward the subterranean city, the Rarogi spoke of the sum
 
 ### Friedrich Voigt's tome
 
-The group's path goes through a large square tunnel. Here, Konrad broke the silence, recounting the tale of his prized tome to Anastasia. But his story took an unexpected turn: Anastasia revealed she had met Friedrich Voigt in [Kiev](../../locations/Kiev.md) eight years prior. The man, known as "Old Fritz," had sought the Kievan Chroniclers' help to encrypt stolen data—stolen research from the Spitalian [HIVE group](https://degenesis.com/world/stories/spitalians/vasco).
+The group's path goes through a large square tunnel. Here, Konrad broke the silence, recounting the tale of his prized tome to Anastasia. But his story took an unexpected turn: Anastasia revealed she had met [Friedrich Voigt](../../people/ProtectorateClique/FriedrichVoigt.md) in [Kiev](../../locations/Kiev.md) eight years prior. The man, known as "Old Fritz," had sought the Kievan Chroniclers' help to encrypt stolen data—stolen research from the Spitalian [HIVE group](https://degenesis.com/world/stories/spitalians/vasco).
 
 ![](https://i.imgur.com/8yqbxFh.png)
 
