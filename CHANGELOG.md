@@ -24,7 +24,6 @@ nav_exclude: TRUE
 ## v0.4.5-deg
 
 - Added:
-	- Cairn Procedures
 	- Critical damage table (from Liminal Horror)
 	- WIP space for new test rules
 	- Backgrounds: Apocalyptics, Rarogi
