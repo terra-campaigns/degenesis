@@ -35,12 +35,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "CHANGELOG",
-                "url": "_includes/srd_modules/srd_version.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "README.md": [
@@ -224,7 +218,7 @@
         "_includes/srd_modules/srd_version.md": [
             {
                 "text": "CHANGELOG",
-                "url": "CHANGELOG.md",
+                "url": "_includes/CHANGELOG",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -272,6 +266,14 @@
                 "favicon": "https://creativecommons.org/favicon.ico"
             }
         ],
+        "_includes/CHANGELOG": [
+            {
+                "text": "CHANGELOG",
+                "url": "_includes/srd_modules/srd_version.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "_includes/srd_modules/npcs.md": [
             {
                 "text": "Background",
@@ -291,182 +293,6 @@
             {
                 "text": "Background",
                 "url": "_includes/srd_modules/character-creation.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_includes/srd_modules/procedures.md": [
-            {
-                "text": "DUNGEON EXPLORATION",
-                "url": "_includes/srd_modules/#dungeon-exploration",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "WILDERNESS EXPLORATION",
-                "url": "_includes/srd_modules/#wilderness-exploration",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "DOWNTIME",
-                "url": "_includes/srd_modules/#downtime",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "**Dungeon Events**",
-                "url": "_includes/srd_modules/#dungeon-events",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "**Dungeon Events**",
-                "url": "_includes/srd_modules/#dungeon-events",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "**Dungeon Events**",
-                "url": "_includes/srd_modules/#dungeon-events",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Reactions",
-                "url": "/second-edition/players-guide/core-rules/#reactions",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "**Wilderness Action**",
-                "url": "_includes/srd_modules/#wilderness-actions",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "**Wilderness Events**",
-                "url": "_includes/srd_modules/#wilderness-events",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "reactions",
-                "url": "/second-edition/players-guide/core-rules.md/#reactions",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "**Wilderness Events**",
-                "url": "_includes/srd_modules/#wilderness-events",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "**Make Camp**",
-                "url": "_includes/srd_modules/#make-camp",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "_includes/srd_modules/#dungeon-exploration": [
-            {
-                "text": "DUNGEON EXPLORATION",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_includes/srd_modules/#wilderness-exploration": [
-            {
-                "text": "WILDERNESS EXPLORATION",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_includes/srd_modules/#downtime": [
-            {
-                "text": "DOWNTIME",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_includes/srd_modules/#dungeon-events": [
-            {
-                "text": "**Dungeon Events**",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "**Dungeon Events**",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "**Dungeon Events**",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "/second-edition/players-guide/core-rules/#reactions": [
-            {
-                "text": "Reactions",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_includes/srd_modules/#wilderness-actions": [
-            {
-                "text": "**Wilderness Action**",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_includes/srd_modules/#wilderness-events": [
-            {
-                "text": "**Wilderness Events**",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "**Wilderness Events**",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "/second-edition/players-guide/core-rules.md/#reactions": [
-            {
-                "text": "reactions",
-                "url": "_includes/srd_modules/procedures.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_includes/srd_modules/#make-camp": [
-            {
-                "text": "**Make Camp**",
-                "url": "_includes/srd_modules/procedures.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -807,6 +633,18 @@
                 "direction": "inbound"
             },
             {
+                "text": "Mutation",
+                "url": "_site/systems/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mutation",
+                "url": "_site/systems/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Sepsis Mutations",
                 "url": "_site/systems/ruin_alt.md",
                 "is_internal": true,
@@ -827,6 +665,20 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Mutation",
+                "url": "_site/systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mutation",
+                "url": "_site/systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             },
             {
                 "text": "Sporination",
@@ -1822,6 +1674,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Friedrich Voigt",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "people/ProtectorateClique/KonradJager.md": [
@@ -1990,6 +1848,13 @@
             {
                 "text": "Nikopol",
                 "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Friedrich Voigt",
+                "url": "people/ProtectorateClique/FriedrichVoigt.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3378,6 +3243,139 @@
             {
                 "text": "here",
                 "url": "systems/terraSystem.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/running/wilderness_exp.md": [
+            {
+                "text": "**Wilderness Action**",
+                "url": "systems/running/#wilderness-actions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "systems/running/#wilderness-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "reactions",
+                "url": "/second-edition/players-guide/core-rules.md/#reactions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "systems/running/#wilderness-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Make Camp**",
+                "url": "systems/running/#make-camp",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/running/#wilderness-actions": [
+            {
+                "text": "**Wilderness Action**",
+                "url": "systems/running/wilderness_exp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/running/#wilderness-events": [
+            {
+                "text": "**Wilderness Events**",
+                "url": "systems/running/wilderness_exp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Wilderness Events**",
+                "url": "systems/running/wilderness_exp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "/second-edition/players-guide/core-rules.md/#reactions": [
+            {
+                "text": "reactions",
+                "url": "systems/running/wilderness_exp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/running/#make-camp": [
+            {
+                "text": "**Make Camp**",
+                "url": "systems/running/wilderness_exp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/running/dungeon_exp.md": [
+            {
+                "text": "**Dungeon Events**",
+                "url": "systems/running/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "systems/running/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "systems/running/#dungeon-events",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Reactions",
+                "url": "/second-edition/players-guide/core-rules/#reactions",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/running/#dungeon-events": [
+            {
+                "text": "**Dungeon Events**",
+                "url": "systems/running/dungeon_exp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "systems/running/dungeon_exp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "**Dungeon Events**",
+                "url": "systems/running/dungeon_exp.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "/second-edition/players-guide/core-rules/#reactions": [
+            {
+                "text": "Reactions",
+                "url": "systems/running/dungeon_exp.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
