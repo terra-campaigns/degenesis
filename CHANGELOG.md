@@ -16,14 +16,20 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
+
+## v0.4.6-deg
+
+- Changed description of Attributes
+
 ## v0.4.5-deg
 
 - Added:
 	- Cairn Procedures
+	- Critical damage table (from Liminal Horror)
 	- WIP space for new test rules
 	- Backgrounds: Apocalyptics, Rarogi
 	- Pregen characters
-	- Redirects
+	- Redirects for system headings
 - Changed:
 	- Versioned include for PCs and NPCs
 	- Backgrounds - Anabaptists, Spitalians
