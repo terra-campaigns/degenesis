@@ -13,6 +13,6 @@ If the remaining **Spore Infestation** is greater than **0**, compare it with yo
 
 *The following rules remain unchanged:*
 
-- [Sporination](#sporination)
-- [Types of Burn](#types-of-burn)
-- [Sepsis Mutations](#sepsis-mutations)
+- [Sporination](../#sporination)
+- [Types of Burn](../#types-of-burn)
+- [Sepsis Mutations](../#sepsis-mutations)
