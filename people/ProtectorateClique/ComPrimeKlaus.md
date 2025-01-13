@@ -1,7 +1,7 @@
 ---
 template: npc v0.3.1
 layout: default
-title: Commando Prime Klaus
+title: C. Prime Klaus
 role: Commander of the Clique
 archetype: Borca, The Conqueror, Spitalian Commando Prime (5)
 parent: Protectorate Clique
