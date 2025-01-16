@@ -33,3 +33,4 @@ details:
 
 - Re-builds Nikopol after his father passes away.
 - Ventured into the Spore Wall and came back changed by Sepsis.
+- Is spying on [Isolde Pax](../ProtectorateClique/IsoldePax.md)

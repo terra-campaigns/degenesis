@@ -6,7 +6,7 @@ archetype: Pollen, The Hermit, Anabaptist Ascetic (2)
 role: 
 parent: Pregen Characters
 nav_exclude: true
-statblock: false
+statblock: true
 
 image: https://i.imgur.com/Glh7UKv.png
 

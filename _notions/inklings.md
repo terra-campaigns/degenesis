@@ -20,15 +20,17 @@ kanban-plugin: board
 	
 	Each session has one degenesis Item and 2 scavenger items
 - [ ] Isolde has to prove her worth as a sublime in the Adriatic war.
-- [ ] Rescue someone in a watchtower - military, use Last Watch?
 - [ ] Pollen clans tell stories about the wretched hag to children
-- [ ] Clear the church - military
 - [ ] Trade with local tribe, and meet the Spitalians who raided the vortok, alternative to hunt a mammoth on their way there.
 - [ ] Konrad's poisonous eye gland
-- [ ] Request by Ivan, when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
+- [ ] Request by Ivan (who noticed them after the Czar incident), when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
 - [ ] Set up by Dexter of someone carrying burn
 - [ ] Sasha would be a great Anabaptist
 - [ ] Vostok kin ask for refuge in Nikopol
+- [ ] Mapping of the Czar/resident, and burn it
+- [ ] Sample of mine water stream
+- [ ] Yelena joins the primer? What happens with her?
+- [ ] Friedrick connection with the creature
 
 
 ## Old sets
@@ -57,8 +59,6 @@ kanban-plugin: board
 
 ## Archive
 
-- [ ] Seek the crypto key from Konrad's notebook: chronicler is in Kiev, key is somewhere else.
-- [ ] Hunt a Mammoth
 - [ ] Mine for gold - Mother
 - [ ] Konrad's godfather was seen in lucatore
 - [ ] Isolde: what do you believe to be, as a sublime?
@@ -89,6 +89,8 @@ kanban-plugin: board
 - [ ] Fix Spitalians potentials
 - [ ] Check DEG weapon tags for effects on 6+
 - [ ] Double check the potentials, based on new fatigue rule
+- [ ] Clear the church - military
+- [ ] Rescue someone in a watchtower - military, use Last Watch?
 
 %% kanban:settings
 ```
