@@ -61,7 +61,7 @@ potentials:
     flavour:
       - "The enemy braces for a blade, but instead, the Anabaptist deftly pivots and strikes with the pommel of his sword, aiming for an unprotected vital spot. This technique, known as the Killing Joke, is a high-risk manoeuvre that can knock an opponent unconscious instantly."
     rule:
-      - Requires a **Sword**. When you deal 6+ damage your opponent becomes unconscious, but will wake up if harmed again. The next attack against you is **Enhanced**.
+      - Requires a **Sword**. Your opponent becomes unconscious, but will wake up if harmed again. The next attack against you is **Enhanced**.
   - roll: 3
     name: PNEUMA
     flavour:
