@@ -52,6 +52,8 @@ Then it started raining spiders. Not a metaphor—actual Husk spiders, pouring d
 
 Thaddeus snapped into action. He yanked my splayer and smashed the mollusk. Anastasia, ever quick, shoved Friedrich and me down the hatch.
 
+![](https://i.imgur.com/GNnkfCM.png)
+
 The mollusk wasn’t just a trophy—it was part of the Resident’s brain. And it nearly dragged us all into madness. But now it is lost. I will need something else if I am to enact [my plan](https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries).
 
 ---
