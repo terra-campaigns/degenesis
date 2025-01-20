@@ -23,4 +23,6 @@ footer_content:
 
 ![](https://i.imgur.com/Vx1hNHb.png)
 
+{% include hooks.md %}
+
 {% include prefooter_campaign.html %}
