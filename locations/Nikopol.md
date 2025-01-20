@@ -18,21 +18,44 @@ details:
 
 {% comment %} =========== HIDDEN TEXT ===========
 
-**Lessons**:  
-Survival in Nikopol demands adaptation to the toxic environment caused by prolonged mining. The citizens’ resilience stems from their ability to navigate this hostile ecosystem, learning to balance extraction of resources with self-preservation.
-
-**Lore**:  
-The Founders’ Square serves as a cultural an![Image](https://i.imgur.com/Zzr06zg.jpeg)d spiritual heart. It symbolizes a bygone golden age, where festivals and prayers sustain hope amid the encroaching threats of mutants, Sepsis, and dwindling external alliances. Historical tension with the Spitalians highlights a fracture caused by betrayals in the past.
-
 ========== HIDDEN ENDS ========= {% endcomment %}
-
-# Founder's square
 
 ![Image](https://i.imgur.com/D2Cbj8c.jpeg)
 
-# Train depot
+## History
 
-# [Lubos](../people/FoundersBlessed/Lubos.md)' workshop
+> Findings by [Anastasia](../people/ProtectorateClique/Anastasia.md) on her research on Nikopol Public Archives
+
+- The Rarogi have been in Nikopol for centuries. The city was a prosperous place in the past, providing mined ore and worked metals to the west.
+- Ivan and his father fought in a war with Leperos and Psychonauts. His father passes away, and Ivan rebuilds the city. After coming back from a battle far into the spore wall, Ivan comes back changed.
+- Nikopol would have been the 6th Destructive Fortress, and the Rarogi would build again the Rus Land.
+- There are no reports of Nikopol having helped on Vasco's escape in 2562. Nikopol did, however, provide lodge to Vasco a year before that.
+- Several people came to fix the [humanoid machines below the city](#lubos-workshop). They all eventually die, all reports has Cave In as *Causa Mortis*.
+
+## Groups
+
+- **The Woyins**: Guardians of Nikopol. **Streltsys** are a Special Ops group, focused on surface defense.
+- **The Zemlyaks**: Harvesters, miners and lifeblood for Nikopol’s survival.
+- **The Postachi**: Traders and emissaries, bridge-builders to the outside chaos.
+
+## Locations
+
+### Founder's Square
+
+The Founders’ Square serves as a cultural and spiritual heart. It symbolizes a bygone golden age, where festivals and prayers sustain hope amid the encroaching threats, Sepsis, and dwindling external alliances. Historical tension with the Spitalians highlights a fracture caused by betrayals in the past.
+
+### Train Station
+
+- The station is very organised, with weapons, ammo and clean floors.
+- The walls are cared for by Rarogi, making sure they have no holes and cracks from where Sepsis can spread within the building.
+- The roof offers a great view of the train tracks, the city (including the water pump station and its coal-fired power plant) and the spore wall.
+
+### Train depot
+
+- Used for loading and unloading the trains.
+- Has a large quarantine section.
+
+### [Lubos](../people/FoundersBlessed/Lubos.md)' workshop
 
 - Disorganised mess of tools and equipment, including a smelting unit, bad lighting
 - Smell of oil and sweat

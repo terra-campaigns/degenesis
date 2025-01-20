@@ -898,6 +898,20 @@
         ],
         "locations/Nikopol.md": [
             {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "humanoid machines below the city",
+                "url": "locations/#lubos-workshop",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Lubos",
                 "url": "people/FoundersBlessed/Lubos.md",
                 "is_internal": true,
@@ -944,6 +958,59 @@
             {
                 "text": "Nikopol",
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/Anastasia.md": [
+            {
+                "text": "Anastasia",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Elder Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia Frostmane",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "locations/#lubos-workshop": [
+            {
+                "text": "humanoid machines below the city",
+                "url": "locations/Nikopol.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1770,39 +1837,6 @@
                 "direction": "inbound"
             }
         ],
-        "people/ProtectorateClique/Anastasia.md": [
-            {
-                "text": "Yelena",
-                "url": "people/ProtectorateClique/Yelena.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Elder Anastasia",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "people/ProtectorateClique/Yelena.md": [
             {
                 "text": "Yelena",
@@ -1876,6 +1910,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Friedrich Voigt",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Friedrich",
@@ -2306,6 +2346,12 @@
             {
                 "text": "Sasha",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2860,6 +2906,99 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/ConnectNikopol/StationWork1.md": [
+            {
+                "text": "Jorn Kal",
+                "url": "people/FoundersBlessed/JornKal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rarogi",
+                "url": "systems/backgrounds/rarogi.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Friedrich Voigt",
+                "url": "people/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia Frostmane",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thaddeus Cain",
+                "url": "people/ProtectorateClique/ThaddeusCain.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "my plan",
+                "url": "https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "people/FoundersBlessed/JornKal.md": [
+            {
+                "text": "Jorn Kal",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/rarogi.md": [
+            {
+                "text": "Rarogi",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rarogi",
+                "url": "campaigns/ConnectNikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rarogi",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "RAROGI",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/ThaddeusCain.md": [
+            {
+                "text": "Thaddeus Cain",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/ConnectNikopol/ToNikopol1.md": [
             {
                 "text": "Cherasky",
@@ -2932,26 +3071,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "systems/backgrounds/rarogi.md": [
-            {
-                "text": "Rarogi",
-                "url": "campaigns/ConnectNikopol/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Rarogi",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "RAROGI",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/ConnectNikopol/BloodyMines2.md": [
@@ -3581,13 +3700,6 @@
                 "favicon": null
             },
             {
-                "text": "Thaddeus Cain",
-                "url": "systems/pregens/ThaddeusCain.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
                 "text": "Varvara Semyonich",
                 "url": "systems/pregens/VarvaraSemyonich.md",
                 "is_internal": true,
@@ -3598,14 +3710,6 @@
         "systems/pregens/ErasmusKline.md": [
             {
                 "text": "Erasmus Kline",
-                "url": "systems/pregens/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/pregens/ThaddeusCain.md": [
-            {
-                "text": "Thaddeus Cain",
                 "url": "systems/pregens/index.md",
                 "is_internal": true,
                 "direction": "inbound"

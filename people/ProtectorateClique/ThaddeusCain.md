@@ -4,8 +4,7 @@ layout: default
 title: Thaddeus Cain
 archetype: Pollen, The Hermit, Anabaptist Ascetic (2)
 role: 
-parent: Pregen Characters
-nav_exclude: true
+parent: Protectorate Clique
 statblock: true
 
 image: https://i.imgur.com/Glh7UKv.png
@@ -32,3 +31,5 @@ gear:
 ---
 
 {% include statblock_pc.md %}
+
+- Early 30s.
