@@ -9,10 +9,10 @@ parent: Founders' Blessed
 image: https://i.imgur.com/XOOTGWB.png
 
 statblock: true
-str: 12
+str: 14
 dex: 12
 wil: 11
-hp: 7
+hp: 8
 armour: Thick Clothes withmetal plates, 1
 at: Pickaxe (d6), Flintlock Pistol (d6)
 

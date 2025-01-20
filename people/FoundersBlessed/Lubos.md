@@ -9,11 +9,11 @@ parent: Founders' Blessed
 image: https://i.imgur.com/44uQLQo.png
 
 statblock: true
-hp: 4
+hp: 7
 armour: 0
-str: 11
+str: 8
 dex: 8
-wil: 10
+wil: 9
 at: Hammer (d6)
 
 ---

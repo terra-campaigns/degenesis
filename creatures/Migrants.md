@@ -11,10 +11,10 @@ image: https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/5
 statblock: true
 hp: 14
 armour: 2
-str: 18
+str: 14
 dex: 12
-wil: 8
-at: bite (d4, 1 infestation) and heavy axe (d8+d8)
+wil: 10
+at: bite (d4, 1 infestation) and heavy axe (d8+d8) *detachment*
 
 details:
 - Shape-shifting abilities and physical prowess, blurs the line with the supernatural

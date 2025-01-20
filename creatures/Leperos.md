@@ -10,7 +10,7 @@ image: https://i.pinimg.com/736x/a6/af/d0/a6afd0d66ec8b530aec5c6fbf3f91efd.jpg
 statblock: true
 str: 8
 dex: 8
-wil: 10
+wil: 16
 hp: 4
 armour: Clothes, 0
 at: Primitive weapon (d6)

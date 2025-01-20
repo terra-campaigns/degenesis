@@ -9,9 +9,9 @@ parent: Founders' Blessed
 image: https://i.imgur.com/YYqNlQ1.png
 
 statblock: true
-hp: 5
+hp: 7
 armour: "Thick clothes with metal plates: 1"
-str: 11
+str: 10
 dex: 13
 wil: 9
 at: "Piercer (d8, CD: pierces through)"
