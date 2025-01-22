@@ -6,5 +6,6 @@
 3. Roll or choose your [Bond](#bonds).
 4. Roll 3d6 for each [Attribute](#attributes). You can swap two values.
 5. Roll 1d6 for your [Hit Protection](#hit-protection).
+6. Define a previous contact you had with one of the existing Characters.
 
 Alternatively, roll one of the [pre-generated characters](pregens/).

@@ -16,6 +16,10 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
+## v0.4.7-deg
+
+- Character creation: Added existing connection with other PCs
+- Ruin: Swapped the d4 with d6 for sporination
 
 ## v0.4.6-deg
 
