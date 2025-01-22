@@ -3311,6 +3311,15 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
+        "creatures/Gendos.md": [
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
         "systems/character-development.md": [
             {
                 "text": "Cult or Clan",
