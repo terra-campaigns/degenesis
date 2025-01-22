@@ -22,24 +22,18 @@ kanban-plugin: board
 - [ ] Isolde has to prove her worth as a sublime in the Adriatic war.
 - [ ] Pollen clans tell stories about the wretched hag to children
 - [ ] Trade with local tribe, and meet the Spitalians who raided the vortok, alternative to hunt a mammoth on their way there.
-- [ ] Konrad's poisonous eye gland
 - [ ] Request by Ivan (who noticed them after the Czar incident), when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
 - [ ] Set up by Dexter of someone carrying burn
 - [ ] Sasha would be a great Anabaptist
-- [ ] Vostok kin ask for refuge in Nikopol
 - [ ] Mapping of the Czar/resident, and burn it
-- [ ] Sample of mine water stream
 - [ ] Yelena joins the primer? What happens with her?
-- [ ] Friedrick connection with the creature
+- [ ] Jorn needs another piece of the Resident
+- [ ] An attack is being formed by the psychonauts
+- [ ] City covered in gossamer
 
 
 ## Old sets
 
-- [ ] **Abandoned church**
-	- Crackling sound on the soil
-	- Towering image "gives you hope"
-	- Doors and windows shut: inside circular spore field grows
-	- Rift centipede inside (viper statblock | CD - venon kills in 1d12h | as long as an arm | mental symbiosis with bioknetic)
 
 
 ## Parked
@@ -59,12 +53,6 @@ kanban-plugin: board
 
 ## Archive
 
-- [ ] Mine for gold - Mother
-- [ ] Konrad's godfather was seen in lucatore
-- [ ] Isolde: what do you believe to be, as a sublime?
-- [ ] Anastasia's stolen book: [Jorn's mission](prokhor.md#just-journal-entries)
-- [ ] Improve the Bonds
-- [ ] Isolde becoming sublime
 - [ ] Spitalians speak medically
 	Anabaptists speak religiously 
 	Scrapper speak
@@ -91,6 +79,16 @@ kanban-plugin: board
 - [ ] Double check the potentials, based on new fatigue rule
 - [ ] Clear the church - military
 - [ ] Rescue someone in a watchtower - military, use Last Watch?
+- [ ] Friedrick connection with the creature
+- [ ] Sample of mine water stream
+- [ ] Konrad's poisonous eye gland
+- [ ] Vostok kin ask for refuge in Nikopol
+- [ ] train load documents, stolen by anastasia
+- [ ] **Abandoned church**
+	- Crackling sound on the soil
+	- Towering image "gives you hope"
+	- Doors and windows shut: inside circular spore field grows
+	- Rift centipede inside (viper statblock | CD - venon kills in 1d12h | as long as an arm | mental symbiosis with bioknetic)
 
 %% kanban:settings
 ```
