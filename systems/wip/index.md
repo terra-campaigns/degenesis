@@ -18,11 +18,11 @@ nav_order: 999
 
 {% include_relative character-development.md %}
 
+{% include_relative burdens.md %}
+
 {% include_relative panic.md %}
 
 {% include_relative ruin_alt.md %}
-
-{% include_relative conditions_alt.md %}
 
 {% include srd_modules/procedures.md %}
 

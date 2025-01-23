@@ -3495,6 +3495,18 @@
                 "direction": "inbound"
             },
             {
+                "text": "Mutation",
+                "url": "systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mutation",
+                "url": "systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Sepsis Mutations",
                 "url": "systems/wip/ruin_alt.md",
                 "is_internal": true,
@@ -3694,27 +3706,27 @@
         "systems/wip/character-development.md": [
             {
                 "text": "Cult or Clan",
-                "url": "systems/wip/#backgrounds",
+                "url": "systems/#backgrounds",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Scars",
-                "url": "systems/wip/#scars",
+                "url": "systems/#scars",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sepsis",
-                "url": "systems/wip/#sepsis",
+                "url": "systems/#sepsis",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "systems/wip/#backgrounds": [
+        "systems/#backgrounds": [
             {
                 "text": "Cult or Clan",
                 "url": "systems/wip/character-development.md",
@@ -3722,7 +3734,7 @@
                 "direction": "inbound"
             }
         ],
-        "systems/wip/#scars": [
+        "systems/#scars": [
             {
                 "text": "Scars",
                 "url": "systems/wip/character-development.md",
@@ -3730,7 +3742,7 @@
                 "direction": "inbound"
             }
         ],
-        "systems/wip/#sepsis": [
+        "systems/#sepsis": [
             {
                 "text": "Sepsis",
                 "url": "systems/wip/character-development.md",
@@ -3755,14 +3767,14 @@
             },
             {
                 "text": "Mutation",
-                "url": "systems/wip/#sepsis-mutations",
+                "url": "systems/#sepsis-mutations",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Mutation",
-                "url": "systems/wip/#sepsis-mutations",
+                "url": "systems/#sepsis-mutations",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3789,20 +3801,6 @@
                 "favicon": null
             }
         ],
-        "systems/wip/#sepsis-mutations": [
-            {
-                "text": "Mutation",
-                "url": "systems/wip/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mutation",
-                "url": "systems/wip/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "systems/#sporination": [
             {
                 "text": "Sporination",
@@ -3817,6 +3815,15 @@
                 "url": "systems/wip/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "systems/wip/panic.md": [
+            {
+                "text": "Conditions",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/#deprivation--fatigue",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ]
     }

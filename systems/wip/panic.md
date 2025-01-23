@@ -4,3 +4,5 @@
 - When you *panic*, the GM may ask you what uncontrollable reaction you take.
 - A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
 - A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
+
+> To be added to [Conditions](https://terra-campaigns.github.io/degenesis/systems/#deprivation--fatigue).
