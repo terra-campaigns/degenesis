@@ -1,10 +1,11 @@
 ---
-template: pc v0.3
+template: pc v0.3.1
 layout: default
 
 title: Konrad Jaguer
-role: 
-archetype: Pollen, 
+role: Clique Rookie
+deceased: true
+archetype: Pollen, Spitalian Recruit
 parent: Protectorate Clique
 
 statblock: false

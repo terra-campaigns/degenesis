@@ -38,17 +38,3 @@ nav_order: 99
 {% include srd_modules/scars.md %}
 
 {% include_relative ruin.md %}
-
-{% include srd_modules/procedures.md %}
-
----
-
-#### Work-in-progress
-
-{% include_relative character-development.md %}
-
-{% include_relative panic.md %}
-
-{% include_relative ruin_alt.md %}
-
-{% include_relative conversions.md %}

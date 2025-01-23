@@ -2,6 +2,7 @@
 template: pc v0.3
 layout: default
 title: Marcus Voss
+deceased: true
 parent: Protectorate Clique
 nav_exclude: false
 statblock: true
@@ -25,8 +26,6 @@ gear:
 -
 
 ---
-
-> Deceased in [East Pollen, 2094-04-19](../../campaigns/ConnectNikopol/ToNikopol3b.md)
 
 {% comment %}
 DO NOT EDIT BELOW THIS COMMENT

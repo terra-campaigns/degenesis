@@ -16,6 +16,45 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
+## v0.4.7-deg
+
+- Added:
+	- Character creation: Added existing connection with other PCs
+	- Creatures: Gendos, Leperos, Spore Beasts
+	- Deceased tag for people, and In Memorian section
+- Changed:
+	- Minimal changes in attribute loss descriptions
+	- Failed critical damage save gives a wound, not taking you out of combat (necessarily)
+	- Ruin: swapped the d4 with d6 for sporination
+	- Creatures stats: Migrants (align expected comparative power with PCs)
+	- Anabaptists: minor adjustments to equipment and potentials
+	- Spitalians: adjustment to LAST BASTION potential
+- Under the hood: broken links
+
+## v0.4.6-deg
+
+- Changed
+	- Description of Attributes
+- Under the hood
+	- Updated gems 
+	- Improved statblocks templates
+
+## v0.4.5-deg
+
+- Added:
+	- Critical damage table (from Liminal Horror)
+	- WIP space for new test rules
+	- Backgrounds: Apocalyptics, Rarogi
+	- Pregen characters
+	- Redirects for system headings
+- Changed:
+	- Versioned include for PCs and NPCs
+	- Backgrounds - Anabaptists, Spitalians
+	- New version of bonds, with questions instead of equipment
+	- General heading levels of system
+	- Consolidated attribute loss (combat and attribute includes affected)
+	- Removed Cairn specific rules for NPCs
+
 ## v0.4.4-deg
 
 - Added: include for backgrounds

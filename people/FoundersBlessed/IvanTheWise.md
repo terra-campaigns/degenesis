@@ -1,12 +1,12 @@
 ---
 template: npc v0.3.1
 layout: default
-title: "Ivan 'The Wise' Derzhyn"
-role: Council member in Nikopol
-archetype: Pollen, The Visionary, Rarogi Elder
-parent: Founders' Blessed
 nav_exclude: true
 
+title: "Ivan 'The Wise' Derzhyn"
+role: Council member in Nikopol (Sovral)
+archetype: Pollen, The Visionary, Rarogi Elder
+parent: Founders' Blessed
 image: https://i.imgur.com/8cxt2dM.png
 
 statblock: false
@@ -27,8 +27,10 @@ details:
 
 - Has Streltsys spies
 - Might have some relationship with the Resident
+- something about his eyes
 
 ========== HIDDEN ENDS ========= {% endcomment %}
 
 - Re-builds Nikopol after his father passes away.
 - Ventured into the Spore Wall and came back changed by Sepsis.
+- Is spying on [Isolde Pax](../ProtectorateClique/IsoldePax.md)

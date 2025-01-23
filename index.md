@@ -39,7 +39,7 @@ Ask the GM to collaborate at maintaining the playlist.
 
 - **GM:** efsa (Estêvão)
 - **Campaign**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
-- **Frequency**: Mostly every 5 days
+- **Frequency**: Mostly every 5 days, except Mondays
 - **Time & Duration**: 1945 UTC for 2~3h
 - **Sign-up**: First come, first served
 - **Module**: [Degenesis](https://degenesis.com/) setting

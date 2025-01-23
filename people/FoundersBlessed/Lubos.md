@@ -1,19 +1,19 @@
 ---
 template: npc v0.3.1
 layout: default
+
 title: Lubos
 role: Mechanic for the automatons
 archetype: Borca, The Creator, SteelMaster Shaper
 parent: Founders' Blessed
-
 image: https://i.imgur.com/44uQLQo.png
 
 statblock: true
-hp: 4
+hp: 7
 armour: 0
-str: 11
+str: 8
 dex: 8
-wil: 10
+wil: 9
 at: Hammer (d6)
 
 ---

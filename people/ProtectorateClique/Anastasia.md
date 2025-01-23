@@ -2,7 +2,7 @@
 template: pc v0.3.1
 layout: default
 title: Anastasia Frostmane
-role:
+role: Leader of the Cossacks for the Clique
 archetype: Pollen, The Protector, Cossack Shaman (3)
 parent: Protectorate Clique
 statblock: true

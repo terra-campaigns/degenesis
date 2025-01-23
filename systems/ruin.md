@@ -24,8 +24,8 @@ Depending on the environment you are, you might be dealt Spore Infestation.
 
 |         |                                   |
 | ------- | --------------------------------- |
-| **d4**  | Spore mist in hi-risk zones       |
-| **d6**  | One dose of Burn                  |
+| **d4**  | Equivalent to a daily dose Burn   |
+| **d6**  | Spore mist in hi-risk zones       |
 | **d8**  | Sporination in adult spore field  |
 | **d10** | Sporination in mother spore field |
 | **d12** | Sporination in the Earth Chakras  |

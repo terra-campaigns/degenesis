@@ -2,8 +2,7 @@
 layout: default
 title: Rurik, the Swift
 parent: Vostok Kin
-
-status: Deseased
+deceased: true
 
 statblock: 'yes'
 deprecated_layout: Terra Campaigns Leiaute v04d

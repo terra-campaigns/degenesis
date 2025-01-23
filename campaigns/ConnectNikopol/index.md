@@ -21,6 +21,8 @@ footer_content:
 - Probe [Nikopol](../../locations/Nikopol.md)’s underbelly, seeking to smuggle [Kievan](../../locations/Kiev.md) artefacts through the Storskis rail, their path destined for the Protectorate’s coffers.
 - Twist the city's leadership into vassals of the Protectorate—or, failing that, identify and nurture a new [Rarogi](../../systems/backgrounds/rarogi.md) power that bends more easily to the Protectorate's will.
 
-![](https://i.imgur.com/N81zDfI.png)
+![](https://i.imgur.com/Vx1hNHb.png)
+
+{% include hooks.md %}
 
 {% include prefooter_campaign.html %}

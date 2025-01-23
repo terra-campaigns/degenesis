@@ -4,15 +4,17 @@ layout: default
 
 title: Migrants
 parent: Creatures
-image: https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/5517x3300/4675ce01f7/pollen-migrants.jpg
+role: Biokinetic Psychonaut
+archetype: 
+image: https://i.imgur.com/aP3f94Q.png
 
 statblock: true
 hp: 14
 armour: 2
-str: 18
+str: 14
 dex: 12
-wil: 7
-at: bite (d4, 1 infestation) and heavy axe (d8+d8)
+wil: 10
+at: bite (d4, 1 infestation) and heavy axe (d8) *detachment*
 
 details:
 - Shape-shifting abilities and physical prowess, blurs the line with the supernatural
@@ -26,11 +28,6 @@ details:
 
 {% comment %} =========== HIDDEN TEXT ===========
 
-[Pollen](https://degenesis.com/world/cultures/pollen)
-
-- hidden bullet 1
-- hidden bullet 2
-
 ========== HIDDEN ENDS ========= {% endcomment %}
 
-The true rulers of Pollen are the Biokinetics. These Aberrants exhibit incredible shape-shifting abilities and display physical prowess that blurs the line with the supernatural. The most common forms are Migrants, Biokinetics breaking out across the plains to seed new spore fields and spread the Sepsis westwards, thus expanding their Chakra’s area of influence.
+The true rulers of [Pollen](https://degenesis.com/world/cultures/pollen) are the Biokinetics. These Aberrants exhibit incredible shape-shifting abilities and display physical prowess that blurs the line with the supernatural. The most common forms are Migrants, Biokinetics breaking out across the plains to seed new spore fields and spread the Sepsis westwards, thus expanding their Chakra’s area of influence.

@@ -26,9 +26,9 @@ The Anabaptist leader succumbs to her wounds. Commando Prime, with a voice heavy
 
 The Clique’s uneasy acceptance into Nikopol’s fold carries its weight in obligations:
 
-- **The Woyins**: Guardians against the surface horrors. [Prokhor](../../people/FoundersBlessed/Prokhor.md), their sentinel, is the contact.
-- **The Zemlyaks**: Harvesters of riches and lifeblood for Nikopol’s survival. Their voice is [Bodgan "Detina"](../../people/FoundersBlessed/BodganDetina.md).
-- **The Postachi**: Traders and emissaries, bridge-builders to the outside chaos. Orest is their whisper.
+- **The Woyins**: Guardians of Nikopol. [Prokhor](../../people/FoundersBlessed/Prokhor.md) is the contact.
+- **The Zemlyaks**: Harvesters, miners and lifeblood for Nikopol’s survival. Their contact is [Bodgan "Detina"](../../people/FoundersBlessed/BodganDetina.md).
+- **The Postachi**: Traders and emissaries, bridge-builders to the outside chaos. Orest is the contect.
 
 ### Secrets Beneath the Square
 

@@ -9,11 +9,11 @@ parent: Protectorate Clique
 image: https://i.imgur.com/AJau74H.png
 
 statblock: false
-hp: 
-armour: 
-str: 
-dex: 
-wil: 
+hp: 6
+armour: 1
+str: 10
+dex: 8
+wil: 8
 at: 
 
 ---
