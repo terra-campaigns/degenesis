@@ -72,7 +72,7 @@ potentials:
     flavour:
       - "The Spitalian's knowledge of his enemy runs deep—flesh torn, bones exposed, even the most hidden vulnerabilities laid bare. He knows precisely where to strike and how to inflict maximum pain. When facing Psychonauts, this intimate understanding grants him an edge, allowing him to strike with devastating accuracy."
     rule:
-      - Requires a melee weapon. When you roll 4+ damage, your attack against Psychonaults ignores armour.
+      - Requires a melee weapon. Your attack against Psychonaults use a die one size larger.
   - roll: 5
     name: KRANZLER'S TEACHINGS
     flavour:

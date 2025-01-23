@@ -596,53 +596,6 @@
                 "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
-        "_site/systems/character-development.md": [
-            {
-                "text": "Cult or Clan",
-                "url": "_site/systems/#backgrounds",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Scars",
-                "url": "_site/systems/#scars",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sepsis",
-                "url": "_site/systems/#sepsis",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "_site/systems/#backgrounds": [
-            {
-                "text": "Cult or Clan",
-                "url": "_site/systems/character-development.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/systems/#scars": [
-            {
-                "text": "Scars",
-                "url": "_site/systems/character-development.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/systems/#sepsis": [
-            {
-                "text": "Sepsis",
-                "url": "_site/systems/character-development.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "_site/systems/culture.md": [
             {
                 "text": "Culture",
@@ -809,19 +762,60 @@
                 "direction": "inbound"
             },
             {
-                "text": "Mutation",
-                "url": "_site/systems/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mutation",
-                "url": "_site/systems/ruin_alt.md",
+                "text": "Sepsis Mutations",
+                "url": "_site/systems/wip/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
-        "_site/systems/ruin_alt.md": [
+        "_site/systems/wip/character-development.md": [
+            {
+                "text": "Cult or Clan",
+                "url": "_site/systems/wip/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scars",
+                "url": "_site/systems/wip/#scars",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis",
+                "url": "_site/systems/wip/#sepsis",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_site/systems/wip/#backgrounds": [
+            {
+                "text": "Cult or Clan",
+                "url": "_site/systems/wip/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/wip/#scars": [
+            {
+                "text": "Scars",
+                "url": "_site/systems/wip/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/wip/#sepsis": [
+            {
+                "text": "Sepsis",
+                "url": "_site/systems/wip/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/wip/ruin_alt.md": [
             {
                 "text": "Burn",
                 "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
@@ -838,60 +832,66 @@
             },
             {
                 "text": "Mutation",
-                "url": "_site/systems/#sepsis-mutations",
+                "url": "_site/systems/wip/#sepsis-mutations",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Mutation",
+                "url": "_site/systems/wip/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sporination",
+                "url": "_site/systems/#sporination",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Types of Burn",
+                "url": "_site/systems/#types-of-burn",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis Mutations",
                 "url": "_site/systems/#sepsis-mutations",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
-            {
-                "text": "Sporination",
-                "url": "_site/#sporination",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Types of Burn",
-                "url": "_site/#types-of-burn",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sepsis Mutations",
-                "url": "_site/#sepsis-mutations",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
             }
         ],
-        "_site/#sporination": [
+        "_site/systems/wip/#sepsis-mutations": [
             {
-                "text": "Sporination",
-                "url": "_site/systems/ruin_alt.md",
+                "text": "Mutation",
+                "url": "_site/systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mutation",
+                "url": "_site/systems/wip/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
-        "_site/#types-of-burn": [
+        "_site/systems/#sporination": [
             {
-                "text": "Types of Burn",
-                "url": "_site/systems/ruin_alt.md",
+                "text": "Sporination",
+                "url": "_site/systems/wip/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
-        "_site/#sepsis-mutations": [
+        "_site/systems/#types-of-burn": [
             {
-                "text": "Sepsis Mutations",
-                "url": "_site/systems/ruin_alt.md",
+                "text": "Types of Burn",
+                "url": "_site/systems/wip/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3320,51 +3320,13 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
-        "systems/character-development.md": [
+        "creatures/SporeBeast.md": [
             {
-                "text": "Cult or Clan",
-                "url": "systems/#backgrounds",
-                "is_internal": true,
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
                 "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Scars",
-                "url": "systems/#scars",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sepsis",
-                "url": "systems/#sepsis",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "systems/#backgrounds": [
-            {
-                "text": "Cult or Clan",
-                "url": "systems/character-development.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/#scars": [
-            {
-                "text": "Scars",
-                "url": "systems/character-development.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/#sepsis": [
-            {
-                "text": "Sepsis",
-                "url": "systems/character-development.md",
-                "is_internal": true,
-                "direction": "inbound"
+                "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
         "systems/culture.md": [
@@ -3533,89 +3495,8 @@
                 "direction": "inbound"
             },
             {
-                "text": "Mutation",
-                "url": "systems/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mutation",
-                "url": "systems/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/ruin_alt.md": [
-            {
-                "text": "Burn",
-                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Spore Infestation",
-                "url": "https://degenesis.com/world/stories/pollen/sepsis",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Mutation",
-                "url": "systems/#sepsis-mutations",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Mutation",
-                "url": "systems/#sepsis-mutations",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sporination",
-                "url": "#sporination",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Types of Burn",
-                "url": "#types-of-burn",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
                 "text": "Sepsis Mutations",
-                "url": "#sepsis-mutations",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "#sporination": [
-            {
-                "text": "Sporination",
-                "url": "systems/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "#types-of-burn": [
-            {
-                "text": "Types of Burn",
-                "url": "systems/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "#sepsis-mutations": [
-            {
-                "text": "Sepsis Mutations",
-                "url": "systems/ruin_alt.md",
+                "url": "systems/wip/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3810,19 +3691,130 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
-        "_notions/inklings.md": [
+        "systems/wip/character-development.md": [
             {
-                "text": " ] Anastasia's stolen book: [Jorn's mission",
-                "url": "_notions/prokhor.md#just-journal-entries",
+                "text": "Cult or Clan",
+                "url": "systems/wip/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scars",
+                "url": "systems/wip/#scars",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis",
+                "url": "systems/wip/#sepsis",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "_notions/prokhor.md#just-journal-entries": [
+        "systems/wip/#backgrounds": [
             {
-                "text": " ] Anastasia's stolen book: [Jorn's mission",
-                "url": "_notions/inklings.md",
+                "text": "Cult or Clan",
+                "url": "systems/wip/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/wip/#scars": [
+            {
+                "text": "Scars",
+                "url": "systems/wip/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/wip/#sepsis": [
+            {
+                "text": "Sepsis",
+                "url": "systems/wip/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/wip/ruin_alt.md": [
+            {
+                "text": "Burn",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Spore Infestation",
+                "url": "https://degenesis.com/world/stories/pollen/sepsis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Mutation",
+                "url": "systems/wip/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mutation",
+                "url": "systems/wip/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sporination",
+                "url": "systems/#sporination",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Types of Burn",
+                "url": "systems/#types-of-burn",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis Mutations",
+                "url": "systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "systems/wip/#sepsis-mutations": [
+            {
+                "text": "Mutation",
+                "url": "systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mutation",
+                "url": "systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/#sporination": [
+            {
+                "text": "Sporination",
+                "url": "systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/#types-of-burn": [
+            {
+                "text": "Types of Burn",
+                "url": "systems/wip/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

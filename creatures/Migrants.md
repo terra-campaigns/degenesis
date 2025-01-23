@@ -4,9 +4,9 @@ layout: default
 
 title: Migrants
 parent: Creatures
-role: Balances and strengthen weak spore fields
-archetype: Biokinetic Psychonaut
-image: https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/5517x3300/4675ce01f7/pollen-migrants.jpg
+role: Biokinetic Psychonaut
+archetype: 
+image: https://i.imgur.com/aP3f94Q.png
 
 statblock: true
 hp: 14
@@ -14,7 +14,7 @@ armour: 2
 str: 14
 dex: 12
 wil: 10
-at: bite (d4, 1 infestation) and heavy axe (d8+d8) *detachment*
+at: bite (d4, 1 infestation) and heavy axe (d8) *detachment*
 
 details:
 - Shape-shifting abilities and physical prowess, blurs the line with the supernatural

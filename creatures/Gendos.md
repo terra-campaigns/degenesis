@@ -8,7 +8,7 @@ image: https://i.imgur.com/Bapfk9X.png
 
 statblock: true
 hp: 5
-armour: Tick four, 1
+armour: Thick fur, 1
 str: 10
 dex: 12
 wil: 10

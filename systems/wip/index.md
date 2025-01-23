@@ -6,7 +6,15 @@ nav_order: 999
 
 ---
 
-#### Work-in-progress
+
+<details close markdown="block">
+  <summary id="index">
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 {% include_relative character-development.md %}
 

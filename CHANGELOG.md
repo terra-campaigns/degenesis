@@ -18,12 +18,26 @@ nav_exclude: TRUE
 
 ## v0.4.7-deg
 
-- Character creation: Added existing connection with other PCs
-- Ruin: Swapped the d4 with d6 for sporination
+- Added:
+	- Character creation: Added existing connection with other PCs
+	- Creatures: Gendos, Leperos, Spore Beasts
+	- Deceased tag for people, and In Memorian section
+- Changed:
+	- Minimal changes in attribute loss descriptions
+	- Failed critical damage save gives a wound, not taking you out of combat (necessarily)
+	- Ruin: swapped the d4 with d6 for sporination
+	- Creatures stats: Migrants (align expected comparative power with PCs)
+	- Anabaptists: minor adjustments to equipment and potentials
+	- Spitalians: adjustment to LAST BASTION potential
+- Under the hood: broken links
 
 ## v0.4.6-deg
 
-- Changed description of Attributes
+- Changed
+	- Description of Attributes
+- Under the hood
+	- Updated gems 
+	- Improved statblocks templates
 
 ## v0.4.5-deg
 

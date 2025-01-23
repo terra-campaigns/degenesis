@@ -49,6 +49,7 @@ The Founders’ Square serves as a cultural and spiritual heart. It symbolizes a
 - The station is very organised, with weapons, ammo and clean floors.
 - The walls are cared for by Rarogi, making sure they have no holes and cracks from where Sepsis can spread within the building.
 - The roof offers a great view of the train tracks, the city (including the water pump station and its coal-fired power plant) and the spore wall.
+- There is a radio tower on the roof.
 
 ### Train depot
 
