@@ -17,8 +17,7 @@ You can roll a pre generated character.
 
 New and replacement characters can be randomly assigned from the list.
 
-|     |                                                                            |
-| --- | -------------------------------------------------------------------------- |
-| 1   | [Erasmus Kline](ErasmusKline.md) (Spitalian)                               |
-| 2   | [Mara "the Rat" Quinn](../../systems/pregens/MaraTheRatQuinn.md) (Scraper) |
-| 3   | [Varvara Semyonich](VarvaraSemyonich.md) (Rarogi)                          |
+|     |                                                   |     |
+| --- | ------------------------------------------------- | --- |
+| 1   | [Erasmus Kline](ErasmusKline.md) (Spitalian)      |     |
+| 2   | [Varvara Semyonich](VarvaraSemyonich.md) (Rarogi) |     |

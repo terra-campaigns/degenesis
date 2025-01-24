@@ -1,14 +1,13 @@
 ---
 template: pc v0.3.1
 layout: default
-title: Mara "The Rat" Quinn
+title: Aaron Partow
 archetype: Pollen, The Zealot, Scraper Mechanist (3)
 role: 
-parent: Pregen Characters
-nav_exclude: true
-statblock: false
+parent: Protectorate Clique
+statblock: true
 
-image: https://i.imgur.com/pxn8jkX.png
+image: https://i.imgur.com/hzkCjwq.png
 
 str: 12
 dex: 13
@@ -33,3 +32,5 @@ gear:
 ---
 
 {% include statblock_pc.md %}
+
+- 32 years old, he/him
