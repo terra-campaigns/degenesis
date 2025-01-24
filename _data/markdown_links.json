@@ -169,7 +169,7 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "encrypted by the Kievan Chronicler",
+                "text": "in the Cluster according to the Kievan Chronicler?",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/InNikopol01/#friedrich-voigts-tome",
                 "is_internal": false,
                 "direction": "outbound",
@@ -762,6 +762,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Mutation",
+                "url": "_site/systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Sepsis Mutations",
                 "url": "_site/systems/wip/ruin_alt.md",
                 "is_internal": true,
@@ -771,27 +777,27 @@
         "_site/systems/wip/character-development.md": [
             {
                 "text": "Cult or Clan",
-                "url": "_site/systems/wip/#backgrounds",
+                "url": "_site/systems/#backgrounds",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Scars",
-                "url": "_site/systems/wip/#scars",
+                "url": "_site/systems/#scars",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sepsis",
-                "url": "_site/systems/wip/#sepsis",
+                "url": "_site/systems/#sepsis",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "_site/systems/wip/#backgrounds": [
+        "_site/systems/#backgrounds": [
             {
                 "text": "Cult or Clan",
                 "url": "_site/systems/wip/character-development.md",
@@ -799,7 +805,7 @@
                 "direction": "inbound"
             }
         ],
-        "_site/systems/wip/#scars": [
+        "_site/systems/#scars": [
             {
                 "text": "Scars",
                 "url": "_site/systems/wip/character-development.md",
@@ -807,12 +813,21 @@
                 "direction": "inbound"
             }
         ],
-        "_site/systems/wip/#sepsis": [
+        "_site/systems/#sepsis": [
             {
                 "text": "Sepsis",
                 "url": "_site/systems/wip/character-development.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "_site/systems/wip/conditions_alt.md": [
+            {
+                "text": "Deprivation & Fatigue",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/#deprivation--fatigue",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
         "_site/systems/wip/ruin_alt.md": [
@@ -832,14 +847,7 @@
             },
             {
                 "text": "Mutation",
-                "url": "_site/systems/wip/#sepsis-mutations",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Mutation",
-                "url": "_site/systems/wip/#sepsis-mutations",
+                "url": "_site/systems/#sepsis-mutations",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -864,20 +872,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "_site/systems/wip/#sepsis-mutations": [
-            {
-                "text": "Mutation",
-                "url": "_site/systems/wip/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mutation",
-                "url": "_site/systems/wip/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "_site/systems/#sporination": [
@@ -2276,6 +2270,47 @@
                 "direction": "inbound"
             }
         ],
+        "people/FoundersBlessed/Prokhor.md": [
+            {
+                "text": "Jorn",
+                "url": "people/FoundersBlessed/JornKal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prokhor",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/FoundersBlessed/JornKal.md": [
+            {
+                "text": "Jorn",
+                "url": "people/FoundersBlessed/Prokhor.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jorn Kal",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "people/FoundersBlessed/IvanTheWise.md": [
             {
                 "text": "Isolde Pax",
@@ -2419,26 +2454,6 @@
             {
                 "text": "Detina",
                 "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/FoundersBlessed/Prokhor.md": [
-            {
-                "text": "Prokhor",
-                "url": "people/FoundersBlessed/BodganDetina.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Prokhor",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Prokhor",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2955,14 +2970,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
-        "people/FoundersBlessed/JornKal.md": [
-            {
-                "text": "Jorn Kal",
-                "url": "campaigns/ConnectNikopol/StationWork1.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "systems/backgrounds/rarogi.md": [
@@ -3501,12 +3508,6 @@
                 "direction": "inbound"
             },
             {
-                "text": "Mutation",
-                "url": "systems/wip/ruin_alt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
                 "text": "Sepsis Mutations",
                 "url": "systems/wip/ruin_alt.md",
                 "is_internal": true,
@@ -3750,6 +3751,15 @@
                 "direction": "inbound"
             }
         ],
+        "systems/wip/conditions_alt.md": [
+            {
+                "text": "Deprivation & Fatigue",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/#deprivation--fatigue",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
         "systems/wip/ruin_alt.md": [
             {
                 "text": "Burn",
@@ -3764,13 +3774,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Mutation",
-                "url": "systems/#sepsis-mutations",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
             },
             {
                 "text": "Mutation",
@@ -3815,15 +3818,6 @@
                 "url": "systems/wip/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "systems/wip/panic.md": [
-            {
-                "text": "Conditions",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/#deprivation--fatigue",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ]
     }

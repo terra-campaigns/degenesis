@@ -30,6 +30,7 @@ kanban-plugin: board
 - [ ] Jorn needs another piece of the Resident
 - [ ] An attack is being formed by the psychonauts
 - [ ] City covered in gossamer
+- [ ] Self vs super organism (evangelion stuff)
 
 
 ## Old sets
