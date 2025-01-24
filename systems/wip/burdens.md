@@ -1,8 +1,8 @@
 # Burdens
 
 - Characters have a total of ten **Burden** slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-- Inventory is abstract, dependent only on the fiction as adjudicated by the Warden.
-- Anyone carrying **10 Burdens** is reduced to **0 HP**. A character cannot fill more than ten slots.
+- Burdens is abstract, dependent only on the fiction as adjudicated by the Warden.
+- Anyone using all **Burden** slots is reduced to **0 HP**. A character cannot fill more than their available slots.
 
 ## Burden Slots
 {: .no_toc }
