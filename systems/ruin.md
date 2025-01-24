@@ -51,10 +51,10 @@ Different types of Burn are harvested depending on Earth Chakra proximity.
 ## Sepsis Mutations
 {: .no_toc }
 
-![](https://i.imgur.com/wFi5Ywp.png)
-![](https://i.imgur.com/45eBzMs.png)
 ![](https://i.imgur.com/1EESOcZ.png)
 ![](https://i.imgur.com/xR9vnwA.png)
+![](https://i.imgur.com/wFi5Ywp.png)
+![](https://i.imgur.com/45eBzMs.png)
 
 > Spore Infestation mechanics are based on [Oddular Mechanics](https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1) by Chris McDowall and Fallout from [Liminal Horror](https://liminalhorrorrpg.com/). Sepsis Mutation tables are copied from <a href="https://www.drivethrurpg.com/en/product/115703/the-metamorphica-classic-edition">The Metamorphica (Classic Edition)</a> for private use only. The PDF can be acquired as PWYW for descriptions on each mutation.
 > {: .fs-2 }
