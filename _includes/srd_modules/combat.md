@@ -15,9 +15,11 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 ## Attacking & Damage
 {: .no_toc }
 
-- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
+- The attacker rolls their weapon die and subtracts the target's **Armour**, then deals the remaining total to their opponent's **HP**. Attacks in combat automatically hit.
 - If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+- If an attack would take a PC's **HP** exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+
+## Weapons
 
 Weapons have a damage die.
 
@@ -40,7 +42,10 @@ Weapons also may have tags.
 
 For ranges, use what is narratively appropriate.
 
-Armours can be
+## Armours
+
+- Shields and similar armour provide a bonus defence (e.g. +1 Armour), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
+- A PC, NPC, or monster cannot have more than 3 Armour.  
 
 |     |            |                                    |
 | :-: | ---------- | ---------------------------------- |
@@ -53,7 +58,7 @@ Armours can be
 {: .no_toc }
 
 - If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
-- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
+- If fighting from a position of advantage (such as against a helpless foe or through a daring manoeuvre), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
 - Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
 - If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
 

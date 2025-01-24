@@ -27,8 +27,6 @@ nav_order: 99
 
 {% include srd_modules/conditions.md %}
 
-{% include srd_modules/armour.md %}
-
 {% include srd_modules/npcs.md %}
 
 {% include srd_modules/dieoffate.md %}
