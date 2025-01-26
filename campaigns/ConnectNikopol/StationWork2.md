@@ -47,4 +47,7 @@ One survives. She names herself [Mirova](../../people/Vostok/mirova.md). Taken t
 
 ![](https://i.imgur.com/GjAvGPx.png)
 
+> **Anastasia's summary**
+> *We met some Leperos that attacked us, but later they turned out to be quite human after being injured. Three of the four that attacked us were killed, but this older woman was kept alive (mostly thanks to me, insisting she not be killed). It turns out she is a member of the Vostok Kin, which is a clan though to be extinct from the East, in the area where the spore wall is now.*
+
 {% include connected_to.md %}
