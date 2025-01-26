@@ -939,6 +939,12 @@
             },
             {
                 "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
                 "url": "campaigns/ConnectNikopol/index.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -971,6 +977,13 @@
                 "favicon": null
             },
             {
+                "text": "encounter with Leperos",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Anastasia",
                 "url": "people/ProtectorateClique/index.md",
                 "is_internal": true,
@@ -985,6 +998,12 @@
             {
                 "text": "Anastasia Frostmane",
                 "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1400,6 +1419,12 @@
             {
                 "text": "Mirova",
                 "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mirova",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1883,6 +1908,63 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/ConnectNikopol/StationWork2.md": [
+            {
+                "text": "encounter with Leperos",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Thaddeus",
+                "url": "people/ProtectorateClique/ThaddeusCain.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jorn Kal",
+                "url": "people/FoundersBlessed/JornKal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Friedrich",
+                "url": "people/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aaron Partow",
+                "url": "people/ProtectorateClique/AaronPartow.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mirova",
+                "url": "people/Vostok/mirova.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "people/ProtectorateClique/FriedrichVoigt.md": [
             {
                 "text": "Konrad Jager",
@@ -1908,6 +1990,12 @@
             {
                 "text": "Friedrich Voigt",
                 "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Friedrich",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2307,6 +2395,12 @@
             {
                 "text": "Jorn Kal",
                 "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jorn Kal",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3004,6 +3098,12 @@
                 "url": "campaigns/ConnectNikopol/StationWork1.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Thaddeus",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/ConnectNikopol/ToNikopol1.md": [
@@ -3039,6 +3139,14 @@
             {
                 "text": "Elara Nyx",
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/ProtectorateClique/AaronPartow.md": [
+            {
+                "text": "Aaron Partow",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

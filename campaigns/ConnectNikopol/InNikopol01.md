@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Heavy Metal
+title: Heavy metal
 parent: Connect with Nikopol
 nav_order: 26
 timestamp: 2594-05-05

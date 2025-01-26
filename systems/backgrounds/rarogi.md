@@ -42,7 +42,7 @@ ranks:
       - "**KMET**: Take a **Gas Mask** (1 armour against Spore Infestation) and a **Leather Apron** (1 armour). While you clean Nikopol and its tools, people rarely notice you. <br>"
   - roll: "4"
     text:
-      - "**SERVICER**: Take a **Piercer** (d8, d12 with black powder) and a **Leather Coat** (1 armour). You are good at repairing and repurposing tools and objects. <br>"
+      - "**SERVICER**: Take a **Piercer** (d8, d10 with black powder) and a **Leather Coat** (1 armour). You are good at repairing and repurposing tools and objects. <br>"
   - roll: "5"
     text:
       - "**STRELTSY**: Take a **Streltsy rifle** (d8, 3 rounds) and a **Streltsy Suit** (2 armour). You know several combat manoeuvres and tactics. <br>"

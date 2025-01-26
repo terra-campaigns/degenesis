@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Station Work
+title: Station work
 parent: Connect with Nikopol
 nav_order: 30
 timestamp: 2594-05-20

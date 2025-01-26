@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Back from the Mines
+title: Back from the mines
 parent: Connect with Nikopol
 nav_order: 29
 timestamp: 2594-05-10

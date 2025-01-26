@@ -34,3 +34,6 @@ gear:
 {% include statblock_pc.md %}
 
 - 32 years old, he/him
+- Has not seen the works of the world yet.
+- Outgoing and optimistic.
+- Tech savvy, engineer.

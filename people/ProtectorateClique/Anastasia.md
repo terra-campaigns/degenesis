@@ -34,6 +34,7 @@ gear:
 {% include statblock_pc.md %}
 
 - Eccentric, short in stature but with athletic physique, upper 30s
-- Tattoos and paraphernalia on self, carries a large shield on her back
+- Tattoos and paraphernalia on self (some belonging to other Cults), carries a large shield on her back
 - Protects Zofia, the child of [Yelena](Yelena.md)
 - Uses Bion ritualistically
+- Broke her leg in an [encounter with Leperos](../../campaigns/ConnectNikopol/StationWork2.md).
