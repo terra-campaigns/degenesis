@@ -5,11 +5,11 @@ Environment suits and masks reduce the impact of **Spore Infestation**, analog t
 i.e. they reduce the die result before evaluating the consequences.
 If the remaining **Spore Infestation** is greater than **0**, compare it with your current **WIL**.
 
-|           |                                                                                                                                                                                                   |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **< WIL** | Reduce the remaining **Spore Infestation** from your current **WIL**.                                                                                                                             |
-| **= WIL** | You gain a **[Mutation](../#sepsis-mutations)** (roll a ***d400***). The Mutation takes a *permanent* **Burden** slot.                                                                            |
-| **> WIL** | You develop a **Cultural Stigma** that goes away when your **WIL** is fully recovered. If you already had a **Cultural Stigma** your lungs fill with snot and you choke. You become **Deprived**. |
+|           |                                                                                                                                                                                                                           |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **< WIL** | Reduce the remaining **Spore Infestation** from your current **WIL**.                                                                                                                                                     |
+| **= WIL** | You gain a **[Mutation](../#sepsis-mutations)** (roll a ***d400***). The Mutation takes a *permanent* **Burden** slot.                                                                                                    |
+| **> WIL** | You develop a **Cultural Stigma** that goes away when your **WIL** is fully recovered. If you already had a **Cultural Stigma** your lungs fill with snot and you choke. You feel the ether call and become **Deprived**. |
 
 *The following rules remain unchanged:*
 
