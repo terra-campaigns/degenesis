@@ -22,6 +22,8 @@ region: Nikopol
 
 **Anastasia**: You read the train logs. There is nothing out of the ordinary, except that one cargo was marked with `dried meat` but used a steel crate, and took a long time to load. It was a special export to Africa, sent by Elder Ivan. Other details were redacted, but you could scratch some of the ink and recognize the word `ANSUMO`. During quarantine, Myron has several private meetings with her boss, Prokhor. She tells Anastasia that you will be granted a meeting with the Leperos woman, but that Prokhor would also expect a meeting with your group in the next few days - you should go and see him when out of quarantine.
 
+![](https://i.imgur.com/a02l5wx.png)
+
 ### Friends
 
 [Sublime Pax](../../people/ProtectorateClique/IsoldePax.md) comes to meet her Clique companions as they leave quarantine with the Streltsys. The group has a chat, standing on one of the [Nikopol](../../locations/Nikopol.md)’s corridors with metal walls installed on rock, new and bygone graffiti covered metal plates screwed directly on rock walls. They feel relaxed and friendly, except maybe for [Elder Anastasia](../../people/ProtectorateClique/Anastasia.md) and [Surgeon Friedrich](../../people/ProtectorateClique/FriedrichVoigt.md) – who feel antagonistic on how to deal with people infected by Sepsis.
@@ -32,11 +34,17 @@ The group of friends briefly discuss what could be best for Yelena. They are wor
 
 ### Lubos’ workshop
 
+![](https://i.imgur.com/44uQLQo.png)
+
 Lubos greeted them with happiness in his face, although showing a limp and a blackened eye. As they talk with the Borcan Steel Master, they understand that he has been brought to Nikopol in conditions of slavery. As he becomes aware of his situation, he gets increasingly more stressed and starts shaking.
 
 While most are chatting in a corner, Friedrick uses the opportunity to look at some of the artefact crates: electric toothbrushes, popcorn makers, a Harley Davidson – and daydream of a life he could have elsewhere, far from all the conflict and pain.
 
+![](https://i.imgur.com/Ywlwh6G.png)
+
 Before leaving, Lubos feels courageous and shows them his work. In a corner on the back of the workshop, a pile of robots have been disassembled, and one single robot stands, fully armoured and with wiring being installed. A bygone ANSUMO.
+
+![](https://i.imgur.com/9yFUpph.png)
 
 ### After-hours
 
