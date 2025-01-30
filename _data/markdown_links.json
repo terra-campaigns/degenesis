@@ -939,6 +939,12 @@
             },
             {
                 "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
                 "url": "campaigns/ConnectNikopol/StationWork2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -996,6 +1002,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Elder Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Anastasia Frostmane",
                 "url": "campaigns/ConnectNikopol/StationWork1.md",
                 "is_internal": true,
@@ -1038,6 +1050,12 @@
             {
                 "text": "Lubos",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lubos",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1648,6 +1666,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Sublime Pax",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Isolde Pax",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
@@ -1714,6 +1738,12 @@
             {
                 "text": "Dexter",
                 "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1993,6 +2023,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Surgeon Friedrich",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Friedrich Voigt",
@@ -2487,6 +2523,12 @@
             },
             {
                 "text": "Sasha Volkov",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha Volkov",
                 "url": "campaigns/ConnectNikopol/StationWork1.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2926,6 +2968,57 @@
                 "url": "campaigns/ConnectNikopol/BloodyMines1.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/InNikopol03.md": [
+            {
+                "text": "Sublime Pax",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Elder Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Surgeon Friedrich",
+                "url": "people/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dexter",
+                "url": "people/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lubos",
+                "url": "people/FoundersBlessed/Lubos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/ConnectNikopol/ToNikopol2.md": [
