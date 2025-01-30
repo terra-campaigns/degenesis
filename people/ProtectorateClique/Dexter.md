@@ -3,7 +3,7 @@ template: NPC v0.3
 layout: default
 title: Dexter
 parent: Protectorate Clique
-image: https://i.imgur.com/xPYi0nG.png
+image: 
 
 statblock: true
 hp: 

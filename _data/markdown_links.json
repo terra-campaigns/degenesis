@@ -1417,6 +1417,13 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
+                "text": "In the gossamer",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/StationWork2",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
                 "text": "Mirova",
                 "url": "campaigns/VostokIronclawPurged/index.md",
                 "is_internal": true,

@@ -2,7 +2,7 @@
 template: npc v0.3.1
 layout: default
 
-title: Lubos
+title: Lubos Ogota
 role: Mechanic for the automatons
 archetype: Borca, The Creator, SteelMaster Shaper
 parent: Founders' Blessed
