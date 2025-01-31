@@ -46,7 +46,7 @@ Elder Mirova is the Vostok Kin's revered guardian of traditions. She possesses d
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "degenesis/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 - [Vostok Kin](https://terra-campaigns.github.io/degenesis/people/Vostok/index), from people/Vostok
 - [Vostok & Ironclaw purged](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/index), from campaigns/VostokIronclawPurged
-- [In the gossamer](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/StationWork2), from campaigns/ConnectNikopol
 - [The work of Lubos](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/InNikopol03), from campaigns/ConnectNikopol
+- [In the gossamer](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/StationWork2), from campaigns/ConnectNikopol
 <!-- SerializedQuery END -->
 
