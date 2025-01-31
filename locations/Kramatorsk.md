@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Kramatorsk
-parent: Locations
+parent: Directory
+type: location
 
 ---
 # Kramatorsk

@@ -1,11 +1,12 @@
 ---
 template: npc v0.3.1
 layout: default
+type: people
 
 title: Bogdan 'Detina'
 role: Miner (Zemlyaks), Demoted Streltsy
 archetype: Pollen, The Destroyer, Rarogi Kopachi (2)
-parent: Founders' Blessed
+parent: Nikopol
 image: https://i.imgur.com/YYqNlQ1.png
 
 statblock: true

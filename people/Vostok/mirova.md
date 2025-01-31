@@ -2,7 +2,7 @@
 layout: default
 title: Elder Mirova
 parent: Vostok Kin
-
+type: people
 status: Missing
 
 statblock: 'yes'
@@ -10,7 +10,7 @@ deprecated_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Degenesis (triBlock-v0.2)
 
-img: https://i.imgur.com/GjAvGPx.png
+image: https://i.imgur.com/GjAvGPx.png
 
 hp: '7'
 
@@ -27,11 +27,9 @@ notes:
 ---
 # {{ page.title }}
 
-> {{ page.status }}
-
 > [Vostok](index.md) Kin's guardian of traditions
 
-![]({{ page.img }})
+![]({{ page.image }})
 
 Elder Mirova is the Vostok Kin's revered guardian of traditions. She possesses deep knowledge of her clan's history and customs, making her an indispensable repository of cultural wisdom. Known for her compassion and fairness, Mirova always seeks the best for her people, ensuring their well-being and harmony. However, her strong adherence to tradition makes her resistant to change and often skeptical of new ideas. Her presence embodies the clan's continuity and resilience amidst the changing and often hostile world.
 
@@ -49,5 +47,6 @@ Elder Mirova is the Vostok Kin's revered guardian of traditions. She possesses d
 - [Vostok Kin](https://terra-campaigns.github.io/degenesis/people/Vostok/index), from people/Vostok
 - [Vostok & Ironclaw purged](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/index), from campaigns/VostokIronclawPurged
 - [In the gossamer](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/StationWork2), from campaigns/ConnectNikopol
+- [The work of Lubos](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/InNikopol03), from campaigns/ConnectNikopol
 <!-- SerializedQuery END -->
 

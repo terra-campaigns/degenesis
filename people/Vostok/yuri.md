@@ -2,7 +2,7 @@
 layout: default
 title: Yuri
 parent: Vostok Kin
-grand_parent: People
+type: people
 
 status: Missing
 ---

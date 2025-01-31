@@ -1,11 +1,12 @@
 ---
 template: npc v0.3.1
 layout: default
+type: people
 
 title: Sokolov
 role: Bion dealer
 archetype: Borca, The Conqueror, Apocalyptic Battle Crow (2)
-parent: Founders' Blessed
+parent: Nikopol
 image: https://i.imgur.com/62OmEw8.png
 
 statblock: true

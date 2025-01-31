@@ -1,11 +1,12 @@
 ---
 template: npc v0.3.1
 layout: default
+type: people
 
 title: Vira
 role: Miner (Zemlyaks)
 archetype: Pollen, The Righteous, Rarogi Kopachi (2)
-parent: Founders' Blessed
+parent: Nikopol
 image: https://i.imgur.com/XOOTGWB.png
 
 statblock: true

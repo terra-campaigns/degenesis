@@ -2,7 +2,7 @@
 layout: default
 title: Dr. Sofia Markov
 parent: Vostok Kin
-grand_parent: People
+type: people
 
 status: Missing
 

@@ -1,12 +1,13 @@
 ---
 template: npc v0.3.1
 layout: default
-nav_exclude: true
+type: people
+nav_exclude: false
 
 title: Jorn Kal
 role: Wannabe hero
 archetype: Borca, The Adventurer, Spitalian Famulancer (3)
-parent: Founders' Blessed
+parent: Nikopol
 image: https://i.imgur.com/nK5OG2J.png
 
 statblock: true

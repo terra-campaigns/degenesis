@@ -1,6 +1,7 @@
 ---
 template: pc v0.3.1
 layout: default
+type: people
 title: Thaddeus Cain
 archetype: Pollen, The Hermit, Anabaptist Ascetic (2)
 role: 

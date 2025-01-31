@@ -1,12 +1,13 @@
 ---
 template: npc v0.3.1
 layout: default
-nav_exclude: true
+type: people
+nav_exclude: false
 
 title: "Ivan 'The Wise' Derzhyn"
 role: Council member in Nikopol (Sovral)
 archetype: Pollen, The Visionary, Rarogi Elder
-parent: Founders' Blessed
+parent: Nikopol
 image: https://i.imgur.com/8cxt2dM.png
 
 statblock: false

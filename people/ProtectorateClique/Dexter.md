@@ -2,6 +2,7 @@
 template: NPC v0.3
 layout: default
 title: Dexter
+type: people
 parent: Protectorate Clique
 image: 
 
@@ -19,7 +20,6 @@ at:
 
 - Scrapper
 - Has a grudge with [Konrad Jager](KonradJager.md) and [Isolde Pax](IsoldePax.md)
-- 
 
 {% comment %} =========================== TEMPLATE CODE =========================== {% endcomment %}
 {% comment %} ===================== DO NOT EDIT BELOW THIS LINE ===================== {% endcomment %}

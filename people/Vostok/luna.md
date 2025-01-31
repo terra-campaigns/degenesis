@@ -2,7 +2,7 @@
 layout: default
 title: Luna
 parent: Vostok Kin
-grand_parent: People
+type: people
 
 status: 
 

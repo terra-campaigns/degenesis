@@ -16,6 +16,22 @@ nav_exclude: TRUE
 {:toc}
 </details>
 
+## v0.5.0-deg
+
+- **Directory**: People, factions and locations are now part of a Directory section
+- Added:
+	- Carousing procedures
+- Changed:
+	- Damage of Rarogi Piercer
+	- Creatures is part of Systems
+	- Adding equipment to bonds: Protector
+	- Several typos
+- Removed:
+	- armour include is now part of combat include
+- Under the hood
+	- Updated gems
+	- 
+
 ## v0.4.7-deg
 
 - Added:

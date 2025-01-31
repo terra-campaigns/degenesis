@@ -1,11 +1,12 @@
 ---
 template: npc v0.3.1
 layout: default
+type: people
 
 title: Prokhor 'The Just'
 role: Leader of the Streltsys (Sovral)
 archetype: Pollen, The Traditionalist, Rarogi Sovral (4)
-parent: Founders' Blessed
+parent: Nikopol
 image: https://i.imgur.com/J01Rztk.png
 
 statblock: true

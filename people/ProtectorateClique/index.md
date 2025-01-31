@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Protectorate Clique
-parent: People
+parent: Directory
 has_children: true
+type: faction
 
 ---
 

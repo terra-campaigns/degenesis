@@ -2,8 +2,10 @@
 template: loc v0.3
 layout: default
 title: Nikopol
+type: location
 role: A resilient underground bastion of humanity, crucial for its rich mining of rare metals and manganese, which sustain trade and survival. Its fortified structure and disciplined militias defend against the Primer, while its isolationism shields it from exploitation. Divided into miners, warriors, and traders, its society survives under the cultural and spiritual anchor of Founders’ Square, symbolizing hope amidst decay.
-parent: Locations
+parent: Directory
+has_children: true
 
 image: https://i.imgur.com/93kPOn5.jpeg
 

@@ -2,8 +2,7 @@
 layout: default
 title: Skittle
 parent: Vostok Kin
-grand_parent: People
-
+type: people
 status: Missing
 
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Yelena, the Seer
 parent: Vostok Kin
-
+type: people
 status: Missing
 
 statblock: 'yes'

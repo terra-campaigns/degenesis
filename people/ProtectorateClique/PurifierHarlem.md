@@ -1,6 +1,7 @@
 ---
 template: npc v0.3.1
 layout: default
+type: people
 
 title: Purifier Harlem
 role: Leader of Operations for the Clique

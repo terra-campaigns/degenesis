@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Vostok Kin
-parent: People
-
+parent: Directory
+type: faction
 has_children: true
 
 status:

@@ -12,7 +12,7 @@ region: Nikopol
 
 ![](https://i.imgur.com/w6NOiqP.png)
 
-#### The Other Side of the Streltsys
+### The Other Side of the Streltsys
 
 [Thaddeus](../../people/ProtectorateClique/ThaddeusCain.md) and [Anastasia](../../people/ProtectorateClique/Anastasia.md) fear [Jorn Kal](../../people/FoundersBlessed/JornKal.md)’s madness—his scheme to poison a spore field is reckless and deadly.
 
@@ -24,7 +24,7 @@ As [Friedrich](../../people/ProtectorateClique/FriedrichVoigt.md) mends from his
 
 ![](https://i.imgur.com/hzkCjwq.png)
 
-#### The Gossamer
+### The Gossamer
 
 The Clique are dispatched on a mission: locate and rescue the Streltsys possibly sheltered in three surface checkpoints of the ruined city and bring them back to the Station.
 
@@ -34,8 +34,7 @@ The Clique are dispatched on a mission: locate and rescue the Streltsys possibly
 
 At the first checkpoint, a corpse is found. Its face and neck half-consumed, a grim omen of what lies ahead.
 
-
-#### Not All Leperos
+### Not All Leperos
 
 While Thaddeus and Friedrick examine the dead, shadows shift. Anastasia spots Leperos advancing.
 
@@ -47,8 +46,8 @@ One survives. She names herself [Mirova](../../people/Vostok/mirova.md). Taken t
 
 ![](https://i.imgur.com/GjAvGPx.png)
 
-> **Anastasia's summary**
-> 
-> *We met some Leperos that attacked us, but later they turned out to be quite human after being injured. Three of the four that attacked us were killed, but this older woman was kept alive (mostly thanks to me, insisting she not be killed). It turns out she is a member of the Vostok Kin, which is a clan though to be extinct from the East, in the area where the spore wall is now.*
+### Anastasia's summary
+
+*"We met some Leperos that attacked us, but later they turned out to be quite human after being injured. Three of the four that attacked us were killed, but this older woman was kept alive (mostly thanks to me, insisting she not be killed). It turns out she is a member of the Vostok Kin, which is a clan though to be extinct from the East, in the area where the spore wall is now."*
 
 {% include connected_to.md %}
