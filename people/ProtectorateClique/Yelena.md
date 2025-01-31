@@ -1,7 +1,7 @@
 ---
 template: npc v0.3.1
 layout: default
-
+type: people
 title: Yelena Stormrider
 role: 
 archetype: Cossack Tribal Warrior (3)

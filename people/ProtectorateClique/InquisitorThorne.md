@@ -4,6 +4,7 @@ layout: default
 title: Inquisitor Thorne
 parent: Protectorate Clique
 statblock: true
+type: people
 
 hp: 1/1
 str: 8/8

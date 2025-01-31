@@ -10,7 +10,7 @@ region: Nikopol
 
 {% include chapter_header.md %}
 
-#### Narrated by [Vira](../../people/FoundersBlessed/Vira.md)
+### Narrated by [Vira](../../people/FoundersBlessed/Vira.md)
 
 ![](https://i.imgur.com/XOOTGWB.png)
 

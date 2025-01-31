@@ -1,6 +1,7 @@
 ---
 template: pc v0.3
 layout: default
+type: people
 
 title: Isolde Pax
 role: Leader of the Anabaptists in the Clique

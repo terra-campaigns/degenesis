@@ -1,6 +1,8 @@
 ---
 template: pc v0.3.1
 layout: default
+type: people
+
 title: Aaron Partow
 archetype: Pollen, The Zealot, Scraper Mechanist (3)
 role: 

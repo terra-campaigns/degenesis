@@ -2,6 +2,7 @@
 template: pc v0.3
 layout: default
 title: Dr. Moreau
+type: people
 parent: Protectorate Clique
 nav_exclude: true
 statblock: true

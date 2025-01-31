@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Cherasky
-parent: Locations
+parent: Directory
+type: location
 
 nav_exclude: 
 

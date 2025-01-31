@@ -2,7 +2,7 @@
 layout: default
 title: Jacob
 parent: Vostok Kin
-grand_parent: People
+type: people
 
 deceased: true
 

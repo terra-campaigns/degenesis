@@ -2,8 +2,9 @@
 template: loc v0.3
 layout: default
 title: Kiev
+type: location
 role: 
-parent: Locations
+parent: Directory
 
 image: 
 

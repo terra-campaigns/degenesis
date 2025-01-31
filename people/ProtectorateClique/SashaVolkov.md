@@ -1,6 +1,7 @@
 ---
 template: pc v0.3.1
 layout: default
+type: people
 
 title: Sasha Volkov
 role: 
