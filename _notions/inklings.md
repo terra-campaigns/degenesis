@@ -13,28 +13,30 @@ kanban-plugin: board
 - [ ] What broke the peace between spitalians and Anabaptists and when? Briton?
 - [ ] Expand current maritime export of ore to Burgas, supplying enough to Istanbul as well (from the Postachi)
 - [ ] Pollen clans, primal punk 208
+- [ ] Isolde has to prove her worth as a sublime in the Adriatic war.
+- [ ] Pollen clans tell stories about the wretched hag to children
+- [ ] Trade with local tribe, and meet the Spitalians who raided the vortok, alternative to hunt a mammoth on their way there.
+- [ ] Request by Ivan (who noticed them after the Czar incident), when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
+- [ ] Mapping of the Czar/resident, and burn it
+- [ ] Yelena joins the primer? Starts to use a lot of Bion... starts to turn Leperos... pregnant again from Detina?
+- [ ] Jorn needs another piece of the Resident. He goes with Purifier Harlem
+- [ ] Self vs super organism (evangelion stuff)
+- [ ] Will Jorn poison the fields?
+- [ ] Detina will look after Yelena
+- [ ] Adriana and Yelena are good friends, and fierce women.
+- [ ] Yelena is sent to protect Isolde,
+- [ ] Adriana knows stories about Isolde, but gives her a chance.
+
+
+## Primal Odd
+
+- [ ] Add equipment to bonds again.
 - [ ] Items to develop:
 	- Spitalians fungicide rifle and horse 
 	- scrappers motorbike
 	- Anabaptists oil
 	
 	Each session has one degenesis Item and 2 scavenger items
-- [ ] Isolde has to prove her worth as a sublime in the Adriatic war.
-- [ ] Pollen clans tell stories about the wretched hag to children
-- [ ] Trade with local tribe, and meet the Spitalians who raided the vortok, alternative to hunt a mammoth on their way there.
-- [ ] Request by Ivan (who noticed them after the Czar incident), when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
-- [ ] Set up by Dexter of someone carrying burn
-- [ ] Sasha would be a great Anabaptist
-- [ ] Mapping of the Czar/resident, and burn it
-- [ ] Yelena joins the primer? What happens with her?
-- [ ] Jorn needs another piece of the Resident
-- [ ] An attack is being formed by the psychonauts
-- [ ] City covered in gossamer
-- [ ] Self vs super organism (evangelion stuff)
-
-
-## Old sets
-
 
 
 ## Parked
@@ -54,12 +56,6 @@ kanban-plugin: board
 
 ## Archive
 
-- [ ] Spitalians speak medically
-	Anabaptists speak religiously 
-	Scrapper speak
-- [ ] Supply Bion to Lubos, and get access to his artefact stash
-- [ ] Konrad's tome: Uncover the crypto key from the Kievan Chronicler
-- [ ] Sepsis disease (Leperos, pandorians)
 - [ ] Vorons, based in Kiev, protect the spore fields to harvest Bison Burn. They burn fractal forests and partner with scrapers in the ruined city.
 - [ ] Next session start:
 	- Yelena starts sobbing again: "another kid died in this broken world"
@@ -90,6 +86,10 @@ kanban-plugin: board
 	- Towering image "gives you hope"
 	- Doors and windows shut: inside circular spore field grows
 	- Rift centipede inside (viper statblock | CD - venon kills in 1d12h | as long as an arm | mental symbiosis with bioknetic)
+- [ ] City covered in gossamer
+- [ ] An attack is being formed by the psychonauts
+- [ ] Set up by Dexter of someone carrying burn
+- [ ] Sasha would be a great Anabaptist
 
 %% kanban:settings
 ```
