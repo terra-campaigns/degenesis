@@ -142,7 +142,7 @@ nav_exclude: TRUE
 ## v0.3.0
 
 - **Modularisation**: Modules are now part of include files
-- **Merged TerraOdd into Templates**:Templated folder structure and aesthetics
+- **Merged TerraOdd into Templates**: Templated folder structure and aesthetics
 - Added:
 	- 404.html
 - Changed:
