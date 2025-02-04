@@ -28,7 +28,7 @@ The vodka is bitter, but it warms their throats as they drink. [Detina](../../pe
 > 
 > By the time we reached the Anabaptist camp, our souls were worn thin, but we still had breath to sing. And so we did, voices lifting. Adriana greeted us with knowing eyes, offering warmth, food, and purpose. A week passed, and bonds were forged in the quiet between training and prayer. Even Adriana, severe in her wisdom, had a gentler hand for the children, a softness behind her flame.
 > 
-> ![](https://traintobaikonur.com/images/kids-play-combat-1600w.jpg)
+> ![](https://img2.storyblok.com/3000x0/filters:quality(90):format(webp)/f/150329/3000x1953/409bceeced/stories-snowdrops.jpeg)
 
 “We were happy then,” Yelena says finally.
 
