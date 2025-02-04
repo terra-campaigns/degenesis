@@ -20,7 +20,7 @@ Meanwhile, [Konrad Jager](../../people/ProtectorateClique/KonradJager.md) become
 
 [Furor Pax](../../people/ProtectorateClique/IsoldePax.md) and [Elder Anastasia](../../people/ProtectorateClique/Anastasia.md) weaves their influence alongside Klaus and [Purifier Harlem](../../people/ProtectorateClique/PurifierHarlem.md). In a closed council they determine to name an Anabaptist as the transgressor, a concession that leaves Harlem simmering—he would have gladly named a Spitalian instead.
 
-The Anabaptist leader succumbs to her wounds. Commando Prime, with a voice heavy as a tombstone, proposes Isolde step into the void, sharing the council’s reins with Anastasia and Purifier Harlem.
+The Anabaptist leader, [Adriana](Prequel11.md), succumbs to her wounds. Commando Prime, with a voice heavy as a tombstone, proposes Isolde step into the void, sharing the council’s reins with Anastasia and Purifier Harlem.
 
 ### The Clique’s New Duties in Nikopol
 

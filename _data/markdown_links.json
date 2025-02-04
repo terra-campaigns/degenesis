@@ -1261,6 +1261,13 @@
                 "favicon": null
             },
             {
+                "text": "Adriana",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Prokhor",
                 "url": "people/FoundersBlessed/Prokhor.md",
                 "is_internal": true,
@@ -1448,6 +1455,13 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
+                "text": "The work of Lubos",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/InNikopol03",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
                 "text": "In the gossamer",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/StationWork2",
                 "is_internal": false,
@@ -1462,6 +1476,12 @@
             },
             {
                 "text": "Mirova",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Elder Mirova",
                 "url": "campaigns/ConnectNikopol/InNikopol03.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1699,6 +1719,12 @@
             {
                 "text": "Isolde Pax",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1947,6 +1973,18 @@
             },
             {
                 "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
                 "url": "campaigns/ConnectNikopol/BloodyMines2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2189,6 +2227,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Kiev",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Kievan",
                 "url": "campaigns/ConnectNikopol/index.md",
                 "is_internal": true,
@@ -2347,6 +2391,12 @@
             },
             {
                 "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2460,6 +2510,12 @@
             },
             {
                 "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
                 "url": "campaigns/ConnectNikopol/InNikopol01.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2553,6 +2609,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Sasha Volkov",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Sasha",
                 "url": "campaigns/ConnectNikopol/BloodyMines1.md",
                 "is_internal": true,
@@ -2579,6 +2641,12 @@
             {
                 "text": "Sasha Volkov",
                 "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2638,6 +2706,13 @@
                 "favicon": null
             },
             {
+                "text": "Sasha Volkov",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Bogdan Detina",
                 "url": "campaigns/ConnectNikopol/BloodyMines1.md",
                 "is_internal": true,
@@ -2646,6 +2721,12 @@
             {
                 "text": "Bodgan 'Detina'",
                 "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Detina",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2698,6 +2779,12 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "slaughtered by Spitalians",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/VostokIronclawPurged/index.md": [
@@ -2770,6 +2857,12 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "conflict over resources turned brutal",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/VostokIronclawPurged/chap1.md": [
@@ -2957,6 +3050,12 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "I presented before",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/ConnectNikopol/BloodyMines1.md": [
@@ -3023,6 +3122,69 @@
                 "url": "campaigns/ConnectNikopol/BloodyMines1.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/Prequel11.md": [
+            {
+                "text": "Adriana",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "stories",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Detina",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aaron",
+                "url": "people/ProtectorateClique/AaronPartow.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kiev",
+                "url": "locations/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gendos",
+                "url": "creatures/Gendos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/ConnectNikopol/InNikopol03.md": [
@@ -3144,6 +3306,62 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "stories",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "I presented before",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prokhor",
+                "url": "people/FoundersBlessed/Prokhor.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Elder Mirova",
+                "url": "people/Vostok/mirova.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "conflict over resources turned brutal",
+                "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "slaughtered by Spitalians",
+                "url": "campaigns/VostokIronclawPurged/chap2.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "people/ProtectorateClique/ThaddeusCain.md": [
@@ -3170,6 +3388,12 @@
             {
                 "text": "Aaron",
                 "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aaron",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3349,6 +3573,21 @@
                 "url": "systems/backgrounds/index.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "creatures/Gendos.md": [
+            {
+                "text": "Gendos",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
         "campaigns/ConnectNikopol/ToNikopol1.md": [
@@ -3658,15 +3897,6 @@
             {
                 "text": "a grotesque garden of twisted humanity",
                 "url": "https://degenesis.com/world/stories/pollen/czar",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
-        "creatures/Gendos.md": [
-            {
-                "text": "Pollen",
-                "url": "https://degenesis.com/world/cultures/pollen",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"

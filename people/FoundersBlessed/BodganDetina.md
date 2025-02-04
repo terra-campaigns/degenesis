@@ -30,3 +30,4 @@ at: "Piercer (d8, CD: pierces through)"
 - Ex-Streltsys
 - Smells like booze.
 - Wants Nikopol to become the 6th Destruction Fortress, to conquer the Rus-Land.
+- Good friends with [Sasha Volkov](../ProtectorateClique/SashaVolkov.md)
