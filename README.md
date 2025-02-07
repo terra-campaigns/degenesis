@@ -68,6 +68,10 @@ Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key inst
 
 ## Building and previewing your site locally
 
+See [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+### Deprecated
+
 If you want to localhost the website for testing purposes, you need to install jekyll ([instructions for macOS](https://jekyllrb.com/docs/installation/macos/)). After doing so, navigate to the repository folder and execute the following commands;
 
 ```
@@ -88,7 +92,7 @@ Assuming [Jekyll] and [Bundler] are installed on your computer:
 
 and then browse to http://localhost:4000.
 
-## Building and previewing your site locally
+## Connected to links (manual)
 
 Using the `Connected_to` feature requires running a script to map pages interlinks, and generate the `_data/markdown_links.json`file.
 To do so as a command line to run the script while building locally, making sure you update the links often.

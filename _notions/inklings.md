@@ -7,25 +7,14 @@ kanban-plugin: board
 ## Inbox
 
 - [ ] https://traintobaikonur.com/
+- [ ] Self vs super organism (evangelion stuff)
+- [ ] Pollen clans tell stories about the wretched hag to children
+- [ ] Pollen clans, primal punk 208
+- [ ] Trade with local tribe, and meet the Spitalians who raided the vortok, alternative to hunt a mammoth on their way there.
 - [ ] The spitalians who raided the vostok
 	- bullish with what they've accomplished
 	- interested in joining the clique
-- [ ] What broke the peace between spitalians and Anabaptists and when? Briton?
-- [ ] Expand current maritime export of ore to Burgas, supplying enough to Istanbul as well (from the Postachi)
-- [ ] Pollen clans, primal punk 208
-- [ ] Isolde has to prove her worth as a sublime in the Adriatic war.
-- [ ] Pollen clans tell stories about the wretched hag to children
-- [ ] Trade with local tribe, and meet the Spitalians who raided the vortok, alternative to hunt a mammoth on their way there.
-- [ ] Request by Ivan (who noticed them after the Czar incident), when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
-- [ ] Mapping of the Czar/resident, and burn it
-- [ ] Yelena joins the primer? Starts to use a lot of Bion... starts to turn Leperos... pregnant again from Detina?
-- [ ] Jorn needs another piece of the Resident. He goes with Purifier Harlem
-- [ ] Self vs super organism (evangelion stuff)
-- [ ] Will Jorn poison the fields?
-- [ ] Detina will look after Yelena
-- [ ] Adriana and Yelena are good friends, and fierce women.
-- [ ] Yelena is sent to protect Isolde,
-- [ ] Adriana knows stories about Isolde, but gives her a chance.
+- [ ] Balkan is folk horror
 
 
 ## Primal Odd
@@ -37,42 +26,39 @@ kanban-plugin: board
 	- Anabaptists oil
 	
 	Each session has one degenesis Item and 2 scavenger items
+- [ ] Develop chroniclers with career paths based on Eco Mofos
 
 
 ## Parked
 
+- [ ] What broke the peace between spitalians and Anabaptists and when? Briton?
 - [ ] **sGravenzand**
 	![](https://i.imgur.com/JwqFke9.png)
 - [ ] protectorate as a cyber-western setting
-- [ ] A marauder close to kiev
-- [ ] Define Pandorans and other clans for Pollen
 - [ ] Check the mollock for npcs in pollen
 - [ ] How to sync Bastionland approach to encounters and 2d6 12 is a dragon? And tarot?
 - [ ] Isolde's joke
-- [ ] 1st Dec 2594 - Clique has higher priority mission on the Adriatic basin
+- [ ] 1st Dec 2594 - Clique has higher priority mission on the Adriatic basin. Travel takes 3 to 4 months.
+
+
+## Faction turn
+
+- [ ] Expand current maritime export of ore to Burgas, supplying enough to Istanbul as well (from the Postachi)
+- [ ] Request by Ivan (who noticed them after the Czar incident), when he finds out the PCs know about the robots - Find artefacts in Kiev for robots - gradient descent (sleepers are the troubleshooters)
+- [ ] Jorn needs another piece of the Resident. He goes with Purifier Harlem
+- [ ] Mapping of the Czar/resident, and burn it
+- [ ] Yelena joins the primer? Starts to use a lot of Bion... starts to turn Leperos... pregnant again from Detina?
+- [ ] Will Jorn poison the fields?
+- [ ] ANSUMO is activated
+- [ ] Orests makes the move to leave Nikopol
+- [ ] The revolution starts
+- [ ] The revolution is killed before it starts
 
 
 ***
 
 ## Archive
 
-- [ ] Vorons, based in Kiev, protect the spore fields to harvest Bison Burn. They burn fractal forests and partner with scrapers in the ruined city.
-- [ ] Next session start:
-	- Yelena starts sobbing again: "another kid died in this broken world"
-	- Konrad died with a face of despair. He suffered.
-	- Konrad's notebook is carefully packed and was barely damaged by the water
-	- Dole d4 sepsis to everyone
-	- As they gather after the death, they hear a few others coming
-	- Vira opens to them and start telling her story
-- [ ] I found Isolde and Yelena first, huddled together in the blackened waters. Konrad lay nearby, motionless. I knelt by his side, my fingers finding no breath, no heartbeat. The others looked to me, their faces pale and pleading. There was no hope in that moment, only the bitter taste of failure.
-	
-	#### **Reflection**
-	
-	As we sat in the knee-deep pool, I felt the weight of my choices. This mine was no place for redemption, no place for revenge. It would bury us if we let it. The Station’s betrayal burned anew in my chest. One day, I would return. One day, I would make them pay. But for now, survival came first.
-- [ ] Read the dead are coming
-- [ ] Prep: add 2 equipment as part of the sets
-- [ ] Fix Spitalians potentials
-- [ ] Check DEG weapon tags for effects on 6+
 - [ ] Double check the potentials, based on new fatigue rule
 - [ ] Clear the church - military
 - [ ] Rescue someone in a watchtower - military, use Last Watch?
@@ -90,9 +76,16 @@ kanban-plugin: board
 - [ ] An attack is being formed by the psychonauts
 - [ ] Set up by Dexter of someone carrying burn
 - [ ] Sasha would be a great Anabaptist
+- [ ] Yelena is sent to protect Isolde,
+- [ ] Adriana knows stories about Isolde, but gives her a chance.
+- [ ] Adriana and Yelena are good friends, and fierce women.
+- [ ] Isolde has to prove her worth as a sublime in the Adriatic war.
+- [ ] Detina will look after Yelena
+- [ ] A marauder close to kiev
+- [ ] Define Pandorans and other clans for Pollen
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
