@@ -10,7 +10,7 @@ region: East Pollen
 
 {% include chapter_header.md %}
 
-The vodka is bitter, but it warms their throats as they drink. [Detina](../../people/FoundersBlessed/BodganDetina.md) only listens to the other's story, and they all sit close. A year has passed since they stood before the Anabaptist Sublime Adriana, but tonight, in the cold embrace of memory, they return to the days that led them there. [Yelena](../../people/ProtectorateClique/Yelena.md) speaks first. “I remember Sofia’s hands,” she murmurs, “stitching [Aaron](../../people/ProtectorateClique/AaronPartow.md)’s jacket with red thread, as if sewing his fate into the seams
+The vodka is bitter, but it warms their throats as they drink. [Detina](../../people/FoundersBlessed/BodganDetina.md) only listens to the other's story, and they all sit close. A year has passed since they stood before the Anabaptist Sublime Adriana. Tonight, in the cold embrace of memory, they return to the days that led them there. [Yelena](../../people/ProtectorateClique/Yelena.md) speaks first. “I remember Sofia’s hands,” she murmurs, “stitching [Aaron](../../people/ProtectorateClique/AaronPartow.md)’s jacket with red thread, as if sewing his fate into the seams.
 
 ![](https://i.imgur.com/MRzIO3z.png)
 
