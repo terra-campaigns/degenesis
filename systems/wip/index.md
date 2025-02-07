@@ -24,6 +24,11 @@ nav_order: 999
 
 {% include_relative ruin_alt.md %}
 
+# Advanced Weapons and Armours
+
+- Attacks from **Non-Advanced Weapons** are *impaired* against **Advanced Armours**
+- Attacks from **Advanced Weapons** are *enhanced* against **Non-Advanced Armours**
+
 {% include srd_modules/procedures.md %}
 
 {% include_relative conversions.md %}
