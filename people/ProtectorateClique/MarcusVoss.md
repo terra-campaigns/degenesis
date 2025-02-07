@@ -3,7 +3,7 @@ template: pc v0.3
 layout: default
 title: Marcus Voss
 type: people
-deceased: true
+status: deceased
 parent: Protectorate Clique
 nav_exclude: false
 statblock: true

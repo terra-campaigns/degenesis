@@ -3,7 +3,7 @@ layout: default
 title: Skittle
 parent: Vostok Kin
 type: people
-status: Missing
+status: missing
 
 ---
 

@@ -4,7 +4,7 @@ title: Jacob
 parent: Vostok Kin
 type: people
 
-deceased: true
+status: deceased
 
 
 ---

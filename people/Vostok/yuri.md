@@ -4,7 +4,7 @@ title: Yuri
 parent: Vostok Kin
 type: people
 
-status: Missing
+status: missing
 ---
 
 # {{ page.title }}

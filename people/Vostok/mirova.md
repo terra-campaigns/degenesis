@@ -3,7 +3,6 @@ layout: default
 title: Elder Mirova
 parent: Vostok Kin
 type: people
-status: Missing
 
 statblock: 'yes'
 deprecated_layout: Terra Campaigns Leiaute v04d

@@ -5,9 +5,9 @@ type: people
 
 title: Konrad Jaguer
 role: Clique Rookie
-deceased: true
 archetype: Pollen, Spitalian Recruit
 parent: Protectorate Clique
+status: deceased
 
 statblock: false
 hp: 
