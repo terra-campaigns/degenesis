@@ -51,5 +51,6 @@ Ask the GM to collaborate at maintaining the playlist.
 - **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression.
 - **Notes**:
   - New and replacement characters can be [created, rolled or chosen from pregens](https://terra-campaigns.github.io/degenesis/systems/#character-creation).
+  - Downtime and some light conversations with characters might be done through PbP.
 
 {% include prefooter_campaign.html %}

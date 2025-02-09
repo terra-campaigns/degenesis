@@ -1129,6 +1129,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Elder Anastasia",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
@@ -1713,6 +1719,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Isolde",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Furor Pax",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
@@ -2100,6 +2112,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Friedrich",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Friedrich",
@@ -2636,6 +2654,12 @@
             },
             {
                 "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3138,6 +3162,84 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/ConnectNikopol/Brochovs.md": [
+            {
+                "text": "Aaron",
+                "url": "people/ProtectorateClique/AaronPartow.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Orest",
+                "url": "people/FoundersBlessed/Orest.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Friedrich",
+                "url": "people/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/ProtectorateClique/AaronPartow.md": [
+            {
+                "text": "Aaron",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aaron",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aaron",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aaron Partow",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/FoundersBlessed/Orest.md": [
+            {
+                "text": "Orest",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/ConnectNikopol/Prequel11.md": [
             {
                 "text": "Adriana",
@@ -3393,26 +3495,6 @@
             },
             {
                 "text": "Thaddeus",
-                "url": "campaigns/ConnectNikopol/StationWork2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "people/ProtectorateClique/AaronPartow.md": [
-            {
-                "text": "Aaron",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aaron",
-                "url": "campaigns/ConnectNikopol/Prequel11.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aaron Partow",
                 "url": "campaigns/ConnectNikopol/StationWork2.md",
                 "is_internal": true,
                 "direction": "inbound"

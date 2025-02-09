@@ -15,6 +15,7 @@ kanban-plugin: board
 	- bullish with what they've accomplished
 	- interested in joining the clique
 - [ ] Balkan is folk horror
+- [ ] Spitalian suit found in the Brochovs settlement
 
 
 ## Primal Odd
@@ -39,6 +40,7 @@ kanban-plugin: board
 - [ ] How to sync Bastionland approach to encounters and 2d6 12 is a dragon? And tarot?
 - [ ] Isolde's joke
 - [ ] 1st Dec 2594 - Clique has higher priority mission on the Adriatic basin. Travel takes 3 to 4 months.
+- [ ] Zora
 
 
 ## Faction turn
