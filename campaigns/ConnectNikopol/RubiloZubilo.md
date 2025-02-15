@@ -65,7 +65,7 @@ Kilometers blurred.
 
 Varvara and the trader had surged ahead, safe in the distance. Sacha granted the Anabaptist mercy, a swift end before the horror could claim him fully. Rubilo grinned and turned his attention to the fleeing scout. The chase was poetry, a lover’s waltz with death. Feet pounded the broken ground, the scent of blood and burning spores thick in the air.
 
-A gunshot. Aaron’s piercer barked, a desperate call against the night. Friedrick’s mind reeled, trapped in a dream with his friend, his new master?. Jorn stirred at the sound, reality crashing back in. His own flesh betrayed him. He tore himself free. His arm—his arm still hung from Zubilo’s mouth, fingers twitching in some grotesque farewell to his crawling body.
+A gunshot. Aaron’s piercer barked, a desperate call against the night. Friedrick’s mind reeled, trapped in a dream with his friend, his new master? Jorn stirred at the sound, reality crashing back in. His own flesh betrayed him. He tore himself free. His arm—his arm still hung from Zubilo’s mouth, fingers twitching in some grotesque farewell to his crawling body.
 
 Aaron reached for Friedrick, but the past held him tighter.
 
@@ -87,6 +87,6 @@ The dance was over. The Psychonauts lay still, their reign of terror ended.
 
 But the cost was high.
 
-Nikopol had won, but victory had stolen too much. And somewhere, in the broken streets of Nikopol, Yelena and Detina still walked hand in hand, oblivious to the ghosts left behind.
+Nikopol had won, but victory had stolen too much. And somewhere, in the broken tunnels of Nikopol, Yelena and Detina still walked hand in hand, oblivious to the ghosts left behind.
 
 {% include connected_to.md %}
