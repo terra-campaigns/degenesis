@@ -16,6 +16,10 @@ kanban-plugin: board
 	- interested in joining the clique
 - [ ] Balkan is folk horror
 - [ ] Spitalian suit found in the Brochovs settlement
+- [ ] Zora requests the 5 Spitalians to be sent out of Nikopol, otherwise she will attack trading caravans
+- [ ] Anastasia is interested in the lesnjes
+- [ ] Spitalian suit on the Brochovs camp. Was someone who joined the clan in the past?
+- [ ] Next campaign: Kiev (Gradient Descent) or Adriatic Basin (Jehammedan triology) or something else disconnected from the characters from Nikopol. Then ask for which new cults players want
 
 
 ## Primal Odd

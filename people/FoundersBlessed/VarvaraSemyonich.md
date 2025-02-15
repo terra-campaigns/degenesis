@@ -6,7 +6,7 @@ archetype: Pollen, The Traveller, Rarogi Kopachi (2)
 role: 
 parent: Pregen Characters
 nav_exclude: true
-statblock: false
+statblock: true
 
 image: https://i.imgur.com/HUxVu5P.png
 

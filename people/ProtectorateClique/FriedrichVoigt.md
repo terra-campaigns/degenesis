@@ -7,6 +7,7 @@ archetype: Pollen, The Creator/Adventurer, Spitalian Surgeon (4)
 role: 
 parent: Protectorate Clique
 statblock: true
+status: deceased
 
 image: https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/4c8266b342/icons-spitaians-carmino-ferro.jpg
 

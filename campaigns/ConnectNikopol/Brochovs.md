@@ -3,7 +3,7 @@ layout: default
 title: Trade with the Brochovs
 parent: Connect with Nikopol
 nav_order: 34
-timestamp: 2594-05-30?
+timestamp: 2594-05-30
 region: Nikopol
 
 ---

@@ -17,7 +17,7 @@ You can roll a pre generated character.
 
 New and replacement characters can be randomly assigned from the list.
 
-|     |                                                   |     |
-| --- | ------------------------------------------------- | --- |
-| 1   | [Erasmus Kline](ErasmusKline.md) (Spitalian)      |     |
-| 2   | [Varvara Semyonich](VarvaraSemyonich.md) (Rarogi) |     |
+|     |                                                                                |     |
+| --- | ------------------------------------------------------------------------------ | --- |
+| 1   | [Erasmus Kline](ErasmusKline.md) (Spitalian)                                   |     |
+

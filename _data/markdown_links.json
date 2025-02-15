@@ -1066,6 +1066,12 @@
             },
             {
                 "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1993,6 +1999,12 @@
             },
             {
                 "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
                 "url": "campaigns/ConnectNikopol/BloodyMines1.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2112,6 +2124,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Surgeon Friedrich Voigt",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Friedrich",
@@ -2417,6 +2435,12 @@
             },
             {
                 "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2457,6 +2481,12 @@
             {
                 "text": "Purifier Harlem",
                 "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2530,6 +2560,12 @@
             },
             {
                 "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
                 "url": "campaigns/ConnectNikopol/InNikopol02.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2561,6 +2597,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Jorn Kal",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Jorn",
                 "url": "campaigns/ConnectNikopol/InNikopol03.md",
                 "is_internal": true,
@@ -2586,6 +2628,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Elder Ivan",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Ivan",
@@ -2643,6 +2691,12 @@
             {
                 "text": "Sasha Volkov",
                 "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Scout Sasha Volkov",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2749,6 +2803,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Detina",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Bogdan Detina",
@@ -3096,6 +3156,216 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/ConnectNikopol/RubiloZubilo.md": [
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Surgeon Friedrich Voigt",
+                "url": "people/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mechanic Aaron Partow",
+                "url": "people/ProtectorateClique/AaronPartow.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scout Sasha Volkov",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Detina",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Elder Ivan",
+                "url": "people/FoundersBlessed/IvanTheWise.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prokhor",
+                "url": "people/FoundersBlessed/Prokhor.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jorn Kal",
+                "url": "people/FoundersBlessed/JornKal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "people/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Varvara Semyonich",
+                "url": "people/FoundersBlessed/VarvaraSemyonich.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "old friend",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/ProtectorateClique/AaronPartow.md": [
+            {
+                "text": "Mechanic Aaron Partow",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aaron",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aaron",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aaron",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Aaron Partow",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/FoundersBlessed/VarvaraSemyonich.md": [
+            {
+                "text": "Varvara Semyonich",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Varvara Semyonich",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/BloodyMines2.md": [
+            {
+                "text": "old friend",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vira",
+                "url": "people/FoundersBlessed/Vira.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad",
+                "url": "people/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ivan",
+                "url": "people/FoundersBlessed/IvanTheWise.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde",
+                "url": "people/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Friedrich",
+                "url": "people/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha",
+                "url": "people/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Detina",
+                "url": "people/FoundersBlessed/BodganDetina.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "campaigns/ConnectNikopol/BloodyMines1.md": [
             {
                 "text": "Bogdan Detina",
@@ -3204,32 +3474,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "people/ProtectorateClique/AaronPartow.md": [
-            {
-                "text": "Aaron",
-                "url": "campaigns/ConnectNikopol/Brochovs.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aaron",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aaron",
-                "url": "campaigns/ConnectNikopol/Prequel11.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Aaron Partow",
-                "url": "campaigns/ConnectNikopol/StationWork2.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "people/FoundersBlessed/Orest.md": [
@@ -3760,71 +4004,6 @@
                 "favicon": null
             }
         ],
-        "campaigns/ConnectNikopol/BloodyMines2.md": [
-            {
-                "text": "Vira",
-                "url": "people/FoundersBlessed/Vira.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Isolde",
-                "url": "people/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Yelena",
-                "url": "people/ProtectorateClique/Yelena.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Konrad",
-                "url": "people/ProtectorateClique/KonradJager.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Ivan",
-                "url": "people/FoundersBlessed/IvanTheWise.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Isolde",
-                "url": "people/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Friedrich",
-                "url": "people/ProtectorateClique/FriedrichVoigt.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sasha",
-                "url": "people/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Detina",
-                "url": "people/FoundersBlessed/BodganDetina.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
         "people/FoundersBlessed/Sokolov.md": [
             {
                 "text": "Sokolov",
@@ -4275,7 +4454,7 @@
             },
             {
                 "text": "Varvara Semyonich",
-                "url": "systems/pregens/VarvaraSemyonich.md",
+                "url": "people/FoundersBlessed/VarvaraSemyonich.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4284,14 +4463,6 @@
         "systems/pregens/ErasmusKline.md": [
             {
                 "text": "Erasmus Kline",
-                "url": "systems/pregens/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/pregens/VarvaraSemyonich.md": [
-            {
-                "text": "Varvara Semyonich",
                 "url": "systems/pregens/index.md",
                 "is_internal": true,
                 "direction": "inbound"
