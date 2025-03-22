@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Anastasia is interested in the lesnjes
 - [ ] Spitalian suit on the Brochovs camp. Was someone who joined the clan in the past?
 - [ ] Next campaign: Kiev (Gradient Descent) or Adriatic Basin (Jehammedan triology) or something else disconnected from the characters from Nikopol. Then ask for which new cults players want
+- [ ] ANSUMO left bioreactors hidden on a spot on Lubos workshop, to pick it up later with tankers.
 
 
 ## Primal Odd

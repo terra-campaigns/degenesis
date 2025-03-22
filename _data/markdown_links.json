@@ -1084,6 +1084,12 @@
             },
             {
                 "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol",
                 "url": "campaigns/ConnectNikopol/StationWork2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1166,6 +1172,12 @@
             },
             {
                 "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
                 "url": "campaigns/ConnectNikopol/StationWork2.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1207,6 +1219,12 @@
             {
                 "text": "Lubos",
                 "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lubos",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1509,6 +1527,12 @@
             {
                 "text": "Elder Mirova",
                 "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mirova",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1966,6 +1990,12 @@
             {
                 "text": "Clique",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2459,6 +2489,12 @@
             },
             {
                 "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2642,6 +2678,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Elder Ivan",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Ivan",
                 "url": "campaigns/ConnectNikopol/BloodyMines2.md",
                 "is_internal": true,
@@ -2665,6 +2707,12 @@
             {
                 "text": "Vira",
                 "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vira",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3290,7 +3338,7 @@
             },
             {
                 "text": "Varvara Semyonich",
-                "url": "systems/pregens/index.md",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3474,6 +3522,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "rouge Spitalians",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "people/FoundersBlessed/Orest.md": [
@@ -3722,6 +3776,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "ANSUMO",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "people/ProtectorateClique/ThaddeusCain.md": [
@@ -3930,6 +3990,133 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
+        "campaigns/ConnectNikopol/Deposition.md": [
+            {
+                "text": "Clique",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Varvara Semyonich",
+                "url": "people/FoundersBlessed/VarvaraSemyonich.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "people/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Erasmus Kline",
+                "url": "people/ProtectorateClique/ErasmusKline.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "people/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mirova",
+                "url": "people/Vostok/mirova.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sokolov",
+                "url": "people/FoundersBlessed/Sokolov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "rouge Spitalians",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lubos",
+                "url": "people/FoundersBlessed/Lubos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ANSUMO",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vira",
+                "url": "people/FoundersBlessed/Vira.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Elder Ivan",
+                "url": "people/FoundersBlessed/IvanTheWise.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "people/ProtectorateClique/ErasmusKline.md": [
+            {
+                "text": "Erasmus Kline",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Erasmus Kline",
+                "url": "systems/pregens/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "people/FoundersBlessed/Sokolov.md": [
+            {
+                "text": "Sokolov",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sokolov",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sokolov",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/ConnectNikopol/ToNikopol1.md": [
             {
                 "text": "Cherasky",
@@ -4002,20 +4189,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "people/FoundersBlessed/Sokolov.md": [
-            {
-                "text": "Sokolov",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sokolov",
-                "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/ConnectNikopol/ToNikopol3b.md": [
@@ -4447,25 +4620,10 @@
         "systems/pregens/index.md": [
             {
                 "text": "Erasmus Kline",
-                "url": "systems/pregens/ErasmusKline.md",
+                "url": "people/ProtectorateClique/ErasmusKline.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
-            {
-                "text": "Varvara Semyonich",
-                "url": "people/FoundersBlessed/VarvaraSemyonich.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "systems/pregens/ErasmusKline.md": [
-            {
-                "text": "Erasmus Kline",
-                "url": "systems/pregens/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "systems/backgrounds/judges.md": [

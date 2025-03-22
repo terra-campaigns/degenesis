@@ -2,10 +2,11 @@
 template: pc v0.3.1
 layout: default
 title: Erasmus Kline
+type: people
 role: 
 archetype: Pollen, The Ruler, Spitalian Famulancer (3)
-parent: Pregen Characters
-nav_exclude: true
+parent: Protectorate Clique
+nav_exclude: false
 statblock: true
 
 image: https://i.imgur.com/0N6RvqV.png
