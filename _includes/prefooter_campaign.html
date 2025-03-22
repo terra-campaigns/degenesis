@@ -9,7 +9,7 @@ prefooter_campaign v0.2
     assign pagesFromHere = site.pages
     | where_exp: "item", "item.dir contains page.dir"
     | where_exp: "item", "item.timestamp" 
-    | sort: 'timestamp'
+    | sort: 'nav_order'
 %}
 <p>
 {% for entry in pagesFromHere %}
