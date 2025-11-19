@@ -5,13 +5,16 @@ has_children: true
 has_toc: false
 nav_order: 99
 
+footer_content: 24XX <a href="https://jasontocci.itch.io/24xx">rules</a> are CC BY Jason Tocci. 
+
+
 ---
 
-![](../imgs/DG-moto_logo.png)
+![](../imgs/DG-24XX_logo.png)
 
-{% include srd_modules/srd_version.md %}
+{% include 24xx_modules/character-creation.md %}
 
-{% include srd_modules/character-creation.md %}
+{% comment %}
 
 {% include_relative culture.md %}
 
@@ -36,3 +39,5 @@ nav_order: 99
 {% include srd_modules/scars.md %}
 
 {% include_relative ruin.md %}
+
+{% endcomment %}
