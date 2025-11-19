@@ -20,3 +20,4 @@ vendor/
 
 # OS files
 .DS_Store
+/.obsidian
