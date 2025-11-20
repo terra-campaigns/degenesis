@@ -40,3 +40,16 @@ tbody tr:last-of-type td{
 .nav-list .nav-list-item .nav-list-link {
 font-size: 1rem;
 }
+
+/* Fenced code block container */
+.highlighter-rouge pre.highlight {
+  background-color: #ffffff;    /* your background */
+  color: #d93933;            /* default text color */
+  border: none;              /* optional */
+}
+
+/* Fenced code block inner <code> */
+.highlighter-rouge pre.highlight code {
+  background-color: #ffffff;
+  color: inherit;
+}
