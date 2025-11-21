@@ -25,10 +25,25 @@ If success can’t get you what you want (you make the shot, but it’s bulletpr
 
 Say how your armour or weapon breaks to turn a hit into a brief hindrance.
 A broken gear is useless until it is repaired.
-
 Injuries take time and/or medical attention to heal.
+
 If killed, make a new character to be introduced ASAP.
 Favour inclusion over realism.
+
+## Gear
+
+You can carry all the narratively appropriate gear.
+Some items are *Bulky*.
+You can only comfortably carry two *Bulky* items.
+A third item *Hinders* you.
+Four or more are impossible in most circumstances.
+
+## Change
+
+Throughout the game, you will change.
+You may acquire skills and potentials.
+You may become long-term injured or infected.
+Most changes are treated narratively first, then dice may be rolled.
 
 ### Skill Increase
 
@@ -40,5 +55,6 @@ If they roll the max, the skill increases.
 To increase an MPF, players need to roll **higher** than their current value, on a d6.
 Conversely, to decrease it, they need to roll **lower** than the value.
 
+## Uncertainty
 
-
+If something is uncertain and the rules do not support its resolution, **consider the odds and roll a die**.
