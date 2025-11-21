@@ -2,15 +2,16 @@
 
 ## Intention
 
-- Incentivise inner and outer cult intrigue, which creates hooks for adventure.
-- Incentivise collaboration with other PCs in multiple cults, but also some backstabbing.
-- Incentivise goal-driven sessions.
+- Inner and outer cult intrigue to create hooks for adventure.
+- Collaboration between PCs and NPCs, allowing for backstabbing and PvP.
+- Goal-driven sessions focusing on small-scale roleplay.
+- Rules light hack, leveraging characteristics of the original game.
 
 ## Player Goal
 
-- Progress up on your cult ranks.
-- Treasure is not a goal in itself, but only a tool.
-- Having favours to collect, allies and knowing secrets is worth more than money.
+Players aim to advance their PCs through their cult's ranks.
+Treasure is not a goal in itself, but only a tool.
+Having favours to collect, allies and knowing secrets is worth more than money.
 
 ## Game Loop
 
@@ -25,17 +26,18 @@ Inactive PCs are in day-to-day Cult duties.
 PCs interact with the world and play the intrigue game.
 Time flows fast, and scenes are just quick montages.
 Players declare their actions in private to the GM, who rolls any required dice and narrates outcomes in a **Montage** channel.
+Everyone is allowed to react openly to the consequences.
 
 ### Intervention
 
 During **Montages**, certain things require an in-session resolution.
-We schedule a session for that.
-In a session, players roll dice.
+We use the pre-scheduled sessions for that.
+In a session, players roll all dice.
 
 ### Progression
 
-At the end of a **Montage** or **Intervention**, players discuss with the GM if they have done enough to trigger progression.
-Progression can happen as *Aptitude*, *Performance Deviations* or *MPF (Memetic Propagation Forecast)*.
+At the end of a **Montage** or **Intervention**, players discuss with the GM if they have done enough to trigger **Progressions**.
+*Aptitudes*, *Performance Deviations* or *MPF (Memetic Propagation Forecast)* may change through **Progressions**.
 Certain levels of *Aptitude* and *MPF* are required to climb up ranks in a **Cult**.
 
 
