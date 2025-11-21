@@ -8,6 +8,7 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 ---
 
 ![](imgs/DEGENESIS-LOGOTYPES-PACK/DEGENESIS-LOGO.svg)
+
 ![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3378x4500/1a16121f11/falberg-05.jpg)
 
 ## Official resources
@@ -61,5 +62,7 @@ Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI
 {% include prefooter_campaign.html %}
 
 {% endcomment %}
+
+![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3535x5000/5384758c46/falberg-01.jpg)
 
 
