@@ -7,20 +7,37 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 
 ---
 
-![](../imgs/DG-24XX_logo.png)
+![](imgs/DEGENESIS-LOGOTYPES-PACK/DEGENESIS-LOGO.svg)
 ![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3378x4500/1a16121f11/falberg-05.jpg)
 
-## Resources
+## Official resources
 
-SMV's [**Degenesis** Official](https://degenesis.com) website, from where the books can be downloaded  
+SMV's [**Degenesis** Official](https://degenesis.com) website, from where the [books](https://degenesis.com/downloads/books/) can be downloaded  
 **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)  
-Your [predicament](https://degenesis.com/downloads/transmissions/you)  
+Your [predicament](https://degenesis.com/downloads/transmissions/you) audio.  
+SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis) 
+
+## Tone
+
+**Degenesis** mixes anthropological detachment with mythic fatalism: cultures, tribes, and ideologies in a slow-motion collapse.
+Its tone is austere and ritualistic, full of precise jargon and stark imagery.
+Beneath it all lies a constant pressure of cosmic dread, as humanity tries to endure, while forces older and more alien than it understands slowly transform the world.
+
+|                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ***Content warnings:***<br>Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression, nihilism. |
+
+## Reviews
+
 Dave Thaumavore's **Degenesis** [Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)  
-SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis)  
 Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist  
-[Echoes of Eshaton](https://echoesofeshaton.com/) solo **Degenesis** play podcast
+[Echoes of Eshaton](https://echoesofeshaton.com/) solo **Degenesis** play podcast (not a review, but worth mentioning)
+
+## Soundtrack
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3kkceRStYdXtFGdjvjhdOd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+{% include 24xx_modules/the-game.md %}
 
 {% comment %}
 # Open Table
@@ -41,6 +58,8 @@ Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI
   - New and replacement characters can be [created, rolled or chosen from pregens](https://terra-campaigns.github.io/degenesis/systems/#character-creation).
   - Downtime and some light conversations with characters might be done through PbP.
 
+{% include prefooter_campaign.html %}
+
 {% endcomment %}
 
-{% include prefooter_campaign.html %}
+
