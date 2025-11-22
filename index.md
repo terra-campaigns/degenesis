@@ -20,9 +20,13 @@ SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/de
 
 ## Tone
 
-**Degenesis** mixes anthropological detachment with mythic fatalism: cultures, tribes, and ideologies in a slow-motion collapse.
-Its tone is austere and ritualistic, full of precise jargon and stark imagery.
-Beneath it all lies a constant pressure of cosmic dread, as humanity tries to endure, while forces older and more alien than it understands slowly transform the world.
+The world of **Degenesis** is like a ruined Garden of Eden, containing the secrets and spoils of both good and evil, of ignorance and enlightenment, of barbarity and virtue.
+Its tone is about hope and despair, about people learning to live amid destruction and the conflicting priorities of human civilisation.
+
+As the **Primer** takes hold, it adapts its surroundings to better match its ideal environment.
+The influence of the alien matter steadily decreases as distance from the impact craters increases; Psychonauts may roam the land to feed or create new spore fields, but they are not an omnipresent danger.
+
+For most people in the world of **Degenesis**, the **Primer** is a persistent, but distant, threat.
 
 |                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
