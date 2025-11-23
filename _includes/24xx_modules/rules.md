@@ -34,9 +34,9 @@ Favour inclusion over realism.
 
 You can carry all the narratively appropriate gear.
 Some items are *Bulky*.
-You can only comfortably carry two *Bulky* items.
-A third item *Hinders* you.
-Four or more are impossible in most circumstances.
+You can only comfortably carry one *Bulky* item.
+A second item *Hinders* you.
+Three or more is impossible in most circumstances.
 
 ## Change
 
@@ -52,7 +52,7 @@ If they roll the max, the skill increases.
 
 ### MPF Change
 
-To increase an MPF, players need to roll **higher** than their current value, on a d6.
+To increase an MPF, players need to roll **higher** than their current value on a d6.
 Conversely, to decrease it, they need to roll **lower** than the value.
 
 ## Uncertainty
