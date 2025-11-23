@@ -25,8 +25,7 @@ Its tone is about hope and despair, about people learning to live amid destructi
 
 As the **Primer** takes hold, it adapts its surroundings to better match its ideal environment.
 The influence of the alien matter steadily decreases as distance from the impact craters increases; Psychonauts may roam the land to feed or create new spore fields, but they are not an omnipresent danger.
-
-For most people in the world of **Degenesis**, the **Primer** is a persistent, but distant, threat.
+For most people , the **Primer** is a persistent, but distant, threat.
 
 |                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
