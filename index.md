@@ -25,7 +25,7 @@ Its tone is about hope and despair, about people learning to live amid destructi
 
 As the **Primer** takes hold, it adapts its surroundings to better match its ideal environment.
 The influence of the alien matter steadily decreases as distance from the impact craters increases; Psychonauts may roam the land to feed or create new spore fields, but they are not an omnipresent danger.
-For most people , the **Primer** is a persistent, but distant, threat.
+For most people, the **Primer** is a persistent, but distant, threat.
 
 |                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,23 +44,22 @@ Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI
 {% include 24xx_modules/the-game.md %}
 
 {% comment %}
-# Open Table
 
-- **GM:** efsa (Estêvão)
-- **Campaign**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic
-- **Frequency**: Mostly every 5 days, except Mondays
-- **Time & Duration**: 1945 UTC for 2~3h
-- **Sign-up**: First come, first served
-- **Module**: [Degenesis](https://degenesis.com/) setting
-- **TTRPG system**: [Primal Odd](https://terra-campaigns.github.io/degenesis/systems/) (ItO/Cairn hack)
-- **Desired theme**: Post apocalyptic, primal punk
-- **VTT**: Theatre of the mind / [Owlbear Rodeo](https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis)
-- **Language**: English
-- **Communication**: [Discord voice](https://discord.com/channels/1060840338777964565/1289653812805505044) (Video optional) and [Discord text & image share](https://discord.com/channels/1060840338777964565/1313166726334124114).
-- **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression.
-- **Notes**:
-  - New and replacement characters can be [created, rolled or chosen from pregens](https://terra-campaigns.github.io/degenesis/systems/#character-creation).
-  - Downtime and some light conversations with characters might be done through PbP.
+**Degenesis** | 24XX [Set Table]
+
+**GM:** Efsa (Estêvão)  
+**Format**: Set Table, sandbox, faction-heavy  
+**Enrol**: 6 players in total, reach out to the GM  
+**Sign-up**: First come, first served, 2-4 per session  
+**Genre**: Post apocalyptic, primal punk  
+**Language**: English  
+**Communication**: Discord voice (video is optional)   
+**Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression  
+**Useful links**:  
+- [Campaign Website](https://terra-campaigns.github.io/degenesis/)   
+- [Rules & Chargen](https://terra-campaigns.github.io/degenesis/systems/)  
+- [Owlbear Rodeo](https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis)  
+- [Primer Playlist](https://open.spotify.com/playlist/3kkceRStYdXtFGdjvjhdOd?si=8e4f669974724f83)  
 
 {% include prefooter_campaign.html %}
 
