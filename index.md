@@ -41,8 +41,6 @@ Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3kkceRStYdXtFGdjvjhdOd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-{% include 24xx_modules/the-game.md %}
-
 {% comment %}
 
 **Degenesis** | 24XX [Set Table]
@@ -60,6 +58,13 @@ Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI
 - [Rules & Chargen](https://terra-campaigns.github.io/degenesis/systems/)  
 - [Owlbear Rodeo](https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis)  
 - [Primer Playlist](https://open.spotify.com/playlist/3kkceRStYdXtFGdjvjhdOd?si=8e4f669974724f83)  
+
+
+---
+
+**Players**: TJ, Katie, Kernow, Luc, Nick
+**Waiting**:
+**Maybes**: Palmer, Jan, Gabe, Navin, Dusko
 
 {% include prefooter_campaign.html %}
 
