@@ -48,7 +48,7 @@ Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI
 **GM:** Efsa (Estêvão)  
 **Format**: Set Table, sandbox, faction-heavy  
 **Enrol**: 6 players in total, reach out to the GM  
-**Sign-up**: First come, first served, 2-6 per session  
+**Sign-up**: First come, first served, 2+ per session  
 **Genre**: Post apocalyptic, primal punk  
 **Language**: English  
 **Communication**: Discord voice (video is optional)   
@@ -58,7 +58,7 @@ Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI
 - [Rules & Chargen](https://terra-campaigns.github.io/degenesis/systems/)  
 - [Owlbear Rodeo](https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis)  
 - [Primer Playlist](https://open.spotify.com/playlist/3kkceRStYdXtFGdjvjhdOd?si=8e4f669974724f83)  
-- Books: Primal Punk & Katharsys 
+- Books: [Primal Punk](https://drive.google.com/file/d/1gv5sc5W2tMxcUPR-ywrzGDkKtdhxg_fY/view?usp=sharing) & [Katharsys](https://drive.google.com/file/d/1gx0Xm7oKDoYJ8PNvxYdV3cK1A2pG3JaZ/view?usp=sharing) 
 
 
 ---
