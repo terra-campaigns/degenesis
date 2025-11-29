@@ -66,4 +66,4 @@ has_toc: false
 
 ### World Map
 
-<iframe style="border: 0; width:100%; height: 800px; overflow: auto;" src="https://degenesis.com/world/map/"></iframe>
+![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/2320x3264/2e9f66ea09/degenesis-rebirth-world-map-en-3264x2320.jpg)
