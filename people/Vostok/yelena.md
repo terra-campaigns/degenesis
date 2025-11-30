@@ -3,7 +3,7 @@ layout: default
 title: Yelena, the Seer
 parent: Vostok Kin
 type: people
-status: missing
+status: "?"
 
 statblock: 'yes'
 deprecated_layout: Terra Campaigns Leiaute v04d

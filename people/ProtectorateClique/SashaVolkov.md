@@ -8,7 +8,7 @@ role:
 archetype: Pollen, The Destroyer, Cossack Scout (1)
 parent: Protectorate Clique
 image: https://i.imgur.com/IOuWmY0.png
-status: deceased
+status: "&dagger;"
 
 statblock: true
 

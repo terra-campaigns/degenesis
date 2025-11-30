@@ -2,7 +2,7 @@
 layout: default
 title: Rurik, the Swift
 parent: Vostok Kin
-status: deceased
+status: "&dagger;"
 type: people
 statblock: 'yes'
 deprecated_layout: Terra Campaigns Leiaute v04d

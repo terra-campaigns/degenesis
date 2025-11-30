@@ -4,7 +4,7 @@ title: Dr. Sofia Markov
 parent: Vostok Kin
 type: people
 
-status: missing
+status: "?"
 
 ---
 

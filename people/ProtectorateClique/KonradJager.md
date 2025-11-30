@@ -7,7 +7,7 @@ title: Konrad Jaguer
 role: Clique Rookie
 archetype: Pollen, Spitalian Recruit
 parent: Protectorate Clique
-status: deceased
+status: "&dagger;"
 
 statblock: false
 hp: 

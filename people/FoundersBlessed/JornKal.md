@@ -9,7 +9,7 @@ role: Wannabe hero
 archetype: Borca, The Adventurer, Spitalian Famulancer (3)
 parent: Nikopol
 image: https://i.imgur.com/nK5OG2J.png
-status: deceased
+status: "&dagger;"
 
 statblock: true
 hp: 2
