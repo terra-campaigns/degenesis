@@ -40,3 +40,88 @@ gear:
 - Protects Zofia, the child of [Yelena](Yelena.md)
 - Uses Bion ritualistically
 - Broke her leg in an [encounter with Leperos](../../campaigns/ConnectNikopol/StationWork2.md).
+
+{% comment %}
+
+```
+====================================================  
+=== PROTECTORATE INTEL. DIR. / PERSONNEL DOSSIER ===  
+====================================================  
+: RETRIEVED VIA......: REMOTE HAND PRINTER 72 DPI  
+: EXTRACTION ENCODE .: #CX-17-6PR  
+====================================================  
+  
+>> SUBJECT IDENTIFICATION <<  
+  
+NAME................: ANASTASIA FROSTMANE  
+ALIAS(ES)...........: LEADER COSSACKS REF. CLIQUE  
+ORIGIN CULTURE......: POLLEN  
+CULT AFFILIATION....: COSSACKS (CLANNER)
+RANK................: SHAMAN  
+SUBJECT CONCEPT.....: PROTECTOR  
+BEHAVIORAL TAGS.....: ECCENTRIC  
+AGE.................: 37 (BAND: D8)  
+PHYSICAL NOTES......: SHORT / ATHLETIC / TATTOOS  
+FACIAL STRUCTURE....: N/A  
+HAIR................: N/A 
+VOCAL PATTERN.......: N/A  
+  
+----------------------------------------------------  
+  
+>> SKILLS PROFILE <<  
+  
+-- CLASS D8 --  
+MELEE  
+CONDUCT
+ORIENTEERING
+  
+-- CLASS D10 --  
+SURVIVAL
+NEGOTIATION
+LEGENDS
+EMPATHY
+
+-- CLASS D12 --  
+N/A  
+  
+----------------------------------------------------  
+  
+>> KNOWN PERFORMANCE DEVIATIONS <<  
+  
+-- POTENTIALS --  
+ASCETICISM  
+  
+-- HANDICAPS --  
+LIMPS FROM ONE LEG  
+  
+----------------------------------------------------  
+  
+>> ISSUED EQUIPMENT <<  
+  
+BACKPACK  
+BOOK OF LAW (CONTRACTS IN POLLEN)
+BOOK (STOLEN FROM PROKTOR)
+PARAPHERNALIA OF OTHER CULTS
+ROPE AND GRAPPLING HOOK
+LARGE SHIELD WITH EMBLEM
+HEAVY LEATHERS
+SURVIVAL KNIFE
+200 CHRONICLER DRAFTS
+
+----------------------------------------------------  
+  
+>> MPF - MEMETIC PROPAGATION FORECAST <<  
+  
+ALLIES .............: 1  
+AUTHORITY ..........: 1  
+RENOWN .............: 1  
+RESOURCES ..........: 1  
+SECRETS ............: 3  
+NETWORK ............: 2  
+  
+====================================================  
+=== ********* END OF DOT-MATRIX RECORD ********* ===  
+====================================================
+```
+
+{% endcomment %}
