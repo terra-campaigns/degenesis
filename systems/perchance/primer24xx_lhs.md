@@ -169,6 +169,8 @@ cult
       Ivo Shank
       Rilia Drae
       Fenris Kott
+      Isolde Frimm
+      Verpera Pax
       Sabra Lorne
       Drevin Cassar
       Soleil Grimm
@@ -282,6 +284,143 @@ cult
       Ilya Scriv
     skill = {Athletics|Toughness|Crafting|Artifact Lore|Survival}
     equip = rope <br> compass <br> periscope
+    cash = {50-150} CHRONICLER DRAFTS
+
+  Chroniclers
+    bgname = <a href="https://degenesis.com/world/cults/chroniclers" target="_blank">Chroniclers</a>
+    rank
+      Bit
+    culture
+      Pollen ^5
+        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">Pollen</a>
+        skill = {Athletics|Brawl|Force|Melee|Stamina|Toughness|Empathy|Orienteering|Perception|Primal|Survival|Taming|Legends}
+      Borca ^10
+        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">Borca</a>
+        skill = {Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Toughness|Artf. Lore|Engineering}
+    name
+      Monitor
+      Interface
+      USB
+      Socket
+      Firmware
+      Protocol
+      Bitrate
+      Checksum
+      Patchline
+      Pixel
+      Bandwidth
+      Cipher
+      Overclock
+      Kernel
+      Partition
+      Router
+      Modem
+      Fiber
+      Optic
+      Raster
+      Vector
+      Static
+      Analog
+      Digital
+      Composite
+      Matrix
+      Voltage
+      Current
+      Ohm
+      Ampere
+      Circuit
+      Transistor
+      Diode
+      Capacitor
+      Inductor
+      Signal
+      Uplink
+      Downlink
+      Carrier
+      Packet
+      Payload
+      Latency
+      Throughput
+      Core
+      Thread
+      Pipeline
+      Output
+      Input
+      Archive
+      Cache
+      Buffer
+      Cluster
+      Node
+      Server
+      Gateway
+      Beacon
+      Sync
+      Pulse
+      Trigger
+    skill = {Crafting|Negotiation|Engineering|Artf. Lore|Deception}
+    equip = robe
+    cash = {32|64|128|256|512|512} CHRONICLER DRAFTS
+
+  Judges
+    bgname = <a href="https://degenesis.com/world/cults/judges" target="_blank">Judges</a>
+    rank
+      Vagrant
+    culture
+      Purgare ^10
+        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">Purgare</a>
+        skill = {Arts|Conduct|Expression|Leadership|Negociation|Seduction|Cunning|Deception|Domination|Faith|Reaction|Willpower|Legends|Taming}
+    name
+      Ardek the Bastion
+      Brenn Ironbar
+      Darron the Verdict
+      Hesk Redlaw
+      Mavel the Strike
+      Torren Blackmark
+      Jast the Doctrine
+      Rook Ironhide
+      Verr the Baton
+      Krag the Sentence
+      Solmar Breaker
+      Riven the Warrant
+      Drask Pillar
+      Eldren the Mandate
+      Vorik the Rampart
+      Tullen the Edict
+      Prax Hardline
+      Redd the Custodian
+      Jurn the Rebuke
+      Halvar the Shield
+      Kell the Seizure
+      Morrek Ironbrand
+      Stav the Chapter
+      Gren the Bludgeon
+      Rass the Precept
+      Tarn the Tribunal
+      Merk the Marshal
+      Roga the Barrier
+      Vesk the Parapet
+      Droll the Enforcement
+      Kelvek Ironjaw
+      Harro the Blacklaw
+      Jask the Enclosure
+      Thune Steelmark
+      Varrox the Order
+      Erek the Retainer
+      Dosk the Dogma
+      Zekken the Gate
+      Rull the Boundary
+      Sarn the Magistrate
+      Herrek the Conscript
+      Modral the Bastionite
+      Trask Ironvault
+      Orren the Holdfast
+      Bral the Discipliner
+      Kes Vindicator
+      Darm the Rulebearer
+      Gask the Palisade
+      Torlek the Custody
+    skill = {Melee|Navigation|Conduct|Projectiles|Domination}
+    equip = Book of Lessons
     cash = {50-150} CHRONICLER DRAFTS
 
 concept
