@@ -13,17 +13,19 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 
 ## Official resources
 
-SMV's [**Degenesis** Official](https://degenesis.com) website, from where the [books](https://degenesis.com/downloads/books/) can be downloaded  
-**Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)  
-Your [predicament](https://degenesis.com/downloads/transmissions/you) audio.  
-SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis) 
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| SMV's [**Degenesis** Official](https://degenesis.com) website, from where the [books](https://degenesis.com/downloads/books/) can be downloaded |
+| **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)                 |
+| Your [predicament](https://degenesis.com/downloads/transmissions/you) audio.                                                                    |
+| SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis)                                                        |
 
 ## Tone
 
 The world of **Degenesis** is like a ruined Garden of Eden, containing the secrets and spoils of both good and evil, of ignorance and enlightenment, of barbarity and virtue.
-Its tone is about hope and despair, about people learning to live amid destruction and the conflicting priorities of human civilisation.
+Its tone is one of hope and despair, of people learning to live amid destruction and the conflicting priorities of human civilisation.
 
-As the **Primer** takes hold, it adapts its surroundings to better match its ideal environment.
+As the **Primer** takes hold, it adapts its surroundings to match its ideal environment better.
 The influence of the alien matter steadily decreases as distance from the impact craters increases; Psychonauts may roam the land to feed or create new spore fields, but they are not an omnipresent danger.
 For most people, the **Primer** is a persistent, but distant, threat.
 
@@ -33,13 +35,29 @@ For most people, the **Primer** is a persistent, but distant, threat.
 
 ## Reviews
 
-Dave Thaumavore's **Degenesis** [Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)  
-Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist  
-[Echoes of Eshaton](https://echoesofeshaton.com/) solo **Degenesis** play podcast (not a review, but worth mentioning)
+|                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| Dave Thaumavore's **Degenesis** [Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)                             |
+| Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist         |
+| [Echoes of Eshaton](https://echoesofeshaton.com/) solo **Degenesis** play podcast (not a review, but worth mentioning) |
 
 ## Soundtrack
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3kkceRStYdXtFGdjvjhdOd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Index
+
+|                                                                                         |
+| --------------------------------------------------------------------------------------- |
+| **[The Game](systems/index.md):** Rules and Character Creation                          |
+| **[Vorstok & Ironclaw Purged](campaigns/VostokIronclawPurged/index.md):** February 2594 |
+| **[Connect with Nikopol](campaigns/ConnectNikopol/index.md):** January 2593 - June 2594 |
+| **[In Thy Blood](campaigns/InThyBlood/index.md):** March 2595 onwards                   |
+| **[Directory](directory/index.md):** Relevant content for current campaign              |
+| **[Gazeteer](gazetteer/index.md):** Established facts from previous campaigns           |
+
+![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3535x5000/5384758c46/falberg-01.jpg)
+
 
 {% comment %}
 
@@ -71,7 +89,3 @@ Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI
 {% include prefooter_campaign.html %}
 
 {% endcomment %}
-
-![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3535x5000/5384758c46/falberg-01.jpg)
-
-

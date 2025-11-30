@@ -25,6 +25,44 @@ Whenever an action becomes tense, risky, or emotionally charged, the table shift
 
 ### Progression
 
-After each *in-game month*, the group checks whether the consequences are significant enough to shift a character’s Skills, Performance Deviations, or MPF (Memetic Propagation Forecast).
+After each *session*, the group checks whether the consequences are significant enough to shift a character’s Skills, Performance Deviations, or MPF (Memetic Propagation Forecast).
 
 Climbing ranks within a Cult depends on reaching certain combinations of Aptitude and MPF, but those thresholds are met only through the flow of play: through what characters attempt, what they survive, and what they sacrifice.
+
+{% comment %}
+
+# Conversions
+
+## PCs
+
+### Skill Level
+
+**Skilled:** 4D~6D
+**Expert:** 7D~8D
+**Master:** 9D~10D
+
+## NPCs
+
+### Behaviour
+
+What do they ***do*** to get what they ***want***?
+
+### Risks
+
+Define clear risks for every NPC.
+
+**Detachment:** Every PC risks their own die result, but only the highest is the effect.
+**Consequence magnitude:** Permanent, Days, Hours, Brief
+**Damage:** Above 10D is very serious
+
+### Obstacles
+
+Define 2 to 4 clear obstacles for hard-to-kill NPCs.
+
+**FW+Trauma above 20:** +1 Physical obstacle per 5 FW
+**Armour:** +1 Armour obstacle per 3 Armour
+**Ego above 10:** +1 Morale obstacle per 5 Ego
+**Initiative above 10**: +1 Speed obstacle per 5 Initiative
+
+
+{% endcomment %}
