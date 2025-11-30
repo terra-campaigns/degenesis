@@ -12,8 +12,8 @@
   <br>
   NAME................: [ct = cult.selectOne, ct.name.upperCase]<br>
   ALIAS(ES)...........: N/A<br>
-  ORIGIN CULTURE......: [cu = ct.culture.selectOne, cu.cuname.upperCase]<br>
-  CULT AFFILIATION....: [ct.bgname.upperCase]<br>
+  ORIGIN CULTURE......: [cu = ct.culture.selectOne, cu.cuname]<br>
+  CULT AFFILIATION....: [ct.bgname]<br>
   RANK................: [ct.rank.upperCase]<br>
   SUBJECT CONCEPT.....: [concept.upperCase]<br>
   BEHAVIORAL TAGS.....: [virtue.upperCase] / [vice.upperCase]<br>

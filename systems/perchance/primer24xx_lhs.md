@@ -5,23 +5,23 @@ dtwenty = {1-20}
 
 cult
   Spitalian
-    bgname = <a href="https://degenesis.com/world/cults/spitalians" target="_blank">Spitalian</a>
+    bgname = <a href="https://degenesis.com/world/cults/spitalians" target="_blank">SPITALIAN</a>
     rank
       Recruit
     imgprof = https://a.storyblok.com/f/72501/2715x3840/8900dcd07d/001-spitalians-archetype.jpg
     imgrank = https://i.imgur.com/LKEOuPq.png
     culture
       Purgare ^10
-        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">Purgare</a>
+        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">PURGARE</a>
         skill = {Arts|Conduct|Expression|Leadership|Negociation|Seduction|Cunning|Deception|Domination|Faith|Reaction|Willpower|Legends|Taming}
       Pollen ^5
-        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">Pollen</a>
+        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">POLLEN</a>
         skill = {Athletics|Brawl|Force|Melee|Stamina|Toughness|Empathy|Orienteering|Perception|Primal|Survival|Taming|Legends}
       Borca ^10
-        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">Borca</a>
+        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">BORCA</a>
         skill = {Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Toughness|Artf. Lore|Engineering}
       Hybrispania
-        cuname = <a href="https://degenesis.com/world/cultures/hybrispania" target="_blank">Hybrispania</a>
+        cuname = <a href="https://degenesis.com/world/cultures/hybrispania" target="_blank">HYBRISPANIA</a>
         skill = {Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Melee|Orienteering}
     name
       Draven Kalt
@@ -77,20 +77,20 @@ cult
     cash = {100-300} CHRONICLER DRAFTS
 
   Anabaptist
-    bgname = <a href="https://degenesis.com/world/cults/anabaptist" target="_blank">Anabaptist</a>
+    bgname = <a href="https://degenesis.com/world/cults/anabaptist" target="_blank">ANABAPTIST</a>
     rank
       Touched
     imgprof = https://a.storyblok.com/f/72501/2715x3840/efb5d38082/012-anabaptist-archetype.jpg
     imgrank = https://i.imgur.com/IuipNe7.png
     culture
       Purgare ^10
-        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">Purgare</a>
+        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">PURGARE</a>
         skill = {Arts|Conduct|Expression|Leadership|Negociation|Seduction|Cunning|Deception|Domination|Faith|Reaction|Willpower|Legends|Taming}
       Pollen ^5
-        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">Pollen</a>
+        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">POLLEN</a>
         skill = {Athletics|Brawl|Force|Melee|Stamina|Toughness|Empathy|Orienteering|Perception|Primal|Survival|Taming|Legends}
       Borca ^10
-        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">Borca</a>
+        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">BORCA</a>
         skill = {Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Toughness|Artf. Lore|Engineering}
     name
       Abel Stern
@@ -127,7 +127,7 @@ cult
     cash = {50-150} CHRONICLER DRAFTS
 
   Apocalyptics
-    bgname = <a href="https://degenesis.com/world/cults/apocalyptics" target="_blank">Apocalyptics</a>
+    bgname = <a href="https://degenesis.com/world/cults/apocalyptics" target="_blank">APOCALYPTICS</a>
     rank
       Finch
       Tern
@@ -136,16 +136,16 @@ cult
     imgrank = https://i.imgur.com/cmR6M9w.png
     culture
       Purgare ^10
-        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">Purgare</a>
+        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">PURGARE</a>
         skill = {Arts|Conduct|Expression|Leadership|Negociation|Seduction|Cunning|Deception|Domination|Faith|Reaction|Willpower|Legends|Taming}
       Pollen ^5
-        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">Pollen</a>
+        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">POLLEN</a>
         skill = {Athletics|Brawl|Force|Melee|Stamina|Toughness|Empathy|Orienteering|Perception|Primal|Survival|Taming|Legends}
       Borca ^10
-        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">Borca</a>
+        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">BORCA</a>
         skill = {Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Toughness|Artf. Lore|Engineering}
       Hybrispania
-        cuname = <a href="https://degenesis.com/world/cultures/hybrispania" target="_blank">Hybrispania</a>
+        cuname = <a href="https://degenesis.com/world/cultures/hybrispania" target="_blank">HYBRISPANIA</a>
         skill = {Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Melee|Orienteering}
     name
       Sable Kint
@@ -185,17 +185,17 @@ cult
     cash = {200-600} CHRONICLER DRAFTS
 
   Hellvetics
-    bgname = <a href="https://degenesis.com/world/cults/hellvetics" target="_blank">Hellvetics</a>
+    bgname = <a href="https://degenesis.com/world/cults/hellvetics" target="_blank">HELLVETICS</a>
     rank
       Soldier
     imgprof = https://a.storyblok.com/f/72501/2715x3840/a787dacaa6/003-hellvetics-archetype.jpg
     imgrank = https://i.imgur.com/EXHzhL9.png
     culture
       Purgare ^10
-        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">Purgare</a>
+        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">PURGARE</a>
         skill = {Arts|Conduct|Expression|Leadership|Negociation|Seduction|Cunning|Deception|Domination|Faith|Reaction|Willpower|Legends|Taming}
       Borca ^10
-        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">Borca</a>
+        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">BORCA</a>
         skill = {Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Toughness|Artf. Lore|Engineering}
     name
       Alrik Vossler
@@ -233,23 +233,23 @@ cult
     cash = {50-150} CHRONICLER DRAFTS
 
   Scrappers
-    bgname = <a href="https://degenesis.com/world/cults/scrappers" target="_blank">Scrappers</a>
+    bgname = <a href="https://degenesis.com/world/cults/scrappers" target="_blank">SCRAPPERS</a>
     rank
       Mouse
     imgprof = https://a.storyblok.com/f/72501/2715x3840/59d5c5c899/006-scrappers-archetype.jpg
     imgrank = https://i.imgur.com/KFQ3EBG.png
     culture
       Purgare ^10
-        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">Purgare</a>
+        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">PURGARE</a>
         skill = {Arts|Conduct|Expression|Leadership|Negociation|Seduction|Cunning|Deception|Domination|Faith|Reaction|Willpower|Legends|Taming}
       Pollen ^5
-        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">Pollen</a>
+        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">POLLEN</a>
         skill = {Athletics|Brawl|Force|Melee|Stamina|Toughness|Empathy|Orienteering|Perception|Primal|Survival|Taming|Legends}
       Borca ^10
-        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">Borca</a>
+        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">BORCA</a>
         skill = {Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Toughness|Artf. Lore|Engineering}
       Hybrispania
-        cuname = <a href="https://degenesis.com/world/cultures/hybrispania" target="_blank">Hybrispania</a>
+        cuname = <a href="https://degenesis.com/world/cultures/hybrispania" target="_blank">HYBRISPANIA</a>
         skill = {Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Melee|Orienteering}
     name
       Brakka Venn
@@ -287,15 +287,15 @@ cult
     cash = {50-150} CHRONICLER DRAFTS
 
   Chroniclers
-    bgname = <a href="https://degenesis.com/world/cults/chroniclers" target="_blank">Chroniclers</a>
+    bgname = <a href="https://degenesis.com/world/cults/chroniclers" target="_blank">CHRONICLERS</a>
     rank
       Bit
     culture
       Pollen ^5
-        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">Pollen</a>
+        cuname = <a href="https://degenesis.com/world/cultures/pollen" target="_blank">POLLEN</a>
         skill = {Athletics|Brawl|Force|Melee|Stamina|Toughness|Empathy|Orienteering|Perception|Primal|Survival|Taming|Legends}
       Borca ^10
-        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">Borca</a>
+        cuname = <a href="https://degenesis.com/world/cultures/borca" target="_blank">BORCA</a>
         skill = {Crafting|Dexterity|Navigation|Mobility|Projectiles|Stealth|Artf. Lore|Engineering|Focus|Legends|Medicine|Science|Toughness|Artf. Lore|Engineering}
     name
       Monitor
@@ -362,12 +362,12 @@ cult
     cash = {32|64|128|256|512|512} CHRONICLER DRAFTS
 
   Judges
-    bgname = <a href="https://degenesis.com/world/cults/judges" target="_blank">Judges</a>
+    bgname = <a href="https://degenesis.com/world/cults/judges" target="_blank">JUDGES</a>
     rank
       Vagrant
     culture
       Purgare ^10
-        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">Purgare</a>
+        cuname = <a href="https://degenesis.com/world/cultures/purgare" target="_blank">PURGARE</a>
         skill = {Arts|Conduct|Expression|Leadership|Negociation|Seduction|Cunning|Deception|Domination|Faith|Reaction|Willpower|Legends|Taming}
     name
       Ardek the Bastion
