@@ -41,9 +41,7 @@ For most people, the **Primer** is a persistent, but distant, threat.
 | Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist         |
 | [Echoes of Eshaton](https://echoesofeshaton.com/) solo **Degenesis** play podcast (not a review, but worth mentioning) |
 
-## Soundtrack
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3kkceRStYdXtFGdjvjhdOd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3535x5000/5384758c46/falberg-01.jpg)
 
 ## Index
 
@@ -56,7 +54,6 @@ For most people, the **Primer** is a persistent, but distant, threat.
 | **[Directory](directory/index.md):** Relevant content for current campaign              |
 | **[Gazeteer](gazetteer/index.md):** Established facts from previous campaigns           |
 
-![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3535x5000/5384758c46/falberg-01.jpg)
 
 
 {% comment %}
@@ -72,10 +69,10 @@ For most people, the **Primer** is a persistent, but distant, threat.
 **Communication**: Discord voice (video is optional)   
 **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression  
 **Useful links**:  
-- [Campaign Website](https://terra-campaigns.github.io/degenesis/)   
+- [Campaign Website](https://terra-campaigns.github.io/degenesis/campaigns/InThyBlood/)   
 - [Rules & Chargen](https://terra-campaigns.github.io/degenesis/systems/)  
 - [Owlbear Rodeo](https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis)  
-- [Primer Playlist](https://open.spotify.com/playlist/3kkceRStYdXtFGdjvjhdOd?si=8e4f669974724f83)  
+- [In Thy Blood Playlist](https://open.spotify.com/playlist/4TuNmf3FUldGwKOsSb1Fol?si=ea1e822dd7a24187)  
 - Books: [Primal Punk](https://drive.google.com/file/d/1gv5sc5W2tMxcUPR-ywrzGDkKtdhxg_fY/view?usp=sharing) & [Katharsys](https://drive.google.com/file/d/1gx0Xm7oKDoYJ8PNvxYdV3cK1A2pG3JaZ/view?usp=sharing) 
 
 
