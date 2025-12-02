@@ -1,1 +1,0 @@
-White Wolf of Bergamo
