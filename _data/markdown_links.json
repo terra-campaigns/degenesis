@@ -62,6 +62,20 @@
         ],
         "index.md": [
             {
+                "text": "**Degenesis** Official",
+                "url": "https://degenesis.com",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "books",
+                "url": "https://degenesis.com/downloads/books/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
                 "text": "One",
                 "url": "https://www.youtube.com/watch?v=WTCARC91yyw",
                 "is_internal": false,
@@ -83,25 +97,18 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "Dave Thaumavore's **Degenesis** Review",
-                "url": "https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://youtu.be/favicon.ico"
-            },
-            {
-                "text": "**Degenesis** Official",
-                "url": "https://degenesis.com",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
                 "text": "art for **Degenesis**",
                 "url": "https://www.sixmorevodka.com/not-so-famous-work/degenesis",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://www.sixmorevodka.com/favicon.ico"
+            },
+            {
+                "text": "Review",
+                "url": "https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://youtu.be/favicon.ico"
             },
             {
                 "text": "Lore Drops",
@@ -118,21 +125,56 @@
                 "favicon": "https://echoesofeshaton.com/favicon.ico"
             },
             {
-                "text": "Open Table",
-                "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
-                "is_internal": false,
+                "text": "The Game",
+                "url": "systems/index.md",
+                "is_internal": true,
                 "direction": "outbound",
-                "favicon": "https://www.thearcanelibrary.com/favicon.ico"
+                "favicon": null
             },
             {
-                "text": "Degenesis",
-                "url": "https://degenesis.com/",
-                "is_internal": false,
+                "text": "Vorstok & Ironclaw Purged",
+                "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
                 "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
+                "favicon": null
             },
             {
-                "text": "Primal Odd",
+                "text": "Connect with Nikopol",
+                "url": "campaigns/ConnectNikopol/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "In Thy Blood",
+                "url": "campaigns/InThyBlood/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Directory",
+                "url": "directory/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gazeteer",
+                "url": "gazetteer/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Campaign Website",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/InThyBlood/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Rules & Chargen",
                 "url": "https://terra-campaigns.github.io/degenesis/systems/",
                 "is_internal": false,
                 "direction": "outbound",
@@ -146,25 +188,184 @@
                 "favicon": "https://www.owlbear.rodeo/favicon.ico"
             },
             {
-                "text": "Discord voice",
-                "url": "https://discord.com/channels/1060840338777964565/1289653812805505044",
+                "text": "In Thy Blood Playlist",
+                "url": "https://open.spotify.com/playlist/4TuNmf3FUldGwKOsSb1Fol?si=ea1e822dd7a24187",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://discord.com/favicon.ico"
+                "favicon": "https://open.spotify.com/favicon.ico"
             },
             {
-                "text": "Discord text & image share",
-                "url": "https://discord.com/channels/1060840338777964565/1313166726334124114",
+                "text": "Primal Punk",
+                "url": "https://drive.google.com/file/d/1gv5sc5W2tMxcUPR-ywrzGDkKtdhxg_fY/view?usp=sharing",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://discord.com/favicon.ico"
+                "favicon": "https://drive.google.com/favicon.ico"
             },
             {
-                "text": "created, rolled or chosen from pregens",
-                "url": "https://terra-campaigns.github.io/degenesis/systems/#character-creation",
+                "text": "Katharsys",
+                "url": "https://drive.google.com/file/d/1gx0Xm7oKDoYJ8PNvxYdV3cK1A2pG3JaZ/view?usp=sharing",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://drive.google.com/favicon.ico"
+            }
+        ],
+        "systems/index.md": [
+            {
+                "text": "The Game",
+                "url": "index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/VostokIronclawPurged/index.md": [
+            {
+                "text": "Vorstok & Ironclaw Purged",
+                "url": "index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vostok",
+                "url": "people/Vostok/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Mirova",
+                "url": "people/Vostok/mirova.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "people/Vostok/yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scouts",
+                "url": "people/Vostok/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "The Spitalian raid",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Vostok Kin",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Elder Mirova",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/mirova",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Yelena, the Seer",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/yelena",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "conflict over resources turned brutal",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/index.md": [
+            {
+                "text": "Connect with Nikopol",
+                "url": "index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "before crossing the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol3a/#the-cliques-mission-in-nikopol",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Vasco",
+                "url": "https://degenesis.com/world/bio/spitalians/vasco",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Nikopol",
+                "url": "locations/Nikopol.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kievan",
+                "url": "locations/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rarogi",
+                "url": "systems/backgrounds/rarogi.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/InThyBlood/index.md": [
+            {
+                "text": "In Thy Blood",
+                "url": "index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/index.md": [
+            {
+                "text": "Directory",
+                "url": "index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "gazetteer/index.md": [
+            {
+                "text": "Gazeteer",
+                "url": "index.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "_includes/hooks.md": [
@@ -587,123 +788,90 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Vorons/index.md": [
+        "_includes/24xx_modules/character-creation.md": [
             {
-                "text": "Chroniclers",
-                "url": "systems/backgrounds/chroniclers.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Scrapers",
-                "url": "systems/backgrounds/scrapers.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Apocalyptics",
-                "url": "systems/backgrounds/apocalyptics.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Cossacks",
-                "url": "systems/backgrounds/cossacks.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "systems/backgrounds/chroniclers.md": [
-            {
-                "text": "Chroniclers",
-                "url": "directory/Vorons/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Chroniclers",
-                "url": "https://degenesis.com/world/cults/chroniclers",
+                "text": "POLLEN",
+                "url": "https://degenesis.com/world/cultures/pollen",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
-        "systems/backgrounds/scrapers.md": [
-            {
-                "text": "Scrapers",
-                "url": "directory/Vorons/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             },
             {
-                "text": "Scrapers",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
+                "text": "PURGARE",
+                "url": "https://degenesis.com/world/cultures/purgare",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "Scrappers",
+                "text": "HYBRISPANIA",
+                "url": "https://degenesis.com/world/cultures/hybrispania",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "BORCA",
+                "url": "https://degenesis.com/world/cultures/borca",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "**SPITALIANS**",
+                "url": "https://degenesis.com/world/cults/spitalians",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "**ANABAPTISTS**",
+                "url": "https://degenesis.com/world/cults/anabaptists",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "**APOCALYPTICS**",
+                "url": "https://degenesis.com/world/cults/apocalyptics",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "**HELLVETICS**",
+                "url": "https://degenesis.com/world/cults/hellvetics",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "**SCRAPPERS**",
                 "url": "https://degenesis.com/world/cults/scrappers",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "SCRAPERS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/apocalyptics.md": [
-            {
-                "text": "Apocalyptics",
-                "url": "directory/Vorons/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "APOCALYPTICS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Apocalyptics",
-                "url": "https://degenesis.com/world/cults/apocalyptics",
+                "text": "**CLANNERS**",
+                "url": "https://degenesis.com/world/cults/clanners",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
-        "systems/backgrounds/cossacks.md": [
-            {
-                "text": "Cossacks",
-                "url": "directory/Vorons/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             },
             {
-                "text": "Cossacks",
-                "url": "locations/Cherasky.md",
-                "is_internal": true,
-                "direction": "inbound"
+                "text": "**CHRONICLERS**",
+                "url": "https://degenesis.com/world/cults/choniclers",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
             },
             {
-                "text": "Cossacks",
-                "url": "people/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "COSSACKS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
+                "text": "**SCRAPPERS**",
+                "url": "https://degenesis.com/world/cults/scrappers",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
         "_site/README.md": [
@@ -727,127 +895,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.github.com/favicon.ico"
-            }
-        ],
-        "_site/systems/culture.md": [
-            {
-                "text": "Culture",
-                "url": "https://degenesis.com/world/cultures/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "_site/systems/backgrounds",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "POLLEN",
-                "url": "https://degenesis.com/world/cultures/pollen",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Scrapers",
-                "url": "_site/systems/backgrounds/scrapers",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Spitalians",
-                "url": "_site/systems/backgrounds/spitalians",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anabaptists",
-                "url": "_site/systems/backgrounds/anabaptists",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Cossacks",
-                "url": "_site/systems/backgrounds/cossacks",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Apocalyptics",
-                "url": "_site/systems/backgrounds/apocalyptics",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Rarogi",
-                "url": "_site/systems/backgrounds/rarogi",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "_site/systems/backgrounds": [
-            {
-                "text": "Backgrounds",
-                "url": "_site/systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/systems/backgrounds/scrapers": [
-            {
-                "text": "Scrapers",
-                "url": "_site/systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/systems/backgrounds/spitalians": [
-            {
-                "text": "Spitalians",
-                "url": "_site/systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/systems/backgrounds/anabaptists": [
-            {
-                "text": "Anabaptists",
-                "url": "_site/systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/systems/backgrounds/cossacks": [
-            {
-                "text": "Cossacks",
-                "url": "_site/systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/systems/backgrounds/apocalyptics": [
-            {
-                "text": "Apocalyptics",
-                "url": "_site/systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "_site/systems/backgrounds/rarogi": [
-            {
-                "text": "Rarogi",
-                "url": "_site/systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "_site/systems/ruin.md": [
@@ -1385,6 +1432,26 @@
             {
                 "text": "Cherasky",
                 "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/cossacks.md": [
+            {
+                "text": "Cossacks",
+                "url": "locations/Cherasky.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cossacks",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "COSSACKS",
+                "url": "systems/backgrounds/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2560,6 +2627,27 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
+        "systems/backgrounds/scrapers.md": [
+            {
+                "text": "Scrapers",
+                "url": "people/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Scrappers",
+                "url": "https://degenesis.com/world/cults/scrappers",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "SCRAPERS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "people/ProtectorateClique/MarcusVoss.md": [
             {
                 "text": "one of the Anabaptists",
@@ -2928,84 +3016,6 @@
             },
             {
                 "text": "slaughtered by Spitalians",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/VostokIronclawPurged/index.md": [
-            {
-                "text": "Vostok",
-                "url": "people/Vostok/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Pollen",
-                "url": "https://degenesis.com/world/cultures/pollen",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Mirova",
-                "url": "people/Vostok/mirova.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Yelena",
-                "url": "people/Vostok/yelena.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Scouts",
-                "url": "people/Vostok/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "The Spitalian raid",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Vostok Kin",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Elder Mirova",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/mirova",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Yelena, the Seer",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/yelena",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "conflict over resources turned brutal",
                 "url": "campaigns/ConnectNikopol/InNikopol03.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4089,12 +4099,6 @@
                 "url": "campaigns/ConnectNikopol/Deposition.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "Erasmus Kline",
-                "url": "systems/pregens/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "people/FoundersBlessed/Sokolov.md": [
@@ -4152,43 +4156,6 @@
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "campaigns/ConnectNikopol/index.md": [
-            {
-                "text": "before crossing the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol3a/#the-cliques-mission-in-nikopol",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Vasco",
-                "url": "https://degenesis.com/world/bio/spitalians/vasco",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Nikopol",
-                "url": "locations/Nikopol.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Kievan",
-                "url": "locations/Kiev.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Rarogi",
-                "url": "systems/backgrounds/rarogi.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
             }
         ],
         "campaigns/ConnectNikopol/ToNikopol3b.md": [
@@ -4359,127 +4326,6 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
-        "systems/culture.md": [
-            {
-                "text": "Culture",
-                "url": "https://degenesis.com/world/cultures/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Backgrounds",
-                "url": "systems/backgrounds",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "POLLEN",
-                "url": "https://degenesis.com/world/cultures/pollen",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Scrapers",
-                "url": "systems/backgrounds/scrapers",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Spitalians",
-                "url": "systems/backgrounds/spitalians",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anabaptists",
-                "url": "systems/backgrounds/anabaptists",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Cossacks",
-                "url": "systems/backgrounds/cossacks",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Apocalyptics",
-                "url": "systems/backgrounds/apocalyptics",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Rarogi",
-                "url": "systems/backgrounds/rarogi",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "systems/backgrounds": [
-            {
-                "text": "Backgrounds",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/scrapers": [
-            {
-                "text": "Scrapers",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/spitalians": [
-            {
-                "text": "Spitalians",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/anabaptists": [
-            {
-                "text": "Anabaptists",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/cossacks": [
-            {
-                "text": "Cossacks",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/apocalyptics": [
-            {
-                "text": "Apocalyptics",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/rarogi": [
-            {
-                "text": "Rarogi",
-                "url": "systems/culture.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "systems/ruin.md": [
             {
                 "text": "Burn",
@@ -4617,13 +4463,13 @@
                 "direction": "inbound"
             }
         ],
-        "systems/pregens/index.md": [
+        "systems/backgrounds/chroniclers.md": [
             {
-                "text": "Erasmus Kline",
-                "url": "people/ProtectorateClique/ErasmusKline.md",
-                "is_internal": true,
+                "text": "Chroniclers",
+                "url": "https://degenesis.com/world/cults/chroniclers",
+                "is_internal": false,
                 "direction": "outbound",
-                "favicon": null
+                "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
         "systems/backgrounds/judges.md": [
@@ -4690,6 +4536,21 @@
             {
                 "text": "Degenesis Cults & Clans",
                 "url": "https://degenesis.com/world/cults/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/apocalyptics.md": [
+            {
+                "text": "APOCALYPTICS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Apocalyptics",
+                "url": "https://degenesis.com/world/cults/apocalyptics",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
