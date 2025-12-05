@@ -50,11 +50,6 @@ Most changes are treated narratively first, then dice may be rolled.
 When the fiction dictates (and the GM agree), players may roll their Skill die to check for a Skill increase.
 If they roll the max, the skill increases.
 
-### MPF Change
-
-To increase an MPF, players need to roll **higher** than their current value on a d6.
-Conversely, to decrease it, they need to roll **lower** than the value.
-
 ## Uncertainty
 
 If something is uncertain and the rules do not support its resolution, **consider the odds and roll a die**.

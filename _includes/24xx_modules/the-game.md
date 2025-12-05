@@ -8,7 +8,7 @@ Having favours to collect, allies and knowing secrets is worth more than money.
 
 ## Game Flow
 
-Players elect one of their PCs (if they have multiple).
+Players elect one of their PCs (if they have more than one).
 Inactive PCs are in day-to-day Cult duties.
 
 Play moves freely between planning, action, and consequences, all woven naturally.
@@ -25,9 +25,9 @@ Whenever an action becomes tense, risky, or emotionally charged, the table shift
 
 ### Progression
 
-After each *session*, the group checks whether the consequences are significant enough to shift a character’s Skills, Performance Deviations, or MPF (Memetic Propagation Forecast).
+After each *session*, the group checks whether the consequences are significant enough to shift a character’s Skills.
 
-Climbing ranks within a Cult depends on reaching certain combinations of Aptitude and MPF, but those thresholds are met only through the flow of play: through what characters attempt, what they survive, and what they sacrifice.
+Climbing ranks within a Cult depends on reaching specific Skills, but those thresholds are met only through the flow of play: through what characters attempt, what they survive, and what they sacrifice.
 
 {% comment %}
 
