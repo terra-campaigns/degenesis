@@ -1,10 +1,48 @@
 ---
+layout: default
+template: 0.4
+type: faction
+nav_exclude: false
+hook_exclude: false
+has_children: false
+has_toc: false
+
+parent: Pollen
+title: Cossacks
+role: Pollener Clan
+status:
+
+hooks:
+
+images: ../../../imgs/icons/05-CULT-CLANNERS-WHITE-ON-BLACK-320x320.webp
+flavour_text: The steppe is wide, brutal, and unforgiving—but so are the Cossacks. Out here, where the wind howls like a wounded beast and the horizon stretches endlessly, they reign supreme, born of a land that knows no mercy. The Cossacks don’t just survive—they thrive, their blood thick with the cold steel of defiance and their hearts bound to the untamed wilderness.
+
+---
+
+{% include header_directories.md %}
+{% comment %}
+`=map(this.images, (x) => "![im|200](" + x + ")")`
+```dataview
+LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
+```
+---
+
+{% endcomment %}
+
+|                           |                         |
+| ------------------------- | ----------------------- |
+| ![]({{ page.images }}) | {{ page.flavour_text }} |
+
+![](https://i.imgur.com/Z7QOT6x.png)
+
+{% comment %}
+
+---
 title: Cossacks
 layout: default
 parent: Backgrounds
 
-icon_link: ../../../imgs/icons/05-CULT-CLANNERS-WHITE-ON-BLACK-320x320.webp
-flavour_text: The steppe is wide, brutal, and unforgiving—but so are the Cossacks. Out here, where the wind howls like a wounded beast and the horizon stretches endlessly, they reign supreme, born of a land that knows no mercy. The Cossacks don’t just survive—they thrive, their blood thick with the cold steel of defiance and their hearts bound to the untamed wilderness.
+
 
 img_front: https://i.imgur.com/Z7QOT6x.png
 img_rank: https://i.imgur.com/Ptd50Pb.png
@@ -89,3 +127,5 @@ potentials:
 {% include statblock_background.md %}
 
 ![](https://i.imgur.com/RzXMZ94.png)
+
+{% endcomment %}

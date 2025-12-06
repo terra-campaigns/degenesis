@@ -1168,6 +1168,13 @@
                 "direction": "inbound"
             },
             {
+                "text": "cossacks",
+                "url": "gazetteer/Pollen/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Yelena",
                 "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
                 "is_internal": true,
@@ -1418,7 +1425,7 @@
         "gazetteer/Pollen/Cherasky.md": [
             {
                 "text": "Cossacks",
-                "url": "systems/backgrounds/cossacks.md",
+                "url": "gazetteer/Pollen/cossacks.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1436,10 +1443,16 @@
                 "direction": "inbound"
             }
         ],
-        "systems/backgrounds/cossacks.md": [
+        "gazetteer/Pollen/cossacks.md": [
             {
                 "text": "Cossacks",
                 "url": "gazetteer/Pollen/Cherasky.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "cossacks",
+                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2034,7 +2047,7 @@
             },
             {
                 "text": "Cossacks",
-                "url": "systems/backgrounds/cossacks.md",
+                "url": "gazetteer/Pollen/cossacks.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4519,7 +4532,7 @@
             },
             {
                 "text": "COSSACKS",
-                "url": "systems/backgrounds/cossacks.md",
+                "url": "gazetteer/Pollen/cossacks.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
