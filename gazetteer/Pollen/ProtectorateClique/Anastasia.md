@@ -6,11 +6,12 @@ nav_exclude: false
 
 parent: Altair Envoys
 title: Anastasia Frostmane
-role: Leader of the Cossacks for the Clique
+role: Pollen, Cossack Shaman (3)
 status: 
 flavour: 
 
-images:
+images: 
+flavour_text: Leader of the Cossacks for the Clique.
 
 ---
 
