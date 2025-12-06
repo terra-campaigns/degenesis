@@ -36,10 +36,6 @@
 
 {% endif %}
 
-
-
-
-
 {% include connected_to.html %}
 
 {% if page.statblock %} 
