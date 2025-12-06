@@ -14,7 +14,7 @@ status:
 
 hooks:
 
-images: ../../../imgs/icons/05-CULT-CLANNERS-WHITE-ON-BLACK-320x320.webp
+images: [../../../imgs/icons/05-CULT-CLANNERS-WHITE-ON-BLACK-320x320.webp]
 flavour_text: The steppe is wide, brutal, and unforgiving—but so are the Cossacks. Out here, where the wind howls like a wounded beast and the horizon stretches endlessly, they reign supreme, born of a land that knows no mercy. The Cossacks don’t just survive—they thrive, their blood thick with the cold steel of defiance and their hearts bound to the untamed wilderness.
 
 ---

@@ -14,7 +14,7 @@ status:
 
 hooks:
 
-images: ../../imgs/gallery/Pasted%20image%2020251130175014.png
+images: [../../imgs/gallery/Pasted%20image%2020251130175014.png]
 flavour_text: IN 2595, BAPTIST ALTAIR WAS MURDERED IN PURGARE. Baptist Altair was important for your Cult. You were not told why. You have been told that Baptist Altair is important for other Cults, too. The order is to get to know them and work together. But don’t trust everyone.
 
 ---

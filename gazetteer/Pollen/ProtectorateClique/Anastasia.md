@@ -11,7 +11,6 @@ status:
 flavour: 
 
 images:
-- 
 
 ---
 
