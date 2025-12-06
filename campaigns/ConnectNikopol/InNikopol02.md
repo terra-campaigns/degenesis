@@ -12,7 +12,7 @@ region: Nikopol
 
 ### A Political Game
 
-[Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md), a man of measured resolve, aligns with Elder Ivan, seeking a scapegoat for the [calamity that claimed Zofia](InNikopol01.md). One name must bear the weight of the tragedy, a sacrifice to ease the guilt choking the air. Only through this exchange of blame can the [Clique](../../gazetteer/Pollen/ProtectorateClique/index.md) gain [Nikopol](../../locations/Nikopol.md)'s gates, now tightly shut against them.
+[Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md), a man of measured resolve, aligns with Elder Ivan, seeking a scapegoat for the [calamity that claimed Zofia](InNikopol01.md). One name must bear the weight of the tragedy, a sacrifice to ease the guilt choking the air. Only through this exchange of blame can the [Clique](../../gazetteer/Pollen/ProtectorateClique/index.md) gain [Nikopol](../../gazetteer/Pollen/Nikopol.md)'s gates, now tightly shut against them.
 
 ![](https://i.imgur.com/gSdazhZ.png)
 
@@ -36,7 +36,7 @@ The earth trembles beneath Founders’ Square, a subtle quake after Zofia's shou
 
 ![](https://i.imgur.com/YYqNlQ1.png)
 
-The truth is whispered, not spoken. Bogdam guides his companions to a revelation buried deep: the hidden staircase, winding downward into [Lubos](../../gazetteer/Pollen/FoundersBlessed/Lubos.md)’ forbidden workshop. There, in the depths, a hundred lifeless automata await resurrection. Amid the hiss of melting African gold coins and the sharp scent of [Kievan](../../locations/Kiev.md) artifacts, Lubos and Rayina labor in defiance of their pasts, exiles from the Protectorate now daring to awaken the dead machines.
+The truth is whispered, not spoken. Bogdam guides his companions to a revelation buried deep: the hidden staircase, winding downward into [Lubos](../../gazetteer/Pollen/FoundersBlessed/Lubos.md)’ forbidden workshop. There, in the depths, a hundred lifeless automata await resurrection. Amid the hiss of melting African gold coins and the sharp scent of [Kievan](../../gazetteer/Pollen/Kiev.md) artifacts, Lubos and Rayina labor in defiance of their pasts, exiles from the Protectorate now daring to awaken the dead machines.
 
 ![](https://i.imgur.com/44uQLQo.png)
 

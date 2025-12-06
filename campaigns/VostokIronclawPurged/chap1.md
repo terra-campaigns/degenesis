@@ -17,7 +17,7 @@ Following a ceremonial ritual, in which spores are cooked and prepared into smal
 
 Once inside the wall, they navigate softer paths and uncover hidden openings, their progress both cautious and swift. One night, they find themselves beneath a magnificent aurora borealis, a rare and wondrous sight that fills them with a renewed sense of purpose. The next day, Jacob discovers a new path, but a sudden torrent of rain threatens to drench them. They seek refuge by climbing the mycelium-covered matter, avoiding the worst of the downpour.
 
-Upon reaching the ruins of [Kramatorsk](../../locations/Kramatorsk.md), Dr. Sofia uncovers books, remnants of knowledge from a bygone era. Yuri, exploring a basement, encounters a child and his father, scrape traders who deal in ancient artefacts, selling them to [Chroniclers](https://degenesis.com/world/cults/chroniclers) for a currency known as Drafts. These traders reveal they hail from a place called [Shard](../../locations/Shard.md).
+Upon reaching the ruins of [Kramatorsk](../../gazetteer/Pollen/Kramatorsk.md), Dr. Sofia uncovers books, remnants of knowledge from a bygone era. Yuri, exploring a basement, encounters a child and his father, scrape traders who deal in ancient artefacts, selling them to [Chroniclers](https://degenesis.com/world/cults/chroniclers) for a currency known as Drafts. These traders reveal they hail from a place called [Shard](../../gazetteer/Pollen/Shard.md).
 
 ![](https://i.imgur.com/5SbDe72.png)
 

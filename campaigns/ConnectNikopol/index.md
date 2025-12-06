@@ -18,7 +18,7 @@ footer_content:
 > As established [before crossing the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol3a/#the-cliques-mission-in-nikopol).
 
 - Unearth any connections the enigmatic city may have to [Vasco](https://degenesis.com/world/bio/spitalians/vasco)’s mystery—a ghost haunting Spitalian politics.
-- Probe [Nikopol](../../locations/Nikopol.md)’s underbelly, seeking to smuggle [Kievan](../../locations/Kiev.md) artefacts through the Storskis rail, their path destined for the Protectorate’s coffers.
+- Probe [Nikopol](../../gazetteer/Pollen/Nikopol.md)’s underbelly, seeking to smuggle [Kievan](../../gazetteer/Pollen/Kiev.md) artefacts through the Storskis rail, their path destined for the Protectorate’s coffers.
 - Twist the city's leadership into vassals of the Protectorate—or, failing that, identify and nurture a new [Rarogi](../../systems/backgrounds/rarogi.md) power that bends more easily to the Protectorate's will.
 
 ![](https://i.imgur.com/Vx1hNHb.png)

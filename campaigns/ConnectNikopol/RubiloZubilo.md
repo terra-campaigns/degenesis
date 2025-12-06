@@ -16,7 +16,7 @@ In the dim light of [Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateCl
 
 Time was against them. The air carried the scent of rust and old promises. Commando Prime listened, eyes sharp, before nodding once. “Come back after dinner. We’ll speak tactics then.”
 
-Outside, the world moved as if unaware of the storm brewing. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) and [Detina](../../gazetteer/Pollen/FoundersBlessed/BodganDetina.md) walked past, fingers entwined, lost in a moment of fragile joy. A rare sight in [Nikopol](../../locations/Nikopol.md). A reminder that even in the filth and decay, love still bloomed—brief, defiant, and destined to be swallowed by the dark.
+Outside, the world moved as if unaware of the storm brewing. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) and [Detina](../../gazetteer/Pollen/FoundersBlessed/BodganDetina.md) walked past, fingers entwined, lost in a moment of fragile joy. A rare sight in [Nikopol](../../gazetteer/Pollen/Nikopol.md). A reminder that even in the filth and decay, love still bloomed—brief, defiant, and destined to be swallowed by the dark.
 
 ### Elder Ivan waits
 

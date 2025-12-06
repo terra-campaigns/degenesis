@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kramatorsk
-parent: Directory
+parent: Pollen
 type: location
 
 ---

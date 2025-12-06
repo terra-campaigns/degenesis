@@ -28,7 +28,7 @@ During quarantine, Myron had several private meetings with her boss, [Prokhor](.
 
 ### Friends
 
-[Sublime Pax](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md) comes to meet her Clique companions as they leave quarantine with the Streltsys. The group has a chat, standing on one of the [Nikopol](../../locations/Nikopol.md)’s corridors with metal walls installed on rock, new and bygone graffiti covered metal plates screwed directly on rock walls. They feel relaxed and friendly, except maybe for [Elder Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md) and [Surgeon Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) – who feel antagonistic on how to deal with people infected by Sepsis.
+[Sublime Pax](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md) comes to meet her Clique companions as they leave quarantine with the Streltsys. The group has a chat, standing on one of the [Nikopol](../../gazetteer/Pollen/Nikopol.md)’s corridors with metal walls installed on rock, new and bygone graffiti covered metal plates screwed directly on rock walls. They feel relaxed and friendly, except maybe for [Elder Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md) and [Surgeon Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) – who feel antagonistic on how to deal with people infected by Sepsis.
 
 [Dexter](../../gazetteer/Pollen/ProtectorateClique/Dexter.md) approaches and makes a joke about Konrad, before offering his condolences to Isolde and Friedrick. His handshake offer is met by Isolde’s punch on his stomach. He is told off by the Anabaptist Sublime and leaves the area grunting.
 

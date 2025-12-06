@@ -12,7 +12,7 @@ region: Kiev
 
 ### The swapped offering
 
-The Fractal Forest south of [Kiev](../../locations/Kiev.md) stirs with an ancient hunger, its tendrils coiling beneath the loamy earth. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md), handpicked by her community, bears the heavy mantle of sacrifice. Her three-year-old child is the chosen offering to the Forest—a tribute to appease its alien and unknowable will.
+The Fractal Forest south of [Kiev](../../gazetteer/Pollen/Kiev.md) stirs with an ancient hunger, its tendrils coiling beneath the loamy earth. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md), handpicked by her community, bears the heavy mantle of sacrifice. Her three-year-old child is the chosen offering to the Forest—a tribute to appease its alien and unknowable will.
 
 ![](https://traintobaikonur.com/images/kids-play-combat-1600w.jpg)
 

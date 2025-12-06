@@ -102,7 +102,7 @@ Ivan is killed on the spot, a flintlock pistol headshot.
 
 ![](https://i.imgur.com/8cxt2dM.png)
 
-[Nikopol](../../locations/Nikopol.md) is now for the people.
+[Nikopol](../../gazetteer/Pollen/Nikopol.md) is now for the people.
 The Streltsys are locked outside and will perish.
 New rulers.
 With the Clique, or not. 

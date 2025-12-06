@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Protectorate Clique
-parent: Directory
+parent: Pollen
 has_children: true
 type: faction
 

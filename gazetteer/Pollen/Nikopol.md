@@ -4,7 +4,7 @@ layout: default
 title: Nikopol
 type: location
 role: A resilient underground bastion of humanity, crucial for its rich mining of rare metals and manganese, which sustain trade and survival. Its fortified structure and disciplined militias defend against the Primer, while its isolationism shields it from exploitation. Divided into miners, warriors, and traders, its society survives under the cultural and spiritual anchor of Founders’ Square, symbolizing hope amidst decay.
-parent: Directory
+parent: Pollen
 has_children: true
 
 image: https://i.imgur.com/93kPOn5.jpeg
@@ -26,7 +26,7 @@ details:
 
 ## History
 
-> Findings by [Anastasia](../gazetteer/Pollen/ProtectorateClique/Anastasia.md) on her research on Nikopol Public Archives
+> Findings by [Anastasia](ProtectorateClique/Anastasia.md) on her research on Nikopol Public Archives
 
 - The Rarogi have been in Nikopol for centuries. The city was a prosperous place in the past, providing mined ore and worked metals to the west.
 - Ivan and his father fought in a war with Leperos and Psychonauts. His father passes away, and Ivan rebuilds the city. After coming back from a battle far into the spore wall, Ivan comes back changed.
@@ -58,9 +58,9 @@ The Founders’ Square serves as a cultural and spiritual heart. It symbolizes a
 - Used for loading and unloading the trains.
 - Has a large quarantine section.
 
-### [Lubos](../gazetteer/Pollen/FoundersBlessed/Lubos.md)' workshop
+### [Lubos](FoundersBlessed/Lubos.md)' workshop
 
 - Disorganised mess of tools and equipment, including a smelting unit, bad lighting
 - Smell of oil and sweat
 - Hundreds of automata to be fixed
-- Visited in secret in [2594-05-08](../campaigns/ConnectNikopol/InNikopol02.md)
+- Visited in secret in [2594-05-08](../../campaigns/ConnectNikopol/InNikopol02.md)

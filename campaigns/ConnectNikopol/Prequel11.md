@@ -14,7 +14,7 @@ The vodka is bitter, but it warms their throats as they drink. [Detina](../../ga
 
 ![](https://i.imgur.com/MRzIO3z.png)
 
-> "Our journey began in [Kiev](../../locations/Kiev.md), the recruit band led by [Isolde](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md). A boat took us south, riding the veins of the old world. The river was sluggish, thick with winter’s grip, and soon the ice forced us ashore.
+> "Our journey began in [Kiev](../../gazetteer/Pollen/Kiev.md), the recruit band led by [Isolde](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md). A boat took us south, riding the veins of the old world. The river was sluggish, thick with winter’s grip, and soon the ice forced us ashore.
 > 
 > As we pressed onward, we passed a dying spore field, the rot giving way to something new—jagged fractal trees, their translucent limbs spiralling in unnatural perfection, reaching hungrily toward the grey sky.
 > 

@@ -28,7 +28,7 @@ As [Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) mend
 
 The Clique are dispatched on a mission: locate and rescue the Streltsys possibly sheltered in three surface checkpoints of the ruined city and bring them back to the Station.
 
-[Nikopol](../../locations/Nikopol.md) is cloaked in spider gossamer, nightfall weaving its sticky traps across their path. Moonlight floods the scene—no lamps needed, only courage and silence.
+[Nikopol](../../gazetteer/Pollen/Nikopol.md) is cloaked in spider gossamer, nightfall weaving its sticky traps across their path. Moonlight floods the scene—no lamps needed, only courage and silence.
 
 ![](https://i.imgur.com/QmIQOph.png)
 

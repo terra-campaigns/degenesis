@@ -13,7 +13,7 @@ region: East Pollen
 ### A Compelled Exchange
 
 - [Isolde Pax](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md) and [Konrad Jager](../../gazetteer/Pollen/ProtectorateClique/KonradJager.md) watch in silence as Dexter, a seasoned [Dexter](../../gazetteer/Pollen/ProtectorateClique/Dexter.md), and [Purifier Harlem](../../gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md) engage in a cryptic trade.
-- The supposed transaction closes, and Dexter, now clutching a rare Kievan artefact, confronts a young Cossack woman who shouts in a desperate voice: "But I don't want [Nikopol](../../locations/Nikopol.md) rates, I wish to sell it in the [Protectorate](https://degenesis.com/world/stories/borca/justitian)"
+- The supposed transaction closes, and Dexter, now clutching a rare Kievan artefact, confronts a young Cossack woman who shouts in a desperate voice: "But I don't want [Nikopol](../../gazetteer/Pollen/Nikopol.md) rates, I wish to sell it in the [Protectorate](https://degenesis.com/world/stories/borca/justitian)"
 - Naively, Konrad interjects. What follows is chaos—a scuffle that ends with Isolde sprawled in the dirt, her nose shattered. Dexter vanishes into the shadows, the artefact secure in his grip.
 
 ### The Clique's Mission in Nikopol

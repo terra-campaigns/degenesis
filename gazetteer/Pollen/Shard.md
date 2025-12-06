@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shard
-parent: Directory
+parent: Pollen
 type: location
 ---
 # Shard

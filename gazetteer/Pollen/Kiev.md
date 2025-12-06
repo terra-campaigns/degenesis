@@ -4,7 +4,7 @@ layout: default
 title: Kiev
 type: location
 role: 
-parent: Directory
+parent: Pollen
 
 image: 
 
