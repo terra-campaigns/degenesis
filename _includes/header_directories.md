@@ -14,15 +14,15 @@
 
 {% if page.images  & page.flavour_text%}
 
-|                        |                         |
-| ---------------------- | ----------------------- |
-| ![]({{ page.images }}) | {{ page.flavour_text }} |
+|                           |                         |
+| ------------------------- | ----------------------- |
+| ![](../{{ page.images }}) | {{ page.flavour_text }} |
 
 {% elsif page.images %}
 
-|                        |
-| ---------------------- |
-| ![]({{ page.images }}) |
+|                           |
+| ------------------------- |
+| ![](../{{ page.images }}) |
 
 {% elsif page.flavour_text %}
 
