@@ -12,9 +12,9 @@ region: East Pollen
 
 ### Early Morning
 
-- The [Clique](../../people/ProtectorateClique/index.md) begins the day before dawn, loading the cars under a solemn atmosphere. [Isolde Pax](../../people/ProtectorateClique/IsoldePax.md) leads an Anabaptist prayer, imbuing the moment with quiet reverence.
-- [Konrad Jager](../../people/ProtectorateClique/KonradJager.md), [Elara Nyx](../../people/ProtectorateClique/ElaraNyx.md), [Marcus Voss](../../people/ProtectorateClique/MarcusVoss.md) and Isolde board a car laden with grain. [Yelena](../../people/ProtectorateClique/Yelena.md), a Cossack curious and awestruck by the group, joins them on their journey.
-- [Dexter](../../people/ProtectorateClique/Dexter.md) exchanges a knowing glance with [Purifier Harlem](../../people/ProtectorateClique/PurifierHarlem.md), tasked with ensuring the cars are secure. However, he locks the group inside their car.
+- The [Clique](../../gazetteer/Pollen/ProtectorateClique/index.md) begins the day before dawn, loading the cars under a solemn atmosphere. [Isolde Pax](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md) leads an Anabaptist prayer, imbuing the moment with quiet reverence.
+- [Konrad Jager](../../gazetteer/Pollen/ProtectorateClique/KonradJager.md), [Elara Nyx](../../gazetteer/Pollen/ProtectorateClique/ElaraNyx.md), [Marcus Voss](../../gazetteer/Pollen/ProtectorateClique/MarcusVoss.md) and Isolde board a car laden with grain. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md), a Cossack curious and awestruck by the group, joins them on their journey.
+- [Dexter](../../gazetteer/Pollen/ProtectorateClique/Dexter.md) exchanges a knowing glance with [Purifier Harlem](../../gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md), tasked with ensuring the cars are secure. However, he locks the group inside their car.
 - Elara manages to flag down a Spitalian inspecting nearby cars. The Spitalian retrieves a key and frees the group, averting disaster.
 
 ![](https://i.imgur.com/AJau74H.png)
@@ -32,7 +32,7 @@ region: East Pollen
 ### Ambush
 
 - Without warning, the train halts. [Husk Spiders](../../creatures/HuskSpiderSwarm.md) swarm the cars, while [Migrants](../../creatures/Migrants.md) seize the moment to attack, slashing through soldiers venturing into the mycelium.
-- Marcus charges toward the front of the train, Konrad and Elara following closely. They find the tracks ahead sabotaged, leaving the signal car unable to proceed. [Commando Prime Klaus](../../people/ProtectorateClique/ComPrimeKlaus.md) orders the group to protect the Storksis unit making the repairs.
+- Marcus charges toward the front of the train, Konrad and Elara following closely. They find the tracks ahead sabotaged, leaving the signal car unable to proceed. [Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md) orders the group to protect the Storksis unit making the repairs.
 - A Migrant abomination advances. Marcus, wielding his bidenhander, confronts it and slays the creature. Yet, something goes awry—Marcus turns on a group of Cossacks rushing to help. They retaliate, gunning him down. Marcus’s life ends amidst the Spore Wall’s haunting fungal mist.
 - The Clique retreats back to the relative safety of the wagons, while fungicide is deployed to stem the Migrants’ encroachment.
 

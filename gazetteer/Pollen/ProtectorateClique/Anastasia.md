@@ -39,7 +39,7 @@ gear:
 - Tattoos and paraphernalia on self (some belonging to other Cults), carries a large shield on her back
 - Protects Zofia, the child of [Yelena](Yelena.md)
 - Uses Bion ritualistically
-- Broke her leg in an [encounter with Leperos](../../campaigns/ConnectNikopol/StationWork2.md).
+- Broke her leg in an [encounter with Leperos](../../../campaigns/ConnectNikopol/StationWork2.md).
 
 {% comment %}
 
@@ -107,17 +107,6 @@ LARGE SHIELD WITH EMBLEM
 HEAVY LEATHERS
 SURVIVAL KNIFE
 200 CHRONICLER DRAFTS
-
-----------------------------------------------------  
-  
->> MPF - MEMETIC PROPAGATION FORECAST <<  
-  
-ALLIES .............: 1  
-AUTHORITY ..........: 1  
-RENOWN .............: 1  
-RESOURCES ..........: 1  
-SECRETS ............: 3  
-NETWORK ............: 2  
   
 ====================================================  
 === ********* END OF DOT-MATRIX RECORD ********* ===  

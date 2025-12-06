@@ -14,13 +14,13 @@ region: Nikopol
 
 ### The Other Side of the Streltsys
 
-[Thaddeus](../../people/ProtectorateClique/ThaddeusCain.md) and [Anastasia](../../people/ProtectorateClique/Anastasia.md) fear [Jorn Kal](../../people/FoundersBlessed/JornKal.md)’s madness—his scheme to poison a spore field is reckless and deadly.
+[Thaddeus](../../gazetteer/Pollen/ProtectorateClique/ThaddeusCain.md) and [Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md) fear [Jorn Kal](../../gazetteer/Pollen/FoundersBlessed/JornKal.md)’s madness—his scheme to poison a spore field is reckless and deadly.
 
-As [Friedrich](../../people/ProtectorateClique/FriedrichVoigt.md) mends from his fall, Anastasia brokers a deal with Myron. Two Rarogi piercers are handed over to the Clique members.
+As [Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) mends from his fall, Anastasia brokers a deal with Myron. Two Rarogi piercers are handed over to the Clique members.
 
 ![](https://i.imgur.com/RkYO4Ub.png)
 
-[Aaron Partow](../../people/ProtectorateClique/AaronPartow.md) joins the Clique, replacing Sasha, who is sent to hunt down Wren, the Apocalyptic lost after the spider rain.
+[Aaron Partow](../../gazetteer/Pollen/ProtectorateClique/AaronPartow.md) joins the Clique, replacing Sasha, who is sent to hunt down Wren, the Apocalyptic lost after the spider rain.
 
 ![](https://i.imgur.com/hzkCjwq.png)
 
@@ -42,7 +42,7 @@ While Thaddeus and Friedrick examine the dead, shadows shift. Anastasia spots Le
 
 They scramble for higher ground; chaos erupts. Aaron takes a savage cut to the face, Anastasia’s leg is broken in the fray. The Leperos fall—but they are no Leperos. Starved, diseased clanners masquerading in filth and desperation.
 
-One survives. She names herself [Mirova](../../people/Vostok/mirova.md). Taken to Nikopol, she faces quarantine... and questions.
+One survives. She names herself [Mirova](../../gazetteer/Pollen/Vostok/mirova.md). Taken to Nikopol, she faces quarantine... and questions.
 
 ![](https://i.imgur.com/GjAvGPx.png)
 

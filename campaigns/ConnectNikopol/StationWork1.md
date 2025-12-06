@@ -10,7 +10,7 @@ region: Nikopol
 
 {% include chapter_header.md %}
 
-### Narrated by [Jorn Kal](../../people/FoundersBlessed/JornKal.md)
+### Narrated by [Jorn Kal](../../gazetteer/Pollen/FoundersBlessed/JornKal.md)
 
 ![](https://i.imgur.com/nK5OG2J.png)
 
@@ -21,7 +21,7 @@ We arrived at the station—a place of brutal order and sharp lines. The Strelts
 ![](https://i.imgur.com/w6NOiqP.png)
 
 
-I was accompanying [Friedrich Voigt](../../people/ProtectorateClique/FriedrichVoigt.md), [Anastasia Frostmane](../../people/ProtectorateClique/Anastasia.md), [Sasha Volkov](../../people/ProtectorateClique/SashaVolkov.md), [Thaddeus Cain](../../people/ProtectorateClique/ThaddeusCain.md), and Wren—the Apocalyptic we’d been tasked with babysitting. It felt wrong having Wren among us, but orders were orders. Sokolov thought Anastasia could keep an eye on him.
+I was accompanying [Friedrich Voigt](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md), [Anastasia Frostmane](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md), [Sasha Volkov](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md), [Thaddeus Cain](../../gazetteer/Pollen/ProtectorateClique/ThaddeusCain.md), and Wren—the Apocalyptic we’d been tasked with babysitting. It felt wrong having Wren among us, but orders were orders. Sokolov thought Anastasia could keep an eye on him.
 
 ![](https://i.imgur.com/Glh7UKv.png)
 

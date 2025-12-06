@@ -12,13 +12,13 @@ region: Kiev
 
 ### The swapped offering
 
-The Fractal Forest south of [Kiev](../../locations/Kiev.md) stirs with an ancient hunger, its tendrils coiling beneath the loamy earth. [Yelena](../../people/ProtectorateClique/Yelena.md), handpicked by her community, bears the heavy mantle of sacrifice. Her three-year-old child is the chosen offering to the Forest—a tribute to appease its alien and unknowable will.
+The Fractal Forest south of [Kiev](../../locations/Kiev.md) stirs with an ancient hunger, its tendrils coiling beneath the loamy earth. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md), handpicked by her community, bears the heavy mantle of sacrifice. Her three-year-old child is the chosen offering to the Forest—a tribute to appease its alien and unknowable will.
 
 ![](https://traintobaikonur.com/images/kids-play-combat-1600w.jpg)
 
 ![](https://i.imgur.com/AJau74H.png)
 
-Yelena’s closest confidant, [Anastasia](../../people/ProtectorateClique/Anastasia.md), a shaman whose tattoos ripple with the whispers of the Primer, cannot bear to see innocence consumed. In the dead of night, Anastasia enacts a desperate ploy: she swaps the child with another—a slight, nameless infant plucked from an uncaring world. On the day of the offer, they are accompanied by the Cossack Scout [Sasha Volkov](../../people/ProtectorateClique/SashaVolkov.md).
+Yelena’s closest confidant, [Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md), a shaman whose tattoos ripple with the whispers of the Primer, cannot bear to see innocence consumed. In the dead of night, Anastasia enacts a desperate ploy: she swaps the child with another—a slight, nameless infant plucked from an uncaring world. On the day of the offer, they are accompanied by the Cossack Scout [Sasha Volkov](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md).
 
 ![](https://i.imgur.com/IOuWmY0.png)
 
@@ -29,9 +29,9 @@ The Forest parts its soil with organic grace, revealing a pulsing, veined maw—
 
 ### A stranger recruiter
 
-Returning to Kiev by boat, the trio’s minds are restless, their shared guilt mixing with the rhythmic lapping of water against the hull. Among the passengers is [Isolde Pax](../../people/ProtectorateClique/IsoldePax.md), an Anabaptist clad in battle-worn steel and an undisclosed injury. She reveals her purpose: recruiting mercenaries for the Protectorate, a mission to fortify their tenuous hold in Pollen.
+Returning to Kiev by boat, the trio’s minds are restless, their shared guilt mixing with the rhythmic lapping of water against the hull. Among the passengers is [Isolde Pax](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md), an Anabaptist clad in battle-worn steel and an undisclosed injury. She reveals her purpose: recruiting mercenaries for the Protectorate, a mission to fortify their tenuous hold in Pollen.
 
-Another traveler steps forward—[Sokolov](../../people/FoundersBlessed/Sokolov.md), an Apocalyptic trader of Bion, his sly grin promising bargains that bite as much as they bless. He shares his plans to liquidate his stock in Kiev and vanish southwest to Nikopol.
+Another traveler steps forward—[Sokolov](../../gazetteer/Pollen/FoundersBlessed/Sokolov.md), an Apocalyptic trader of Bion, his sly grin promising bargains that bite as much as they bless. He shares his plans to liquidate his stock in Kiev and vanish southwest to Nikopol.
 
 ![](https://i.imgur.com/62OmEw8.png)
 

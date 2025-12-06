@@ -9,7 +9,7 @@ has_toc: FALSE
 
 # {{ page.title }}
 
-The hunter-gatherer clan known as the [Vostok](../../people/Vostok/index.md) Kin is deeply connected to your land and traditions. Over the past decade, the relentless advance of the spore fields from the east of [Pollen](https://degenesis.com/world/cultures/pollen) has placed their ancestral homeland in grave danger. 
+The hunter-gatherer clan known as the [Vostok](../../gazetteer/Pollen/Vostok/index.md) Kin is deeply connected to your land and traditions. Over the past decade, the relentless advance of the spore fields from the east of [Pollen](https://degenesis.com/world/cultures/pollen) has placed their ancestral homeland in grave danger. 
 
 ![](https://i.imgur.com/aCOHfMq.jpeg)
 
@@ -21,7 +21,7 @@ The Lesnje, the whispering guardians of the woods, have grown increasingly aggre
 
 ![](https://i.imgur.com/2CzntVF.png)
 
-Following a brutal Ironclaw raid that resulted in the abduction of five Vostok women, Elder [Mirova](../../people/Vostok/mirova.md) calls for a council. The clan’s shamans, led by [Yelena](../../people/Vostok/yelena.md), the Seer, have had disturbing visions of a cataclysmic future. The council places its hope in a perilous journey to find a new homeland. Rumours speak of a valley south of the ruins of Kiev where the taiga is strong and rivers are clean. [Scouts](../../people/Vostok/index.md) have been chosen for this endeavour, tasked with mapping the path to this promised land, seeking alliances with other clans and tribes along the way.
+Following a brutal Ironclaw raid that resulted in the abduction of five Vostok women, Elder [Mirova](../../gazetteer/Pollen/Vostok/mirova.md) calls for a council. The clan’s shamans, led by [Yelena](../../gazetteer/Pollen/Vostok/yelena.md), the Seer, have had disturbing visions of a cataclysmic future. The council places its hope in a perilous journey to find a new homeland. Rumours speak of a valley south of the ruins of Kiev where the taiga is strong and rivers are clean. [Scouts](../../gazetteer/Pollen/Vostok/index.md) have been chosen for this endeavour, tasked with mapping the path to this promised land, seeking alliances with other clans and tribes along the way.
 
 ## Timeline of Events
 

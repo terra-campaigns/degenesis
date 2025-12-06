@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vostok Kin
-parent: Directory
+parent: Pollen
 type: faction
 has_children: true
 

@@ -36,10 +36,10 @@ gear:
 
 {% include statblock_pc.md %}
 
-- Godfather of [Konrad Jager](KonradJager.md), old friend of his father: no kids, so treated Konrad like a son he would spoil when he was a kid - gave him interesting gifts & encouraged him to be a good [Spitalian](../../systems/backgrounds/spitalians.md).
+- Godfather of [Konrad Jager](KonradJager.md), old friend of his father: no kids, so treated Konrad like a son he would spoil when he was a kid - gave him interesting gifts & encouraged him to be a good [Spitalian](../../../systems/backgrounds/spitalians.md).
 - Travel alone across Pollen to seek out information about The Primer through what has been recorded in texts rather than from direct experiment / contact.
 - Helps those in medical need.
-- Had found some menacing information about the HIVE research group, and had it cryptographed with the help of the [Kievan](../../locations/Kiev.md) Chronicler.
+- Had found some menacing information about the HIVE research group, and had it cryptographed with the help of the [Kievan](../../../locations/Kiev.md) Chronicler.
 
 
 {% comment %}

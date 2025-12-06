@@ -10,11 +10,11 @@ region: East Pollen
 
 {% include chapter_header.md %}
 
-The vodka is bitter, but it warms their throats as they drink. [Detina](../../people/FoundersBlessed/BodganDetina.md) only listens to the other's story, and they all sit close. A year has passed since they stood before the Anabaptist Sublime Adriana. Tonight, in the cold embrace of memory, they return to the days that led them there. [Yelena](../../people/ProtectorateClique/Yelena.md) speaks first. “I remember Sofia’s hands,” she murmurs, “stitching [Aaron](../../people/ProtectorateClique/AaronPartow.md)’s jacket with red thread, as if sewing his fate into the seams.
+The vodka is bitter, but it warms their throats as they drink. [Detina](../../gazetteer/Pollen/FoundersBlessed/BodganDetina.md) only listens to the other's story, and they all sit close. A year has passed since they stood before the Anabaptist Sublime Adriana. Tonight, in the cold embrace of memory, they return to the days that led them there. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) speaks first. “I remember Sofia’s hands,” she murmurs, “stitching [Aaron](../../gazetteer/Pollen/ProtectorateClique/AaronPartow.md)’s jacket with red thread, as if sewing his fate into the seams.
 
 ![](https://i.imgur.com/MRzIO3z.png)
 
-> "Our journey began in [Kiev](../../locations/Kiev.md), the recruit band led by [Isolde](../../people/ProtectorateClique/IsoldePax.md). A boat took us south, riding the veins of the old world. The river was sluggish, thick with winter’s grip, and soon the ice forced us ashore.
+> "Our journey began in [Kiev](../../locations/Kiev.md), the recruit band led by [Isolde](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md). A boat took us south, riding the veins of the old world. The river was sluggish, thick with winter’s grip, and soon the ice forced us ashore.
 > 
 > As we pressed onward, we passed a dying spore field, the rot giving way to something new—jagged fractal trees, their translucent limbs spiralling in unnatural perfection, reaching hungrily toward the grey sky.
 > 
@@ -22,7 +22,7 @@ The vodka is bitter, but it warms their throats as they drink. [Detina](../../pe
 > 
 > Days bled into nights. Sleep came fitfully, the howls always too close. Morale withered. Hunger gnawed and cold harmed. Then we found a mammoth’s carcass. The meat was already rotten.
 > 
-> Crossing the frozen tributary was our trial by ice. Aaron stepped forward first, testing the frozen water. His mistake. The Gendos surged from the cold mist, shadows moving in an unholy rhythm. Aaron turned, barely avoiding the first lunge. Luckily, Isolde and [Sasha](../../people/ProtectorateClique/SashaVolkov.md) went fast, the beasts scattering like nightmares in the morning sun.
+> Crossing the frozen tributary was our trial by ice. Aaron stepped forward first, testing the frozen water. His mistake. The Gendos surged from the cold mist, shadows moving in an unholy rhythm. Aaron turned, barely avoiding the first lunge. Luckily, Isolde and [Sasha](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md) went fast, the beasts scattering like nightmares in the morning sun.
 > 
 > ![](https://i.imgur.com/Bapfk9X.png) 
 > 

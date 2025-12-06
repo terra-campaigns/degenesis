@@ -16,7 +16,7 @@ The [Rarogi](../../systems/backgrounds/rarogi.md), once steadfast in their dutie
 
 ![](https://traintobaikonur.com/images/kids-play-combat-1600w.jpg)
 
-The first group of the Clique was released: [Anastasia](../../people/ProtectorateClique/Anastasia.md), [Konrad](../../people/ProtectorateClique/KonradJager.md), [Sasha](../../people/ProtectorateClique/SashaVolkov.md), [Yelena](../../people/ProtectorateClique/Yelena.md), and her young daughter Zofia. Their liberation was observed by four armoured Rarogi, their bast plating heavy with tradition and authority.
+The first group of the Clique was released: [Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md), [Konrad](../../gazetteer/Pollen/ProtectorateClique/KonradJager.md), [Sasha](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md), [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md), and her young daughter Zofia. Their liberation was observed by four armoured Rarogi, their bast plating heavy with tradition and authority.
 
 ![](https://i.imgur.com/RYnGj5P.png)
 
@@ -24,12 +24,12 @@ As they made their way toward the subterranean city, the Rarogi spoke of the sum
 
 ### Friedrich Voigt's tome
 
-The group's path goes through a large square tunnel. Here, Konrad broke the silence, recounting the tale of his prized tome to Anastasia. But his story took an unexpected turn: Anastasia revealed she had met [Friedrich Voigt](../../people/ProtectorateClique/FriedrichVoigt.md) in [Kiev](../../locations/Kiev.md) eight years prior. The man, known as "Old Fritz," had sought the Kievan Chroniclers' help to encrypt stolen data—stolen research from the Spitalian [HIVE group](https://degenesis.com/world/stories/spitalians/vasco).
+The group's path goes through a large square tunnel. Here, Konrad broke the silence, recounting the tale of his prized tome to Anastasia. But his story took an unexpected turn: Anastasia revealed she had met [Friedrich Voigt](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) in [Kiev](../../locations/Kiev.md) eight years prior. The man, known as "Old Fritz," had sought the Kievan Chroniclers' help to encrypt stolen data—stolen research from the Spitalian [HIVE group](https://degenesis.com/world/stories/spitalians/vasco).
 
 ![](https://i.imgur.com/8yqbxFh.png)
 
 
-Their conversation was interrupted by [Sokolov](../../people/FoundersBlessed/Sokolov.md). Emerging from deeper in the tunnel, he was mid-deal with a shirtless reveller, whose drug-fuelled movements seemed more convulsion than dance. Sokolov, ever pragmatic, boasted of his [Bion](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn) traffic network within Nikopol, a venture nearly a year old. Yet his gaze betrayed restlessness—his heart remained set on [Africa](https://degenesis.com/world/cultures/africa), where ambition and opportunity waited.
+Their conversation was interrupted by [Sokolov](../../gazetteer/Pollen/FoundersBlessed/Sokolov.md). Emerging from deeper in the tunnel, he was mid-deal with a shirtless reveller, whose drug-fuelled movements seemed more convulsion than dance. Sokolov, ever pragmatic, boasted of his [Bion](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn) traffic network within Nikopol, a venture nearly a year old. Yet his gaze betrayed restlessness—his heart remained set on [Africa](https://degenesis.com/world/cultures/africa), where ambition and opportunity waited.
 
 ![](https://i.imgur.com/qrb62gw.png)
 
@@ -42,7 +42,7 @@ The Founder's Square was a cacophony of hedonism. Drunken laughter mingled with 
 
 For many, it was freedom incarnate; for young Sofia, it was an assault on her senses. As she began to wail, Yelena whisked her back to the relative quiet of the tunnel. Sasha followed, his concern for the child palpable, but his attempts to soothe her proved futile.
 
-Within the square, Anastasia encountered [Prokhor](../../people/FoundersBlessed/Prokhor.md), the hardened leader of the Streltsys, Nikopol’s special operatives. Their exchange in an office room was brief. On her way out, Anastasia pockets a [book of some sorts](https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries).
+Within the square, Anastasia encountered [Prokhor](../../gazetteer/Pollen/FoundersBlessed/Prokhor.md), the hardened leader of the Streltsys, Nikopol’s special operatives. Their exchange in an office room was brief. On her way out, Anastasia pockets a [book of some sorts](https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries).
 
 ![](https://i.imgur.com/J01Rztk.png)
 

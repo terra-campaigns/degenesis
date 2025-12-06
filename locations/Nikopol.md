@@ -26,7 +26,7 @@ details:
 
 ## History
 
-> Findings by [Anastasia](../people/ProtectorateClique/Anastasia.md) on her research on Nikopol Public Archives
+> Findings by [Anastasia](../gazetteer/Pollen/ProtectorateClique/Anastasia.md) on her research on Nikopol Public Archives
 
 - The Rarogi have been in Nikopol for centuries. The city was a prosperous place in the past, providing mined ore and worked metals to the west.
 - Ivan and his father fought in a war with Leperos and Psychonauts. His father passes away, and Ivan rebuilds the city. After coming back from a battle far into the spore wall, Ivan comes back changed.
@@ -58,7 +58,7 @@ The Founders’ Square serves as a cultural and spiritual heart. It symbolizes a
 - Used for loading and unloading the trains.
 - Has a large quarantine section.
 
-### [Lubos](../people/FoundersBlessed/Lubos.md)' workshop
+### [Lubos](../gazetteer/Pollen/FoundersBlessed/Lubos.md)' workshop
 
 - Disorganised mess of tools and equipment, including a smelting unit, bad lighting
 - Smell of oil and sweat

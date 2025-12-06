@@ -42,4 +42,4 @@ And now, for all that she knows, she's always been a faithful Anabaptist, workin
 - Melancholic and in thoughts. Respectful of hierarchy, faithful and virtuous. Around 40 yo.
 - Patience of a mountain. Disposition of the sea.
 - Crooked nose after being bested by [Dexter](Dexter.md)
-- Had [some illness in 2593](../../campaigns/ConnectNikopol/Prequel10.md), before recruiting for the [Clique](index.md)
+- Had [some illness in 2593](../../../campaigns/ConnectNikopol/Prequel10.md), before recruiting for the [Clique](index.md)

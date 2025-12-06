@@ -15,16 +15,16 @@ region: Nikopol
 The mess hall is empty.
 A strange feeling—will the Primer answer the violence?
 The Streltsys are celebrating at the station.
-There are no miners in the hall, only the [Clique](../../people/ProtectorateClique/index.md) is there.
+There are no miners in the hall, only the [Clique](../../gazetteer/Pollen/ProtectorateClique/index.md) is there.
 
-[Varvara Semyonich](../../people/FoundersBlessed/VarvaraSemyonich.md) survived the ambush.
+[Varvara Semyonich](../../gazetteer/Pollen/FoundersBlessed/VarvaraSemyonich.md) survived the ambush.
 She tries to befriend the Spitalians first.
-[Commando Prime Klaus](../../people/ProtectorateClique/ComPrimeKlaus.md) is lost in thought.
-[Erasmus Kline](../../people/ProtectorateClique/ErasmusKline.md) tries to find a way to act.
+[Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md) is lost in thought.
+[Erasmus Kline](../../gazetteer/Pollen/ProtectorateClique/ErasmusKline.md) tries to find a way to act.
 
-[Anastasia](../../people/ProtectorateClique/Anastasia.md) speaks with [Mirova](../../people/Vostok/mirova.md).
+[Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md) speaks with [Mirova](../../gazetteer/Pollen/Vostok/mirova.md).
 Where are the other Cossacks?
-[Sokolov](../../people/FoundersBlessed/Sokolov.md) arrives for dinner.
+[Sokolov](../../gazetteer/Pollen/FoundersBlessed/Sokolov.md) arrives for dinner.
 He is unhappy with something—his supply?
 
 Shouts and hurdles.
@@ -47,7 +47,7 @@ They run towards the northeast exit.
 
 ### Awaken
 
-[Lubos](../../people/FoundersBlessed/Lubos.md) runs towards them.
+[Lubos](../../gazetteer/Pollen/FoundersBlessed/Lubos.md) runs towards them.
 The [ANSUMO](InNikopol03.md) has awakened.
 It is building something with the batteries.
 It is fast.
@@ -96,7 +96,7 @@ Varvars follows.
 
 ![](https://i.imgur.com/XOOTGWB.png)
 
-[Vira](../../people/FoundersBlessed/Vira.md) holds [Elder Ivan](../../people/FoundersBlessed/IvanTheWise.md), who pleads for his freedom.
+[Vira](../../gazetteer/Pollen/FoundersBlessed/Vira.md) holds [Elder Ivan](../../gazetteer/Pollen/FoundersBlessed/IvanTheWise.md), who pleads for his freedom.
 Erasmus decided not to stop the miners.
 Ivan is killed on the spot, a flintlock pistol headshot.
 

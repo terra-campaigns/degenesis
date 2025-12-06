@@ -27,7 +27,7 @@ notes:
 
 > {{ page.status }}
 
-> Fierce warrior from the [Vostok](Vostok/index.md) Kin
+> Fierce warrior from the [Vostok](index.md) Kin
 
 ![](https://i.imgur.com/U1XyNfX.png)
 

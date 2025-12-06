@@ -12,8 +12,8 @@ region: East Pollen
 
 ### Arrival in [Cherasky](../../locations/Cherasky.md)
 
-- The [Clique](../../people/ProtectorateClique/index.md) gathers under [Commando Prime Klaus](../../people/ProtectorateClique/ComPrimeKlaus.md), whose orders resonate with discipline and necessity—clearing frozen mud from the tracks begins.
-- [Inquisitor Thorne](../../people/ProtectorateClique/InquisitorThorne.md), [Isolde Pax](../../people/ProtectorateClique/IsoldePax.md), [Dr. Moreau](../../people/ProtectorateClique/DrMoreau.md), [Marcus Voss](../../people/ProtectorateClique/MarcusVoss.md) and [Konrad Jager](../../people/ProtectorateClique/KonradJager.md) go to the eastern tracks.
+- The [Clique](../../gazetteer/Pollen/ProtectorateClique/index.md) gathers under [Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md), whose orders resonate with discipline and necessity—clearing frozen mud from the tracks begins.
+- [Inquisitor Thorne](../../gazetteer/Pollen/ProtectorateClique/InquisitorThorne.md), [Isolde Pax](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md), [Dr. Moreau](../../gazetteer/Pollen/ProtectorateClique/DrMoreau.md), [Marcus Voss](../../gazetteer/Pollen/ProtectorateClique/MarcusVoss.md) and [Konrad Jager](../../gazetteer/Pollen/ProtectorateClique/KonradJager.md) go to the eastern tracks.
 - Marcus sketches Klaus, capturing the grit of leadership etched in lines and shadow.
 - They accompany a Storskis, who is responsible for driving and operating the cleaning car.
 

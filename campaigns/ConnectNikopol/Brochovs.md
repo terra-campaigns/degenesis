@@ -13,7 +13,7 @@ region: Nikopol
 ### Traders' Workshop
 
 The air reeks of resin and cold steel. Within the traders’ workshop, sleds—some pristine, others mangled by the Wasteland—are being repaired under the glow of flickering oil lamps.
-[Aaron](../../people/ProtectorateClique/AaronPartow.md) would be interested, if he wasn't so exhausted of a sleepless night. [Orest](../../people/FoundersBlessed/Orest.md)'s map shows a new trading route. Not just for trade. For survival. A mass exodus.
+[Aaron](../../gazetteer/Pollen/ProtectorateClique/AaronPartow.md) would be interested, if he wasn't so exhausted of a sleepless night. [Orest](../../gazetteer/Pollen/FoundersBlessed/Orest.md)'s map shows a new trading route. Not just for trade. For survival. A mass exodus.
 
 ![](https://i.imgur.com/w7CaEsH.png)
 
@@ -25,7 +25,7 @@ The next caravan is bound for Brochov, bartering steel plates for whatever food 
 
 An hour beyond Nikopol, Five Spitalians emerge from the dust, dressed in patchwork armour over their suits. They are loud, boisterous, alive in a way that only those who have faced death too often can be.
 
-Their gazes shift. Respect for [Friedrich](../../people/ProtectorateClique/FriedrichVoigt.md) and [Isolde](../../people/ProtectorateClique/IsoldePax.md). Disdain for [Anastasia](../../people/ProtectorateClique/Anastasia.md) and [Sasha](../../people/ProtectorateClique/SashaVolkov.md), whom they regard as filthy, primitive. Their contempt is present in every glance, every sneer.
+Their gazes shift. Respect for [Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) and [Isolde](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md). Disdain for [Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md) and [Sasha](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md), whom they regard as filthy, primitive. Their contempt is present in every glance, every sneer.
 
 One of them carries a Numenon Vocalizer, a Spitalian artefact. The device hums, decoding the ether's whisper into musical tones. It is shut off.
 

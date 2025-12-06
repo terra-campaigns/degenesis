@@ -31,7 +31,7 @@ notes:
 
 > {{ page.status }}
 
-> [Vostok](Vostok/index.md) Kin's Shaman, follows the Lesnje
+> [Vostok](index.md) Kin's Shaman, follows the Lesnje
 
 ![](https://i.imgur.com/J9KPAaO.png)
 
