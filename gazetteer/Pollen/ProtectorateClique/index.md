@@ -9,6 +9,8 @@ type: faction
 
 # {{ page.title }}
 
+{% include header_directories.md %}
+
 Group established by the Protectorate to expand influence in Pollen.
 
 Council members are (as stablished in [Nikopol on 2594-05-08](../../../campaigns/ConnectNikopol/InNikopol02.md)):
