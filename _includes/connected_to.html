@@ -27,38 +27,6 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
   .image-gallery a img {width: 100%; display: block;}
 </style>
 
-{% assign count = page.images | size %}
-{% if count > 0 %}
-
-<p>
-  <br>
-</p>
-{: .text-delta }
-
-<div class="image-gallery">
-  {% for image in page.images %}
-    <a href="{{ site.url }}{{ image | relative_url }}" title="{{ page.title }}">
-      <img src="//wsrv.nl/?url={{ site.url }}{{ image | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ page.title }}"/>
-    </a>
-  {% endfor %}
-</div>
-{: .text-delta }
-{% endif %}
-
-{% assign count = all_references | size %}
-{% if page.hooks %} 
-  {% for hook in page.hooks %}
-  <p>
-  {{ hook }}
-  </p>
-  {: .fs-3 }
-  {% endfor %}
-{% elsif count > 0 %}
-
----
-
-{% endif %}
-
 {% assign count = all_references | where: 'type', 'people' | size %}
 {% if count > 0 %}
 <p>

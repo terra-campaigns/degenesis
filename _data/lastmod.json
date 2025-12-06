@@ -1,5 +1,6 @@
 {
     "index.md": "2025-W48",
+    "_includes/header_directories.md": "2025-W48",
     "_includes/24xx_modules/the-game.md": "2025-W48",
     "_includes/24xx_modules/rules.md": "2025-W48",
     "_includes/24xx_modules/character-creation.md": "2025-W48",
@@ -161,6 +162,5 @@
     "_notions/images.md": "2025-W46",
     "_notions/dump.md": "2025-W46",
     "_notions/inklings.md": "2025-W46",
-    "_includes/header_chapter.md": "2025-W36",
-    "_includes/header_directories.md": "2025-W25"
+    "_includes/header_chapter.md": "2025-W36"
 }

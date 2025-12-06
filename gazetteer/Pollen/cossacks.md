@@ -29,10 +29,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
-|                           |                         |
-| ------------------------- | ----------------------- |
-| ![]({{ page.images }}) | {{ page.flavour_text }} |
-
 ![](https://i.imgur.com/Z7QOT6x.png)
 
 {% comment %}
