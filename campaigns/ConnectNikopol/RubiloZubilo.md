@@ -16,13 +16,13 @@ In the dim light of [Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateCl
 
 Time was against them. The air carried the scent of rust and old promises. Commando Prime listened, eyes sharp, before nodding once. “Come back after dinner. We’ll speak tactics then.”
 
-Outside, the world moved as if unaware of the storm brewing. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) and [Detina](../../gazetteer/Pollen/FoundersBlessed/BodganDetina.md) walked past, fingers entwined, lost in a moment of fragile joy. A rare sight in [Nikopol](../../gazetteer/Pollen/Nikopol.md). A reminder that even in the filth and decay, love still bloomed—brief, defiant, and destined to be swallowed by the dark.
+Outside, the world moved as if unaware of the storm brewing. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) and [Detina](../../gazetteer/Pollen/Nikopol/BodganDetina.md) walked past, fingers entwined, lost in a moment of fragile joy. A rare sight in [index](../../gazetteer/Pollen/Nikopol/index.md). A reminder that even in the filth and decay, love still bloomed—brief, defiant, and destined to be swallowed by the dark.
 
 ### Elder Ivan waits
 
 ![](https://i.imgur.com/8cxt2dM.png)
 
-The office smelled of paper and spore tea. [Elder Ivan](../../gazetteer/Pollen/FoundersBlessed/IvanTheWise.md), his face a tapestry of scars, greeted them with a rasp that scraped against their ears. Here, in the heart of Founders’ Square, power sat cloaked in patience.
+The office smelled of paper and spore tea. [Elder Ivan](../../gazetteer/Pollen/Nikopol/IvanTheWise.md), his face a tapestry of scars, greeted them with a rasp that scraped against their ears. Here, in the heart of Founders’ Square, power sat cloaked in patience.
 
 The Elder probed, testing the edges of their knowledge, his words a game of knives. How much did the Clique truly know?
 
@@ -34,16 +34,16 @@ Aaron shifted, his words a deliberate misstep, a feint in the conversation’s d
 
 ### Burn, Baby, Burn
 
-“The plan is reckless,” [Prokhor](../../gazetteer/Pollen/FoundersBlessed/Prokhor.md) muttered, rubbing the grime from his hands, “but it might just work.”
+“The plan is reckless,” [Prokhor](../../gazetteer/Pollen/Nikopol/Prokhor.md) muttered, rubbing the grime from his hands, “but it might just work.”
 
-The Streltsys crouched on the ruined skyline, rifles ready under the rain. Below them, the spore field stretched out, a blight upon the land. [Jorn Kal](../../gazetteer/Pollen/FoundersBlessed/JornKal.md) laid it out simple: fire would lure them. Rubilo and Zubilo, the Psychonauts, would come screaming for vengeance. Then we run. Six kilometres back to the ruined city.
+The Streltsys crouched on the ruined skyline, rifles ready under the rain. Below them, the spore field stretched out, a blight upon the land. [Jorn Kal](../../gazetteer/Pollen/Nikopol/JornKal.md) laid it out simple: fire would lure them. Rubilo and Zubilo, the Psychonauts, would come screaming for vengeance. Then we run. Six kilometres back to the ruined city.
 
 ![](https://i.imgur.com/vrr2TRt.png)
 
 ![](https://i.imgur.com/PRJxlJg.png)
 
 
-[Purifier Harlem](../../gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md), young [Varvara Semyonich](../../gazetteer/Pollen/FoundersBlessed/VarvaraSemyonich.md), and the others listened, the weight of the coming horror pressing into their bones. High spirits masked the truth: not all of them would make it.
+[Purifier Harlem](../../gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md), young [Varvara Semyonich](../../gazetteer/Pollen/Nikopol/VarvaraSemyonich.md), and the others listened, the weight of the coming horror pressing into their bones. High spirits masked the truth: not all of them would make it.
 
 The fuel was spread. The match was struck. The world ignited.
 

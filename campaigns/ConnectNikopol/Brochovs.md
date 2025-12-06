@@ -13,7 +13,7 @@ region: Nikopol
 ### Traders' Workshop
 
 The air reeks of resin and cold steel. Within the traders’ workshop, sleds—some pristine, others mangled by the Wasteland—are being repaired under the glow of flickering oil lamps.
-[Aaron](../../gazetteer/Pollen/ProtectorateClique/AaronPartow.md) would be interested, if he wasn't so exhausted of a sleepless night. [Orest](../../gazetteer/Pollen/FoundersBlessed/Orest.md)'s map shows a new trading route. Not just for trade. For survival. A mass exodus.
+[Aaron](../../gazetteer/Pollen/ProtectorateClique/AaronPartow.md) would be interested, if he wasn't so exhausted of a sleepless night. [Orest](../../gazetteer/Pollen/Nikopol/Orest.md)'s map shows a new trading route. Not just for trade. For survival. A mass exodus.
 
 ![](https://i.imgur.com/w7CaEsH.png)
 

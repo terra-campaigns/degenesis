@@ -1,9 +1,9 @@
 ---
-template: loc v0.3
+template: 0.4
 layout: default
 title: Nikopol
 type: location
-role: A resilient underground bastion of humanity, crucial for its rich mining of rare metals and manganese, which sustain trade and survival. Its fortified structure and disciplined militias defend against the Primer, while its isolationism shields it from exploitation. Divided into miners, warriors, and traders, its society survives under the cultural and spiritual anchor of Founders’ Square, symbolizing hope amidst decay.
+role: A resilient underground bastion of humanity, crucial for its rich mining of rare metals and manganese, which sustain trade and survival. Its fortified structure and disciplined militias defend against the Primer, while its isolationism shields it from exploitation. Divided into miners, warriors, and traders, its society survives under the cultural and spiritual anchor of Founders’ Square, symbolising hope amidst decay.
 parent: Pollen
 has_children: true
 
@@ -12,7 +12,7 @@ image: https://i.imgur.com/93kPOn5.jpeg
 nav_exclude: false
 
 details:
-- The underground city resonates with the hum of ventilation fans, punctuated by the clang of metal and echoing footsteps of guards. Occasional drilling and blasting sounds from the mines form a constant industrial symphony. Above ground, the Spore Wall stands as a hostile barrier surrounding the city, with only a few fortified structures marking the surface.
+- The underground city resonates with the hum of ventilation fans, punctuated by the clang of metal and the echoing footsteps of guards. Occasional drilling and blasting sounds from the mines form a constant industrial symphony. Above ground, the Spore Wall stands as a hostile barrier surrounding the city, with only a few fortified structures visible on its surface.
 
 ---
 
@@ -21,6 +21,8 @@ details:
 {% comment %} =========== HIDDEN TEXT ===========
 
 ========== HIDDEN ENDS ========= {% endcomment %}
+
+![](https://i.imgur.com/93kPOn5.jpeg)
 
 ![Image](https://i.imgur.com/D2Cbj8c.jpeg)
 
@@ -58,9 +60,9 @@ The Founders’ Square serves as a cultural and spiritual heart. It symbolizes a
 - Used for loading and unloading the trains.
 - Has a large quarantine section.
 
-### [Lubos](FoundersBlessed/Lubos.md)' workshop
+### [Lubos](Nikopol/Lubos.md)' workshop
 
 - Disorganised mess of tools and equipment, including a smelting unit, bad lighting
 - Smell of oil and sweat
 - Hundreds of automata to be fixed
-- Visited in secret in [2594-05-08](../../campaigns/ConnectNikopol/InNikopol02.md)
+- Visited in secret in [2594-05-08](../../../campaigns/ConnectNikopol/InNikopol02.md)

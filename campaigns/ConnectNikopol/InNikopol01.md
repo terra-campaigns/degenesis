@@ -20,7 +20,7 @@ The first group of the Clique was released: [Anastasia](../../gazetteer/Pollen/P
 
 ![](https://i.imgur.com/RYnGj5P.png)
 
-As they made their way toward the subterranean city, the Rarogi spoke of the summer festival. [Nikopol](../../gazetteer/Pollen/Nikopol.md) was alive with revelry—food, drink, and music filled the Founder's Square.
+As they made their way toward the subterranean city, the Rarogi spoke of the summer festival. [index](../../gazetteer/Pollen/Nikopol/index.md) was alive with revelry—food, drink, and music filled the Founder's Square.
 
 ### Friedrich Voigt's tome
 
@@ -29,7 +29,7 @@ The group's path goes through a large square tunnel. Here, Konrad broke the sile
 ![](https://i.imgur.com/8yqbxFh.png)
 
 
-Their conversation was interrupted by [Sokolov](../../gazetteer/Pollen/FoundersBlessed/Sokolov.md). Emerging from deeper in the tunnel, he was mid-deal with a shirtless reveller, whose drug-fuelled movements seemed more convulsion than dance. Sokolov, ever pragmatic, boasted of his [Bion](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn) traffic network within Nikopol, a venture nearly a year old. Yet his gaze betrayed restlessness—his heart remained set on [Africa](https://degenesis.com/world/cultures/africa), where ambition and opportunity waited.
+Their conversation was interrupted by [Sokolov](../../gazetteer/Pollen/Nikopol/Sokolov.md). Emerging from deeper in the tunnel, he was mid-deal with a shirtless reveller, whose drug-fuelled movements seemed more convulsion than dance. Sokolov, ever pragmatic, boasted of his [Bion](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn) traffic network within Nikopol, a venture nearly a year old. Yet his gaze betrayed restlessness—his heart remained set on [Africa](https://degenesis.com/world/cultures/africa), where ambition and opportunity waited.
 
 ![](https://i.imgur.com/qrb62gw.png)
 
@@ -42,7 +42,7 @@ The Founder's Square was a cacophony of hedonism. Drunken laughter mingled with 
 
 For many, it was freedom incarnate; for young Sofia, it was an assault on her senses. As she began to wail, Yelena whisked her back to the relative quiet of the tunnel. Sasha followed, his concern for the child palpable, but his attempts to soothe her proved futile.
 
-Within the square, Anastasia encountered [Prokhor](../../gazetteer/Pollen/FoundersBlessed/Prokhor.md), the hardened leader of the Streltsys, Nikopol’s special operatives. Their exchange in an office room was brief. On her way out, Anastasia pockets a [book of some sorts](https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries).
+Within the square, Anastasia encountered [Prokhor](../../gazetteer/Pollen/Nikopol/Prokhor.md), the hardened leader of the Streltsys, Nikopol’s special operatives. Their exchange in an office room was brief. On her way out, Anastasia pockets a [book of some sorts](https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries).
 
 ![](https://i.imgur.com/J01Rztk.png)
 

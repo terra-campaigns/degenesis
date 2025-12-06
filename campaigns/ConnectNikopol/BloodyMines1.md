@@ -10,15 +10,15 @@ region: Nikopol
 
 {% include chapter_header.md %}
 
-### Narrated by [Bogdan Detina](../../gazetteer/Pollen/FoundersBlessed/BodganDetina.md)
+### Narrated by [Bogdan Detina](../../gazetteer/Pollen/Nikopol/BodganDetina.md)
 
 ![](https://i.imgur.com/YYqNlQ1.png)
 
 ### Preparations
 
-The morning began with the taste of ash and resentment on my tongue. Vira, always a calming presence, tried to bring peace to the air over breakfast. It didn’t help. The newcomers — [Isolde](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md), [Konrad](../../gazetteer/Pollen/ProtectorateClique/KonradJager.md), and [Sasha](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md) — spoke of high stakes, duty, and purpose, but to me, this was survival. My so-called redeployment to the mines had been nothing short of exile. If this powder gold meant something to Elder [Ivan](../../gazetteer/Pollen/FoundersBlessed/IvanTheWise.md), it was little more than another tool to tighten his grip on the people of Nikopol. Still, I kept my bitterness to myself. Revenge was a patient creature, waiting for its moment.
+The morning began with the taste of ash and resentment on my tongue. Vira, always a calming presence, tried to bring peace to the air over breakfast. It didn’t help. The newcomers — [Isolde](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md), [Konrad](../../gazetteer/Pollen/ProtectorateClique/KonradJager.md), and [Sasha](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md) — spoke of high stakes, duty, and purpose, but to me, this was survival. My so-called redeployment to the mines had been nothing short of exile. If this powder gold meant something to Elder [Ivan](../../gazetteer/Pollen/Nikopol/IvanTheWise.md), it was little more than another tool to tighten his grip on the people of Nikopol. Still, I kept my bitterness to myself. Revenge was a patient creature, waiting for its moment.
 
-I watched Konrad approach a Spitalian, Zenon, for something about his eye. Another sign of weakness the Sovrals would have crushed, I thought. Meanwhile, Sacha, a more spirited scout than I expected, convinced [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) to join us. Her hollow stare mirrored my own once, before [Vira](../../gazetteer/Pollen/FoundersBlessed/Vira.md) found me and gave me purpose again.
+I watched Konrad approach a Spitalian, Zenon, for something about his eye. Another sign of weakness the Sovrals would have crushed, I thought. Meanwhile, Sacha, a more spirited scout than I expected, convinced [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) to join us. Her hollow stare mirrored my own once, before [Vira](../../gazetteer/Pollen/Nikopol/Vira.md) found me and gave me purpose again.
 
 ![](https://i.imgur.com/XOOTGWB.png)
 

@@ -40,7 +40,7 @@ region: East Pollen
 
 ### Arrival in Nikopol
 
-- By nightfall, the battered Clique reaches [Nikopol](../../gazetteer/Pollen/Nikopol.md).
+- By nightfall, the battered Clique reaches [index](../../gazetteer/Pollen/Nikopol/index.md).
 - The cost of the ambush is devastating—one in every three members have perished, and many others are gravely wounded.
 - The group undergoes a gruelling decontamination process, treated like infected animals by figures in environmental suits.
 

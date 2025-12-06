@@ -10,11 +10,11 @@ region: Nikopol
 
 {% include chapter_header.md %}
 
-### Narrated by [Vira](../../gazetteer/Pollen/FoundersBlessed/Vira.md)
+### Narrated by [Vira](../../gazetteer/Pollen/Nikopol/Vira.md)
 
 ![](https://i.imgur.com/XOOTGWB.png)
 
-The darkness of the mines pressed down on us, a weight heavier than the stone above. The sound of rushing water echoed through the tunnels, and with it came our worst discovery. [Isolde](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md) and [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) waded through the icy flood to pull [Konrad](../../gazetteer/Pollen/ProtectorateClique/KonradJager.md)’s broken body from beneath the surface. His limbs twisted unnaturally, his young face frozen in agony. He had drowned conscious. I couldn’t bring myself to look too long—his suffering mirrored so many others under [Ivan](../../gazetteer/Pollen/FoundersBlessed/IvanTheWise.md)’s rule. Yelena, though, bore the weight in silence. I saw the cracks forming in her resolve. She’s taken too much loss, and now it’s written on her face like a scar that will never fade.
+The darkness of the mines pressed down on us, a weight heavier than the stone above. The sound of rushing water echoed through the tunnels, and with it came our worst discovery. [Isolde](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md) and [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) waded through the icy flood to pull [Konrad](../../gazetteer/Pollen/ProtectorateClique/KonradJager.md)’s broken body from beneath the surface. His limbs twisted unnaturally, his young face frozen in agony. He had drowned conscious. I couldn’t bring myself to look too long—his suffering mirrored so many others under [Ivan](../../gazetteer/Pollen/Nikopol/IvanTheWise.md)’s rule. Yelena, though, bore the weight in silence. I saw the cracks forming in her resolve. She’s taken too much loss, and now it’s written on her face like a scar that will never fade.
 
 As we moved deeper, the air grew heavier, pressing into our lungs like an unseen hand. [Isolde](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md)’s sharp gaze found something strange in the water—a pulsing, rhythmic motion. At first, it was a curiosity, but as [Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) inspected it hours later, the truth became clear. "The mine was alive. Its heartbeat resonated through the stone, its veins coursing with something more sinister than water." I told them there wasn’t enough oxygen in the tunnels, but no one seemed to listen. They talked nonsense, their voices tinged with delirium, and for a moment, I wondered if I was the mad one.
 
@@ -22,7 +22,7 @@ Friedrick said nothing as we trudged forward, but his eyes told a story of dread
 
 When we reached the ore, gold gleamed against the darkness, but it was a cruel prize. Beside it, flesh clung to the rock, unnatural and obscene. I tried to warn Valantyna, but she touched it before I could stop her. The change was immediate. Her face went slack, her mouth hung open, and from her throat came a voice that wasn’t hers: _“Will you all join me?”_
 
-Chaos followed. Isolde held Valantyna steady while [Sasha](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md) and [Detina](../../gazetteer/Pollen/FoundersBlessed/BodganDetina.md) pulled me back, my pickaxe poised to strike. Eventually, Valantyna returned to herself, sobbing and shaking. Friedrick, ever the fool, thought he could gather a sample. The mine punished his arrogance, and he screamed as the flesh consumed him for a moment. He won’t speak of what he saw, but the terror in his eyes says enough.
+Chaos followed. Isolde held Valantyna steady while [Sasha](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md) and [Detina](../../gazetteer/Pollen/Nikopol/BodganDetina.md) pulled me back, my pickaxe poised to strike. Eventually, Valantyna returned to herself, sobbing and shaking. Friedrick, ever the fool, thought he could gather a sample. The mine punished his arrogance, and he screamed as the flesh consumed him for a moment. He won’t speak of what he saw, but the terror in his eyes says enough.
 
 ![](https://img2.storyblok.com/3840x0/filters:quality(90)/f/72501/3840x2730/8b115906dd/pollen-tsar.jpg)
 

@@ -10,7 +10,7 @@ region: Nikopol
 
 {% include chapter_header.md %}
 
-### Narrated by [Jorn Kal](../../gazetteer/Pollen/FoundersBlessed/JornKal.md)
+### Narrated by [Jorn Kal](../../gazetteer/Pollen/Nikopol/JornKal.md)
 
 ![](https://i.imgur.com/nK5OG2J.png)
 

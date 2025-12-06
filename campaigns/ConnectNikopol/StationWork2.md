@@ -14,7 +14,7 @@ region: Nikopol
 
 ### The Other Side of the Streltsys
 
-[Thaddeus](../../gazetteer/Pollen/ProtectorateClique/ThaddeusCain.md) and [Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md) fear [Jorn Kal](../../gazetteer/Pollen/FoundersBlessed/JornKal.md)’s madness—his scheme to poison a spore field is reckless and deadly.
+[Thaddeus](../../gazetteer/Pollen/ProtectorateClique/ThaddeusCain.md) and [Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md) fear [Jorn Kal](../../gazetteer/Pollen/Nikopol/JornKal.md)’s madness—his scheme to poison a spore field is reckless and deadly.
 
 As [Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) mends from his fall, Anastasia brokers a deal with Myron. Two Rarogi piercers are handed over to the Clique members.
 
@@ -28,7 +28,7 @@ As [Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) mend
 
 The Clique are dispatched on a mission: locate and rescue the Streltsys possibly sheltered in three surface checkpoints of the ruined city and bring them back to the Station.
 
-[Nikopol](../../gazetteer/Pollen/Nikopol.md) is cloaked in spider gossamer, nightfall weaving its sticky traps across their path. Moonlight floods the scene—no lamps needed, only courage and silence.
+[index](../../gazetteer/Pollen/Nikopol/index.md) is cloaked in spider gossamer, nightfall weaving its sticky traps across their path. Moonlight floods the scene—no lamps needed, only courage and silence.
 
 ![](https://i.imgur.com/QmIQOph.png)
 
