@@ -12,7 +12,7 @@ role:
 status: 
 footer_content: 
 
-images:
+images: [../../imgs/gallery/Pasted%20image%2020251206203944.png]
 
 
 ---
