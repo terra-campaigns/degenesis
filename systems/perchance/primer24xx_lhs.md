@@ -77,7 +77,7 @@ cult
     cash = {100-300} CHRONICLER DRAFTS
 
   Anabaptist
-    bgname = <a href="https://degenesis.com/world/cults/anabaptist" target="_blank">ANABAPTIST</a>
+    bgname = <a href="https://degenesis.com/world/cults/anabaptists" target="_blank">ANABAPTIST</a>
     rank
       Touched
     imgprof = https://a.storyblok.com/f/72501/2715x3840/efb5d38082/012-anabaptist-archetype.jpg
