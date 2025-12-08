@@ -358,6 +358,13 @@
                 "url": "index.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "gazetteer/index.md": [
@@ -872,6 +879,95 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "gazetteer/Pollen/ProtectorateClique/Anastasia.md": [
+            {
+                "text": "Anastasia",
+                "url": "directory/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "cossacks",
+                "url": "gazetteer/Pollen/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "encounter with Leperos",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Elder Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Elder Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia Frostmane",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "_site/README.md": [
@@ -2284,89 +2380,6 @@
             {
                 "text": "Clique",
                 "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/Anastasia.md": [
-            {
-                "text": "cossacks",
-                "url": "gazetteer/Pollen/cossacks.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "encounter with Leperos",
-                "url": "campaigns/ConnectNikopol/StationWork2.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/Brochovs.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Elder Anastasia",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Elder Anastasia",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia Frostmane",
-                "url": "campaigns/ConnectNikopol/StationWork1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/Deposition.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/StationWork2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "campaigns/ConnectNikopol/Prequel10.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
