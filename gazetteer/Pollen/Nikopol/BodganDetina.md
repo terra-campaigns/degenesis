@@ -1,5 +1,5 @@
 ---
-template: npc v0.3.1
+template: 0.4
 layout: default
 type: people
 
@@ -7,7 +7,7 @@ title: Bogdan 'Detina'
 role: Miner (Zemlyaks), Demoted Streltsy
 archetype: Pollen, The Destroyer, Rarogi Kopachi (2)
 parent: Nikopol
-image: https://i.imgur.com/YYqNlQ1.png
+images: [../../../imgs/gallery/Pasted%20image%2020251207090050.png]
 
 statblock: true
 hp: 7
@@ -19,7 +19,7 @@ at: "Piercer (d8, CD: pierces through)"
 
 ---
 
-{% include statblock_npc.md %}
+{% include header_directories.md %}
 
 {% comment %} =========== HIDDEN TEXT ===========
 - [Vira](Vira.md)'s spy

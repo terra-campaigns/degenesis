@@ -1,12 +1,12 @@
 ---
-template: NPC v0.3
+template: 0.4
 layout: default
 title: Dexter
 type: people
 parent: Protectorate Clique
-image: 
+images: [../../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT LOGOS SVG/06-CULT-SCRAPPERS.svg]
 
-statblock: true
+statblock: 
 hp: 
 armour: 
 str: 
@@ -16,20 +16,8 @@ at:
 
 ---
 
-# {{ page.title }}
+{% include header_directories.md %}
 
 - Scrapper
 - Has a grudge with [Konrad Jager](KonradJager.md) and [Isolde Pax](IsoldePax.md)
 
-{% comment %} =========================== TEMPLATE CODE =========================== {% endcomment %}
-{% comment %} ===================== DO NOT EDIT BELOW THIS LINE ===================== {% endcomment %}
-
-{% if page.image %}
-![]({{ page.image }})
-{% endif %}
-{% if page.statblock %}
-| {{ page.hp }} HP, {{ page.armour }} Armour, {{ page.str }} STR, {{ page.dex }} DEX, {{ page.wil }} WIL, {{ page.at }} |
-{% endif %}
-{% include connected_to.md %}
-
-{% comment %} =========================== TEMPLATE ENDS =========================== {% endcomment %}
