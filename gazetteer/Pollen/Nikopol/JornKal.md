@@ -1,5 +1,5 @@
 ---
-template: npc v0.3.1
+template: 0.4
 layout: default
 type: people
 nav_exclude: false
@@ -8,7 +8,8 @@ title: Jorn Kal
 role: Wannabe hero
 archetype: Borca, The Adventurer, Spitalian Famulancer (3)
 parent: Nikopol
-image: https://i.imgur.com/nK5OG2J.png
+images: 
+- ../../../imgs/gallery/Pasted%20image%2020251208185005.png
 status: "&dagger;"
 
 statblock: true
@@ -21,7 +22,7 @@ at: Splayer (d8)
 
 ---
 
-{% include statblock_npc.md %}
+{% include header_directories.md %}
 
 {% comment %} =========== HIDDEN TEXT ===========
 

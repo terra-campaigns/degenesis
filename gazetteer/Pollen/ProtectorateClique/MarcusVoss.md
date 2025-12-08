@@ -1,5 +1,5 @@
 ---
-template: pc v0.3
+template: 0.4
 layout: default
 title: Marcus Voss
 type: people
@@ -21,7 +21,8 @@ details:
 - ""
 - Optimistic, simple minded, dedicated. Always sketching (but throwing pages away). 25 yo.
 
-image: https://i.imgur.com/rCWcUHA.png
+images:
+- ../../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT LOGOS SVG/12-CULT-ANABAPTISTS.svg
 
 gear:
 -
@@ -33,3 +34,5 @@ DO NOT EDIT BELOW THIS COMMENT
 {% endcomment %}
 
 {% include statblock_pc.md %}
+
+![](https://i.imgur.com/rCWcUHA.png)

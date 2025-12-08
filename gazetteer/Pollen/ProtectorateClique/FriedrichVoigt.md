@@ -1,5 +1,5 @@
 ---
-template: pc v0.3.1
+template: 0.4
 layout: default
 title: Friedrich Voigt
 type: people
@@ -9,7 +9,8 @@ parent: Protectorate Clique
 statblock: true
 status: "&dagger;"
 
-image: https://img2.storyblok.com/1492x0/filters:quality(90)/f/72501/2000x2000/4c8266b342/icons-spitaians-carmino-ferro.jpg
+images:
+- ../../../imgs/gallery/Pasted%20image%2020251208184620.png
 
 str: 13
 dex: 5
@@ -34,7 +35,7 @@ gear:
 
 ---
 
-{% include statblock_pc.md %}
+{% include header_directories.md %}
 
 - Godfather of [Konrad Jager](KonradJager.md), old friend of his father: no kids, so treated Konrad like a son he would spoil when he was a kid - gave him interesting gifts & encouraged him to be a good [Spitalian](../../../systems/backgrounds/spitalians.md).
 - Travel alone across Pollen to seek out information about The Primer through what has been recorded in texts rather than from direct experiment / contact.

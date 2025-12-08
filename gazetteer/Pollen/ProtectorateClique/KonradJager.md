@@ -1,5 +1,5 @@
 ---
-template: pc v0.3.1
+template: 0.4
 layout: default
 type: people
 
@@ -21,7 +21,8 @@ details:
 - Rushed through Spitalian training, sent prematurely to the field. Unaware and keen. Holds a tome. 18 yo.
 - Sepsis - Eye gland infection (minimum fatigue 1)
 
-image: https://i.imgur.com/6GHvyJK.png
+images:
+- ../../../imgs/gallery/Pasted%20image%2020251208185242.png
 
 gear:
 -

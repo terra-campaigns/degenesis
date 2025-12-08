@@ -1,5 +1,5 @@
 ---
-template: pc v0.3
+template: 0.4
 layout: default
 title: Inquisitor Thorne
 parent: Protectorate Clique
@@ -19,7 +19,8 @@ details:
   - "**Potential**: Preservists are relentless, never giving their enemies a chance to surrender. Trained in a brutal technique known as Preservalis, they strike with their sword to create an opening, then follow up with a point-blank pistol shot to ensure the kill. The recoil propels them out of reach, leaving their foes defenseless. _Requires dual wielding a **Sword** and a **Pistol**. You may disengage after a melee attack_"
   - Kamikase, crazy. 22 yo.
 
-image: https://media1.tenor.com/m/JDrSKMNRT5sAAAAC/mad-max.gif
+images:
+- ../../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT LOGOS SVG/01-CULT-SPITALIANS.svg
 
 gear:
   - 600 Chronicler Drafts
@@ -41,4 +42,6 @@ gear:
 DO NOT EDIT BELOW THIS COMMENT
 {% endcomment %}
 
-{% include statblock_pc.md %}
+{% include header_directories.md %}
+
+![](https://media1.tenor.com/m/JDrSKMNRT5sAAAAC/mad-max.gif)

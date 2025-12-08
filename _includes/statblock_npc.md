@@ -46,3 +46,9 @@
 {% include connected_to.md %}
 
 {% endif %}
+
+{% if page.template == 0.4 %}
+
+{% include header_directories.md %}
+
+{% endif %}

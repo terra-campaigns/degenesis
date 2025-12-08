@@ -1,5 +1,5 @@
 ---
-template: npc v0.3.1
+template: 0.4
 layout: default
 type: people
 
@@ -7,7 +7,8 @@ title: Orest
 role: Trader
 archetype: Pollen, The Mediator, Rarogi Korshun (4)
 parent: Nikopol
-image: https://i.imgur.com/UdKKoRI.png
+images: 
+- ../../../imgs/gallery/Pasted%20image%2020251208185652.png
 
 statblock: false
 str: 

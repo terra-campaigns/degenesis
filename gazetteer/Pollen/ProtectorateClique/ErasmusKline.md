@@ -1,5 +1,5 @@
 ---
-template: pc v0.3.1
+template: 0.4
 layout: default
 title: Erasmus Kline
 type: people
@@ -9,7 +9,7 @@ parent: Protectorate Clique
 nav_exclude: false
 statblock: true
 
-image: https://i.imgur.com/0N6RvqV.png
+images: [../../../imgs/gallery/Pasted%20image%2020251207090711.png]
 
 str: 12
 dex: 14
@@ -35,3 +35,4 @@ gear:
 ---
 
 {% include statblock_pc.md %}
+

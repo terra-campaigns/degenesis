@@ -1,5 +1,5 @@
 ---
-template: pc v0.3.1
+template: 0.4
 layout: default
 type: people
 
@@ -9,7 +9,8 @@ role:
 parent: Protectorate Clique
 statblock: true
 
-image: https://i.imgur.com/hzkCjwq.png
+images: 
+- ../../../imgs/gallery/Pasted%20image%2020251208184503.png
 
 str: 12
 dex: 13
@@ -33,7 +34,7 @@ gear:
 
 ---
 
-{% include statblock_pc.md %}
+{% include header_directories.md %}
 
 - 32 years old, he/him
 - Has not seen the works of the world yet.

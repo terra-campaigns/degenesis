@@ -1,5 +1,5 @@
 ---
-template: pc v0.3
+template: 0.4
 layout: default
 type: people
 
@@ -21,7 +21,8 @@ details:
 -
 -
 
-image: 
+images:
+- ../../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT LOGOS SVG/12-CULT-ANABAPTISTS.svg
 
 gear:
 - Winter clothing and heavy leathers
@@ -37,7 +38,7 @@ And now, for all that she knows, she's always been a faithful Anabaptist, workin
 
 {% endcomment %}
 
-{% include statblock_pc.md %}
+{% include header_directories.md %}
 
 - Melancholic and in thoughts. Respectful of hierarchy, faithful and virtuous. Around 40 yo.
 - Patience of a mountain. Disposition of the sea.

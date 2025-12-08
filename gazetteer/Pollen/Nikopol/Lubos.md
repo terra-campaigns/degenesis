@@ -1,5 +1,5 @@
 ---
-template: npc v0.3.1
+template: 0.4
 layout: default
 type: people
 
@@ -7,7 +7,8 @@ title: Lubos Ogota
 role: Mechanic for the automatons
 archetype: Borca, The Creator, SteelMaster Shaper
 parent: Nikopol
-image: https://i.imgur.com/44uQLQo.png
+images: 
+- ../../../imgs/gallery/Pasted%20image%2020251208185500.png
 
 statblock: true
 hp: 7
