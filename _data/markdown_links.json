@@ -896,6 +896,13 @@
                 "favicon": null
             },
             {
+                "text": "index",
+                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Yelena",
                 "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
                 "is_internal": true,
@@ -2293,6 +2300,12 @@
             {
                 "text": "Clique",
                 "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "inbound"
             },

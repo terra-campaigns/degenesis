@@ -4,7 +4,7 @@ template: 0.4
 type: people
 nav_exclude: false
 
-parent: Altair Envoys
+parent: Protectorate Clique
 title: Anastasia Frostmane
 role: Pollen, Cossack Shaman (3)
 status: 
@@ -24,6 +24,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 
 [cossacks](../cossacks.md)
+[index](index.md)
 
 {% endcomment %}
 
