@@ -1,5 +1,5 @@
 ---
-template: npc v0.3.1
+template: 0.4
 layout: default
 type: people
 
@@ -7,7 +7,8 @@ title: Vira
 role: Miner (Zemlyaks)
 archetype: Pollen, The Righteous, Rarogi Kopachi (2)
 parent: Nikopol
-image: https://i.imgur.com/XOOTGWB.png
+images:
+- ../../../imgs/gallery/Pasted%20image%2020251209184056.png
 
 statblock: true
 str: 14

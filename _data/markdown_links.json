@@ -1474,34 +1474,6 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Vostok/jacob.md": [
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "The Spitalian raid",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Jacob",
-                "url": "campaigns/VostokIronclawPurged/chap2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Jacob",
-                "url": "campaigns/VostokIronclawPurged/chap1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "gazetteer/Pollen/Vostok/skittle.md": [
             {
                 "text": "In the spore wall",
@@ -3038,6 +3010,20 @@
             {
                 "text": "slaughtered by Spitalians",
                 "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "gazetteer/Pollen/Vostok/jacob.md": [
+            {
+                "text": "Jacob",
+                "url": "campaigns/VostokIronclawPurged/chap2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jacob",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

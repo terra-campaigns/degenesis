@@ -1,5 +1,5 @@
 ---
-template: pc v0.3.1
+template: 0.4
 layout: default
 type: people
 title: Thaddeus Cain
@@ -8,7 +8,8 @@ role:
 parent: Protectorate Clique
 statblock: true
 
-image: https://i.imgur.com/Glh7UKv.png
+images:
+- ../../../imgs/gallery/Pasted%20image%2020251209184038.png
 
 str: 8
 dex: 12

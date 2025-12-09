@@ -1,5 +1,5 @@
 ---
-template: npc v0.3.1
+template: 0.4
 layout: default
 type: people
 
@@ -8,7 +8,8 @@ role: Leader of Operations for the Clique
 archetype: Borca, The Heretic, Spitalian Preservist (4)
 parent: Protectorate Clique
 
-image: https://img2.storyblok.com/1543x896/filters:quality(90)/f/72501/3840x2230/40928ceedc/spitalians-the-preservists-arrive.jpg
+images:
+- ../../../imgs/gallery/Pasted%20image%2020251209183823.png
 
 statblock: false
 hp: 

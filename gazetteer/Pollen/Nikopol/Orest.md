@@ -28,5 +28,3 @@ at:
 
 ========== HIDDEN ENDS ========= {% endcomment %}
 
-- 
-![]()

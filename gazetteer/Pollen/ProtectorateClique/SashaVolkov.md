@@ -1,5 +1,5 @@
 ---
-template: pc v0.3.1
+template: 0.4
 layout: default
 type: people
 
@@ -7,7 +7,8 @@ title: Sasha Volkov
 role: 
 archetype: Pollen, The Destroyer, Cossack Scout (1)
 parent: Protectorate Clique
-image: https://i.imgur.com/IOuWmY0.png
+images:
+- ../../../imgs/gallery/Pasted%20image%2020251209183856.png
 status: "&dagger;"
 
 statblock: true

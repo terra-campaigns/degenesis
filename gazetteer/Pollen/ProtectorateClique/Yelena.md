@@ -1,12 +1,13 @@
 ---
-template: npc v0.3.1
+template: 0.4
 layout: default
 type: people
 title: Yelena Stormrider
 role: 
 archetype: Cossack Tribal Warrior (3)
 parent: Protectorate Clique
-image: https://i.imgur.com/AJau74H.png
+images:
+- ../../../imgs/gallery/Pasted%20image%2020251209184128.png
 
 statblock: false
 hp: 6
