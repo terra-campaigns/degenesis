@@ -2,9 +2,9 @@
 layout: default
 title: Anastasia Frostmane
 parent: Altair Envoys
-redirect_to: ../../gazetteer/Pollen/ProtectorateClique/Anastasia
+redirect_to: ../../../gazetteer/Pollen/ProtectorateClique/Anastasia
 
-layout: default
+
 template: 0.4
 type: people
 nav_exclude: false

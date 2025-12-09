@@ -8,13 +8,13 @@ has_children: false
 has_toc: false
 
 parent: Altair Envoys
-title: Tullen The Edict
-role: Purgare, Judge Vagrant (1)
+title: Thread
+role: Pollen, Chronicler Bit (1)
 status:
 
 hooks:
 
-images: [../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT LOGOS SVG/04-CULT-JUDGES.svg]
+images: [../../../imgs/gallery/Pasted%20image%2020251206181501.png]
 flavour_text: 
 
 ---
@@ -28,7 +28,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ---
 
-Rumour: The Jehammedans have killed Altair – belated revenge for the Adriatic wars.
+Rumour: Deep in the swamp of the Lombard Bog, there are ancient mysteries.
 
 {% endcomment %}
 
@@ -37,34 +37,34 @@ Rumour: The Jehammedans have killed Altair – belated revenge for the Adriatic 
 === PROTECTORATE INTEL. DIR. / PERSONNEL DOSSIER ===
 ====================================================
 : RETRIEVED VIA......: REMOTE HAND PRINTER 72 DPI
-: EXTRACTION ENCODE .: #BF-33-2GE
+: EXTRACTION ENCODE .: #QH-48-1BI
 ====================================================
 
 >> SUBJECT IDENTIFICATION <<
 
-NAME................: TULLEN THE EDICT
+NAME................: THREAD
 ALIAS(ES)...........: N/A
-ORIGIN CULTURE......: PURGARE
-CULT AFFILIATION....: JUDGES
-RANK................: VAGRANT
-SUBJECT CONCEPT.....: DISCIPLE
-BEHAVIORAL TAGS.....: DISCIPLINED / LAZY
-AGE.................: 17 (BAND: D4)
-PHYSICAL NOTES......: STATUESQUE / WEATHERED SKIN
-FACIAL STRUCTURE....: CHISELED
-HAIR................: OILY
-VOCAL PATTERN.......: BOOMING
+ORIGIN CULTURE......: POLLEN
+CULT AFFILIATION....: CHRONICLERS
+RANK................: BIT
+SUBJECT CONCEPT.....: ZEALOT 
+BEHAVIORAL TAGS.....: COURAGEOUS / VAIN
+AGE.................: 15 (BAND: D4)
+PHYSICAL NOTES......: LANKY /  BIRTHMARKED
+FACIAL STRUCTURE....: PALE
+HAIR................: NO
+VOCAL PATTERN.......: PRECISE
 
 ----------------------------------------------------
 
 >> SKILLS PROFILE <<
 
 -- CLASS D8 --
-FAITH
-EXPRESSION
+EMPATHY
+PERCEPTION
 
 -- CLASS D10 --
-DOMINATION
+CRAFTING
 
 -- CLASS D12 --
 N/A
@@ -85,9 +85,9 @@ N/A
 >> ISSUED EQUIPMENT <<
 
 BACKPACK
-BOOK OF LESSONS
-UNIDENTIFIED SMALL MELEE WEAPON
-119 CHRONICLER DRAFTS (x RANK)
+ROBE
+STANLEY KNIFE
+512 CHRONICLER DRAFTS
 
 ====================================================
 === ** END OF DOT-MATRIX RECORD ** ===

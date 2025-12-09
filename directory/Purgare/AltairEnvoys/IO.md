@@ -14,7 +14,7 @@ status:
 
 hooks:
 
-images: [../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT LOGOS SVG/02-CULT-CHRONICLERS.svg]
+images: [../../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT LOGOS SVG/02-CULT-CHRONICLERS.svg]
 flavour_text: 
 
 ---
