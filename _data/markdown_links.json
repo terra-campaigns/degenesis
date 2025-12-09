@@ -1248,41 +1248,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Vostok/rurik.md": [
-            {
-                "text": "Vostok",
-                "url": "gazetteer/Pollen/Vostok/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Vostok Kin",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
         "gazetteer/Pollen/Vostok/index.md": [
-            {
-                "text": "Vostok",
-                "url": "gazetteer/Pollen/Vostok/rurik.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vostok",
-                "url": "gazetteer/Pollen/Vostok/yelena.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vostok",
-                "url": "gazetteer/Pollen/Vostok/mirova.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
             {
                 "text": "Pollen",
                 "url": "https://degenesis.com/world/cultures/pollen",
@@ -1345,175 +1311,6 @@
             },
             {
                 "text": "Vostok Scouts",
-                "url": "campaigns/VostokIronclawPurged/chap1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Vostok/luna.md": [
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "The Spitalian raid",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Luna",
-                "url": "campaigns/VostokIronclawPurged/chap2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Luna",
-                "url": "campaigns/VostokIronclawPurged/chap1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Vostok/yelena.md": [
-            {
-                "text": "Vostok",
-                "url": "gazetteer/Pollen/Vostok/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Vostok Kin",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Vostok & Ironclaw purged",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Yelena",
-                "url": "campaigns/VostokIronclawPurged/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Vostok/mirova.md": [
-            {
-                "text": "Vostok",
-                "url": "gazetteer/Pollen/Vostok/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Vostok Kin",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Vostok & Ironclaw purged",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/index",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "The work of Lubos",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/InNikopol03",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "In the gossamer",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/StationWork2",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Mirova",
-                "url": "campaigns/VostokIronclawPurged/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mirova",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Elder Mirova",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mirova",
-                "url": "campaigns/ConnectNikopol/Deposition.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Mirova",
-                "url": "campaigns/ConnectNikopol/StationWork2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Vostok/skittle.md": [
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Skittle",
-                "url": "campaigns/VostokIronclawPurged/chap1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Vostok/sofia.md": [
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Dr. Sofia Markov",
-                "url": "campaigns/VostokIronclawPurged/chap1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Vostok/yuri.md": [
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Yuri",
                 "url": "campaigns/VostokIronclawPurged/chap1.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3014,6 +2811,20 @@
                 "direction": "inbound"
             }
         ],
+        "gazetteer/Pollen/Vostok/luna.md": [
+            {
+                "text": "Luna",
+                "url": "campaigns/VostokIronclawPurged/chap2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Luna",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "gazetteer/Pollen/Vostok/jacob.md": [
             {
                 "text": "Jacob",
@@ -3024,6 +2835,46 @@
             {
                 "text": "Jacob",
                 "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "gazetteer/Pollen/Vostok/mirova.md": [
+            {
+                "text": "Mirova",
+                "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mirova",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Elder Mirova",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mirova",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mirova",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "gazetteer/Pollen/Vostok/yelena.md": [
+            {
+                "text": "Yelena",
+                "url": "campaigns/VostokIronclawPurged/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3147,6 +2998,30 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "gazetteer/Pollen/Vostok/yuri.md": [
+            {
+                "text": "Yuri",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "gazetteer/Pollen/Vostok/skittle.md": [
+            {
+                "text": "Skittle",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "gazetteer/Pollen/Vostok/sofia.md": [
+            {
+                "text": "Dr. Sofia Markov",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "gazetteer/Pollen/Kramatorsk.md": [

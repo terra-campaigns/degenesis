@@ -11,4 +11,4 @@ status: "&dagger;"
 
 ---
 
-{% include statblock_npc.md %}
+{% include statblock_pc.md %}
