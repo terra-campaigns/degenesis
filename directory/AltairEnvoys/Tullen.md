@@ -28,7 +28,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ---
 
-Rumour: 
+Rumour: The Jehammedans have killed Altair – belated revenge for the Adriatic wars.
 
 {% endcomment %}
 
