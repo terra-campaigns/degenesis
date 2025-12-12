@@ -9,7 +9,7 @@ has_toc: false
 
 parent: Altair Envoys
 title: IO
-role: Borca, Chronicler Bit (1)
+role: Borca, Chronicler Agent (2)
 status:
 
 hooks:
@@ -28,7 +28,10 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ---
 
-Rumour: The Hellvetics and Anabaptists are pacifying the country. Hosts of Apocalyptics are rarely to be found there. There is at least one chronicler there.
+**Rumours**
+
+- The Hellvetics and Anabaptists are pacifying the country. Hosts of Apocalyptics are rarely to be found there. There is at least one chronicler there.
+- The monks of Lucatore are an ascetic persuasion of the Anabaptists. They live the Neognosis more strictly than the Anabaptists in the North who are closer to other Cults.
 
 {% endcomment %}
 
