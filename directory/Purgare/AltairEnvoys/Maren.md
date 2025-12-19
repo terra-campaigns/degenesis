@@ -8,14 +8,15 @@ has_children: false
 has_toc: false
 
 parent: Altair Envoys
-title: Kuno Brechbühl
-role: Borca, Hellvetics Corporal (2)
+title: Maren Kaltstein
+role: Borca, Hellvetics Grenadier (3)
 status:
 
 hooks:
 
 images: 
-- ../../../imgs/gallery/Pasted%20image%2020251211182751.png
+- ../../../imgs/gallery/Pasted%20image%2020251218115316.png
+
 flavour_text: 
 
 ---
@@ -30,12 +31,9 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 
 **Rumours**
-
-- The area is grazed; there are no more artefacts to be found in the ground. But there is lots of bygone mammon: coins, gold, jewellery.
-- The Emissary Neva is the wife of the murdered Baptist Altair.
-- The Iron Emissary Neva and the Elysian Abacus resisted the idea of a commission of investigators for fear of violating Altair’s peace of death.
+- Northern Purgare is grazed; there are no more Artefacts to be found in the ground. But there are lots of bygone mammon: coins, gold, jewellery.
 - Clan Benesato has been wholly absorbed into the Anabaptist Cult during the great missionary movement. Nowadays, the Clan is only a puppet of Cathedral City; its former power in the area has long since been lost.
-- The Baptist Altair had a Spitalian medical attendant he was going to visit on the morning of his death.
+- Every week, a caravan with goods from the Cloister in Lucatore leaves for Cathedral City. The customs books in Roppen (in Hellvetica territory) could tell what kind of goods they are.
 
 {% endcomment %}
 
@@ -44,38 +42,40 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 === PROTECTORATE INTEL. DIR. / PERSONNEL DOSSIER ===
 ====================================================
 : RETRIEVED VIA......: REMOTE HAND PRINTER 72 DPI
-: EXTRACTION ENCODE .: #LS-58-3OY
+: EXTRACTION ENCODE .: #HO-06-1SO
 ====================================================
 
 >> SUBJECT IDENTIFICATION <<
 
-NAME................: KUNO BRECHBÜHL
+NAME................: MAREN KALTSTEIN
 ALIAS(ES)...........: N/A
-ORIGIN CULTURE......: BORCA
+ORIGIN CULTURE......: PURGARE
 CULT AFFILIATION....: HELLVETICS
-SUBJECT CONCEPT.....: RIGHTEOUS
-BEHAVIORAL TAGS.....: TOLERANT / CRAVEN
-AGE.................: 45
-PHYSICAL NOTES......: TOWERING / SCARRED SKIN
-FACIAL STRUCTURE....: RAKISH
-HAIR................: NO
-VOCAL PATTERN.......: BOOMING
+RANK................: GRENADIER
+SUBJECT CONCEPT.....: ADVENTURER
+BEHAVIORAL TAGS.....: DISCIPLINED / BITTER
+AGE.................: 42
+PHYSICAL NOTES......: STOUT / BIRTHMARKED SKIN
+FACIAL STRUCTURE....: ELONGATED
+HAIR................: WISPY
+VOCAL PATTERN.......: GRAVELLY
 
 ----------------------------------------------------
 
 >> SKILLS PROFILE <<
 
 -- CLASS D8 --
-MOBILITY
-LEGENDS
-STEALTH
-FORCE
-PROJECTILES
+ATHLETIC
+BRAWL
+EXPRESSION
+ORIENTEERING
+REACTION
 SURVIVAL
-MEDICINE
+TAMING
 
 -- CLASS D10 --
-REACTION
+FORCE
+PROJECTILES
 
 -- CLASS D12 --
 N/A
@@ -88,10 +88,7 @@ N/A
 N/A
 
 -- HANDICAPS --
-Fingernails crack from minor impacts
-Light sensivity
-Arms tire quic
-Light sensitivity
+N/A
 
 
 ----------------------------------------------------
@@ -99,14 +96,15 @@ Light sensitivity
 >> ISSUED EQUIPMENT <<
 
 BACKPACK
-TRAILBLAZER (+15 ROUNDS PER MONTH)
+TRAILBLAZER - EXTENDED RANGE(<=.5KM) GREATER MANEUVRABILITY (+20 ROUNDS PER MONTH)
+PATHFINDER
 HARNESS
 2 RATIONS
 UNIDENTIFIED SMALL MELEE WEAPON
-121 CHRONICLER DRAFTS (x RANK)
+177 CHRONICLER DRAFTS (59 x RANK)
 
 ====================================================
-=== ** END OF DOT-MATRIX RECORD ** ===
+=== ********* END OF DOT-MATRIX RECORD ********* ===
 ====================================================
 ```
 
