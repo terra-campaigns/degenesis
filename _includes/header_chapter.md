@@ -20,3 +20,10 @@
 {% endif %}
 
 {% include connected_to.html %}
+
+{% if page.images %}
+
+![](../{{ page.images }})
+
+{% endif %}
+

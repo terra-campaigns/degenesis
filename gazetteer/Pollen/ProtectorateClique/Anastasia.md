@@ -26,6 +26,11 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 [cossacks](../cossacks.md)
 [index](index.md)
 
+**Rumours**
+- Altair was poisoned
+- Clan Benesato has been completely absorbed into the Anabaptist Cult during the great missionary movement. Nowadays, the Clan is only a puppet of Cathedral City; its former power in the area has long since been lost.
+- The Emissary Neva is the wife of the murdered Baptist Altair.
+
 {% endcomment %}
 
 

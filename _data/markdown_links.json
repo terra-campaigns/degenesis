@@ -975,6 +975,12 @@
                 "url": "campaigns/ConnectNikopol/Prequel10.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "_site/README.md": [
@@ -4217,6 +4223,105 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "campaigns/InThyBlood/001.md": [
+            {
+                "text": "Altair Envoys",
+                "url": "directory/Purgare/AltairEnvoys/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Maren",
+                "url": "directory/Purgare/AltairEnvoys/Maren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kuno",
+                "url": "directory/Purgare/AltairEnvoys/Kuno.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "IO",
+                "url": "directory/Purgare/AltairEnvoys/IO.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thread",
+                "url": "directory/Purgare/AltairEnvoys/Thread.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lucatore",
+                "url": "directory/Purgare/NorthernPurgare/Lucatore.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Purgare/AltairEnvoys/index.md": [
+            {
+                "text": "Altair Envoys",
+                "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/AltairEnvoys/Maren.md": [
+            {
+                "text": "Maren",
+                "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/AltairEnvoys/Kuno.md": [
+            {
+                "text": "Kuno",
+                "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/AltairEnvoys/IO.md": [
+            {
+                "text": "IO",
+                "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/AltairEnvoys/Thread.md": [
+            {
+                "text": "Thread",
+                "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/NorthernPurgare/Lucatore.md": [
+            {
+                "text": "Lucatore",
+                "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "creatures/SporeBeast.md": [

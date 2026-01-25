@@ -62,9 +62,9 @@ For most people, the **Primer** is a persistent, but distant, threat.
 
 **GM:** Efsa (Estêvão)  
 **Format**: Set Table, sandbox, faction-heavy  
-**Enrol**: 6 players in total, reach out to the GM  
+**Enrol**: 5 players in total, reach out to the GM  
 **Sign-up**: First come, first served, 2+ per session  
-**Genre**: Post apocalyptic, primal punk  
+**Genre**: Post-apocalyptic, primal punk  
 **Language**: English  
 **Communication**: Discord voice (video is optional)   
 **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression  
@@ -74,7 +74,6 @@ For most people, the **Primer** is a persistent, but distant, threat.
 - [Owlbear Rodeo](https://www.owlbear.rodeo/room/FixYmgJMU_aD/Degenesis)  
 - [In Thy Blood Playlist](https://open.spotify.com/playlist/4TuNmf3FUldGwKOsSb1Fol?si=ea1e822dd7a24187)  
 - Books: [Primal Punk](https://drive.google.com/file/d/1gv5sc5W2tMxcUPR-ywrzGDkKtdhxg_fY/view?usp=sharing) & [Katharsys](https://drive.google.com/file/d/1gx0Xm7oKDoYJ8PNvxYdV3cK1A2pG3JaZ/view?usp=sharing) 
-
 
 ---
 

@@ -1,4 +1,7 @@
 {
+    "_includes/header_chapter.md": "2026-W04",
+    "campaigns/InThyBlood/001.md": "2026-W04",
+    "gazetteer/Pollen/ProtectorateClique/Anastasia.md": "2026-W03",
     "_includes/24xx_modules/character-creation.md": "2026-W01",
     "directory/Purgare/index.md": "2025-W50",
     "directory/Purgare/AltairEnvoys/Kuno.md": "2025-W50",
@@ -34,7 +37,6 @@
     "gazetteer/Pollen/Nikopol/Lubos.md": "2025-W49",
     "gazetteer/Pollen/ProtectorateClique/AaronPartow.md": "2025-W49",
     "gazetteer/Pollen/ProtectorateClique/IsoldePax.md": "2025-W49",
-    "gazetteer/Pollen/ProtectorateClique/Anastasia.md": "2025-W49",
     "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md": "2025-W49",
     "gazetteer/Pollen/ProtectorateClique/ErasmusKline.md": "2025-W49",
     "gazetteer/Pollen/ProtectorateClique/Yelena.md": "2025-W49",
@@ -84,7 +86,6 @@
     "campaigns/ConnectNikopol/BloodyMines2.md": "2025-W48",
     "campaigns/ConnectNikopol/ToNikopol3b.md": "2025-W48",
     "campaigns/ConnectNikopol/ReturnGeteli.md": "2025-W48",
-    "campaigns/InThyBlood/001.md": "2025-W48",
     "campaigns/InThyBlood/index.md": "2025-W48",
     "systems/backgrounds/index.md": "2025-W48",
     "systems/perchance/primer24xx-update_lhs.md": "2025-W48",
@@ -168,6 +169,5 @@
     "systems/wip/conversions.md": "2025-W46",
     "_notions/images.md": "2025-W46",
     "_notions/dump.md": "2025-W46",
-    "_notions/inklings.md": "2025-W46",
-    "_includes/header_chapter.md": "2025-W36"
+    "_notions/inklings.md": "2025-W46"
 }
