@@ -110,3 +110,4 @@ UNIDENTIFIED SMALL MELEE WEAPON
 ====================================================
 ```
 
+Reasonable and peaceful, not a war machine.

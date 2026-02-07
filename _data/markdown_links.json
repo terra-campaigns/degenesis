@@ -981,6 +981,18 @@
                 "url": "campaigns/InThyBlood/001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "_site/README.md": [
@@ -4269,8 +4281,8 @@
                 "favicon": null
             },
             {
-                "text": "Lucatore",
-                "url": "directory/Purgare/NorthernPurgare/Lucatore.md",
+                "text": "index",
+                "url": "directory/Purgare/Lucatore/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4282,6 +4294,12 @@
                 "url": "campaigns/InThyBlood/001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Altair Envoys",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Purgare/AltairEnvoys/Maren.md": [
@@ -4290,12 +4308,24 @@
                 "url": "campaigns/InThyBlood/001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Maren",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Purgare/AltairEnvoys/Kuno.md": [
             {
                 "text": "Kuno",
                 "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kuno",
+                "url": "campaigns/InThyBlood/002.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4314,12 +4344,195 @@
                 "url": "campaigns/InThyBlood/001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Thread",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
-        "directory/Purgare/NorthernPurgare/Lucatore.md": [
+        "directory/Purgare/Lucatore/index.md": [
             {
-                "text": "Lucatore",
+                "text": "index",
                 "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/InThyBlood/002.md": [
+            {
+                "text": "Altair Envoys",
+                "url": "directory/Purgare/AltairEnvoys/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/Lucatore/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dana",
+                "url": "directory/Purgare/Lucatore/Dana.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Maren",
+                "url": "directory/Purgare/AltairEnvoys/Maren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Altair",
+                "url": "directory/Purgare/HouseBenesato/Altair.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kuno",
+                "url": "directory/Purgare/AltairEnvoys/Kuno.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Acilio",
+                "url": "directory/Purgare/AlpsContrabandRaiders/Acilio.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Spitalian",
+                "url": "directory/Purgare/Lucatore/CarminoFerro.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "big Anabaptist man",
+                "url": "directory/Purgare/HouseBenesato/Lucio.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Benesato",
+                "url": "directory/Purgare/HouseBenesato/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thread",
+                "url": "directory/Purgare/AltairEnvoys/Thread.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ennio Benesato",
+                "url": "directory/Purgare/Lucatore/EnnioBenesato.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "BleedingRam",
+                "url": "directory/Purgare/Lucatore/BleedingRam.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Purgare/Lucatore/Dana.md": [
+            {
+                "text": "Dana",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/HouseBenesato/Altair.md": [
+            {
+                "text": "Altair",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/AlpsContrabandRaiders/Acilio.md": [
+            {
+                "text": "Acilio",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/Lucatore/CarminoFerro.md": [
+            {
+                "text": "Spitalian",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/HouseBenesato/Lucio.md": [
+            {
+                "text": "big Anabaptist man",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/HouseBenesato/index.md": [
+            {
+                "text": "Benesato",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/Lucatore/EnnioBenesato.md": [
+            {
+                "text": "Ennio Benesato",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/Lucatore/BleedingRam.md": [
+            {
+                "text": "BleedingRam",
+                "url": "campaigns/InThyBlood/002.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
