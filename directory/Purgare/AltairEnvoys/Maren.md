@@ -108,3 +108,4 @@ UNIDENTIFIED SMALL MELEE WEAPON
 ====================================================
 ```
 
+- Feels [Purgare](../index.md) is lawless.

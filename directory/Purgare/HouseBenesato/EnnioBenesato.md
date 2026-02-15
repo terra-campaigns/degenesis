@@ -8,7 +8,7 @@ has_toc: true
 
 parent: House Benesato
 title: Ennio Benesato
-role: 
+role: Ancestor of the Clan Benesato, Governor of Lucatore
 status: 
 footer_content: 
 
@@ -27,3 +27,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 
 {% endcomment %}
+
+[Altair](Altair.md) is dead, and Ennio has become the target for all accusations. He hears them
+whisper in the arcades around his estate. “House Benesato has washed its hands with
+blood,“ they say. They have no proof. Or do they? The followers of the Broken
+Cross really want to pin this on him? 

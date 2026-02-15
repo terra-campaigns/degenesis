@@ -8,13 +8,15 @@ has_children: false
 has_toc: false
 
 parent: Altair Envoys
-title: Thread
-role: Pollen, Chronicler Bit (1)
+title: Nero Vex
+role: Pollen, Apocalyptic Hummingbird (1)
 status:
 
 hooks:
 
-images: [../../../imgs/gallery/Pasted%20image%2020251206181501.png]
+images: 
+- ../../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT%20LOGOS%20SVG/11-CULT-APOCALYPTICS.svg
+
 flavour_text: 
 
 ---
@@ -28,7 +30,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ---
 
-Rumour: Deep in the swamp of the Lombard Bog, there are ancient mysteries.
+The slag deserts of Western Purgare are the home of the Flocks. The east is not their land, the Anabaptists are too
+stubborn and too recalcitrant to deal with them for any amount of time. However, there is still covert trade between the two Cults. The Ascetics of Lucatore need lots of potent Burn from the Spore Fields in the West, and the Apocalyptics get good money for their goods. However, given Altair was killed, there is fear that trade will come to a halt. Someone needs to check if everything’s in order in Lucatore. As a group, the Apocalyptics will not show up there. However, a single one could mingle with the populace and follow the trail of the Burn shipment.
 
 {% endcomment %}
 
@@ -37,34 +40,34 @@ Rumour: Deep in the swamp of the Lombard Bog, there are ancient mysteries.
 === PROTECTORATE INTEL. DIR. / PERSONNEL DOSSIER ===
 ====================================================
 : RETRIEVED VIA......: REMOTE HAND PRINTER 72 DPI
-: EXTRACTION ENCODE .: #QH-48-1BI
+: EXTRACTION ENCODE .: #GM-23-4PX
 ====================================================
 
 >> SUBJECT IDENTIFICATION <<
 
-NAME................: THREAD
+NAME................: NERO VEX
 ALIAS(ES)...........: N/A
 ORIGIN CULTURE......: POLLEN
-CULT AFFILIATION....: CHRONICLERS
-RANK................: BIT
-SUBJECT CONCEPT.....: ZEALOT 
-BEHAVIORAL TAGS.....: COURAGEOUS / VAIN
+CULT AFFILIATION....: APOCALYPTICS
+RANK................: HUMMINGBIRD
+SUBJECT CONCEPT.....: VISIONARY
+BEHAVIORAL TAGS.....: TOLERANT / LAZY
 AGE.................: 15 (BAND: D4)
-PHYSICAL NOTES......: LANKY /  BIRTHMARKED
-FACIAL STRUCTURE....: PALE
+PHYSICAL NOTES......: ATHLETIC / SCARRED SKIN
+FACIAL STRUCTURE....: RAKISH
 HAIR................: NO
-VOCAL PATTERN.......: PRECISE
+VOCAL PATTERN.......: BLUNT
 
 ----------------------------------------------------
 
 >> SKILLS PROFILE <<
 
 -- CLASS D8 --
-EMPATHY
-PERCEPTION
+TAMING
+LEGENDS
 
 -- CLASS D10 --
-CRAFTING
+ATHLETICS
 
 -- CLASS D12 --
 N/A
@@ -85,13 +88,13 @@ N/A
 >> ISSUED EQUIPMENT <<
 
 BACKPACK
-ROBE
-STANLEY KNIFE
-512 CHRONICLER DRAFTS
+GRAPPLING HOOK
+KOUMAYA DAGGER
+UNIDENTIFIED SMALL MELEE WEAPON
+344 CHRONICLER DRAFTS (x RANK)
 
 ====================================================
 === ** END OF DOT-MATRIX RECORD ** ===
 ====================================================
 ```
 
-- Maybe enjoy other humans more than he initially thought (were trained? `Programmed?`)
