@@ -12,30 +12,6 @@
 
 {% endif %}
 
-{% if page.images  & page.flavour_text%}
-
-|                           |                         |
-| ------------------------- | ----------------------- |
-| ![](../{{ page.images }}) | {{ page.flavour_text }} |
-
-{% elsif page.images %}
-
-|                           |
-| ------------------------- |
-| ![](../{{ page.images }}) |
-
-{% elsif page.flavour_text %}
-
-|                         |
-| ----------------------- |
-| {{ page.flavour_text }} |
-
-{% else %}
-
----
-
-{% endif %}
-
 {% include connected_to.html %}
 
 {% if page.statblock %} 

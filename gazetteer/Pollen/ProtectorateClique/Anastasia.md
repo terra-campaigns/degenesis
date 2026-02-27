@@ -8,10 +8,9 @@ parent: Protectorate Clique
 title: Anastasia Frostmane
 role: Pollen, Cossack Shaman (3)
 status: 
-flavour: 
 
 images: [../../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT LOGOS SVG/05-CULT-CLANNERS.svg]
-flavour_text: Leader of the Cossacks for the Clique.
+flavour: Leader of the Cossacks for the Clique
 
 ---
 
