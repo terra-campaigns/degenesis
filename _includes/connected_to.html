@@ -49,7 +49,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
 <div class="image-gallery2">
   {% for image in page.images %}
     <a href="{{ site.url }}{{ image | relative_url }}" title="{{ page.title }}">
-      <img src="//wsrv.nl/?url={{ site.url }}{{ image | relative_url }}&w=600&h=600&output=jpg&q=50&t=square" alt="{{ page.title }}"/>
+      <img src="//wsrv.nl/?url={{ site.url }}{{ image | relative_url }}&w=600&h=600&output=jpg&q=50&t=square&bg=white" alt="{{ page.title }}"/>
     </a>
   {% endfor %}
 </div>
