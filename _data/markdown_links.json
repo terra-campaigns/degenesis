@@ -984,6 +984,12 @@
             },
             {
                 "text": "Anastasia",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
                 "url": "campaigns/InThyBlood/003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1022,7 +1028,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "EnnioBenesato",
+                "text": "Ennio Benesato",
                 "url": "campaigns/InThyBlood/002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1032,6 +1038,12 @@
             {
                 "text": "Altair",
                 "url": "directory/Purgare/HouseBenesato/EnnioBenesato.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Altair",
+                "url": "campaigns/InThyBlood/004.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1074,6 +1086,12 @@
             {
                 "text": "Maren",
                 "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Maren",
+                "url": "campaigns/InThyBlood/004.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4400,6 +4418,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/InThyBlood/003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4448,6 +4472,12 @@
             },
             {
                 "text": "Thread",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Thread",
                 "url": "campaigns/InThyBlood/003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4468,6 +4498,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/InThyBlood/003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4475,6 +4511,170 @@
             {
                 "text": "Lucatore",
                 "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/InThyBlood/004.md": [
+            {
+                "text": "index",
+                "url": "directory/Purgare/Lucatore/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/AltairEnvoys/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Maren",
+                "url": "directory/Purgare/AltairEnvoys/Maren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nero Vex",
+                "url": "directory/Purgare/AltairEnvoys/NeroVex.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "the Cloister",
+                "url": "directory/Purgare/TheCloister/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lucio",
+                "url": "directory/Purgare/TheCloister/Lucio.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Neva",
+                "url": "directory/Purgare/TheCloister/Neva.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Altair",
+                "url": "directory/Purgare/HouseBenesato/Altair.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "House Benesato",
+                "url": "directory/Purgare/HouseBenesato/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ambroggio",
+                "url": "directory/Purgare/TheCloister/Ambroggio.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thread",
+                "url": "directory/Purgare/AltairEnvoys/Thread.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Purgare/AltairEnvoys/NeroVex.md": [
+            {
+                "text": "Nero Vex",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nero Vex",
+                "url": "campaigns/InThyBlood/003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/TheCloister/index.md": [
+            {
+                "text": "the Cloister",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/TheCloister/Lucio.md": [
+            {
+                "text": "Lucio",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "big Anabaptist man",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/TheCloister/Neva.md": [
+            {
+                "text": "Neva",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/HouseBenesato/index.md": [
+            {
+                "text": "House Benesato",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "House Benesato",
+                "url": "campaigns/InThyBlood/003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Benesato",
+                "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/TheCloister/Ambroggio.md": [
+            {
+                "text": "Ambroggio",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "a drunk",
+                "url": "campaigns/InThyBlood/003.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4511,6 +4711,13 @@
             {
                 "text": "Nero Vex",
                 "url": "directory/Purgare/AltairEnvoys/NeroVex.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "a drunk",
+                "url": "directory/Purgare/TheCloister/Ambroggio.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4600,32 +4807,10 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Purgare/AltairEnvoys/NeroVex.md": [
-            {
-                "text": "Nero Vex",
-                "url": "campaigns/InThyBlood/003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Purgare/Lucatore/Fernex.md": [
             {
                 "text": "Fernex",
                 "url": "campaigns/InThyBlood/003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Purgare/HouseBenesato/index.md": [
-            {
-                "text": "House Benesato",
-                "url": "campaigns/InThyBlood/003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Benesato",
-                "url": "campaigns/InThyBlood/002.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -4724,7 +4909,7 @@
             },
             {
                 "text": "big Anabaptist man",
-                "url": "directory/Purgare/HouseBenesato/Lucio.md",
+                "url": "directory/Purgare/TheCloister/Lucio.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4751,7 +4936,7 @@
                 "favicon": null
             },
             {
-                "text": "EnnioBenesato",
+                "text": "Ennio Benesato",
                 "url": "directory/Purgare/HouseBenesato/EnnioBenesato.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -4768,14 +4953,6 @@
         "directory/Purgare/Lucatore/Dana.md": [
             {
                 "text": "Dana",
-                "url": "campaigns/InThyBlood/002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Purgare/HouseBenesato/Lucio.md": [
-            {
-                "text": "big Anabaptist man",
                 "url": "campaigns/InThyBlood/002.md",
                 "is_internal": true,
                 "direction": "inbound"

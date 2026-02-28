@@ -6,14 +6,15 @@ nav_exclude: false
 has_children: true
 has_toc: true
 
-parent: House Benesato
-title: "?"
-role: 
+parent: The Cloister
+title: Ambroggio
+role: Purgare, Anabaptist Orgiastic
 status: 
 footer_content: 
 
 images:
-- ../../../imgs/gallery/Pasted%20image%2020260204173931.png
+- ../../../imgs/gallery/Pasted%20image%2020260228172418.png
+
 
 
 ---
