@@ -4599,6 +4599,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "another Chronicler",
+                "url": "directory/Purgare/Lucatore/Decoy5.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Purgare/AltairEnvoys/NeroVex.md": [
@@ -4675,6 +4682,14 @@
             {
                 "text": "a drunk",
                 "url": "campaigns/InThyBlood/003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/Lucatore/Decoy5.md": [
+            {
+                "text": "another Chronicler",
+                "url": "campaigns/InThyBlood/004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
