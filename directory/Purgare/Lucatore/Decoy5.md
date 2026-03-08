@@ -7,8 +7,8 @@ has_children: true
 has_toc: true
 
 parent: Lucatore
-title: "?"
-role: 
+title: Decoy 5
+role: Chronicler Shutter
 status: 
 footer_content: 
 
