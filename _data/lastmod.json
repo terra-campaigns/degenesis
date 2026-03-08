@@ -1,4 +1,6 @@
 {
+    "campaigns/InThyBlood/005.md": "2026-W10",
+    "campaigns/InThyBlood/004.md": "2026-W09",
     "_includes/header_directories.md": "2026-W08",
     "directory/Purgare/HouseBenesato/EnnioBenesato.md": "2026-W08",
     "directory/Purgare/TheCloister/Neva.md": "2026-W08",
@@ -11,7 +13,6 @@
     "directory/Purgare/Lucatore/Decoy5.md": "2026-W08",
     "directory/Purgare/AltairEnvoys/index.md": "2026-W08",
     "gazetteer/Pollen/ProtectorateClique/Anastasia.md": "2026-W08",
-    "campaigns/InThyBlood/004.md": "2026-W08",
     "campaigns/InThyBlood/003.md": "2026-W08",
     "campaigns/InThyBlood/002.md": "2026-W08",
     "_includes/24xx_modules/character-creation.md": "2026-W07",
