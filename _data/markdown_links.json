@@ -5008,6 +5008,13 @@
                 "favicon": null
             },
             {
+                "text": "Elysian Gardens",
+                "url": "directory/Purgare/TheCloister/ElysianGardens.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Anastasia",
                 "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
@@ -5059,6 +5066,14 @@
             {
                 "text": "big Anabaptist man",
                 "url": "campaigns/InThyBlood/002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/TheCloister/ElysianGardens.md": [
+            {
+                "text": "Elysian Gardens",
+                "url": "campaigns/InThyBlood/004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
