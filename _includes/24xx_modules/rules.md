@@ -30,6 +30,29 @@ Injuries take time and/or medical attention to heal.
 If killed, make a new character to be introduced ASAP.
 Favour inclusion over realism.
 
+
+## Sepsis
+
+When you are exposed to the Primer, or take [Burn](https://degenesis.com/world/stories/apocalyptics/burn-baby-burn), you suffer [Spore Infestation](https://degenesis.com/world/stories/pollen/sepsis).
+Environment suits and masks protect you against Spores.
+
+Everyone starts at d6 **Spore Infestation**.
+In the presence of Spores, you can say the Primer helps you, and use your **Spore Infestation** die alongside a skill die.
+If you do so, increase your **Spore Infestation** die.
+
+If the **Spore Infestation** roll is the highest, consult the table.
+
+|           |                                                    |
+| --------- | -------------------------------------------------- |
+| **1-4**   | No Effect.                                         |
+| **5-8**   | Hangover symptoms. Goes away in a few hours.       |
+| **9-12**  | Stigmata. Goes away in a few days.                 |
+| **13-20** | You gain a mutation.                               |
+| **20**    | You become a Leperos. The Primer controls you now. |
+
+The **Spore Infestation** die decreases by one per week of rest.
+Spitalian treatment can hasten it.
+
 ## Gear
 
 You can carry all the narratively appropriate gear.
