@@ -1158,6 +1158,12 @@
             },
             {
                 "text": "Emissary Neva",
+                "url": "campaigns/InThyBlood/007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Emissary Neva",
                 "url": "campaigns/InThyBlood/006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1186,6 +1192,12 @@
             {
                 "text": "Maren",
                 "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Maren",
+                "url": "campaigns/InThyBlood/007.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4530,6 +4542,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/InThyBlood/007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/InThyBlood/003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4563,6 +4581,12 @@
             {
                 "text": "Kuno",
                 "url": "campaigns/InThyBlood/005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kuno",
+                "url": "campaigns/InThyBlood/007.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4608,6 +4632,12 @@
             },
             {
                 "text": "Thread",
+                "url": "campaigns/InThyBlood/007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Thread",
                 "url": "campaigns/InThyBlood/003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4641,6 +4671,12 @@
             {
                 "text": "index",
                 "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/InThyBlood/007.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4858,7 +4894,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "Decoy5",
+                "text": "Decoy 5",
                 "url": "campaigns/InThyBlood/006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -5034,6 +5070,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "forest",
+                "url": "directory/Purgare/Lucatore/NorthernWoods.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Purgare/AltairEnvoys/NeroVex.md": [
@@ -5076,6 +5119,267 @@
                 "url": "campaigns/InThyBlood/004.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/Lucatore/NorthernWoods.md": [
+            {
+                "text": "forest",
+                "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Northern Woods",
+                "url": "campaigns/InThyBlood/007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "forest",
+                "url": "campaigns/InThyBlood/006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/InThyBlood/007.md": [
+            {
+                "text": "index",
+                "url": "directory/Purgare/Lucatore/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/AltairEnvoys/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thread",
+                "url": "directory/Purgare/AltairEnvoys/Thread.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Northern Woods",
+                "url": "directory/Purgare/Lucatore/NorthernWoods.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Maren",
+                "url": "directory/Purgare/AltairEnvoys/Maren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kuno",
+                "url": "directory/Purgare/AltairEnvoys/Kuno.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fernex",
+                "url": "directory/Purgare/Lucatore/Fernex.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "horrendous creature",
+                "url": "directory/Purgare/Lucatore/Barghest.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "hanging deer",
+                "url": "campaigns/InThyBlood/006.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Emissary Neva",
+                "url": "directory/Purgare/TheCloister/Neva.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Purgare/Lucatore/Fernex.md": [
+            {
+                "text": "Fernex",
+                "url": "campaigns/InThyBlood/007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Fernex",
+                "url": "campaigns/InThyBlood/003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Fernex",
+                "url": "campaigns/InThyBlood/006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Purgare/Lucatore/Barghest.md": [
+            {
+                "text": "horrendous creature",
+                "url": "campaigns/InThyBlood/007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/InThyBlood/006.md": [
+            {
+                "text": "hanging deer",
+                "url": "campaigns/InThyBlood/007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/Lucatore/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/AltairEnvoys/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Maren",
+                "url": "directory/Purgare/AltairEnvoys/Maren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kuno",
+                "url": "directory/Purgare/AltairEnvoys/Kuno.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bleeding Ram",
+                "url": "directory/Purgare/Lucatore/BleedingRam.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nero",
+                "url": "directory/Purgare/AltairEnvoys/NeroVex.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fernex",
+                "url": "directory/Purgare/Lucatore/Fernex.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Carmino Ferro",
+                "url": "directory/Purgare/Lucatore/CarminoFerro.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thread",
+                "url": "directory/Purgare/AltairEnvoys/Thread.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Tullen",
+                "url": "directory/Purgare/AltairEnvoys/Tullen.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Altair",
+                "url": "directory/Purgare/HouseBenesato/Altair.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "forest",
+                "url": "directory/Purgare/Lucatore/NorthernWoods.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cloister",
+                "url": "directory/Purgare/TheCloister/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Emissary Neva",
+                "url": "directory/Purgare/TheCloister/Neva.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Verena",
+                "url": "directory/Purgare/TheCloister/Verena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vikal",
+                "url": "directory/Purgare/TheCloister/Vikal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scirocco",
+                "url": "directory/Purgare/Lucatore/Scirocco.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Decoy 5",
+                "url": "directory/Purgare/Lucatore/Decoy5.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "campaigns/InThyBlood/003.md": [
@@ -5190,20 +5494,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Purgare/Lucatore/Fernex.md": [
-            {
-                "text": "Fernex",
-                "url": "campaigns/InThyBlood/003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Fernex",
-                "url": "campaigns/InThyBlood/006.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Purgare/AlpsContrabandRaiders/Acilio.md": [
@@ -5333,134 +5623,6 @@
                 "url": "campaigns/InThyBlood/002.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "campaigns/InThyBlood/006.md": [
-            {
-                "text": "index",
-                "url": "directory/Purgare/Lucatore/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "index",
-                "url": "directory/Purgare/AltairEnvoys/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Maren",
-                "url": "directory/Purgare/AltairEnvoys/Maren.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Kuno",
-                "url": "directory/Purgare/AltairEnvoys/Kuno.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Bleeding Ram",
-                "url": "directory/Purgare/Lucatore/BleedingRam.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Nero",
-                "url": "directory/Purgare/AltairEnvoys/NeroVex.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Fernex",
-                "url": "directory/Purgare/Lucatore/Fernex.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Carmino Ferro",
-                "url": "directory/Purgare/Lucatore/CarminoFerro.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Thread",
-                "url": "directory/Purgare/AltairEnvoys/Thread.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Tullen",
-                "url": "directory/Purgare/AltairEnvoys/Tullen.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Altair",
-                "url": "directory/Purgare/HouseBenesato/Altair.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Cloister",
-                "url": "directory/Purgare/TheCloister/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Emissary Neva",
-                "url": "directory/Purgare/TheCloister/Neva.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Verena",
-                "url": "directory/Purgare/TheCloister/Verena.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Vikal",
-                "url": "directory/Purgare/TheCloister/Vikal.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Scirocco",
-                "url": "directory/Purgare/Lucatore/Scirocco.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Decoy5",
-                "url": "directory/Purgare/Lucatore/Decoy5.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
             }
         ],
         "directory/Purgare/TheCloister/Verena.md": [
