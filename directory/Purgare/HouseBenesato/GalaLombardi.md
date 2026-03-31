@@ -25,7 +25,7 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
-
+[index](../../../campaigns/InThyBlood/index.md)
 {% endcomment %}
 
 Gala detests the Anabaptists, hates their foolishness, their bad teeth and stinking hair.

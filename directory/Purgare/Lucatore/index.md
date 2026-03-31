@@ -24,7 +24,7 @@ images: [../../../imgs/gallery/Pasted%20image%2020251207085502.png]
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
-
+[index](../../../campaigns/InThyBlood/index.md)
 {% endcomment %}
 
 |                                                                                                                                                                                                          |

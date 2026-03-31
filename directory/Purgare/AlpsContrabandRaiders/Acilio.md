@@ -25,4 +25,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ```
 ---
 
+[index](../../../campaigns/InThyBlood/index.md)
+
 {% endcomment %}

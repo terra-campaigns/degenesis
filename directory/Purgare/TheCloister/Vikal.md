@@ -27,6 +27,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 [Altair](../HouseBenesato/Altair.md)
 [Neva](Neva.md)
-
+[index](../../../campaigns/InThyBlood/index.md)
 {% endcomment %}
 

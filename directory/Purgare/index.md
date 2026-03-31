@@ -23,7 +23,7 @@ images: [../../imgs/DEGENESIS-LOGOTYPES-PACK/CULTURE%20LOGOS%20SVG/06-CULTURE-PU
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
-
+[index](../../campaigns/InThyBlood/index.md)
 {% endcomment %}
 
 ![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3264x2320/1cc097d10f/degenesis-in-thy-blood-region-en-3264x2320.jpg)

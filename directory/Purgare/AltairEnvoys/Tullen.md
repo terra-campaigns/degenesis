@@ -27,7 +27,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ```
 
 ---
-
+[index](../../../campaigns/InThyBlood/index.md)
 Rumour: The Jehammedans have killed Altair – belated revenge for the Adriatic wars.
 
 {% endcomment %}

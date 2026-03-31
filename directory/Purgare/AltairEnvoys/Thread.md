@@ -28,6 +28,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ---
 
+[index](../../../campaigns/InThyBlood/index.md)
+
 Rumour: Deep in the swamp of the Lombard Bog, there are ancient mysteries.
 
 {% endcomment %}

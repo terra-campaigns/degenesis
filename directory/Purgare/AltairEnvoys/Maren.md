@@ -30,6 +30,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ---
 
+[index](../../../campaigns/InThyBlood/index.md)
+
 **Rumours**
 - Northern Purgare is grazed; there are no more Artefacts to be found in the ground. But there are lots of bygone mammon: coins, gold, jewellery.
 - Clan Benesato has been wholly absorbed into the Anabaptist Cult during the great missionary movement. Nowadays, the Clan is only a puppet of Cathedral City; its former power in the area has long since been lost.

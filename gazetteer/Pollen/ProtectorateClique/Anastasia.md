@@ -24,6 +24,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 [cossacks](../cossacks.md)
 [index](index.md)
+[index](../../../campaigns/InThyBlood/index.md)
 
 **Rumours**
 - Altair was poisoned

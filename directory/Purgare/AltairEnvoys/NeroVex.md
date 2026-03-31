@@ -30,6 +30,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ---
 
+[index](../../../campaigns/InThyBlood/index.md)
+
 The slag deserts of Western Purgare are the home of the Flocks. The east is not their land, the Anabaptists are too
 stubborn and too recalcitrant to deal with them for any amount of time. However, there is still covert trade between the two Cults. The Ascetics of Lucatore need lots of potent Burn from the Spore Fields in the West, and the Apocalyptics get good money for their goods. However, given Altair was killed, there is fear that trade will come to a halt. Someone needs to check if everything’s in order in Lucatore. As a group, the Apocalyptics will not show up there. However, a single one could mingle with the populace and follow the trail of the Burn shipment.
 

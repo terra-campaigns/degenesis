@@ -25,7 +25,7 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
-
+[index](../../../campaigns/InThyBlood/index.md)
 {% endcomment %}
 
 When Carmino came to Vivaco 10 years ago, he found the sickbay in a shambles. The

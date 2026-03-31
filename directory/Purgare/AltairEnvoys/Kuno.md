@@ -29,6 +29,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ---
 
+[index](../../../campaigns/InThyBlood/index.md)
+
 **Rumours**
 
 - The area is grazed; there are no more artefacts to be found in the ground. But there is lots of bygone mammon: coins, gold, jewellery.

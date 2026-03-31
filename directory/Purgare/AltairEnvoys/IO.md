@@ -30,6 +30,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ---
 
+[index](../../../campaigns/InThyBlood/index.md)
+
 **Rumours**
 
 - The Hellvetics and Anabaptists are pacifying the country. Hosts of Apocalyptics are rarely to be found there. There is at least one chronicler there.
