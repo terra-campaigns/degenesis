@@ -6,7 +6,7 @@ nav_exclude: false
 has_children: true
 has_toc: true
 
-parent: Directory
+parent: Lucatore
 title: The Cloister
 role: Home of the Anabaptists in Lucatore
 status: 

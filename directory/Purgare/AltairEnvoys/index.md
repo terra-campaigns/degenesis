@@ -7,7 +7,7 @@ hook_exclude: false
 has_children: true
 has_toc: false
 
-parent: Directory
+parent: Northern Purgare
 title: Altair Envoys
 role: Loose Inter-Cult Assembly  
 status:

@@ -6,7 +6,7 @@ nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: Directory
+parent: Northern Purgare
 title: Hellvetics Contrabandists
 role: 
 status: 

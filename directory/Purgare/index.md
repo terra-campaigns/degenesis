@@ -6,7 +6,7 @@ nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: Gazetteer
+parent: Directory
 title: Purgare
 role: 
 status: 
