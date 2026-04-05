@@ -8,7 +8,8 @@ has_toc: FALSE
 footer_content: 
 
 ---
-![](https://media.discordapp.net/attachments/1124744276216127580/1444082049937047723/image.png?ex=692d63f6&is=692c1276&hm=27117837c5a3e3e8edf6e7e41d5debc2443804d4e7f5a913fcc58aac143263e5&=&format=webp&quality=lossless)
+
+![](../../imgs/gallery/Pasted%20image%2020260405200301.png)
 
 **IN 2595, BAPTIST ALTAIR WAS MURDERED IN PURGARE.**
 {: .text-gamma }
