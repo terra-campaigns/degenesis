@@ -45,9 +45,9 @@ If the **Spore Infestation** roll is the highest, consult the table.
 |           |                                                    |
 | --------- | -------------------------------------------------- |
 | **1-4**   | No Effect.                                         |
-| **5-8**   | Hangover symptoms. Goes away in a few hours.       |
-| **9-12**  | Stigmata. Goes away in a few days.                 |
-| **13-20** | You gain a mutation.                               |
+| **5-7**   | Hangover symptoms. Goes away in a few hours.       |
+| **8-11**  | Stigmata. Goes away in a few days.                 |
+| **12-19** | You gain a mutation.                               |
 | **20**    | You become a Leperos. The Primer controls you now. |
 
 The **Spore Infestation** die decreases by one per week of rest.
