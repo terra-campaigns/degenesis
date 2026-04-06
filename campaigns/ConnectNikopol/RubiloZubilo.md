@@ -12,17 +12,17 @@ region: Nikopol
 
 ### The Clique must act
 
-In the dim light of [Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md)’s campaign office, shadows stretched long. [Surgeon Friedrich Voigt](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md), [Mechanic Aaron Partow](../../gazetteer/Pollen/ProtectorateClique/AaronPartow.md), and [Scout Sasha Volkov](../../gazetteer/Pollen/ProtectorateClique/SashaVolkov.md) spoke in hushed tones, their voices weighted with the knowledge of what lurked in Lubos’ workshop. The ANSUMOs—silent, dormant, waiting. If Elder Ivan seized this power, the East would bend to his will.
+In the dim light of [Commando Prime Klaus](../../directory/Pollen/ProtectorateClique/ComPrimeKlaus.md)’s campaign office, shadows stretched long. [Surgeon Friedrich Voigt](../../directory/Pollen/ProtectorateClique/FriedrichVoigt.md), [Mechanic Aaron Partow](../../directory/Pollen/ProtectorateClique/AaronPartow.md), and [Scout Sasha Volkov](../../directory/Pollen/ProtectorateClique/SashaVolkov.md) spoke in hushed tones, their voices weighted with the knowledge of what lurked in Lubos’ workshop. The ANSUMOs—silent, dormant, waiting. If Elder Ivan seized this power, the East would bend to his will.
 
 Time was against them. The air carried the scent of rust and old promises. Commando Prime listened, eyes sharp, before nodding once. “Come back after dinner. We’ll speak tactics then.”
 
-Outside, the world moved as if unaware of the storm brewing. [Yelena](../../gazetteer/Pollen/ProtectorateClique/Yelena.md) and [Detina](../../gazetteer/Pollen/Nikopol/BodganDetina.md) walked past, fingers entwined, lost in a moment of fragile joy. A rare sight in [index](../../gazetteer/Pollen/Nikopol/index.md). A reminder that even in the filth and decay, love still bloomed—brief, defiant, and destined to be swallowed by the dark.
+Outside, the world moved as if unaware of the storm brewing. [Yelena](../../directory/Pollen/ProtectorateClique/Yelena.md) and [Detina](../../directory/Pollen/Nikopol/BodganDetina.md) walked past, fingers entwined, lost in a moment of fragile joy. A rare sight in [index](../../directory/Pollen/Nikopol/index.md). A reminder that even in the filth and decay, love still bloomed—brief, defiant, and destined to be swallowed by the dark.
 
 ### Elder Ivan waits
 
 ![](https://i.imgur.com/8cxt2dM.png)
 
-The office smelled of paper and spore tea. [Elder Ivan](../../gazetteer/Pollen/Nikopol/IvanTheWise.md), his face a tapestry of scars, greeted them with a rasp that scraped against their ears. Here, in the heart of Founders’ Square, power sat cloaked in patience.
+The office smelled of paper and spore tea. [Elder Ivan](../../directory/Pollen/Nikopol/IvanTheWise.md), his face a tapestry of scars, greeted them with a rasp that scraped against their ears. Here, in the heart of Founders’ Square, power sat cloaked in patience.
 
 The Elder probed, testing the edges of their knowledge, his words a game of knives. How much did the Clique truly know?
 
@@ -34,16 +34,16 @@ Aaron shifted, his words a deliberate misstep, a feint in the conversation’s d
 
 ### Burn, Baby, Burn
 
-“The plan is reckless,” [Prokhor](../../gazetteer/Pollen/Nikopol/Prokhor.md) muttered, rubbing the grime from his hands, “but it might just work.”
+“The plan is reckless,” [Prokhor](../../directory/Pollen/Nikopol/Prokhor.md) muttered, rubbing the grime from his hands, “but it might just work.”
 
-The Streltsys crouched on the ruined skyline, rifles ready under the rain. Below them, the spore field stretched out, a blight upon the land. [Jorn Kal](../../gazetteer/Pollen/Nikopol/JornKal.md) laid it out simple: fire would lure them. Rubilo and Zubilo, the Psychonauts, would come screaming for vengeance. Then we run. Six kilometres back to the ruined city.
+The Streltsys crouched on the ruined skyline, rifles ready under the rain. Below them, the spore field stretched out, a blight upon the land. [Jorn Kal](../../directory/Pollen/Nikopol/JornKal.md) laid it out simple: fire would lure them. Rubilo and Zubilo, the Psychonauts, would come screaming for vengeance. Then we run. Six kilometres back to the ruined city.
 
 ![](https://i.imgur.com/vrr2TRt.png)
 
 ![](https://i.imgur.com/PRJxlJg.png)
 
 
-[Purifier Harlem](../../gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md), young [Varvara Semyonich](../../gazetteer/Pollen/Nikopol/VarvaraSemyonich.md), and the others listened, the weight of the coming horror pressing into their bones. High spirits masked the truth: not all of them would make it.
+[Purifier Harlem](../../directory/Pollen/ProtectorateClique/PurifierHarlem.md), young [Varvara Semyonich](../../directory/Pollen/Nikopol/VarvaraSemyonich.md), and the others listened, the weight of the coming horror pressing into their bones. High spirits masked the truth: not all of them would make it.
 
 The fuel was spread. The match was struck. The world ignited.
 

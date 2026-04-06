@@ -51,10 +51,7 @@ For most people, the **Primer** is a persistent, but distant, threat.
 | **[Vorstok & Ironclaw Purged](campaigns/VostokIronclawPurged/index.md):** February 2594 |
 | **[Connect with Nikopol](campaigns/ConnectNikopol/index.md):** January 2593 - June 2594 |
 | **[In Thy Blood](campaigns/InThyBlood/index.md):** March 2595 onwards                   |
-| **[Directory](directory/index.md):** Relevant content for current campaign              |
-| **[Gazeteer](gazetteer/index.md):** Established facts from previous campaigns           |
-
-
+| **[Directory](directory/index.md):** Files on people, locations and factions            |
 
 {% comment %}
 

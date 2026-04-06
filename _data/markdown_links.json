@@ -160,13 +160,6 @@
                 "favicon": null
             },
             {
-                "text": "Gazeteer",
-                "url": "gazetteer/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
                 "text": "Campaign Website",
                 "url": "https://terra-campaigns.github.io/degenesis/campaigns/InThyBlood/",
                 "is_internal": false,
@@ -226,7 +219,7 @@
             },
             {
                 "text": "Vostok",
-                "url": "gazetteer/Pollen/Vostok/index.md",
+                "url": "directory/Pollen/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -240,21 +233,21 @@
             },
             {
                 "text": "Mirova",
-                "url": "gazetteer/Pollen/Vostok/mirova.md",
+                "url": "directory/Pollen/Vostok/mirova.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Yelena",
-                "url": "gazetteer/Pollen/Vostok/yelena.md",
+                "url": "directory/Pollen/Vostok/yelena.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Scouts",
-                "url": "gazetteer/Pollen/Vostok/index.md",
+                "url": "directory/Pollen/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -324,14 +317,14 @@
             },
             {
                 "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
+                "url": "directory/Pollen/Nikopol/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Kievan",
-                "url": "gazetteer/Pollen/Kiev.md",
+                "url": "directory/Pollen/Kiev.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -348,6 +341,12 @@
             {
                 "text": "In Thy Blood",
                 "url": "index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -536,12 +535,6 @@
                 "url": "directory/Purgare/AltairEnvoys/IO.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/index.md": [
@@ -553,18 +546,10 @@
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "gazetteer/index.md": [
-            {
-                "text": "Gazeteer",
-                "url": "index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "_includes/hooks.md": [
@@ -1089,7 +1074,7 @@
                 "favicon": "https://degenesis.com/favicon.ico"
             }
         ],
-        "gazetteer/Pollen/ProtectorateClique/Anastasia.md": [
+        "directory/Pollen/ProtectorateClique/Anastasia.md": [
             {
                 "text": "Anastasia",
                 "url": "directory/index.md",
@@ -1097,15 +1082,21 @@
                 "direction": "inbound"
             },
             {
+                "text": "Anastasia",
+                "url": "directory/Pollen/Nikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "cossacks",
-                "url": "gazetteer/Pollen/cossacks.md",
+                "url": "directory/Pollen/cossacks.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "index",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1119,7 +1110,7 @@
             },
             {
                 "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1133,7 +1124,7 @@
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1230,6 +1221,1604 @@
             {
                 "text": "Anastasia",
                 "url": "campaigns/InThyBlood/006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Shard.md": [
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Cleaning the tracks",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol2",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Shard",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Shard",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Cherasky.md": [
+            {
+                "text": "Cossacks",
+                "url": "directory/Pollen/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cherasky",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cherasky",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/cossacks.md": [
+            {
+                "text": "Cossacks",
+                "url": "directory/Pollen/Cherasky.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "cossacks",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Cossacks",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "COSSACKS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Vostok/index.md": [
+            {
+                "text": "Pollen",
+                "url": "https://degenesis.com/world/cultures/pollen",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Elder Mirova",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/mirova",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Rurik, the Swift",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/rurik",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Yelena, the Seer",
+                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/yelena",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "In the spore wall",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "The Spitalian raid",
+                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Vostok",
+                "url": "campaigns/VostokIronclawPurged/chap2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vostok",
+                "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Scouts",
+                "url": "campaigns/VostokIronclawPurged/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vostok Scouts",
+                "url": "campaigns/VostokIronclawPurged/chap1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Nikopol/Prokhor.md": [
+            {
+                "text": "Jorn",
+                "url": "directory/Pollen/Nikopol/JornKal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prokhor",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Prokhor",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Nikopol/JornKal.md": [
+            {
+                "text": "Jorn",
+                "url": "directory/Pollen/Nikopol/Prokhor.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jorn Kal",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jorn",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jorn Kal",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Jorn Kal",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Nikopol/IvanTheWise.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Elder Ivan",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ivan",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Elder Ivan",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ivan",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/IsoldePax.md": [
+            {
+                "text": "Isolde Pax",
+                "url": "directory/Pollen/Nikopol/IvanTheWise.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "directory/Pollen/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "some illness in 2593",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Clique",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "directory/Pollen/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Furor Pax",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sublime Pax",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "IsoldePax",
+                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Nikopol/Vira.md": [
+            {
+                "text": "Sasha Volkov",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vira",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vira",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vira",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vira",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/SashaVolkov.md": [
+            {
+                "text": "Sasha Volkov",
+                "url": "directory/Pollen/Nikopol/Vira.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Scout Sasha Volkov",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Nikopol/BodganDetina.md": [
+            {
+                "text": "Vira",
+                "url": "directory/Pollen/Nikopol/Vira.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prokhor",
+                "url": "directory/Pollen/Nikopol/Prokhor.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Pollen/Nikopol/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "2594-05-08",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Detina",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Bogdan Detina",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Bodgan 'Detina'",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Detina",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Detina",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Nikopol/index.md": [
+            {
+                "text": "index",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "humanoid machines below the city",
+                "url": "directory/Pollen/Nikopol/#lubos-workshop",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lubos",
+                "url": "directory/Pollen/Nikopol/Lubos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "2594-05-08",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/ConnectNikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/InNikopol02.md": [
+            {
+                "text": "2594-05-08",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "2594-05-08",
+                "url": "directory/Pollen/Nikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol on 2594-05-08",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "calamity that claimed Zofia",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Clique",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Pollen/Nikopol/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "directory/Pollen/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Furor Pax",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Elder Anastasia",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "directory/Pollen/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Adriana",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Prokhor",
+                "url": "directory/Pollen/Nikopol/Prokhor.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lubos",
+                "url": "directory/Pollen/Nikopol/Lubos.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kievan",
+                "url": "directory/Pollen/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Pollen/Nikopol/#lubos-workshop": [
+            {
+                "text": "humanoid machines below the city",
+                "url": "directory/Pollen/Nikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/Nikopol/Lubos.md": [
+            {
+                "text": "Lubos",
+                "url": "directory/Pollen/Nikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lubos",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lubos",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lubos",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/Dexter.md": [
+            {
+                "text": "Dexter",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "directory/Pollen/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Dexter",
+                "url": "directory/Pollen/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/Prequel10.md": [
+            {
+                "text": "some illness in 2593",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kiev",
+                "url": "directory/Pollen/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha Volkov",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sokolov",
+                "url": "directory/Pollen/Nikopol/Sokolov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/index.md": [
+            {
+                "text": "Clique",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nikopol on 2594-05-08",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "directory/Pollen/ProtectorateClique/PurifierHarlem.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Spitalians",
+                "url": "systems/backgrounds/spitalians.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anabaptists",
+                "url": "systems/backgrounds/anabaptists.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cossacks",
+                "url": "directory/Pollen/cossacks.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scrapers",
+                "url": "systems/backgrounds/scrapers.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Clique",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/Yelena.md": [
+            {
+                "text": "Yelena",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Isolde Pax",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nikopol",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Yelena",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/StationWork2.md": [
+            {
+                "text": "encounter with Leperos",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Thaddeus",
+                "url": "directory/Pollen/ProtectorateClique/ThaddeusCain.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Jorn Kal",
+                "url": "directory/Pollen/Nikopol/JornKal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Friedrich",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Aaron Partow",
+                "url": "directory/Pollen/ProtectorateClique/AaronPartow.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Pollen/Nikopol/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Mirova",
+                "url": "directory/Pollen/Vostok/mirova.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/FriedrichVoigt.md": [
+            {
+                "text": "Konrad Jager",
+                "url": "directory/Pollen/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Spitalian",
+                "url": "systems/backgrounds/spitalians.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kievan",
+                "url": "directory/Pollen/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Surgeon Friedrich Voigt",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Friedrich",
+                "url": "campaigns/ConnectNikopol/Brochovs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Friedrich",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Surgeon Friedrich",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Friedrich Voigt",
+                "url": "campaigns/ConnectNikopol/StationWork1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Friedrich",
+                "url": "campaigns/ConnectNikopol/StationWork2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Friedrich",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Friedrich Voigt",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/KonradJager.md": [
+            {
+                "text": "Konrad Jager",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "directory/Pollen/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad",
+                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad",
+                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Konrad Jager",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/spitalians.md": [
+            {
+                "text": "Spitalian",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spitalians",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spitalians",
+                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "SPITALIANS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Spitalians",
+                "url": "https://degenesis.com/world/cults/spitalians",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "directory/Pollen/Kiev.md": [
+            {
+                "text": "Kievan",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kievan",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kiev",
+                "url": "campaigns/ConnectNikopol/Prequel11.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kievan",
+                "url": "campaigns/ConnectNikopol/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kiev",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kiev",
+                "url": "campaigns/ConnectNikopol/Prequel10.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/ConnectNikopol/InNikopol01.md": [
+            {
+                "text": "Nikopol",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "calamity that claimed Zofia",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rarogi",
+                "url": "systems/backgrounds/rarogi.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Konrad",
+                "url": "directory/Pollen/ProtectorateClique/KonradJager.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sasha",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Yelena",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Pollen/Nikopol/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Friedrich Voigt",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kiev",
+                "url": "directory/Pollen/Kiev.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "HIVE group",
+                "url": "https://degenesis.com/world/stories/spitalians/vasco",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Sokolov",
+                "url": "directory/Pollen/Nikopol/Sokolov.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bion",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Africa",
+                "url": "https://degenesis.com/world/cultures/africa",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Prokhor",
+                "url": "directory/Pollen/Nikopol/Prokhor.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "book of some sorts",
+                "url": "https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md": [
+            {
+                "text": "Commando Prime Klaus",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "one of the Anabaptists",
+                "url": "directory/Pollen/ProtectorateClique/MarcusVoss.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/InNikopol03.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/Deposition.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Commando Prime Klaus",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/PurifierHarlem.md": [
+            {
+                "text": "Purifier Harlem",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Dexter",
+                "url": "directory/Pollen/ProtectorateClique/Dexter.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/InNikopol02.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Purifier Harlem",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "systems/backgrounds/anabaptists.md": [
+            {
+                "text": "Anabaptists",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "ANABAPTISTS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anabaptists",
+                "url": "https://degenesis.com/world/cults/anabaptists",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            }
+        ],
+        "systems/backgrounds/scrapers.md": [
+            {
+                "text": "Scrapers",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Scrappers",
+                "url": "https://degenesis.com/world/cults/scrappers",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "SCRAPERS",
+                "url": "systems/backgrounds/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Pollen/ProtectorateClique/MarcusVoss.md": [
+            {
+                "text": "one of the Anabaptists",
+                "url": "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Marcus Voss",
+                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -2308,1612 +3897,24 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Shard.md": [
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Cleaning the tracks",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/ConnectNikopol/ToNikopol2",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Shard",
-                "url": "campaigns/VostokIronclawPurged/chap1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Shard",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Cherasky.md": [
-            {
-                "text": "Cossacks",
-                "url": "gazetteer/Pollen/cossacks.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Cherasky",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Cherasky",
-                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/cossacks.md": [
-            {
-                "text": "Cossacks",
-                "url": "gazetteer/Pollen/Cherasky.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "cossacks",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Cossacks",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "COSSACKS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Vostok/index.md": [
-            {
-                "text": "Pollen",
-                "url": "https://degenesis.com/world/cultures/pollen",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Elder Mirova",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/mirova",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Rurik, the Swift",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/rurik",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Yelena, the Seer",
-                "url": "https://terra-campaigns.github.io/degenesis/people/Vostok/yelena",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "In the spore wall",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "The Spitalian raid",
-                "url": "https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Vostok",
-                "url": "campaigns/VostokIronclawPurged/chap2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vostok",
-                "url": "campaigns/VostokIronclawPurged/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Scouts",
-                "url": "campaigns/VostokIronclawPurged/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vostok Scouts",
-                "url": "campaigns/VostokIronclawPurged/chap1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Nikopol/Prokhor.md": [
-            {
-                "text": "Jorn",
-                "url": "gazetteer/Pollen/Nikopol/JornKal.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Prokhor",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Prokhor",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Prokhor",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Prokhor",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Prokhor",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Prokhor",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Nikopol/JornKal.md": [
-            {
-                "text": "Jorn",
-                "url": "gazetteer/Pollen/Nikopol/Prokhor.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Jorn Kal",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Jorn",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Jorn Kal",
-                "url": "campaigns/ConnectNikopol/StationWork1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Jorn Kal",
-                "url": "campaigns/ConnectNikopol/StationWork2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Nikopol/IvanTheWise.md": [
-            {
-                "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Elder Ivan",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Ivan",
-                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Elder Ivan",
-                "url": "campaigns/ConnectNikopol/Deposition.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Ivan",
-                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/IsoldePax.md": [
-            {
-                "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/Nikopol/IvanTheWise.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Dexter",
-                "url": "gazetteer/Pollen/ProtectorateClique/Dexter.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "some illness in 2593",
-                "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Clique",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/Dexter.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde",
-                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde",
-                "url": "campaigns/ConnectNikopol/Brochovs.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Furor Pax",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sublime Pax",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde",
-                "url": "campaigns/ConnectNikopol/Prequel11.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "IsoldePax",
-                "url": "campaigns/ConnectNikopol/ToNikopol1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde",
-                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde",
-                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Nikopol/Vira.md": [
-            {
-                "text": "Sasha Volkov",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Vira",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vira",
-                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vira",
-                "url": "campaigns/ConnectNikopol/Deposition.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vira",
-                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md": [
-            {
-                "text": "Sasha Volkov",
-                "url": "gazetteer/Pollen/Nikopol/Vira.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha Volkov",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha Volkov",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Scout Sasha Volkov",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha",
-                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha",
-                "url": "campaigns/ConnectNikopol/Brochovs.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha Volkov",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha Volkov",
-                "url": "campaigns/ConnectNikopol/StationWork1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha",
-                "url": "campaigns/ConnectNikopol/Prequel11.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha",
-                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Sasha Volkov",
-                "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Nikopol/BodganDetina.md": [
-            {
-                "text": "Vira",
-                "url": "gazetteer/Pollen/Nikopol/Vira.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Prokhor",
-                "url": "gazetteer/Pollen/Nikopol/Prokhor.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sasha Volkov",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "2594-05-08",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sasha Volkov",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Detina",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Bogdan Detina",
-                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Bodgan 'Detina'",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Detina",
-                "url": "campaigns/ConnectNikopol/Prequel11.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Detina",
-                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Nikopol/index.md": [
-            {
-                "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anastasia",
-                "url": "gazetteer/Pollen/Nikopol/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "humanoid machines below the city",
-                "url": "gazetteer/Pollen/Nikopol/#lubos-workshop",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Lubos",
-                "url": "gazetteer/Pollen/Nikopol/Nikopol/Lubos.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "2594-05-08",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "index",
-                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "campaigns/ConnectNikopol/Deposition.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "campaigns/ConnectNikopol/StationWork2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "campaigns/ConnectNikopol/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/ConnectNikopol/InNikopol02.md": [
-            {
-                "text": "2594-05-08",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "2594-05-08",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Nikopol on 2594-05-08",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "calamity that claimed Zofia",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Clique",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Konrad Jager",
-                "url": "gazetteer/Pollen/ProtectorateClique/KonradJager.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Furor Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Elder Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Purifier Harlem",
-                "url": "gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Adriana",
-                "url": "campaigns/ConnectNikopol/Prequel11.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Prokhor",
-                "url": "gazetteer/Pollen/Nikopol/Prokhor.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sasha",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Lubos",
-                "url": "gazetteer/Pollen/Nikopol/Lubos.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Kievan",
-                "url": "gazetteer/Pollen/Kiev.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "gazetteer/Pollen/Nikopol/ProtectorateClique/Anastasia.md": [
-            {
-                "text": "Anastasia",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Nikopol/#lubos-workshop": [
-            {
-                "text": "humanoid machines below the city",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/Nikopol/Nikopol/Lubos.md": [
-            {
-                "text": "Lubos",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/Dexter.md": [
-            {
-                "text": "Dexter",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad Jager",
-                "url": "gazetteer/Pollen/ProtectorateClique/KonradJager.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Dexter",
-                "url": "gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Dexter",
-                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Dexter",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Dexter",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/ConnectNikopol/Prequel10.md": [
-            {
-                "text": "some illness in 2593",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kiev",
-                "url": "gazetteer/Pollen/Kiev.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sasha Volkov",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sokolov",
-                "url": "gazetteer/Pollen/Nikopol/Sokolov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/index.md": [
-            {
-                "text": "Clique",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Nikopol on 2594-05-08",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Purifier Harlem",
-                "url": "gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Spitalians",
-                "url": "systems/backgrounds/spitalians.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anabaptists",
-                "url": "systems/backgrounds/anabaptists.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Cossacks",
-                "url": "gazetteer/Pollen/cossacks.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Scrapers",
-                "url": "systems/backgrounds/scrapers.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Clique",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Clique",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Clique",
-                "url": "campaigns/ConnectNikopol/Deposition.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Clique",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/Yelena.md": [
-            {
-                "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Nikopol",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Yelena",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Yelena",
-                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Yelena",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Yelena",
-                "url": "campaigns/ConnectNikopol/Prequel11.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Yelena",
-                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Yelena",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Yelena",
-                "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Yelena",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/ConnectNikopol/StationWork2.md": [
-            {
-                "text": "encounter with Leperos",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Thaddeus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ThaddeusCain.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Jorn Kal",
-                "url": "gazetteer/Pollen/Nikopol/JornKal.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Friedrich",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Aaron Partow",
-                "url": "gazetteer/Pollen/ProtectorateClique/AaronPartow.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Mirova",
-                "url": "gazetteer/Pollen/Vostok/mirova.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md": [
-            {
-                "text": "Konrad Jager",
-                "url": "gazetteer/Pollen/ProtectorateClique/KonradJager.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Spitalian",
-                "url": "systems/backgrounds/spitalians.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Kievan",
-                "url": "gazetteer/Pollen/Kiev.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Surgeon Friedrich Voigt",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Friedrich",
-                "url": "campaigns/ConnectNikopol/Brochovs.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Friedrich",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Surgeon Friedrich",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Friedrich Voigt",
-                "url": "campaigns/ConnectNikopol/StationWork1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Friedrich",
-                "url": "campaigns/ConnectNikopol/StationWork2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Friedrich",
-                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Friedrich Voigt",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/KonradJager.md": [
-            {
-                "text": "Konrad Jager",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad Jager",
-                "url": "gazetteer/Pollen/ProtectorateClique/Dexter.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad Jager",
-                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad",
-                "url": "campaigns/ConnectNikopol/BloodyMines1.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad Jager",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad Jager",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad",
-                "url": "campaigns/ConnectNikopol/BloodyMines2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Konrad Jager",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/spitalians.md": [
-            {
-                "text": "Spitalian",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Spitalians",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Spitalians",
-                "url": "campaigns/ConnectNikopol/ReturnGeteli.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "SPITALIANS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Spitalians",
-                "url": "https://degenesis.com/world/cults/spitalians",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
-        "gazetteer/Pollen/Kiev.md": [
-            {
-                "text": "Kievan",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kievan",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kiev",
-                "url": "campaigns/ConnectNikopol/Prequel11.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kievan",
-                "url": "campaigns/ConnectNikopol/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kiev",
-                "url": "campaigns/ConnectNikopol/InNikopol01.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Kiev",
-                "url": "campaigns/ConnectNikopol/Prequel10.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/ConnectNikopol/InNikopol01.md": [
-            {
-                "text": "Nikopol",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "calamity that claimed Zofia",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Rarogi",
-                "url": "systems/backgrounds/rarogi.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Konrad",
-                "url": "gazetteer/Pollen/ProtectorateClique/KonradJager.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Sasha",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Friedrich Voigt",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Kiev",
-                "url": "gazetteer/Pollen/Kiev.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "HIVE group",
-                "url": "https://degenesis.com/world/stories/spitalians/vasco",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Sokolov",
-                "url": "gazetteer/Pollen/Nikopol/Sokolov.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Bion",
-                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Africa",
-                "url": "https://degenesis.com/world/cultures/africa",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "Prokhor",
-                "url": "gazetteer/Pollen/Nikopol/Prokhor.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "book of some sorts",
-                "url": "https://terra-campaigns.github.io/degenesis/people/FoundersBlessed/Prokhor/#just-journal-entries",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md": [
-            {
-                "text": "Commando Prime Klaus",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "one of the Anabaptists",
-                "url": "gazetteer/Pollen/ProtectorateClique/MarcusVoss.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "campaigns/ConnectNikopol/Deposition.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Commando Prime Klaus",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md": [
-            {
-                "text": "Purifier Harlem",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Dexter",
-                "url": "gazetteer/Pollen/ProtectorateClique/Dexter.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Purifier Harlem",
-                "url": "campaigns/ConnectNikopol/ToNikopol3a.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Purifier Harlem",
-                "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Purifier Harlem",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Purifier Harlem",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "systems/backgrounds/anabaptists.md": [
-            {
-                "text": "Anabaptists",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ANABAPTISTS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Anabaptists",
-                "url": "https://degenesis.com/world/cults/anabaptists",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
-        "systems/backgrounds/scrapers.md": [
-            {
-                "text": "Scrapers",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Scrappers",
-                "url": "https://degenesis.com/world/cults/scrappers",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "SCRAPERS",
-                "url": "systems/backgrounds/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "gazetteer/Pollen/ProtectorateClique/MarcusVoss.md": [
-            {
-                "text": "one of the Anabaptists",
-                "url": "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Marcus Voss",
-                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Marcus Voss",
-                "url": "campaigns/ConnectNikopol/ToNikopol3b.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/VostokIronclawPurged/chap2.md": [
             {
                 "text": "Vostok",
-                "url": "gazetteer/Pollen/Vostok/index.md",
+                "url": "directory/Pollen/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Luna",
-                "url": "gazetteer/Pollen/Vostok/luna.md",
+                "url": "directory/Pollen/Vostok/luna.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Jacob",
-                "url": "gazetteer/Pollen/Vostok/jacob.md",
+                "url": "directory/Pollen/Vostok/jacob.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3946,7 +3947,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Vostok/luna.md": [
+        "directory/Pollen/Vostok/luna.md": [
             {
                 "text": "Luna",
                 "url": "campaigns/VostokIronclawPurged/chap2.md",
@@ -3960,7 +3961,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Vostok/jacob.md": [
+        "directory/Pollen/Vostok/jacob.md": [
             {
                 "text": "Jacob",
                 "url": "campaigns/VostokIronclawPurged/chap2.md",
@@ -3974,7 +3975,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Vostok/mirova.md": [
+        "directory/Pollen/Vostok/mirova.md": [
             {
                 "text": "Mirova",
                 "url": "campaigns/VostokIronclawPurged/index.md",
@@ -4006,7 +4007,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Vostok/yelena.md": [
+        "directory/Pollen/Vostok/yelena.md": [
             {
                 "text": "Yelena",
                 "url": "campaigns/VostokIronclawPurged/index.md",
@@ -4017,49 +4018,49 @@
         "campaigns/VostokIronclawPurged/chap1.md": [
             {
                 "text": "Vostok Scouts",
-                "url": "gazetteer/Pollen/Vostok/index.md",
+                "url": "directory/Pollen/Vostok/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Jacob",
-                "url": "gazetteer/Pollen/Vostok/jacob.md",
+                "url": "directory/Pollen/Vostok/jacob.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Yuri",
-                "url": "gazetteer/Pollen/Vostok/yuri.md",
+                "url": "directory/Pollen/Vostok/yuri.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Skittle",
-                "url": "gazetteer/Pollen/Vostok/skittle.md",
+                "url": "directory/Pollen/Vostok/skittle.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Luna",
-                "url": "gazetteer/Pollen/Vostok/luna.md",
+                "url": "directory/Pollen/Vostok/luna.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Dr. Sofia Markov",
-                "url": "gazetteer/Pollen/Vostok/sofia.md",
+                "url": "directory/Pollen/Vostok/sofia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Kramatorsk",
-                "url": "gazetteer/Pollen/Kramatorsk.md",
+                "url": "directory/Pollen/Kramatorsk.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4073,7 +4074,7 @@
             },
             {
                 "text": "Shard",
-                "url": "gazetteer/Pollen/Shard.md",
+                "url": "directory/Pollen/Shard.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4135,7 +4136,7 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
-        "gazetteer/Pollen/Vostok/yuri.md": [
+        "directory/Pollen/Vostok/yuri.md": [
             {
                 "text": "Yuri",
                 "url": "campaigns/VostokIronclawPurged/chap1.md",
@@ -4143,7 +4144,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Vostok/skittle.md": [
+        "directory/Pollen/Vostok/skittle.md": [
             {
                 "text": "Skittle",
                 "url": "campaigns/VostokIronclawPurged/chap1.md",
@@ -4151,7 +4152,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Vostok/sofia.md": [
+        "directory/Pollen/Vostok/sofia.md": [
             {
                 "text": "Dr. Sofia Markov",
                 "url": "campaigns/VostokIronclawPurged/chap1.md",
@@ -4159,7 +4160,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Kramatorsk.md": [
+        "directory/Pollen/Kramatorsk.md": [
             {
                 "text": "Kramatorsk",
                 "url": "campaigns/VostokIronclawPurged/chap1.md",
@@ -4170,35 +4171,35 @@
         "campaigns/ConnectNikopol/ToNikopol3a.md": [
             {
                 "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Konrad Jager",
-                "url": "gazetteer/Pollen/ProtectorateClique/KonradJager.md",
+                "url": "directory/Pollen/ProtectorateClique/KonradJager.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Dexter",
-                "url": "gazetteer/Pollen/ProtectorateClique/Dexter.md",
+                "url": "directory/Pollen/ProtectorateClique/Dexter.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Purifier Harlem",
-                "url": "gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md",
+                "url": "directory/Pollen/ProtectorateClique/PurifierHarlem.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
+                "url": "directory/Pollen/Nikopol/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4212,7 +4213,7 @@
             },
             {
                 "text": "Commando Prime Klaus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md",
+                "url": "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4234,84 +4235,84 @@
         "campaigns/ConnectNikopol/RubiloZubilo.md": [
             {
                 "text": "Commando Prime Klaus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md",
+                "url": "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Surgeon Friedrich Voigt",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Mechanic Aaron Partow",
-                "url": "gazetteer/Pollen/ProtectorateClique/AaronPartow.md",
+                "url": "directory/Pollen/ProtectorateClique/AaronPartow.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Scout Sasha Volkov",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Detina",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
+                "url": "directory/Pollen/Nikopol/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Elder Ivan",
-                "url": "gazetteer/Pollen/Nikopol/IvanTheWise.md",
+                "url": "directory/Pollen/Nikopol/IvanTheWise.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Prokhor",
-                "url": "gazetteer/Pollen/Nikopol/Prokhor.md",
+                "url": "directory/Pollen/Nikopol/Prokhor.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Jorn Kal",
-                "url": "gazetteer/Pollen/Nikopol/JornKal.md",
+                "url": "directory/Pollen/Nikopol/JornKal.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Purifier Harlem",
-                "url": "gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md",
+                "url": "directory/Pollen/ProtectorateClique/PurifierHarlem.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Varvara Semyonich",
-                "url": "gazetteer/Pollen/Nikopol/VarvaraSemyonich.md",
+                "url": "directory/Pollen/Nikopol/VarvaraSemyonich.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4324,7 +4325,7 @@
                 "favicon": null
             }
         ],
-        "gazetteer/Pollen/ProtectorateClique/AaronPartow.md": [
+        "directory/Pollen/ProtectorateClique/AaronPartow.md": [
             {
                 "text": "Mechanic Aaron Partow",
                 "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
@@ -4356,7 +4357,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Nikopol/VarvaraSemyonich.md": [
+        "directory/Pollen/Nikopol/VarvaraSemyonich.md": [
             {
                 "text": "Varvara Semyonich",
                 "url": "campaigns/ConnectNikopol/RubiloZubilo.md",
@@ -4379,63 +4380,63 @@
             },
             {
                 "text": "Vira",
-                "url": "gazetteer/Pollen/Nikopol/Vira.md",
+                "url": "directory/Pollen/Nikopol/Vira.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Isolde",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Konrad",
-                "url": "gazetteer/Pollen/ProtectorateClique/KonradJager.md",
+                "url": "directory/Pollen/ProtectorateClique/KonradJager.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Ivan",
-                "url": "gazetteer/Pollen/Nikopol/IvanTheWise.md",
+                "url": "directory/Pollen/Nikopol/IvanTheWise.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Isolde",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Friedrich",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sasha",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Detina",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4444,49 +4445,49 @@
         "campaigns/ConnectNikopol/BloodyMines1.md": [
             {
                 "text": "Bogdan Detina",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Isolde",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Konrad",
-                "url": "gazetteer/Pollen/ProtectorateClique/KonradJager.md",
+                "url": "directory/Pollen/ProtectorateClique/KonradJager.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sasha",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Ivan",
-                "url": "gazetteer/Pollen/Nikopol/IvanTheWise.md",
+                "url": "directory/Pollen/Nikopol/IvanTheWise.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Vira",
-                "url": "gazetteer/Pollen/Nikopol/Vira.md",
+                "url": "directory/Pollen/Nikopol/Vira.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4510,42 +4511,42 @@
         "campaigns/ConnectNikopol/Brochovs.md": [
             {
                 "text": "Aaron",
-                "url": "gazetteer/Pollen/ProtectorateClique/AaronPartow.md",
+                "url": "directory/Pollen/ProtectorateClique/AaronPartow.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Orest",
-                "url": "gazetteer/Pollen/Nikopol/Orest.md",
+                "url": "directory/Pollen/Nikopol/Orest.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Friedrich",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Isolde",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sasha",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4557,7 +4558,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Nikopol/Orest.md": [
+        "directory/Pollen/Nikopol/Orest.md": [
             {
                 "text": "Orest",
                 "url": "campaigns/ConnectNikopol/Brochovs.md",
@@ -4580,35 +4581,35 @@
             },
             {
                 "text": "Detina",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Aaron",
-                "url": "gazetteer/Pollen/ProtectorateClique/AaronPartow.md",
+                "url": "directory/Pollen/ProtectorateClique/AaronPartow.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Kiev",
-                "url": "gazetteer/Pollen/Kiev.md",
+                "url": "directory/Pollen/Kiev.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Isolde",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4622,155 +4623,135 @@
             },
             {
                 "text": "Sasha",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "gazetteer/Pollen/Nikopol/Lubos.md": [
-            {
-                "text": "Lubos",
-                "url": "campaigns/ConnectNikopol/InNikopol02.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lubos",
-                "url": "campaigns/ConnectNikopol/InNikopol03.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Lubos",
-                "url": "campaigns/ConnectNikopol/Deposition.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/ConnectNikopol/InNikopol03.md": [
             {
                 "text": "Friedrich",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sasha",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Jorn",
-                "url": "gazetteer/Pollen/Nikopol/JornKal.md",
+                "url": "directory/Pollen/Nikopol/JornKal.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Thaddeus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ThaddeusCain.md",
+                "url": "directory/Pollen/ProtectorateClique/ThaddeusCain.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Isolde",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Prokhor",
-                "url": "gazetteer/Pollen/Nikopol/Prokhor.md",
+                "url": "directory/Pollen/Nikopol/Prokhor.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Mirova",
-                "url": "gazetteer/Pollen/Vostok/mirova.md",
+                "url": "directory/Pollen/Vostok/mirova.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sublime Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
+                "url": "directory/Pollen/Nikopol/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Elder Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Surgeon Friedrich",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Dexter",
-                "url": "gazetteer/Pollen/ProtectorateClique/Dexter.md",
+                "url": "directory/Pollen/ProtectorateClique/Dexter.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sasha Volkov",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Lubos",
-                "url": "gazetteer/Pollen/Nikopol/Lubos.md",
+                "url": "directory/Pollen/Nikopol/Lubos.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Aaron",
-                "url": "gazetteer/Pollen/ProtectorateClique/AaronPartow.md",
+                "url": "directory/Pollen/ProtectorateClique/AaronPartow.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Bodgan 'Detina'",
-                "url": "gazetteer/Pollen/Nikopol/BodganDetina.md",
+                "url": "directory/Pollen/Nikopol/BodganDetina.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4784,7 +4765,7 @@
             },
             {
                 "text": "Commando Prime Klaus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md",
+                "url": "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4798,14 +4779,14 @@
             },
             {
                 "text": "Prokhor",
-                "url": "gazetteer/Pollen/Nikopol/Prokhor.md",
+                "url": "directory/Pollen/Nikopol/Prokhor.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Elder Mirova",
-                "url": "gazetteer/Pollen/Vostok/mirova.md",
+                "url": "directory/Pollen/Vostok/mirova.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4831,7 +4812,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/ProtectorateClique/ThaddeusCain.md": [
+        "directory/Pollen/ProtectorateClique/ThaddeusCain.md": [
             {
                 "text": "Thaddeus",
                 "url": "campaigns/ConnectNikopol/InNikopol03.md",
@@ -4854,56 +4835,56 @@
         "campaigns/ConnectNikopol/ToNikopol2.md": [
             {
                 "text": "Cherasky",
-                "url": "gazetteer/Pollen/Cherasky.md",
+                "url": "directory/Pollen/Cherasky.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Clique",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Commando Prime Klaus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md",
+                "url": "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Inquisitor Thorne",
-                "url": "gazetteer/Pollen/ProtectorateClique/InquisitorThorne.md",
+                "url": "directory/Pollen/ProtectorateClique/InquisitorThorne.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Dr. Moreau",
-                "url": "gazetteer/Pollen/ProtectorateClique/DrMoreau.md",
+                "url": "directory/Pollen/ProtectorateClique/DrMoreau.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Marcus Voss",
-                "url": "gazetteer/Pollen/ProtectorateClique/MarcusVoss.md",
+                "url": "directory/Pollen/ProtectorateClique/MarcusVoss.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Konrad Jager",
-                "url": "gazetteer/Pollen/ProtectorateClique/KonradJager.md",
+                "url": "directory/Pollen/ProtectorateClique/KonradJager.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4917,13 +4898,13 @@
             },
             {
                 "text": "Shard",
-                "url": "gazetteer/Pollen/Shard.md",
+                "url": "directory/Pollen/Shard.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "gazetteer/Pollen/ProtectorateClique/InquisitorThorne.md": [
+        "directory/Pollen/ProtectorateClique/InquisitorThorne.md": [
             {
                 "text": "Inquisitor Thorne",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
@@ -4937,7 +4918,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/ProtectorateClique/DrMoreau.md": [
+        "directory/Pollen/ProtectorateClique/DrMoreau.md": [
             {
                 "text": "Dr. Moreau",
                 "url": "campaigns/ConnectNikopol/ToNikopol2.md",
@@ -4948,7 +4929,7 @@
         "campaigns/ConnectNikopol/StationWork1.md": [
             {
                 "text": "Jorn Kal",
-                "url": "gazetteer/Pollen/Nikopol/JornKal.md",
+                "url": "directory/Pollen/Nikopol/JornKal.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4962,28 +4943,28 @@
             },
             {
                 "text": "Friedrich Voigt",
-                "url": "gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md",
+                "url": "directory/Pollen/ProtectorateClique/FriedrichVoigt.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Anastasia Frostmane",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sasha Volkov",
-                "url": "gazetteer/Pollen/ProtectorateClique/SashaVolkov.md",
+                "url": "directory/Pollen/ProtectorateClique/SashaVolkov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Thaddeus Cain",
-                "url": "gazetteer/Pollen/ProtectorateClique/ThaddeusCain.md",
+                "url": "directory/Pollen/ProtectorateClique/ThaddeusCain.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5040,49 +5021,49 @@
         "campaigns/ConnectNikopol/Deposition.md": [
             {
                 "text": "Clique",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Varvara Semyonich",
-                "url": "gazetteer/Pollen/Nikopol/VarvaraSemyonich.md",
+                "url": "directory/Pollen/Nikopol/VarvaraSemyonich.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Commando Prime Klaus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md",
+                "url": "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Erasmus Kline",
-                "url": "gazetteer/Pollen/ProtectorateClique/ErasmusKline.md",
+                "url": "directory/Pollen/ProtectorateClique/ErasmusKline.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Mirova",
-                "url": "gazetteer/Pollen/Vostok/mirova.md",
+                "url": "directory/Pollen/Vostok/mirova.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Sokolov",
-                "url": "gazetteer/Pollen/Nikopol/Sokolov.md",
+                "url": "directory/Pollen/Nikopol/Sokolov.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5096,7 +5077,7 @@
             },
             {
                 "text": "Lubos",
-                "url": "gazetteer/Pollen/Nikopol/Lubos.md",
+                "url": "directory/Pollen/Nikopol/Lubos.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5110,27 +5091,27 @@
             },
             {
                 "text": "Vira",
-                "url": "gazetteer/Pollen/Nikopol/Vira.md",
+                "url": "directory/Pollen/Nikopol/Vira.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Elder Ivan",
-                "url": "gazetteer/Pollen/Nikopol/IvanTheWise.md",
+                "url": "directory/Pollen/Nikopol/IvanTheWise.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
+                "url": "directory/Pollen/Nikopol/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "gazetteer/Pollen/ProtectorateClique/ErasmusKline.md": [
+        "directory/Pollen/ProtectorateClique/ErasmusKline.md": [
             {
                 "text": "Erasmus Kline",
                 "url": "campaigns/ConnectNikopol/Deposition.md",
@@ -5138,7 +5119,7 @@
                 "direction": "inbound"
             }
         ],
-        "gazetteer/Pollen/Nikopol/Sokolov.md": [
+        "directory/Pollen/Nikopol/Sokolov.md": [
             {
                 "text": "Sokolov",
                 "url": "campaigns/ConnectNikopol/Deposition.md",
@@ -5161,27 +5142,27 @@
         "campaigns/ConnectNikopol/ToNikopol1.md": [
             {
                 "text": "Cherasky",
-                "url": "gazetteer/Pollen/Cherasky.md",
+                "url": "directory/Pollen/Cherasky.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "IsoldePax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "ElaraNyx",
-                "url": "gazetteer/Pollen/ProtectorateClique/ElaraNyx.md",
+                "url": "directory/Pollen/ProtectorateClique/ElaraNyx.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "gazetteer/Pollen/ProtectorateClique/ElaraNyx.md": [
+        "directory/Pollen/ProtectorateClique/ElaraNyx.md": [
             {
                 "text": "ElaraNyx",
                 "url": "campaigns/ConnectNikopol/ToNikopol1.md",
@@ -5198,56 +5179,56 @@
         "campaigns/ConnectNikopol/ToNikopol3b.md": [
             {
                 "text": "Clique",
-                "url": "gazetteer/Pollen/ProtectorateClique/index.md",
+                "url": "directory/Pollen/ProtectorateClique/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Isolde Pax",
-                "url": "gazetteer/Pollen/ProtectorateClique/IsoldePax.md",
+                "url": "directory/Pollen/ProtectorateClique/IsoldePax.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Konrad Jager",
-                "url": "gazetteer/Pollen/ProtectorateClique/KonradJager.md",
+                "url": "directory/Pollen/ProtectorateClique/KonradJager.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Elara Nyx",
-                "url": "gazetteer/Pollen/ProtectorateClique/ElaraNyx.md",
+                "url": "directory/Pollen/ProtectorateClique/ElaraNyx.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Marcus Voss",
-                "url": "gazetteer/Pollen/ProtectorateClique/MarcusVoss.md",
+                "url": "directory/Pollen/ProtectorateClique/MarcusVoss.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Yelena",
-                "url": "gazetteer/Pollen/ProtectorateClique/Yelena.md",
+                "url": "directory/Pollen/ProtectorateClique/Yelena.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Dexter",
-                "url": "gazetteer/Pollen/ProtectorateClique/Dexter.md",
+                "url": "directory/Pollen/ProtectorateClique/Dexter.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Purifier Harlem",
-                "url": "gazetteer/Pollen/ProtectorateClique/PurifierHarlem.md",
+                "url": "directory/Pollen/ProtectorateClique/PurifierHarlem.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5268,14 +5249,14 @@
             },
             {
                 "text": "Commando Prime Klaus",
-                "url": "gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md",
+                "url": "directory/Pollen/ProtectorateClique/ComPrimeKlaus.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "index",
-                "url": "gazetteer/Pollen/Nikopol/index.md",
+                "url": "directory/Pollen/Nikopol/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5341,7 +5322,7 @@
             },
             {
                 "text": "Inquisitor Thorne",
-                "url": "gazetteer/Pollen/ProtectorateClique/InquisitorThorne.md",
+                "url": "directory/Pollen/ProtectorateClique/InquisitorThorne.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5392,7 +5373,7 @@
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5485,7 +5466,7 @@
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5592,7 +5573,7 @@
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5735,7 +5716,7 @@
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5884,7 +5865,7 @@
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -5970,7 +5951,7 @@
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -6033,7 +6014,7 @@
             },
             {
                 "text": "Anastasia",
-                "url": "gazetteer/Pollen/ProtectorateClique/Anastasia.md",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -6257,7 +6238,7 @@
             },
             {
                 "text": "COSSACKS",
-                "url": "gazetteer/Pollen/cossacks.md",
+                "url": "directory/Pollen/cossacks.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null

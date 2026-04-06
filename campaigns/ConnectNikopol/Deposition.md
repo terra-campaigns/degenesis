@@ -15,16 +15,16 @@ region: Nikopol
 The mess hall is empty.
 A strange feeling—will the Primer answer the violence?
 The Streltsys are celebrating at the station.
-There are no miners in the hall, only the [Clique](../../gazetteer/Pollen/ProtectorateClique/index.md) is there.
+There are no miners in the hall, only the [Clique](../../directory/Pollen/ProtectorateClique/index.md) is there.
 
-[Varvara Semyonich](../../gazetteer/Pollen/Nikopol/VarvaraSemyonich.md) survived the ambush.
+[Varvara Semyonich](../../directory/Pollen/Nikopol/VarvaraSemyonich.md) survived the ambush.
 She tries to befriend the Spitalians first.
-[Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md) is lost in thought.
-[Erasmus Kline](../../gazetteer/Pollen/ProtectorateClique/ErasmusKline.md) tries to find a way to act.
+[Commando Prime Klaus](../../directory/Pollen/ProtectorateClique/ComPrimeKlaus.md) is lost in thought.
+[Erasmus Kline](../../directory/Pollen/ProtectorateClique/ErasmusKline.md) tries to find a way to act.
 
-[Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md) speaks with [Mirova](../../gazetteer/Pollen/Vostok/mirova.md).
+[Anastasia](../../directory/Pollen/ProtectorateClique/Anastasia.md) speaks with [Mirova](../../directory/Pollen/Vostok/mirova.md).
 Where are the other Cossacks?
-[Sokolov](../../gazetteer/Pollen/Nikopol/Sokolov.md) arrives for dinner.
+[Sokolov](../../directory/Pollen/Nikopol/Sokolov.md) arrives for dinner.
 He is unhappy with something—his supply?
 
 Shouts and hurdles.
@@ -47,7 +47,7 @@ They run towards the northeast exit.
 
 ### Awaken
 
-[Lubos](../../gazetteer/Pollen/Nikopol/Lubos.md) runs towards them.
+[Lubos](../../directory/Pollen/Nikopol/Lubos.md) runs towards them.
 The [ANSUMO](InNikopol03.md) has awakened.
 It is building something with the batteries.
 It is fast.
@@ -96,13 +96,13 @@ Varvars follows.
 
 ![](https://i.imgur.com/XOOTGWB.png)
 
-[Vira](../../gazetteer/Pollen/Nikopol/Vira.md) holds [Elder Ivan](../../gazetteer/Pollen/Nikopol/IvanTheWise.md), who pleads for his freedom.
+[Vira](../../directory/Pollen/Nikopol/Vira.md) holds [Elder Ivan](../../directory/Pollen/Nikopol/IvanTheWise.md), who pleads for his freedom.
 Erasmus decided not to stop the miners.
 Ivan is killed on the spot, a flintlock pistol headshot.
 
 ![](https://i.imgur.com/8cxt2dM.png)
 
-[index](../../gazetteer/Pollen/Nikopol/index.md) is now for the people.
+[index](../../directory/Pollen/Nikopol/index.md) is now for the people.
 The Streltsys are locked outside and will perish.
 New rulers.
 With the Clique, or not. 

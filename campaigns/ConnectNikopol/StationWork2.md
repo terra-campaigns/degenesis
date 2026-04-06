@@ -14,13 +14,13 @@ region: Nikopol
 
 ### The Other Side of the Streltsys
 
-[Thaddeus](../../gazetteer/Pollen/ProtectorateClique/ThaddeusCain.md) and [Anastasia](../../gazetteer/Pollen/ProtectorateClique/Anastasia.md) fear [Jorn Kal](../../gazetteer/Pollen/Nikopol/JornKal.md)’s madness—his scheme to poison a spore field is reckless and deadly.
+[Thaddeus](../../directory/Pollen/ProtectorateClique/ThaddeusCain.md) and [Anastasia](../../directory/Pollen/ProtectorateClique/Anastasia.md) fear [Jorn Kal](../../directory/Pollen/Nikopol/JornKal.md)’s madness—his scheme to poison a spore field is reckless and deadly.
 
-As [Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) mends from his fall, Anastasia brokers a deal with Myron. Two Rarogi piercers are handed over to the Clique members.
+As [Friedrich](../../directory/Pollen/ProtectorateClique/FriedrichVoigt.md) mends from his fall, Anastasia brokers a deal with Myron. Two Rarogi piercers are handed over to the Clique members.
 
 ![](https://i.imgur.com/RkYO4Ub.png)
 
-[Aaron Partow](../../gazetteer/Pollen/ProtectorateClique/AaronPartow.md) joins the Clique, replacing Sasha, who is sent to hunt down Wren, the Apocalyptic lost after the spider rain.
+[Aaron Partow](../../directory/Pollen/ProtectorateClique/AaronPartow.md) joins the Clique, replacing Sasha, who is sent to hunt down Wren, the Apocalyptic lost after the spider rain.
 
 ![](https://i.imgur.com/hzkCjwq.png)
 
@@ -28,7 +28,7 @@ As [Friedrich](../../gazetteer/Pollen/ProtectorateClique/FriedrichVoigt.md) mend
 
 The Clique are dispatched on a mission: locate and rescue the Streltsys possibly sheltered in three surface checkpoints of the ruined city and bring them back to the Station.
 
-[index](../../gazetteer/Pollen/Nikopol/index.md) is cloaked in spider gossamer, nightfall weaving its sticky traps across their path. Moonlight floods the scene—no lamps needed, only courage and silence.
+[index](../../directory/Pollen/Nikopol/index.md) is cloaked in spider gossamer, nightfall weaving its sticky traps across their path. Moonlight floods the scene—no lamps needed, only courage and silence.
 
 ![](https://i.imgur.com/QmIQOph.png)
 
@@ -42,7 +42,7 @@ While Thaddeus and Friedrick examine the dead, shadows shift. Anastasia spots Le
 
 They scramble for higher ground; chaos erupts. Aaron takes a savage cut to the face, Anastasia’s leg is broken in the fray. The Leperos fall—but they are no Leperos. Starved, diseased clanners masquerading in filth and desperation.
 
-One survives. She names herself [Mirova](../../gazetteer/Pollen/Vostok/mirova.md). Taken to Nikopol, she faces quarantine... and questions.
+One survives. She names herself [Mirova](../../directory/Pollen/Vostok/mirova.md). Taken to Nikopol, she faces quarantine... and questions.
 
 ![](https://i.imgur.com/GjAvGPx.png)
 

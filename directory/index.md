@@ -16,6 +16,6 @@ has_toc: false
 
 {% comment %}
 
-[Anastasia](../gazetteer/Pollen/ProtectorateClique/Anastasia.md)
+[Anastasia](Pollen/ProtectorateClique/Anastasia.md)
 
 {% endcomment %}

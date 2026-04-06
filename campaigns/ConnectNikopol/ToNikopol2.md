@@ -10,10 +10,10 @@ region: East Pollen
 
 {% include chapter_header.md %}
 
-### Arrival in [Cherasky](../../gazetteer/Pollen/Cherasky.md)
+### Arrival in [Cherasky](../../directory/Pollen/Cherasky.md)
 
-- The [Clique](../../gazetteer/Pollen/ProtectorateClique/index.md) gathers under [Commando Prime Klaus](../../gazetteer/Pollen/ProtectorateClique/ComPrimeKlaus.md), whose orders resonate with discipline and necessity—clearing frozen mud from the tracks begins.
-- [Inquisitor Thorne](../../gazetteer/Pollen/ProtectorateClique/InquisitorThorne.md), [Isolde Pax](../../gazetteer/Pollen/ProtectorateClique/IsoldePax.md), [Dr. Moreau](../../gazetteer/Pollen/ProtectorateClique/DrMoreau.md), [Marcus Voss](../../gazetteer/Pollen/ProtectorateClique/MarcusVoss.md) and [Konrad Jager](../../gazetteer/Pollen/ProtectorateClique/KonradJager.md) go to the eastern tracks.
+- The [Clique](../../directory/Pollen/ProtectorateClique/index.md) gathers under [Commando Prime Klaus](../../directory/Pollen/ProtectorateClique/ComPrimeKlaus.md), whose orders resonate with discipline and necessity—clearing frozen mud from the tracks begins.
+- [Inquisitor Thorne](../../directory/Pollen/ProtectorateClique/InquisitorThorne.md), [Isolde Pax](../../directory/Pollen/ProtectorateClique/IsoldePax.md), [Dr. Moreau](../../directory/Pollen/ProtectorateClique/DrMoreau.md), [Marcus Voss](../../directory/Pollen/ProtectorateClique/MarcusVoss.md) and [Konrad Jager](../../directory/Pollen/ProtectorateClique/KonradJager.md) go to the eastern tracks.
 - Marcus sketches Klaus, capturing the grit of leadership etched in lines and shadow.
 - They accompany a Storskis, who is responsible for driving and operating the cleaning car.
 
@@ -32,7 +32,7 @@ region: East Pollen
 - Dr. Monroe joins the rites in silent respect, the weight of history pressing upon the group.
 - In whispered tones, Isolde and Marcus confront their earlier violence, tethering their souls with justification: “They were sinners.”
 
-### Final Day’s Travel, before [Shard](../../gazetteer/Pollen/Shard.md)
+### Final Day’s Travel, before [Shard](../../directory/Pollen/Shard.md)
 
 - The tracks ease their grip, their frozen defiance replaced by fleeting respite as the group advances.
 - Rain turns to hail, then an uncanny downpour of insect fragments, culminating in a living storm of spiders.
