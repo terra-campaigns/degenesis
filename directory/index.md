@@ -10,6 +10,10 @@ has_toc: false
 
 {% include header_directories.md %}
 
+## World Map
+
+![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/2320x3264/2e9f66ea09/degenesis-rebirth-world-map-en-3264x2320.jpg)
+
 {% comment %}
 
 [Anastasia](../gazetteer/Pollen/ProtectorateClique/Anastasia.md)
