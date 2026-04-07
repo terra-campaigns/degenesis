@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: New functions
 parent: Connect with Nikopol
-nav_order: 27
+nav_order: 2594-05-08
 timestamp: 2594-05-08
 region: Nikopol
 

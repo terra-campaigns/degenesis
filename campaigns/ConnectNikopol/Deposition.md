@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Deposition
 parent: Connect with Nikopol
-nav_order: 36
+nav_order: 2594-06-06
 timestamp: 2594-06-06
 region: Nikopol
 

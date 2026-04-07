@@ -47,3 +47,7 @@ Use the link on the bottom of your character page.
 - [In the spore wall](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap1), from campaigns/VostokIronclawPurged
 - [The Spitalian raid](https://terra-campaigns.github.io/degenesis/campaigns/VostokIronclawPurged/chap2), from campaigns/VostokIronclawPurged
 <!-- SerializedQuery END -->
+
+{% comment %}
+[index](../../../campaigns/VostokIronclawPurged/index.md)
+{% endcomment %}

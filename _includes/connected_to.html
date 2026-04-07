@@ -1,24 +1,14 @@
-{% if page.title == 'Directory' %}
-
-{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'directory/'" | where_exp:"item", "item.nav_exclude != true" %}
-
-{% elsif page.title == 'Gazetteer' %}
-
-{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'gazetteer/'" | where_exp:"item", "item.nav_exclude != true" %}
-
-{% else %}
-
 {% assign children_pages = site.pages | where: 'parent', page.title %}
 
 {% assign links_pages = "" | split: "," %}
 {% for entry in site.data.markdown_links.file[page.path] %}
-	{% assign captured_page = site.pages | where: 'path', entry.url %}
-	{% assign links_pages = links_pages | push: captured_page[0] | uniq %}
+  {% if entry.is_internal == true %}
+    {% assign captured_page = site.pages | where: 'path', entry.url %}
+    {% assign links_pages = links_pages | push: captured_page[0] | uniq %}
+  {% endif %}
 {% endfor %}
 
 {% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' | where_exp:"item", "item.nav_exclude != true" %}
-
-{% endif %}
 
 {% comment %}
 Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#

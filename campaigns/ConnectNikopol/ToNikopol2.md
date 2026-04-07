@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Cleaning the tracks
 parent: Connect with Nikopol
-nav_order: 22
+nav_order: 2594-04-14
 timestamp: 2594-04-14
 region: East Pollen
 

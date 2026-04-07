@@ -22,3 +22,7 @@ bullets:
  - Wind noise on the strong walls
 
 {% include connected_to.md %}
+
+{% comment %}
+[index](../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

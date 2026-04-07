@@ -28,3 +28,7 @@ at:
 ========== HIDDEN ENDS ========= {% endcomment %}
 
 - Is on the pocket of [Dexter](Dexter.md)
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

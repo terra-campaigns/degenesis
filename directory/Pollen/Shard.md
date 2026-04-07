@@ -22,3 +22,9 @@ Traders nexus?
 {% comment %}
 connected_to v0.1
 {% endcomment %}
+
+
+{% comment %}
+[index](../../campaigns/ConnectNikopol/index.md)
+[index](../../campaigns/VostokIronclawPurged/index.md)
+{% endcomment %}

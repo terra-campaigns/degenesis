@@ -21,3 +21,6 @@ at:
 - Scrapper
 - Has a grudge with [Konrad Jager](KonradJager.md) and [Isolde Pax](IsoldePax.md)
 
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

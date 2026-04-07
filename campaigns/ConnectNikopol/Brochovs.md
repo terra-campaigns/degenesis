@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Trade with the Brochovs
 parent: Connect with Nikopol
-nav_order: 34
+nav_order: 2594-05-30
 timestamp: 2594-05-30
 region: Nikopol
 

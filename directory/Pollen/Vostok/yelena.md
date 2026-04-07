@@ -42,3 +42,8 @@ Yelena, the Seer, is the Vostok Kin's shaman who follows the ancient ways of the
 - Problem: Struggling to interpret the spirits' warnings about the spore fields.
 - Aspect: Speaks in riddles and metaphors, often staring into the distance as if seeing another world.
 - Idiosyncrasy: Wears a cloak made of feathers and bones, with markings that symbolize her spiritual journeys.
+
+
+{% comment %}
+[index](../../../campaigns/VostokIronclawPurged/index.md)
+{% endcomment %}

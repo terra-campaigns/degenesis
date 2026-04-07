@@ -36,3 +36,7 @@ gear:
 
 - Early 30s, left his hermit life.
 - Wants to find a new land to work, and is using the mission with the Clique as a way to discover what is out there.
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

@@ -111,3 +111,7 @@ SURVIVAL KNIFE
 === ********* END OF DOT-MATRIX RECORD ********* ===  
 ====================================================
 ```
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

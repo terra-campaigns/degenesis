@@ -11,3 +11,8 @@ images: [../../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT LOGOS SVG/05-CULT-CLANNERS.
 ---
 
 {% include statblock_pc.md %}
+
+
+{% comment %}
+[index](../../../campaigns/VostokIronclawPurged/index.md)
+{% endcomment %}

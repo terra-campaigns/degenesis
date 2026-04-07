@@ -32,3 +32,7 @@ DO NOT EDIT BELOW THIS COMMENT
 {% endcomment %}
 
 {% include statblock_pc.md %}
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

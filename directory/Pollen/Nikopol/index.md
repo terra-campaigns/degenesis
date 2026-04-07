@@ -66,3 +66,7 @@ The Founders’ Square serves as a cultural and spiritual heart. It symbolizes a
 - Smell of oil and sweat
 - Hundreds of automata to be fixed
 - Visited in secret in [2594-05-08](../../../campaigns/ConnectNikopol/InNikopol02.md)
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

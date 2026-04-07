@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: The work of Lubos
 parent: Connect with Nikopol
-nav_order: 33
+nav_order: 2594-05-28
 timestamp: 2594-05-28
 region: Nikopol
 

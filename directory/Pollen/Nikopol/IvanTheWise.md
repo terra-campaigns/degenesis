@@ -3,6 +3,7 @@ template: 0.4
 layout: default
 type: people
 nav_exclude: false
+status: "&dagger;"
 
 title: "Ivan 'The Wise' Derzhyn"
 role: Council member in Nikopol (Sovral)
@@ -36,3 +37,7 @@ details:
 - Re-builds Nikopol after his father passes away.
 - Ventured into the Spore Wall and came back changed by Sepsis.
 - Is spying on [Isolde Pax](../ProtectorateClique/IsoldePax.md)
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

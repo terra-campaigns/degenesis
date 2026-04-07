@@ -25,3 +25,7 @@ at: Blade bracelet (d6), Crossbow (d8)
 {% comment %} =========== HIDDEN TEXT ===========
 
 ========== HIDDEN ENDS ========= {% endcomment %}
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

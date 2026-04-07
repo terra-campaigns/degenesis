@@ -36,3 +36,6 @@ gear:
 
 {% include statblock_pc.md %}
 
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

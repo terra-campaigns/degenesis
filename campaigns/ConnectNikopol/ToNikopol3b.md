@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Crossing the spore wall
 parent: Connect with Nikopol
-nav_order: 24
+nav_order: 2594-04-19
 timestamp: 2594-04-19
 region: East Pollen
 

@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Cossack recruits
 parent: Connect with Nikopol
-nav_order: 10
+nav_order: 2593-01-15
 timestamp: 2593-01-15
 region: Kiev
 

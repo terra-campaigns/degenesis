@@ -54,3 +54,6 @@ gear:
 
 {% endcomment %}
 
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

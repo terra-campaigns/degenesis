@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: In the gossamer
 parent: Connect with Nikopol
-nav_order: 31
+nav_order: 2594-05-20
 timestamp: 2594-05-20
 region: Nikopol
 

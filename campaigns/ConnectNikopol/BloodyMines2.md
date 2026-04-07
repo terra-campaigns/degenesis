@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Back from the mines
 parent: Connect with Nikopol
-nav_order: 29
+nav_order: 2594-05-10
 timestamp: 2594-05-10
 region: Nikopol
 

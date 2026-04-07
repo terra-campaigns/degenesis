@@ -40,3 +40,7 @@ Elder Mirova is the Vostok Kin's revered guardian of traditions. She possesses d
 - Ambition: To preserve the Vostok Kin's way of life and protect their land.
 - Aspect: Speaks in a calm, measured tone, often invoking the spirits in conversation.
 
+
+{% comment %}
+[index](../../../campaigns/VostokIronclawPurged/index.md)
+{% endcomment %}

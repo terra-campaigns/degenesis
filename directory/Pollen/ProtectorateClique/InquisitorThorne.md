@@ -45,3 +45,7 @@ DO NOT EDIT BELOW THIS COMMENT
 {% include header_directories.md %}
 
 ![](https://media1.tenor.com/m/JDrSKMNRT5sAAAAC/mad-max.gif)
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

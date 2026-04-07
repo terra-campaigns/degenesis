@@ -41,3 +41,7 @@ DO NOT EDIT BELOW THIS COMMENT
 
 - Feels alive with pain
 - Late 40s
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

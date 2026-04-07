@@ -125,3 +125,8 @@ potentials:
 ![](https://i.imgur.com/RzXMZ94.png)
 
 {% endcomment %}
+
+{% comment %}
+[index](../../campaigns/ConnectNikopol/index.md)
+[index](../../campaigns/InThyBlood/index.md)
+{% endcomment %}

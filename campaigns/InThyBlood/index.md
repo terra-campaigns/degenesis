@@ -12,11 +12,10 @@ footer_content:
 ![](../../imgs/gallery/Pasted%20image%2020260405200301.png)
 
 **IN 2595, BAPTIST ALTAIR WAS MURDERED IN PURGARE.**
-{: .text-gamma }
 
-**Baptist Altair** was important for your Cult.
+**[Baptist Altair](../../directory/Purgare/HouseBenesato/Altair.md)** was important for your Cult.
 You were not told why.
-You have been sent to Northern Purgare to investigate his death.
+You have been sent to [Lucatore](../../directory/Purgare/Lucatore/index.md), in [Northern Purgare](../../directory/Purgare/NorthernPurgare/index.md), to investigate his death.
 
 You have been told that Baptist Altair is important for other Cults, too.
 It is expected that other emissaries would be sent alongside you.

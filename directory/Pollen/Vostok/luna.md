@@ -12,3 +12,7 @@ status:
 ---
 
 {% include statblock_pc.md %}
+
+{% comment %}
+[index](../../../campaigns/VostokIronclawPurged/index.md)
+{% endcomment %}

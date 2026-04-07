@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Into the Bloody Mines
 parent: Connect with Nikopol
-nav_order: 28
+nav_order: 2594-05-09
 timestamp: 2594-05-09
 region: Nikopol
 

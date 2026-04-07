@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Return Geteli
 parent: Connect with Nikopol
-nav_order: 20
+nav_order: 2594-03-23
 timestamp: 2594-03-23
 region: East Pollen
 ---

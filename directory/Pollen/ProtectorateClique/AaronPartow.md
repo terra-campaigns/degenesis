@@ -40,3 +40,7 @@ gear:
 - Has not seen the works of the world yet.
 - Outgoing and optimistic.
 - Tech savvy, engineer.
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

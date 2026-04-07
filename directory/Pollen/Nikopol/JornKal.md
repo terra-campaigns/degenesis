@@ -34,3 +34,7 @@ at: Splayer (d8)
 - His expedition in Pollen was decimated, he is the sole survivor.
 - Seems to have a wound sutured with tendons.
 - Terrified of spore beasts, spiders, centipedes.
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

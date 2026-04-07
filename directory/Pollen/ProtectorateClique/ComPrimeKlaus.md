@@ -26,3 +26,7 @@ at: Splayer (d8 or d4 *blast*)
 
 - A man of vanity, but well relatable.
 - "You and you, back to your posts!" and then unfolds the portrait [one of the Anabaptists](MarcusVoss.md) made of him."
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

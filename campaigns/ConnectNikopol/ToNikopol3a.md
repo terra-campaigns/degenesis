@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Before the crossing
 parent: Connect with Nikopol
-nav_order: 23
+nav_order: 2594-04-18
 timestamp: 2594-04-18
 region: East Pollen
 

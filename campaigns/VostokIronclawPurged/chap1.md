@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: In the spore wall
 parent: Vostok & Ironclaw purged
-nav_order: 1
+nav_order: 2594-02-02
 
 timestamp: 2594-02-02
 region: East Pollen

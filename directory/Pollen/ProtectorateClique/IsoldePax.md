@@ -44,3 +44,7 @@ And now, for all that she knows, she's always been a faithful Anabaptist, workin
 - Patience of a mountain. Disposition of the sea.
 - Crooked nose after being bested by [Dexter](Dexter.md)
 - Had [some illness in 2593](../../../campaigns/ConnectNikopol/Prequel10.md), before recruiting for the [Clique](index.md)
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

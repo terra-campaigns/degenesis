@@ -25,3 +25,7 @@ at: Hammer (d6)
 {% comment %} =========== HIDDEN TEXT ===========
 
 ========== HIDDEN ENDS ========= {% endcomment %}
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

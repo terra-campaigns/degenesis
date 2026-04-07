@@ -36,3 +36,7 @@ DO NOT EDIT BELOW THIS COMMENT
 {% include statblock_pc.md %}
 
 ![](https://i.imgur.com/6WZkd0E.png)
+
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}

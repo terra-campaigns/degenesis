@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Heavy metal
 parent: Connect with Nikopol
-nav_order: 26
+nav_order: 2594-05-05
 timestamp: 2594-05-05
 region: Nikopol
 

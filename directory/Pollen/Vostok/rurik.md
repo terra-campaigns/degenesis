@@ -38,3 +38,8 @@ Rurik, the Swift, is a fierce warrior from the Vostok Kin, renowned for his exce
 - Problem: Struggling to adapt his combat techniques to the new threats posed by the spore fields.
 - Aspect: Speaks with intensity and conviction, often punctuating his words with sharp gestures.
 - Idiosyncrasy: Wears a necklace made of the teeth of beasts he has slain.
+
+
+{% comment %}
+[index](../../../campaigns/VostokIronclawPurged/index.md)
+{% endcomment %}

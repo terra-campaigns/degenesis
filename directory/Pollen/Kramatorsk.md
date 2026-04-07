@@ -12,3 +12,7 @@ type: location
 ![](https://i.imgur.com/5SbDe72.png)
 
 {% include connected_to.md %}
+
+{% comment %}
+[index](../../campaigns/VostokIronclawPurged/index.md)
+{% endcomment %}

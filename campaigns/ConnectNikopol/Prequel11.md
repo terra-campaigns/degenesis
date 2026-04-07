@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: Meet the Anabaptists
 parent: Connect with Nikopol
-nav_order: 11
+nav_order: 2593-03-10
 timestamp: 2593-03-10
 region: East Pollen
 

@@ -1,8 +1,9 @@
 ---
 layout: default
+type: session
 title: The Spitalian raid
 parent: Vostok & Ironclaw purged
-nav_order: 2
+nav_order: 2594-02-03
 timestamp: 2594-02-03
 region: East Pollen
 

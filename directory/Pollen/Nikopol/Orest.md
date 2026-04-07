@@ -28,3 +28,6 @@ at:
 
 ========== HIDDEN ENDS ========= {% endcomment %}
 
+{% comment %}
+[index](../../../campaigns/ConnectNikopol/index.md)
+{% endcomment %}
