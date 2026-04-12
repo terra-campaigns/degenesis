@@ -24,9 +24,6 @@ But don't trust everyone.
 
 You were given rumours as a starting point.
 
-**MUSIC**
-{: .text-delta }
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4TuNmf3FUldGwKOsSb1Fol?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 {% include connected_to.html %}
