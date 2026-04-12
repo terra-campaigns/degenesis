@@ -11,17 +11,6 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 
 ![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3378x4500/1a16121f11/falberg-05.jpg)
 
-## Official resources
-
-|                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| SMV's [**Degenesis** Official](https://degenesis.com) website, from where the [books](https://degenesis.com/downloads/books/) can be downloaded |
-| **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)                 |
-| Your [predicament](https://degenesis.com/downloads/transmissions/you) audio.                                                                    |
-| SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis)                                                        |
-
-## Tone
-
 The world of **Degenesis** is like a ruined Garden of Eden, containing the secrets and spoils of both good and evil, of ignorance and enlightenment, of barbarity and virtue.
 Its tone is one of hope and despair, of people learning to live amid destruction and the conflicting priorities of human civilisation.
 
@@ -32,6 +21,15 @@ For most people, the **Primer** is a persistent, but distant, threat.
 |                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Content warnings:***<br>Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression, nihilism. |
+
+## Official resources
+
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| SMV's [**Degenesis** Official](https://degenesis.com) website, from where the [books](https://degenesis.com/downloads/books/) can be downloaded |
+| **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)                 |
+| Your [predicament](https://degenesis.com/downloads/transmissions/you) audio.                                                                    |
+| SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis)                                                        |
 
 ## Reviews
 
