@@ -2,11 +2,11 @@
 template: pc v0.3.1
 layout: default
 type: people
+
 title: Varvara Semyonich
 archetype: Pollen, The Traveller, Rarogi Kopachi (2)
 role: 
 parent: Nikopol
-nav_exclude: true
 statblock: true
 
 image: https://i.imgur.com/HUxVu5P.png

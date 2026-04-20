@@ -5,11 +5,11 @@ title: Rubilo & Zubilo
 parent: Connect with Nikopol
 nav_order: 2594-06-06
 timestamp: 2594-06-06
-region: Nikopol
+location: Nikopol
 
 ---
 
-{% include chapter_header.md %}
+{% include header_chapter.md %}
 
 ### The Clique must act
 
@@ -90,4 +90,3 @@ But the cost was high.
 
 Nikopol had won, but victory had stolen too much. And somewhere, in the broken tunnels of Nikopol, Yelena and Detina still walked hand in hand, oblivious to the ghosts left behind.
 
-{% include connected_to.md %}

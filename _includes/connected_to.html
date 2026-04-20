@@ -1,3 +1,7 @@
+{% comment %}
+connected_to v0.6.2
+{% endcomment %}
+
 {% assign children_pages = site.pages | where: 'parent', page.title %}
 
 {% assign links_pages = "" | split: "," %}
@@ -164,26 +168,18 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
 </p>
 {: .text-delta }
 
-<div class="image-gallery">
+<div>
   {% for my_page in all_references %}
     {% if my_page.type == 'session' %}
-      {% if my_page.images %}
-        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
-          <span>{{ my_page.nav_order | date: "%B %-d" }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
-        </a>
-      {% else %}
-        <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
-          <span>{{ my_page.nav_order | date: "%B %-d" }}</span>
-          <img src="//wsrv.nl/?url=https://terra-campaigns.github.io/degenesis/imgs/DEGENESIS-LOGOTYPES-PACK/FROM-HELL LOGOS SVG/06-FROM-HELL-LEVIATHANS.svg&w=300&h=300&output=jpg&q=50&t=square&bg=white&bg=white" alt="{{ my_page.title }}"/>
-        </a>   
-      {% endif %}
+        {{ my_page.nav_order | date: "%-d %B %Y" }},
+        {% if my_page.location %}
+          in {{ my_page.location }}:
+        {% elsif my_page.region %}
+          in {{ my_page.region }}:
+        {% endif %}
+        <a href="{{ site.url }}{{ my_page.url }}">{{ my_page.title }}</a><br>
     {% endif %}
   {% endfor %}
 </div>
 {: .text-delta }
 {% endif %}
-
-{% comment %}
-connected_to v0.6.1
-{% endcomment %}
