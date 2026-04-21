@@ -1,3 +1,7 @@
+{% comment %}
+terra-jekyll tools v0.7.0
+{% endcomment %}
+
 {% comment %} template: 0.4 {% endcomment %}
 
 {% if page.template >= 0.4 %}

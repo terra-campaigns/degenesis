@@ -1,3 +1,7 @@
+{% comment %}
+terra-jekyll tools v0.7.0
+{% endcomment %}
+
 # {{ page.title }}
 {: .text-right}
 

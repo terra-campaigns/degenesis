@@ -1,4 +1,4 @@
-# extract_links v0.2
+# terra-jekyll tools v0.7.0
 
 import os
 import re
