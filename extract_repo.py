@@ -1,4 +1,4 @@
-# consolidate_files.py
+# terra-jekyll tools v0.7.0
 
 import os
 import argparse
