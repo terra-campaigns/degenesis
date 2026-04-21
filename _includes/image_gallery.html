@@ -21,7 +21,7 @@ terra-jekyll tools v0.7.0
       1 {{ site.url }}{{ link | relative_url }} <br>
       2 {{ captured_page.title }} <br><br>
       {%endcomment%}
-      <a href="{{ site.url }}{{ captured_page.url | relative_url }}" title="{{ captured_page.title }}">
+      <a href="{{ site.url }}{{ captured_page.url }}" title="{{ captured_page.title }}">
         <span>{{ captured_page.status }} {{ captured_page.title }}</span>
         <img src="//wsrv.nl/?url={{ site.url }}{{ entry[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ captured_page.title }}"/>
       </a>
