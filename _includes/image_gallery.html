@@ -24,7 +24,7 @@ image_gallery.html v0.7.1
       {%endcomment%}
       <a href="{{ site.url }}{{ captured_page.url }}" title="{{ captured_page.title }}">
         <span>{{ captured_page.status }} {{ captured_page.title }}</span>
-        <img src="//wsrv.nl/?url={{ site.url }}{{ entry[0] }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ captured_page.title }}"/>
+        <img src="//wsrv.nl/?url={{ site.url }}/{{ entry[0] }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ captured_page.title }}"/>
       </a>
     {% endfor %}
   {% endfor %}
