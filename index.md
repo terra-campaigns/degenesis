@@ -51,6 +51,10 @@ For most people, the **Primer** is a persistent, but distant, threat.
 | **[In Thy Blood](campaigns/InThyBlood/index.md):** March 2595 onwards                   |
 | **[Directory](directory/index.md):** Files on people, locations and factions            |
 
+## Moodboard
+
+{% include image_gallery.html %}
+
 {% comment %}
 
 **Degenesis** | 24XX [Set Table]
