@@ -80,7 +80,4 @@ For most people, the **Primer** is a persistent, but distant, threat.
 **Waiting**: Harish
 **Maybes**: Palmer, Jan, Gabe, Navin, Dusko, Shail
 
-
-{% include prefooter_campaign.html %}
-
 {% endcomment %}
