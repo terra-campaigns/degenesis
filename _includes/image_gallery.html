@@ -1,6 +1,6 @@
 {% comment %}
 terra-jekyll tools
-image_gallery.html v0.7.1
+image_gallery.html v0.7.2
 {% endcomment %}
 
 <style>
@@ -13,20 +13,27 @@ image_gallery.html v0.7.1
 {% assign count = site.data.gallery_links.file | size %}
 {% if count > 0 %}
 
+{% assign sorted_gallery_entries = "" | split: "," %}
+{% for entry in site.data.gallery_links.file %}
+  {% assign image_path = entry[0] %}
+  {% for link in entry[1] %}
+    {% assign lastmod = site.data.lastmod[link] | default: "0000-W00" %}
+    {% assign sortable_entry = lastmod | append: "|||" | append: image_path | append: "|||" | append: link %}
+    {% assign sorted_gallery_entries = sorted_gallery_entries | push: sortable_entry %}
+  {% endfor %}
+{% endfor %}
+{% assign sorted_gallery_entries = sorted_gallery_entries | sort | reverse %}
+
 <div class="image-gallery">
-  {% for entry in site.data.gallery_links.file %}
-    {% for link in entry[1] %}
-      {% assign captured_page = site.pages | where: 'path', link | first %}
-      {%comment%}
-      0 {{ site.url }}{{ entry[0] | relative_url }}  <br>
-      1 {{ site.url }}{{ link | relative_url }} <br>
-      2 {{ captured_page.title }} <br><br>
-      {%endcomment%}
-      <a href="{{ site.url }}{{ captured_page.url }}" title="{{ captured_page.title }}">
-        <span>{{ captured_page.status }} {{ captured_page.title }}</span>
-        <img src="//wsrv.nl/?url={{ site.url }}/{{ entry[0] }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ captured_page.title }}"/>
-      </a>
-    {% endfor %}
+  {% for gallery_entry in sorted_gallery_entries %}
+    {% assign parts = gallery_entry | split: "|||" %}
+    {% assign image_path = parts[1] %}
+    {% assign link = parts[2] %}
+    {% assign captured_page = site.pages | where: 'path', link | first %}
+    <a href="{{ site.url }}{{ captured_page.url }}" title="{{ captured_page.title }}">
+      <span>{{ captured_page.status }} {{ captured_page.title }}</span>
+      <img src="//wsrv.nl/?url={{ site.url }}/{{ image_path }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ captured_page.title }}"/>
+    </a>
   {% endfor %}
 </div>
 {: .text-delta }
