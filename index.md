@@ -14,7 +14,7 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 The world of **Degenesis** is like a ruined Garden of Eden, containing the secrets and spoils of both good and evil, of ignorance and enlightenment, of barbarity and virtue.
 Its tone is one of hope and despair, of people learning to live amid destruction and the conflicting priorities of human civilisation.
 
-As the **Primer** takes hold, it adapts its surroundings to match its ideal environment better.
+As the **Primer** takes hold, it adapts its surroundings to better match its ideal environment.
 The influence of the alien matter steadily decreases as distance from the impact craters increases; Psychonauts may roam the land to feed or create new spore fields, but they are not an omnipresent danger.
 For most people, the **Primer** is a persistent, but distant, threat.
 
@@ -22,7 +22,7 @@ For most people, the **Primer** is a persistent, but distant, threat.
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Content warnings:***<br>Violence, body horror, corruption, assimilation, psychological distress, sexual content (veiled), ideological extremism, drug and substance abuse, oppression, nihilism. |
 
-## Official resources
+## Official resources & reviews
 
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,16 +30,9 @@ For most people, the **Primer** is a persistent, but distant, threat.
 | **Degenesis** Trailer [One](https://www.youtube.com/watch?v=WTCARC91yyw) and [Two](https://www.youtube.com/watch?v=0Tw3KaMr8wk)                 |
 | Your [predicament](https://degenesis.com/downloads/transmissions/you) audio.                                                                    |
 | SMV's [art for **Degenesis**](https://www.sixmorevodka.com/not-so-famous-work/degenesis)                                                        |
-
-## Reviews
-
-|                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------- |
-| Dave Thaumavore's **Degenesis** [Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)                             |
-| Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist         |
-| [Echoes of Eshaton](https://echoesofeshaton.com/) solo **Degenesis** play podcast (not a review, but worth mentioning) |
-
-![](https://img2.storyblok.com/0x0/filters:quality(99):format(webp)/f/72501/3535x5000/5384758c46/falberg-01.jpg)
+| Dave Thaumavore's **Degenesis** [Review](https://youtu.be/8aZRkjvtaow?si=EXGuFbe9oarAbIJ7)                                                      |
+| Pain & Paper's [Lore Drops](https://www.youtube.com/playlist?list=PLk840OZtXPdwI8Zvoo-SGA-yxs1Yqkf8N) playlist                                  |
+| [Echoes of Eshaton](https://echoesofeshaton.com/) solo **Degenesis** play podcast (not a review, but worth mentioning)                          |
 
 ## Index
 
