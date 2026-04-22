@@ -16,6 +16,12 @@ aux_links:
 
 favicon_ico: "/imgs/favicon.ico"
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - color-functions
+    - import
+
 # External navigation links
 #nav_external_links:
 #  - title: Terra Odd SRD
@@ -36,5 +42,3 @@ gh_edit_repository: "https://github.com/terra-campaigns/degenesis" # the github 
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
-
-

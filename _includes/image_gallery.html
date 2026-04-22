@@ -1,12 +1,11 @@
 {% comment %}
 terra-jekyll tools
-image_gallery.html v0.7.2
+image_gallery.html v0.7.3
 {% endcomment %}
 
 <style>
   .image-gallery {overflow: auto; margin-left: -1%!important;}
   .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
-  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
   .image-gallery a img {width: 100%; display: block;}
 </style>
 
@@ -31,7 +30,6 @@ image_gallery.html v0.7.2
     {% assign link = parts[2] %}
     {% assign captured_page = site.pages | where: 'path', link | first %}
     <a href="{{ site.url }}{{ captured_page.url }}" title="{{ captured_page.title }}">
-      <span>{{ captured_page.status }} {{ captured_page.title }}</span>
       <img src="//wsrv.nl/?url={{ site.url }}/{{ image_path }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ captured_page.title }}"/>
     </a>
   {% endfor %}
