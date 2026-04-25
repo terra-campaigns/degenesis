@@ -8,7 +8,7 @@ has_toc: true
 
 parent: The Cloister
 title: Vikal
-role: Purgare, son of Altair and Neva
+role: Purgare, Psychokinetic, son of Altair and Neva
 status: 
 footer_content: 
 

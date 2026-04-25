@@ -2562,6 +2562,12 @@
             },
             {
                 "text": "Anastasia",
+                "url": "campaigns/InThyBlood/009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
                 "url": "campaigns/InThyBlood/008.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3635,6 +3641,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/InThyBlood/009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/InThyBlood/008.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3711,6 +3723,12 @@
             {
                 "text": "House Benesato",
                 "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "House Benesato",
+                "url": "campaigns/InThyBlood/009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3794,6 +3812,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Baptist",
+                "url": "campaigns/InThyBlood/009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Baptist Altair",
                 "url": "campaigns/InThyBlood/index.md",
                 "is_internal": true,
@@ -3867,6 +3891,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "index",
+                "url": "campaigns/InThyBlood/009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Northern Purgare",
                 "url": "campaigns/InThyBlood/index.md",
                 "is_internal": true,
@@ -3925,6 +3955,12 @@
             },
             {
                 "text": "Emissary Neva",
+                "url": "campaigns/InThyBlood/009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Emissary Neva",
                 "url": "campaigns/InThyBlood/008.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3963,6 +3999,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Vikal",
+                "url": "campaigns/InThyBlood/009.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Vikal",
@@ -4015,6 +4057,12 @@
             {
                 "text": "Lucio",
                 "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lucio",
+                "url": "campaigns/InThyBlood/009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4229,6 +4277,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "index",
+                "url": "campaigns/InThyBlood/009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Lucatore",
                 "url": "campaigns/InThyBlood/index.md",
                 "is_internal": true,
@@ -4344,6 +4398,12 @@
             },
             {
                 "text": "Carmino Ferro",
+                "url": "campaigns/InThyBlood/009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Carmino Ferro",
                 "url": "campaigns/InThyBlood/003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4372,6 +4432,12 @@
             {
                 "text": "Nero Vex",
                 "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Nero",
+                "url": "campaigns/InThyBlood/009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4411,6 +4477,12 @@
             {
                 "text": "Kuno",
                 "url": "campaigns/InThyBlood/005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kuno",
+                "url": "campaigns/InThyBlood/009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4462,6 +4534,12 @@
             {
                 "text": "Thread",
                 "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Thread",
+                "url": "campaigns/InThyBlood/009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4525,6 +4603,12 @@
             {
                 "text": "index",
                 "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/InThyBlood/009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4622,6 +4706,12 @@
             {
                 "text": "Maren",
                 "url": "campaigns/InThyBlood/004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Maren",
+                "url": "campaigns/InThyBlood/009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -6397,6 +6487,113 @@
             {
                 "text": "forest",
                 "url": "directory/Purgare/Lucatore/NorthernWoods.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/InThyBlood/009.md": [
+            {
+                "text": "index",
+                "url": "directory/Purgare/Lucatore/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/NorthernPurgare/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/AltairEnvoys/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Emissary Neva",
+                "url": "directory/Purgare/TheCloister/Neva.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lucio",
+                "url": "directory/Purgare/TheCloister/Lucio.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kuno",
+                "url": "directory/Purgare/AltairEnvoys/Kuno.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Maren",
+                "url": "directory/Purgare/AltairEnvoys/Maren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thread",
+                "url": "directory/Purgare/AltairEnvoys/Thread.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nero",
+                "url": "directory/Purgare/AltairEnvoys/NeroVex.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Baptist",
+                "url": "directory/Purgare/HouseBenesato/Altair.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Carmino Ferro",
+                "url": "directory/Purgare/Lucatore/CarminoFerro.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vikal",
+                "url": "directory/Purgare/TheCloister/Vikal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "House Benesato",
+                "url": "directory/Purgare/HouseBenesato/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
