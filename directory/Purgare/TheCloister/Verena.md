@@ -9,7 +9,7 @@ has_toc: true
 parent: The Cloister
 title: Verena
 role: Purgare, Martyr, Anabaptist Touched
-status: 
+status: "&dagger;"
 footer_content: 
 
 images:

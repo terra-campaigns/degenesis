@@ -9,7 +9,7 @@ has_toc: true
 parent: House Benesato
 title: Baptist Altair
 role: The man who guided the fate of the Anabaptists
-status: Deceased
+status: "&dagger;"
 footer_content: 
 
 images:

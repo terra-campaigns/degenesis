@@ -9,7 +9,7 @@ has_toc: true
 parent: Lucatore
 title: Scirocco, the Sinner
 role: Purgare, Fanatic, Flayer Expiatory Master
-status: 
+status: "&dagger;"
 footer_content: 
 
 images:
