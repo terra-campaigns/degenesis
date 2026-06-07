@@ -2550,6 +2550,12 @@
             },
             {
                 "text": "Anastasia",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Anastasia",
                 "url": "campaigns/InThyBlood/005.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3363,6 +3369,12 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "has heard this before ",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Pollen/ProtectorateClique/InquisitorThorne.md": [
@@ -3629,6 +3641,12 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/InThyBlood/005.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3807,6 +3825,12 @@
             },
             {
                 "text": "Altair",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Altair",
                 "url": "campaigns/InThyBlood/005.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3881,6 +3905,12 @@
             {
                 "text": "index",
                 "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/InThyBlood/011.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -3961,6 +3991,12 @@
             },
             {
                 "text": "Neva",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Neva",
                 "url": "campaigns/InThyBlood/004.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4017,6 +4053,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Vikal",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Vikal",
@@ -4106,6 +4148,12 @@
                 "favicon": null
             },
             {
+                "text": "Cloister",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "the Cloister",
                 "url": "campaigns/InThyBlood/005.md",
                 "is_internal": true,
@@ -4152,6 +4200,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Verena",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Verena",
@@ -4314,6 +4368,18 @@
             },
             {
                 "text": "index",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Lucatore",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/InThyBlood/005.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4415,6 +4481,12 @@
                 "favicon": null
             },
             {
+                "text": "large Psychonaut",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "horrendous creature",
                 "url": "campaigns/InThyBlood/007.md",
                 "is_internal": true,
@@ -4494,6 +4566,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Nero Vex",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Nero Vex",
@@ -4599,6 +4677,12 @@
             },
             {
                 "text": "Thread",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Thread",
                 "url": "campaigns/InThyBlood/005.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4669,6 +4753,12 @@
             {
                 "text": "Altair Envoys",
                 "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/InThyBlood/011.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -4783,6 +4873,12 @@
             },
             {
                 "text": "Maren",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Maren",
                 "url": "campaigns/InThyBlood/005.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4847,6 +4943,202 @@
             {
                 "text": "IO",
                 "url": "campaigns/InThyBlood/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/README.md": [
+            {
+                "text": "Testing your GitHub Pages site locally with Jekyll",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            },
+            {
+                "text": "instructions for macOS",
+                "url": "https://jekyllrb.com/docs/installation/macos/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://jekyllrb.com/favicon.ico"
+            },
+            {
+                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "_site/systems/ruin.md": [
+            {
+                "text": "Burn",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Spore Infestation",
+                "url": "https://degenesis.com/world/stories/pollen/sepsis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Sepsis Mutation",
+                "url": "_site/systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Oddular Mechanics",
+                "url": "https://www.bastionland.com/2016/04/oddular-mechanics.html?m=1",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.bastionland.com/favicon.ico"
+            },
+            {
+                "text": "Liminal Horror",
+                "url": "https://liminalhorrorrpg.com/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://liminalhorrorrpg.com/favicon.ico"
+            }
+        ],
+        "_site/systems/#sepsis-mutations": [
+            {
+                "text": "Sepsis Mutation",
+                "url": "_site/systems/ruin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Mutation",
+                "url": "_site/systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Sepsis Mutations",
+                "url": "_site/systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/wip/character-development.md": [
+            {
+                "text": "Cult or Clan",
+                "url": "_site/systems/#backgrounds",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Scars",
+                "url": "_site/systems/#scars",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis",
+                "url": "_site/systems/#sepsis",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_site/systems/#backgrounds": [
+            {
+                "text": "Cult or Clan",
+                "url": "_site/systems/wip/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/#scars": [
+            {
+                "text": "Scars",
+                "url": "_site/systems/wip/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/#sepsis": [
+            {
+                "text": "Sepsis",
+                "url": "_site/systems/wip/character-development.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/wip/conditions_alt.md": [
+            {
+                "text": "Deprivation & Fatigue",
+                "url": "https://terra-campaigns.github.io/degenesis/systems/#deprivation--fatigue",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            }
+        ],
+        "_site/systems/wip/ruin_alt.md": [
+            {
+                "text": "Burn",
+                "url": "https://degenesis.com/world/stories/apocalyptics/burn-baby-burn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Spore Infestation",
+                "url": "https://degenesis.com/world/stories/pollen/sepsis",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://degenesis.com/favicon.ico"
+            },
+            {
+                "text": "Mutation",
+                "url": "_site/systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sporination",
+                "url": "_site/systems/#sporination",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Types of Burn",
+                "url": "_site/systems/#types-of-burn",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Sepsis Mutations",
+                "url": "_site/systems/#sepsis-mutations",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "_site/systems/#sporination": [
+            {
+                "text": "Sporination",
+                "url": "_site/systems/wip/ruin_alt.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/systems/#types-of-burn": [
+            {
+                "text": "Types of Burn",
+                "url": "_site/systems/wip/ruin_alt.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -5696,6 +5988,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Fractal Forest",
+                "url": "campaigns/InThyBlood/011.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/ConnectNikopol/StationWork1.md": [
@@ -6139,6 +6437,127 @@
             {
                 "text": "Lucatore",
                 "url": "directory/Purgare/Lucatore/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/InThyBlood/011.md": [
+            {
+                "text": "index",
+                "url": "directory/Purgare/Lucatore/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/NorthernPurgare/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Purgare/AltairEnvoys/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cloister",
+                "url": "directory/Purgare/TheCloister/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Maren",
+                "url": "directory/Purgare/AltairEnvoys/Maren.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lucatore",
+                "url": "directory/Purgare/Lucatore/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Nero Vex",
+                "url": "directory/Purgare/AltairEnvoys/NeroVex.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Anastasia",
+                "url": "directory/Pollen/ProtectorateClique/Anastasia.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Thread",
+                "url": "directory/Purgare/AltairEnvoys/Thread.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Neva",
+                "url": "directory/Purgare/TheCloister/Neva.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Verena",
+                "url": "directory/Purgare/TheCloister/Verena.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vikal",
+                "url": "directory/Purgare/TheCloister/Vikal.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "has heard this before ",
+                "url": "campaigns/ConnectNikopol/InNikopol01.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "large Psychonaut",
+                "url": "directory/Purgare/Lucatore/Barghest.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fractal Forest",
+                "url": "campaigns/ConnectNikopol/ToNikopol2.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Altair",
+                "url": "directory/Purgare/HouseBenesato/Altair.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null

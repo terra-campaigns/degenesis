@@ -1,13 +1,13 @@
 ---
 layout: default
 template: 0.4
-type: people
+type: creature
 nav_exclude: false
 has_children: true
 has_toc: true
 
 parent: Lucatore
-title: Psychonaut in Lucatore
+title: Barghest
 role: Purgare, Protector, Psychokinetics, Archon
 status: 
 footer_content: 
