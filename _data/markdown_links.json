@@ -3371,7 +3371,7 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "has heard this before ",
+                "text": "has heard this before",
                 "url": "campaigns/InThyBlood/011.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -4481,7 +4481,7 @@
                 "favicon": null
             },
             {
-                "text": "large Psychonaut",
+                "text": "massive Psychonaut",
                 "url": "campaigns/InThyBlood/011.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -6535,14 +6535,14 @@
                 "favicon": null
             },
             {
-                "text": "has heard this before ",
+                "text": "has heard this before",
                 "url": "campaigns/ConnectNikopol/InNikopol01.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "large Psychonaut",
+                "text": "massive Psychonaut",
                 "url": "directory/Purgare/Lucatore/Barghest.md",
                 "is_internal": true,
                 "direction": "outbound",
