@@ -13,7 +13,7 @@ status:
 footer_content: 
 
 images:
-
+- ../../../imgs/gallery/Pasted%20image%2020260607093004.png
 
 ---
 

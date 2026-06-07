@@ -15,7 +15,7 @@ status:
 hooks:
 
 images: 
-- ../../../imgs/DEGENESIS-LOGOTYPES-PACK/CULT%20LOGOS%20SVG/11-CULT-APOCALYPTICS.svg
+- ../../../imgs/gallery/Pasted%20image%2020260607092754.png
 
 flavour_text: 
 
